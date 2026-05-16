@@ -1,0 +1,38 @@
+name: QUINTE — pipeline quotidien
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install deps
+        run: |
+          pip install playwright beautifulsoup4
+          python -m playwright install --with-deps chromium
+      - name: Run pipeline
+        run: python quinte.py
+      - name: Sync JSON
+        run: |
+          mkdir -p data pwa/data
+          cp -f cache/quinte_x_top5.json data/quinte_x_top5.json || true
+          cp -f cache/quinte_x_top5.json pwa/data/quinte_x_top5.json || true
+      - name: Commit & push
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/quinte_x_top5.json pwa/data/quinte_x_top5.json pwa/quinte.html
+          git diff --staged --quiet || git commit -m "auto: quinte $(date -u +%Y-%m-%d)"
+          git push
