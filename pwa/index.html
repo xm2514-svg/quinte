@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12161F">
+<title>QUINTE-X</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/svg+xml" href="icon.svg">
+<link rel="apple-touch-icon" href="icon.svg">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
+body{background:#12161F;color:#F2F5F8;min-height:100vh;padding:14px;padding-bottom:env(safe-area-inset-bottom,14px);padding-top:env(safe-area-inset-top,14px)}
+.wrap{max-width:720px;margin:0 auto}
+header{background:#1A2133;border-radius:14px;padding:16px;margin-bottom:14px;border:1px solid #232C42;position:relative}
+header h1{color:#F2C752;font-size:20px;margin-bottom:4px;line-height:1.2}
+header .sub{color:#F2F5F8;font-size:13px;margin-bottom:4px}
+header .meta{color:#A5AFC0;font-size:11px}
+header .fiab{color:#4DD9A6;font-size:11px;margin-top:6px}
+.refresh{position:absolute;top:14px;right:14px;background:#232C42;color:#F2C752;border:none;border-radius:8px;padding:8px 12px;font-size:12px;font-weight:600;cursor:pointer}
+.refresh:active{background:#2A3450}
+h2{color:#F2C752;font-size:14px;margin:12px 4px;letter-spacing:1px}
+.card{background:#1F2638;border-radius:12px;padding:12px;display:flex;gap:10px;margin-bottom:8px;border:1px solid #232C42}
+.rank{font-size:34px;font-weight:700;min-width:58px;text-align:center;line-height:1}
+.rank .num{font-size:10px;color:#A5AFC0;font-weight:400;margin-top:3px}
+.info{flex:1;min-width:0}
+.name{font-size:17px;font-weight:700;margin-bottom:4px;color:#F2F5F8;line-height:1.2}
+.dim{font-size:11px;color:#A5AFC0;margin-bottom:1px}
+.bars{margin-top:6px;display:flex;flex-wrap:wrap;gap:3px}
+.bar{background:#2A3450;color:#C7D4E0;padding:2px 5px;border-radius:4px;font-size:9px;font-weight:600}
+.cote{min-width:80px;text-align:center}
+.cote-label{font-size:10px;color:#A5AFC0}
+.cote-val{font-size:22px;font-weight:700;line-height:1.1}
+.score{color:#4DD9A6;font-size:10px;margin-top:3px}
+footer{text-align:center;color:#A5AFC0;font-size:10px;margin:14px 0;line-height:1.5}
+.error{background:#3a1f1f;color:#ff8a8a;padding:14px;border-radius:10px;text-align:center}
+.loading{text-align:center;color:#A5AFC0;padding:30px}
+.gold{color:#F2C752}.silver{color:#C7D4E0}.bronze{color:#CC8C4D}.accent{color:#4DD9A6}
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+  <div class="loading">Chargement du quinté…</div>
+</div>
+
+<script>
+const DATA_URL = "data/quinte_x_top5.json?ts=" + Date.now();
+
+const rankColor = r => ({1:"gold",2:"silver",3:"bronze"}[r] || "accent");
+const fmt = (v,fb="—") => (v===undefined||v===null||v==="")?fb:v;
+
+function render(data){
+  const c = data.course || {};
+  const top5 = data.top5 || [];
+  const fiab = Math.round((data.fiabilite_globale||1)*100);
+  const enr = data.nb_enrichis ?? "?";
+  const np = data.nb_partants ?? "?";
+  const cd = data.cotes_dispo ?? 0;
+
+  const cards = top5.map(ch => {
+    const rg = ch.rang_predit || 0;
+    const col = rankColor(rg);
+    const sub = ch.sous_scores || {};
+    const bar = (label,val) => `<span class="bar">${label} ${Math.round((val||0)*100)}%</span>`;
+    return `
+    <div class="card">
+      <div class="rank ${col}">${rg}<div class="num">N° ${fmt(ch.numero)}</div></div>
+      <div class="info">
+        <div class="name">${fmt(ch.nom)}</div>
+        <div class="dim">Jockey&nbsp;&nbsp;&nbsp;: ${fmt(ch.jockey)}</div>
+        <div class="dim">Entraîn.&nbsp;: ${fmt(ch.entraineur)}</div>
+        <div class="bars">
+          ${bar("C",sub.cote)}${bar("G",sub.gains)}${bar("J/E",sub.couple_je)}
+          ${bar("H",sub.hippodrome)}${bar("T",sub.pref_terrain)}
+          ${bar("D",sub.pref_distance)}${bar("R",sub.recuperation)}
+        </div>
+      </div>
+      <div class="cote ${col}">
+        <div class="cote-label">Cote</div>
+        <div class="cote-val">${fmt(ch.cote_pmu)}</div>
+        <div class="score">score ${fmt(ch.score)}</div>
+      </div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("app").innerHTML = `
+    <header>
+      <button class="refresh" onclick="load()">↻</button>
+      <h1>${fmt(c.reunion)}${fmt(c.course_num)} ${fmt(c.hippodrome)}</h1>
+      <div class="sub">${fmt(c.nom)}</div>
+      <div class="meta">${fmt(c.type)} · ${fmt(c.distance_m)}m · terrain ${fmt(c.terrain)} · ${np} partants</div>
+      <div class="fiab">Fiabilité ${fiab}% · Enrichis ${enr}/${np} · Cotes ${cd}/${np}</div>
+    </header>
+    <h2>TOP 5 PRÉDIT</h2>
+    ${cards}
+    <footer>QUINTE-X v2 · ${fmt(data.date)}<br>C cote · G gains · J/E couple · H hippodrome · T terrain · D distance · R récup</footer>
+  `;
+}
+
+async function load(){
+  document.getElementById("app").innerHTML = '<div class="loading">Chargement…</div>';
+  try{
+    const r = await fetch(DATA_URL, {cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    const data = await r.json();
+    render(data);
+  }catch(e){
+    document.getElementById("app").innerHTML = `<div class="error">Impossible de charger le quinté.<br>${e.message}<br><br>Vérifie que data/quinte_x_top5.json est publié sur GitHub.</div>`;
+  }
+}
+
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js").catch(()=>{});
+}
+
+load();
+</script>
+</body>
+</html>
