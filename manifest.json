@@ -1,0 +1,19 @@
+{
+  "name": "QUINTE-X",
+  "short_name": "Quinté",
+  "description": "Top 5 quinté+ du jour avec algorithme prédictif",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12161F",
+  "theme_color": "#12161F",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.github_token
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+fiches_raw/
+fiches_cache/
+raw_paristurf_*.txt
+raw_fiche_*.txt
+golden_backup/
