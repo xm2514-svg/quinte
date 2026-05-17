@@ -22,7 +22,7 @@ header .fiab{color:#4DD9A6;font-size:11px;margin-top:6px}
 h2{color:#F2C752;font-size:14px;margin:12px 4px;letter-spacing:1px}
 .card{background:#1F2638;border-radius:12px;padding:12px;display:flex;gap:10px;margin-bottom:8px;border:1px solid #232C42}
 .rank{font-size:34px;font-weight:700;min-width:58px;text-align:center;line-height:1}
-.rank .num{font-size:10px;color:#A5AFC0;font-weight:400;margin-top:3px}
+.rank .num{font-size:18px;color:#F2C752;font-weight:800;margin-top:8px;letter-spacing:0.5px}
 .info{flex:1;min-width:0}
 .name{font-size:17px;font-weight:700;margin-bottom:4px;color:#F2F5F8;line-height:1.2}
 .dim{font-size:11px;color:#A5AFC0;margin-bottom:1px}
@@ -66,7 +66,7 @@ function render(data){
     <div class="card">
       <div class="rank ${col}">${rg}<div class="num">N° ${fmt(ch.numero)}</div></div>
       <div class="info">
-        <div class="name">${fmt(ch.nom)}</div>
+        <div class="name"><span style="color:#F2C752">N°${fmt(ch.numero)}</span> · ${fmt(ch.nom)}</div>
         <div class="dim">Jockey&nbsp;&nbsp;&nbsp;: ${fmt(ch.jockey)}</div>
         <div class="dim">Entraîn.&nbsp;: ${fmt(ch.entraineur)}</div>
         <div class="bars">
