@@ -1,5 +1,5 @@
 // Service worker minimal : cache app shell, JSON toujours réseau.
-const CACHE = "quinte-v1";
+const CACHE = "quinte-v2";
 const SHELL = ["./", "./index.html", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", e => {
