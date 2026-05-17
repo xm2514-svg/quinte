@@ -21,8 +21,13 @@ header .fiab{color:#4DD9A6;font-size:11px;margin-top:6px}
 .refresh:active{background:#2A3450}
 h2{color:#F2C752;font-size:14px;margin:12px 4px;letter-spacing:1px}
 .card{background:#1F2638;border-radius:12px;padding:12px;display:flex;gap:10px;margin-bottom:8px;border:1px solid #232C42}
-.rank{font-size:34px;font-weight:700;min-width:58px;text-align:center;line-height:1}
-.rank .num{font-size:18px;color:#F2C752;font-weight:800;margin-top:8px;letter-spacing:0.5px}
+.rank{min-width:90px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(242,199,82,0.10);border:2px solid #F2C752;border-radius:12px;padding:8px 6px}
+.rank .horse-num{font-size:42px;color:#F2C752;font-weight:900;line-height:1;letter-spacing:-1px}
+.rank .horse-label{font-size:10px;color:#F2C752;font-weight:600;letter-spacing:1.5px;margin-bottom:2px}
+.rank .rg{font-size:13px;color:#A5AFC0;font-weight:700;margin-top:6px;border-top:1px solid #2A3450;padding-top:4px;width:100%}
+.rank.gold{border-color:#F2C752}.rank.silver{border-color:#C7D4E0}.rank.silver .horse-num,.rank.silver .horse-label{color:#C7D4E0}.rank.silver{background:rgba(199,212,224,0.10)}
+.rank.bronze{border-color:#CC8C4D}.rank.bronze .horse-num,.rank.bronze .horse-label{color:#CC8C4D}.rank.bronze{background:rgba(204,140,77,0.10)}
+.rank.accent{border-color:#4DD9A6}.rank.accent .horse-num,.rank.accent .horse-label{color:#4DD9A6}.rank.accent{background:rgba(77,217,166,0.10)}
 .info{flex:1;min-width:0}
 .name{font-size:17px;font-weight:700;margin-bottom:4px;color:#F2F5F8;line-height:1.2}
 .dim{font-size:11px;color:#A5AFC0;margin-bottom:1px}
@@ -64,9 +69,9 @@ function render(data){
     const bar = (label,val) => `<span class="bar">${label} ${Math.round((val||0)*100)}%</span>`;
     return `
     <div class="card">
-      <div class="rank ${col}">${rg}<div class="num">N° ${fmt(ch.numero)}</div></div>
+      <div class="rank ${col}"><div class="horse-label">N°</div><div class="horse-num">${fmt(ch.numero)}</div><div class="rg">${rg}<sup>e</sup> prédit</div></div>
       <div class="info">
-        <div class="name"><span style="color:#F2C752">N°${fmt(ch.numero)}</span> · ${fmt(ch.nom)}</div>
+        <div class="name">${fmt(ch.nom)}</div>
         <div class="dim">Jockey&nbsp;&nbsp;&nbsp;: ${fmt(ch.jockey)}</div>
         <div class="dim">Entraîn.&nbsp;: ${fmt(ch.entraineur)}</div>
         <div class="bars">
