@@ -1,32 +1,34 @@
-// Service worker minimal : cache app shell, JSON toujours réseau.
-const CACHE = "quinte-v3";
-const SHELL = ["./", "./index.html", "./manifest.json", "./icon.svg"];
+// Service worker v4 — KILL SWITCH : vide ses propres caches et force le reload des clients.
+// Aucune intervention manuelle sur le navigateur n'est requise.
+const CACHE = "quinte-v4";
 
 self.addEventListener("install", e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)));
   self.skipWaiting();
 });
 
 self.addEventListener("activate", e => {
-  e.waitUntil(caches.keys().then(keys =>
-    Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
-  ));
-  self.clients.claim();
+  e.waitUntil(
+    // 1. Vide TOUS les caches gérés par ce service worker (pas le cache navigateur global)
+    caches.keys()
+      .then(keys => Promise.all(keys.map(k => caches.delete(k))))
+      // 2. Prend le contrôle des onglets ouverts
+      .then(() => self.clients.claim())
+      // 3. Force chaque onglet/PWA à se recharger pour récupérer la nouvelle version
+      .then(() => self.clients.matchAll({type: "window"}))
+      .then(clients => clients.forEach(c => c.navigate(c.url)))
+  );
 });
 
+// Réseau d'abord pour les pages et JSON (toujours frais), cache uniquement en fallback
 self.addEventListener("fetch", e => {
-  const url = new URL(e.request.url);
-  // JSON top5 : toujours réseau, fallback cache si offline
-  if (url.pathname.endsWith("quinte_x_top5.json")) {
-    e.respondWith(
-      fetch(e.request).then(r => {
+  if (e.request.method !== "GET") return;
+  e.respondWith(
+    fetch(e.request)
+      .then(r => {
         const clone = r.clone();
-        caches.open(CACHE).then(c => c.put(e.request, clone));
+        caches.open(CACHE).then(c => c.put(e.request, clone)).catch(() => {});
         return r;
-      }).catch(() => caches.match(e.request))
-    );
-    return;
-  }
-  // App shell : cache d'abord
-  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+      })
+      .catch(() => caches.match(e.request))
+  );
 });
