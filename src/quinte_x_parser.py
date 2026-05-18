@@ -197,6 +197,7 @@ def _parse_block(block: list[str]) -> dict | None:
         "gains_eur": None,
         "entraineur": None,
         "cote_pmu": None,
+        "non_partant": False,
     }
 
     # Index 1 = nom (1 ou 2 lignes — on prend la première non-poids)
@@ -239,8 +240,11 @@ def _parse_block(block: list[str]) -> dict | None:
             break
         idx += 1
 
-    # Cote : prochain nombre seul
+    # Cote OU non-partant (NP)
     while idx < len(block):
+        if block[idx] == "NP":
+            cheval["non_partant"] = True
+            break
         if RE_COTE.match(block[idx]):
             cheval["cote_pmu"] = float(block[idx].replace(",", "."))
             break

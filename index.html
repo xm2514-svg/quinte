@@ -93,7 +93,7 @@ function render(data){
       <button class="refresh" onclick="load()">↻</button>
       <h1>${fmt(c.reunion)}${fmt(c.course_num)} ${fmt(c.hippodrome)}</h1>
       <div class="sub">${fmt(c.nom)}</div>
-      <div class="meta">${fmt(c.type)} · ${fmt(c.distance_m)}m · terrain ${fmt(c.terrain)} · ${np} partants</div>
+      <div class="meta">🏁 Départ <strong style="color:#F2C752">${fmt(c.heure)}</strong> · ${fmt(c.type)} · ${fmt(c.distance_m)}m · terrain ${fmt(c.terrain)} · ${np} partants</div>
       <div class="fiab">Fiabilité ${fiab}% · Enrichis ${enr}/${np} · Cotes ${cd}/${np}</div>
     </header>
     <h2>TOP 5 PRÉDIT</h2>
