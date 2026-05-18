@@ -22,7 +22,7 @@ from pathlib import Path
 
 # ----- regex partagées ---------------------------------------------------------
 
-RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(\d{2,3}(?:,\d)?)$")
+RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(?:\d{1,2}\s+)?(\d{2,3}(?:,\d)?)$")
 RE_PERF_LINE = re.compile(
     r"^(?P<musique>\S+)\s+"
     r"(?P<vh>\d{2,3}(?:,\d)?)\s+"
