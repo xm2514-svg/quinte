@@ -24,6 +24,8 @@ from pathlib import Path
 
 RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(?:\d{1,2}\s+)?(\d{2,4}(?:,\d)?)$")
 # Pattern galop : musique + VH + gains + entraîneur
+_DISCIPLINE_HINT = "galop"  # défini par parse_paris_turf
+
 RE_PERF_GALOP = re.compile(
     r"^(?P<musique>\S+)\s+"
     r"(?P<vh>\d{2,3}(?:,\d)?)\s+"
@@ -238,7 +240,10 @@ def _parse_block(block: list[str]) -> dict | None:
 
     # Ligne combinée : "musique vh gains € entraineur"
     while idx < len(block):
-        m = RE_PERF_GALOP.match(block[idx]) or RE_PERF_TROT.match(block[idx])
+        if _DISCIPLINE_HINT == "trot":
+            m = RE_PERF_TROT.match(block[idx]) or RE_PERF_GALOP.match(block[idx])
+        else:
+            m = RE_PERF_GALOP.match(block[idx]) or RE_PERF_TROT.match(block[idx])
         if m:
             cheval["musique"] = m.group("musique").strip()
             vh_v = m.groupdict().get("vh")
@@ -282,6 +287,12 @@ def parse_partants(text: str) -> list[dict]:
 
 def parse_paris_turf(text: str) -> dict:
     """Point d'entrée : texte brut → dict structuré."""
+    global _DISCIPLINE_HINT
+    # Détecte la discipline pour choisir le bon pattern de perf line
+    if re.search(r"\bTrot\b", text, re.IGNORECASE):
+        _DISCIPLINE_HINT = "trot"
+    else:
+        _DISCIPLINE_HINT = "galop"
     return {
         "date": str(date.today()),
         "source": "paris-turf.com/quinte/aujourdhui",
