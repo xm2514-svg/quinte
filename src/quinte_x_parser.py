@@ -22,10 +22,10 @@ from pathlib import Path
 
 # ----- regex partagées ---------------------------------------------------------
 
-RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(?:\d{1,2}\s+)?(\d{2,3}(?:,\d)?)$")
+RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(?:\d{1,2}\s+)?(\d{2,4}(?:,\d)?)$")
 RE_PERF_LINE = re.compile(
     r"^(?P<musique>\S+)\s+"
-    r"(?P<vh>\d{2,3}(?:,\d)?)\s+"
+    r"(?:(?P<vh>\d{2,3}(?:,\d)?)\s+)?"
     r"(?P<gains>\d[\d ]*?)\s*€\s+"
     r"(?P<entraineur>.+)$"
 )
@@ -80,7 +80,7 @@ def parse_course_info(text: str) -> dict:
         info["nom"] = m.group(1).strip()
 
     # Type + catégorie : "Haies - L. (Listed Races) - Listed Race - ..."
-    m = re.search(r"(Haies|Plat|Trot attelé|Trot monté|Steeple|Cross)\s*-\s*([^\n]+)", text)
+    m = re.search(r"(Haies|Plat|Trot attelé|Trot monté|Trot|Steeple-chase|Steeple|Cross-country|Cross)\s*-\s*([^\n]+)", text)
     if m:
         info["type"] = m.group(1).strip()
         info["categorie"] = m.group(2).strip()
