@@ -23,12 +23,20 @@ from pathlib import Path
 # ----- regex partagées ---------------------------------------------------------
 
 RE_SA_POIDS = re.compile(r"^([HFM])(\d{1,2})\s+(?:\d{1,2}\s+)?(\d{2,4}(?:,\d)?)$")
-RE_PERF_LINE = re.compile(
+# Pattern galop : musique + VH + gains + entraîneur
+RE_PERF_GALOP = re.compile(
     r"^(?P<musique>\S+)\s+"
-    r"(?:(?P<vh>\d{2,3}(?:,\d)?)\s+)?"
+    r"(?P<vh>\d{2,3}(?:,\d)?)\s+"
     r"(?P<gains>\d[\d ]*?)\s*€\s+"
     r"(?P<entraineur>.+)$"
 )
+# Pattern trot : musique + gains + entraîneur (pas de VH)
+RE_PERF_TROT = re.compile(
+    r"^(?P<musique>\S+)\s+"
+    r"(?P<gains>\d[\d ]*?)\s*€\s+"
+    r"(?P<entraineur>.+)$"
+)
+RE_PERF_LINE = RE_PERF_GALOP  # compat
 RE_NUM_ONLY = re.compile(r"^\d{1,2}$")
 RE_COTE = re.compile(r"^\d+(?:,\d+)?$")
 
@@ -230,10 +238,10 @@ def _parse_block(block: list[str]) -> dict | None:
 
     # Ligne combinée : "musique vh gains € entraineur"
     while idx < len(block):
-        m = RE_PERF_LINE.match(block[idx])
+        m = RE_PERF_GALOP.match(block[idx]) or RE_PERF_TROT.match(block[idx])
         if m:
             cheval["musique"] = m.group("musique").strip()
-            vh_v = m.group("vh")
+            vh_v = m.groupdict().get("vh")
             cheval["vh"] = float(vh_v.replace(",", ".")) if vh_v else None
             cheval["gains_eur"] = int(m.group("gains").replace(" ", ""))
             cheval["entraineur"] = m.group("entraineur").strip()
