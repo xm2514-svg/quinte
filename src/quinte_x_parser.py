@@ -233,7 +233,8 @@ def _parse_block(block: list[str]) -> dict | None:
         m = RE_PERF_LINE.match(block[idx])
         if m:
             cheval["musique"] = m.group("musique").strip()
-            cheval["vh"] = float(m.group("vh").replace(",", "."))
+            vh_v = m.group("vh")
+            cheval["vh"] = float(vh_v.replace(",", ".")) if vh_v else None
             cheval["gains_eur"] = int(m.group("gains").replace(" ", ""))
             cheval["entraineur"] = m.group("entraineur").strip()
             idx += 1
