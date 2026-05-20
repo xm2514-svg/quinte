@@ -25,8 +25,13 @@ import logging
 import re
 import sys
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+try:
+    from zoneinfo import ZoneInfo
+    _PARIS_TZ = ZoneInfo("Europe/Paris")
+except Exception:
+    _PARIS_TZ = timezone(timedelta(hours=2))  # fallback CEST
 
 from playwright.sync_api import sync_playwright
 
@@ -84,8 +89,9 @@ def fetch_quinte_page(page, demain: bool) -> tuple[str, list[dict]]:
 
 # ----- étape 2 : cotes PMU via API -------------------------------------------
 
-def fetch_cotes_pmu(target_date: date, logger: logging.Logger) -> dict[int, float]:
-    """Cherche la course Quinté+ du jour sur l'API PMU et retourne {numero: cote}."""
+def fetch_cotes_pmu(target_date: date, logger: logging.Logger) -> tuple[dict[int, float], str | None]:
+    """Cherche la course Quinté+ du jour sur l'API PMU.
+    Retourne ({numero: cote}, heure_paris_str ou None)."""
     date_str = target_date.strftime("%d%m%Y")
     url = f"https://online.turfinfo.api.pmu.fr/rest/client/61/programme/{date_str}"
     try:
@@ -98,6 +104,15 @@ def fetch_cotes_pmu(target_date: date, logger: logging.Logger) -> dict[int, floa
                 if course.get("paris", []) and any(p.get("typePari") == "QUINTE_PLUS" for p in course.get("paris", [])):
                     rn = reunion.get("numOfficiel") or course.get("numReunion")
                     cn = course.get("numOrdre") or course.get("numExterne")
+                    # Heure de départ (timestamp ms UTC) → heure Paris
+                    heure_paris = None
+                    ts = course.get("heureDepart")
+                    if ts:
+                        try:
+                            utc_dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
+                            heure_paris = utc_dt.astimezone(_PARIS_TZ).strftime("%Hh%M")
+                        except Exception as e:
+                            logger.warning(f"Conv heureDepart échec : {e}")
                     parts_url = f"https://online.turfinfo.api.pmu.fr/rest/client/61/programme/{date_str}/R{rn}/C{cn}/participants"
                     req2 = urllib.request.Request(parts_url, headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"})
                     with urllib.request.urlopen(req2, timeout=15) as r2:
@@ -109,13 +124,13 @@ def fetch_cotes_pmu(target_date: date, logger: logging.Logger) -> dict[int, floa
                         c = rap.get("rapport") if rap else None
                         if num and c:
                             cotes[num] = c
-                    logger.info(f"API PMU : {len(cotes)} cotes récupérées sur R{rn}C{cn}")
-                    return cotes
+                    logger.info(f"API PMU : {len(cotes)} cotes récupérées sur R{rn}C{cn} — départ {heure_paris or '?'}")
+                    return cotes, heure_paris
         logger.warning("API PMU : aucune course Quinté+ trouvée")
-        return {}
+        return {}, None
     except Exception as e:
         logger.warning(f"API PMU échec : {e} (algo tournera avec cote neutre)")
-        return {}
+        return {}, None
 
 
 # ----- étape 3 : scraping fiches ----------------------------------------------
@@ -164,12 +179,15 @@ def run(demain: bool, logger: logging.Logger) -> dict:
         logger.info(f"  → {nb_partants} chevaux, course : {base['course'].get('reunion')}{base['course'].get('course_num')} "
                     f"{base['course'].get('hippodrome')} — {base['course'].get('nom')}")
 
-        # 2b. Cotes PMU via API (fallback)
-        cotes_pmu = fetch_cotes_pmu(target_date, logger)
+        # 2b. Cotes PMU + heure départ via API
+        cotes_pmu, heure_pmu = fetch_cotes_pmu(target_date, logger)
         if cotes_pmu:
             for ch in base["partants"]:
                 if not ch.get("cote_pmu") and ch["numero"] in cotes_pmu:
                     ch["cote_pmu"] = cotes_pmu[ch["numero"]]
+        # L'heure de l'API PMU fait autorité (paris-turf scrape donne parfois UTC)
+        if heure_pmu:
+            base["course"]["heure"] = heure_pmu
 
         # 3. Scraping fiches
         logger.info("[3/4] Scraping fiches chevaux...")
