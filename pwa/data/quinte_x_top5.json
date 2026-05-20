@@ -13,7 +13,7 @@
     "distance_m": 2825,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "12°C Nuages dispersés, vent 5km/h - S"
+    "meteo": "18°C Ciel clair, vent 7km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 410365,
       "entraineur": "LC. Abrivard",
-      "cote_pmu": 2.5,
+      "cote_pmu": 1.7,
       "non_partant": false,
       "musique_raw": "2a1a1a12a(25)2a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 2.5,
+        "cote_live_fiche": 1.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3601,
+        "cote": 0.5303,
         "gains": 0.8897,
         "couple_je": 0.675,
         "hippodrome": 0.5,
@@ -118,105 +118,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 52.87,
+      "score": 59.68,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 10,
-      "nom": "Indus Val",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "PY. Verva",
-      "musique": "3aDa2a1a5a(25)",
-      "vh": null,
-      "gains_eur": 416825,
-      "entraineur": "JM. Chaineux",
-      "cote_pmu": 10.0,
-      "non_partant": false,
-      "musique_raw": "3aDa2a1a5a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 2.75,
-      "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Indus Val",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "PY. Verva",
-          "proprietaire": "JM. Chaineux",
-          "eleveur": "P. Beine",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 15,
-          "allocation_eur": 90000,
-          "distance_m": 2825,
-          "vh": null
-        },
-        "cote_live_fiche": 10.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "PY. VERVA",
-            "victoires": 7,
-            "places": 8,
-            "courses": 23,
-            "pourcentage": 65.0
-          },
-          "avec_entraineur": {
-            "nom": "JM. CHAINEUX",
-            "victoires": 12,
-            "places": 21,
-            "courses": 63,
-            "pourcentage": 52.0
-          },
-          "sur_hippodrome": {
-            "nom": "LE CROISÉ-LAROCHE",
-            "victoires": 2,
-            "places": 3,
-            "courses": 7,
-            "pourcentage": 71.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 416825,
-          "musique": "3a Da 2a 1a 5a (25) 4a 8a",
-          "carriere": {
-            "courses": 63,
-            "victoires": 12,
-            "places": 21,
-            "pourcentage": 52.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.09,
-        "gains": 0.9037,
-        "couple_je": 0.585,
-        "hippodrome": 0.71,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 43.03,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 16,
@@ -230,7 +134,7 @@
       "vh": null,
       "gains_eur": 461240,
       "entraineur": "RC. Larue",
-      "cote_pmu": 38.0,
+      "cote_pmu": 65.0,
       "non_partant": false,
       "musique_raw": "3a7aDa4a(25)Da",
       "nb_courses_recentes": 5,
@@ -260,7 +164,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 38.0,
+        "cote_live_fiche": 65.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "RC. LARUE",
@@ -302,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0237,
+        "cote": 0.0139,
         "gains": 1.0,
         "couple_je": 0.405,
         "hippodrome": 1.0,
@@ -310,43 +214,43 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.02,
+      "score": 41.63,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
-      "numero": 4,
-      "nom": "Jet Express",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 7,
-      "poids": 2825.0,
-      "jockey": "P. Daugeard",
-      "musique": "2a(25)3a2a2a2a",
+      "numero": 10,
+      "nom": "Indus Val",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "PY. Verva",
+      "musique": "3aDa2a1a5a(25)",
       "vh": null,
-      "gains_eur": 260450,
-      "entraineur": "P. Daugeard",
-      "cote_pmu": 8.6,
+      "gains_eur": 416825,
+      "entraineur": "JM. Chaineux",
+      "cote_pmu": 20.0,
       "non_partant": false,
-      "musique_raw": "2a(25)3a2a2a2a",
+      "musique_raw": "3aDa2a1a5a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 2.2,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 3,
+      "position_moyenne": 2.75,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Jet Express",
+        "numero": 10,
+        "nom": "Indus Val",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "P. Daugeard",
-          "proprietaire": "P. Daugeard",
-          "eleveur": "R. De Hannuna",
+          "entraineur": "PY. Verva",
+          "proprietaire": "JM. Chaineux",
+          "eleveur": "P. Beine",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2019",
+          "pere": "2018",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -356,38 +260,38 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 8.6,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "P. DAUGEARD",
+            "nom": "PY. VERVA",
             "victoires": 7,
-            "places": 18,
-            "courses": 42,
-            "pourcentage": 60.0
+            "places": 8,
+            "courses": 23,
+            "pourcentage": 65.0
           },
           "avec_entraineur": {
-            "nom": "P. DAUGEARD",
-            "victoires": 7,
-            "places": 19,
-            "courses": 44,
-            "pourcentage": 59.0
+            "nom": "JM. CHAINEUX",
+            "victoires": 12,
+            "places": 21,
+            "courses": 63,
+            "pourcentage": 52.0
           },
           "sur_hippodrome": {
             "nom": "LE CROISÉ-LAROCHE",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
+            "victoires": 2,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 71.0
           }
         },
         "performances_globales": {
-          "gains_eur": 260450,
-          "musique": "2a (25) 3a 2a 2a 2a 3a 11a",
+          "gains_eur": 416825,
+          "musique": "3a Da 2a 1a 5a (25) 4a 8a",
           "carriere": {
-            "courses": 44,
-            "victoires": 7,
-            "places": 19,
-            "pourcentage": 59.0
+            "courses": 63,
+            "victoires": 12,
+            "places": 21,
+            "pourcentage": 52.0
           }
         },
         "dernieres_courses": [],
@@ -398,17 +302,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1047,
-        "gains": 0.5647,
-        "couple_je": 0.595,
-        "hippodrome": 1.0,
+        "cote": 0.0451,
+        "gains": 0.9037,
+        "couple_je": 0.585,
+        "hippodrome": 0.71,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.58,
+      "score": 41.23,
       "enrichi": true,
-      "rang_predit": 4
+      "rang_predit": 3
     },
     {
       "numero": 15,
@@ -422,7 +326,7 @@
       "vh": null,
       "gains_eur": 459030,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 9.8,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "2a2a2a2a2a(25)",
       "nb_courses_recentes": 5,
@@ -452,7 +356,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 9.8,
+        "cote_live_fiche": 10.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. DUVALDESTIN",
@@ -494,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0919,
+        "cote": 0.0902,
         "gains": 0.9952,
         "couple_je": 0.825,
         "hippodrome": 0.0,
@@ -502,7 +406,103 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.98,
+      "score": 40.91,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 4,
+      "nom": "Jet Express",
+      "artifice": "oui",
+      "sexe": "M",
+      "age": 7,
+      "poids": 2825.0,
+      "jockey": "P. Daugeard",
+      "musique": "2a(25)3a2a2a2a",
+      "vh": null,
+      "gains_eur": 260450,
+      "entraineur": "P. Daugeard",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "2a(25)3a2a2a2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 2.2,
+      "fiche_enrichie": {
+        "numero": 4,
+        "nom": "Jet Express",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "P. Daugeard",
+          "proprietaire": "P. Daugeard",
+          "eleveur": "R. De Hannuna",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 15,
+          "allocation_eur": 90000,
+          "distance_m": 2825,
+          "vh": null
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "P. DAUGEARD",
+            "victoires": 7,
+            "places": 18,
+            "courses": 42,
+            "pourcentage": 60.0
+          },
+          "avec_entraineur": {
+            "nom": "P. DAUGEARD",
+            "victoires": 7,
+            "places": 19,
+            "courses": 44,
+            "pourcentage": 59.0
+          },
+          "sur_hippodrome": {
+            "nom": "LE CROISÉ-LAROCHE",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 260450,
+          "musique": "2a (25) 3a 2a 2a 2a 3a 11a",
+          "carriere": {
+            "courses": 44,
+            "victoires": 7,
+            "places": 19,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0644,
+        "gains": 0.5647,
+        "couple_je": 0.595,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 39.97,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -520,7 +520,7 @@
       "vh": null,
       "gains_eur": 410365,
       "entraineur": "LC. Abrivard",
-      "cote_pmu": 2.5,
+      "cote_pmu": 1.7,
       "non_partant": false,
       "musique_raw": "2a1a1a12a(25)2a",
       "nb_courses_recentes": 5,
@@ -550,7 +550,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 2.5,
+        "cote_live_fiche": 1.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -592,7 +592,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3601,
+        "cote": 0.5303,
         "gains": 0.8897,
         "couple_je": 0.675,
         "hippodrome": 0.5,
@@ -600,105 +600,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 52.87,
+      "score": 59.68,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 10,
-      "nom": "Indus Val",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "PY. Verva",
-      "musique": "3aDa2a1a5a(25)",
-      "vh": null,
-      "gains_eur": 416825,
-      "entraineur": "JM. Chaineux",
-      "cote_pmu": 10.0,
-      "non_partant": false,
-      "musique_raw": "3aDa2a1a5a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 2.75,
-      "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Indus Val",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "PY. Verva",
-          "proprietaire": "JM. Chaineux",
-          "eleveur": "P. Beine",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 15,
-          "allocation_eur": 90000,
-          "distance_m": 2825,
-          "vh": null
-        },
-        "cote_live_fiche": 10.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "PY. VERVA",
-            "victoires": 7,
-            "places": 8,
-            "courses": 23,
-            "pourcentage": 65.0
-          },
-          "avec_entraineur": {
-            "nom": "JM. CHAINEUX",
-            "victoires": 12,
-            "places": 21,
-            "courses": 63,
-            "pourcentage": 52.0
-          },
-          "sur_hippodrome": {
-            "nom": "LE CROISÉ-LAROCHE",
-            "victoires": 2,
-            "places": 3,
-            "courses": 7,
-            "pourcentage": 71.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 416825,
-          "musique": "3a Da 2a 1a 5a (25) 4a 8a",
-          "carriere": {
-            "courses": 63,
-            "victoires": 12,
-            "places": 21,
-            "pourcentage": 52.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.09,
-        "gains": 0.9037,
-        "couple_je": 0.585,
-        "hippodrome": 0.71,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 43.03,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 16,
@@ -712,7 +616,7 @@
       "vh": null,
       "gains_eur": 461240,
       "entraineur": "RC. Larue",
-      "cote_pmu": 38.0,
+      "cote_pmu": 65.0,
       "non_partant": false,
       "musique_raw": "3a7aDa4a(25)Da",
       "nb_courses_recentes": 5,
@@ -742,7 +646,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 38.0,
+        "cote_live_fiche": 65.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "RC. LARUE",
@@ -784,7 +688,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0237,
+        "cote": 0.0139,
         "gains": 1.0,
         "couple_je": 0.405,
         "hippodrome": 1.0,
@@ -792,43 +696,43 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.02,
+      "score": 41.63,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
-      "numero": 4,
-      "nom": "Jet Express",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 7,
-      "poids": 2825.0,
-      "jockey": "P. Daugeard",
-      "musique": "2a(25)3a2a2a2a",
+      "numero": 10,
+      "nom": "Indus Val",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "PY. Verva",
+      "musique": "3aDa2a1a5a(25)",
       "vh": null,
-      "gains_eur": 260450,
-      "entraineur": "P. Daugeard",
-      "cote_pmu": 8.6,
+      "gains_eur": 416825,
+      "entraineur": "JM. Chaineux",
+      "cote_pmu": 20.0,
       "non_partant": false,
-      "musique_raw": "2a(25)3a2a2a2a",
+      "musique_raw": "3aDa2a1a5a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 2.2,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 3,
+      "position_moyenne": 2.75,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Jet Express",
+        "numero": 10,
+        "nom": "Indus Val",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "P. Daugeard",
-          "proprietaire": "P. Daugeard",
-          "eleveur": "R. De Hannuna",
+          "entraineur": "PY. Verva",
+          "proprietaire": "JM. Chaineux",
+          "eleveur": "P. Beine",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2019",
+          "pere": "2018",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -838,38 +742,38 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 8.6,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "P. DAUGEARD",
+            "nom": "PY. VERVA",
             "victoires": 7,
-            "places": 18,
-            "courses": 42,
-            "pourcentage": 60.0
+            "places": 8,
+            "courses": 23,
+            "pourcentage": 65.0
           },
           "avec_entraineur": {
-            "nom": "P. DAUGEARD",
-            "victoires": 7,
-            "places": 19,
-            "courses": 44,
-            "pourcentage": 59.0
+            "nom": "JM. CHAINEUX",
+            "victoires": 12,
+            "places": 21,
+            "courses": 63,
+            "pourcentage": 52.0
           },
           "sur_hippodrome": {
             "nom": "LE CROISÉ-LAROCHE",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
+            "victoires": 2,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 71.0
           }
         },
         "performances_globales": {
-          "gains_eur": 260450,
-          "musique": "2a (25) 3a 2a 2a 2a 3a 11a",
+          "gains_eur": 416825,
+          "musique": "3a Da 2a 1a 5a (25) 4a 8a",
           "carriere": {
-            "courses": 44,
-            "victoires": 7,
-            "places": 19,
-            "pourcentage": 59.0
+            "courses": 63,
+            "victoires": 12,
+            "places": 21,
+            "pourcentage": 52.0
           }
         },
         "dernieres_courses": [],
@@ -880,17 +784,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1047,
-        "gains": 0.5647,
-        "couple_je": 0.595,
-        "hippodrome": 1.0,
+        "cote": 0.0451,
+        "gains": 0.9037,
+        "couple_je": 0.585,
+        "hippodrome": 0.71,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.58,
+      "score": 41.23,
       "enrichi": true,
-      "rang_predit": 4
+      "rang_predit": 3
     },
     {
       "numero": 15,
@@ -904,7 +808,7 @@
       "vh": null,
       "gains_eur": 459030,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 9.8,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "2a2a2a2a2a(25)",
       "nb_courses_recentes": 5,
@@ -934,7 +838,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 9.8,
+        "cote_live_fiche": 10.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. DUVALDESTIN",
@@ -976,7 +880,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0919,
+        "cote": 0.0902,
         "gains": 0.9952,
         "couple_je": 0.825,
         "hippodrome": 0.0,
@@ -984,7 +888,103 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.98,
+      "score": 40.91,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 4,
+      "nom": "Jet Express",
+      "artifice": "oui",
+      "sexe": "M",
+      "age": 7,
+      "poids": 2825.0,
+      "jockey": "P. Daugeard",
+      "musique": "2a(25)3a2a2a2a",
+      "vh": null,
+      "gains_eur": 260450,
+      "entraineur": "P. Daugeard",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "2a(25)3a2a2a2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 2.2,
+      "fiche_enrichie": {
+        "numero": 4,
+        "nom": "Jet Express",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "P. Daugeard",
+          "proprietaire": "P. Daugeard",
+          "eleveur": "R. De Hannuna",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 15,
+          "allocation_eur": 90000,
+          "distance_m": 2825,
+          "vh": null
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "P. DAUGEARD",
+            "victoires": 7,
+            "places": 18,
+            "courses": 42,
+            "pourcentage": 60.0
+          },
+          "avec_entraineur": {
+            "nom": "P. DAUGEARD",
+            "victoires": 7,
+            "places": 19,
+            "courses": 44,
+            "pourcentage": 59.0
+          },
+          "sur_hippodrome": {
+            "nom": "LE CROISÉ-LAROCHE",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 260450,
+          "musique": "2a (25) 3a 2a 2a 2a 3a 11a",
+          "carriere": {
+            "courses": 44,
+            "victoires": 7,
+            "places": 19,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0644,
+        "gains": 0.5647,
+        "couple_je": 0.595,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 39.97,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1000,7 +1000,7 @@
       "vh": null,
       "gains_eur": 450860,
       "entraineur": "M. Sassier",
-      "cote_pmu": 56.0,
+      "cote_pmu": 82.0,
       "non_partant": false,
       "musique_raw": "7a6a1a(25)7a10a",
       "nb_courses_recentes": 5,
@@ -1009,7 +1009,7 @@
       "derniere_position": 7,
       "position_moyenne": 4.2,
       "sous_scores": {
-        "cote": 0.0161,
+        "cote": 0.011,
         "gains": 0.9775,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1017,7 +1017,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.81,
+      "score": 37.6,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -1033,7 +1033,7 @@
       "vh": null,
       "gains_eur": 255660,
       "entraineur": "K. Leblanc",
-      "cote_pmu": 24.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "3a7a1a4a1a2a",
       "nb_courses_recentes": 6,
@@ -1063,7 +1063,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 24.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. COLLETTE",
@@ -1105,7 +1105,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0375,
+        "cote": 0.0291,
         "gains": 0.5543,
         "couple_je": 0.835,
         "hippodrome": 0.5,
@@ -1113,7 +1113,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.34,
+      "score": 37.0,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1129,7 +1129,7 @@
       "vh": null,
       "gains_eur": 435110,
       "entraineur": "M. Sassier",
-      "cote_pmu": 26.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "3a11aDa(25)7a8a",
       "nb_courses_recentes": 5,
@@ -1159,7 +1159,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -1201,7 +1201,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0346,
+        "cote": 0.0265,
         "gains": 0.9433,
         "couple_je": 0.44,
         "hippodrome": 0.5,
@@ -1209,9 +1209,105 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.14,
+      "score": 36.81,
       "enrichi": true,
       "rang_predit": 8
+    },
+    {
+      "numero": 1,
+      "nom": "Karnac Wood",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 2825.0,
+      "jockey": "H. Monthulé",
+      "musique": "1a4a7a1a(25)12a",
+      "vh": null,
+      "gains_eur": 233250,
+      "entraineur": "S. Guarato",
+      "cote_pmu": 11.0,
+      "non_partant": false,
+      "musique_raw": "1a4a7a1a(25)12a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Karnac Wood",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "H. Monthulé",
+          "proprietaire": "S. Guarato",
+          "eleveur": "Ecurie Hunter Valley",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 15,
+          "allocation_eur": 90000,
+          "distance_m": 2825,
+          "vh": null
+        },
+        "cote_live_fiche": 11.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "H. MONTHULÉ",
+            "victoires": 9,
+            "places": 3,
+            "courses": 19,
+            "pourcentage": 63.0
+          },
+          "avec_entraineur": {
+            "nom": "S. GUARATO",
+            "victoires": 9,
+            "places": 4,
+            "courses": 21,
+            "pourcentage": 62.0
+          },
+          "sur_hippodrome": {
+            "nom": "LE CROISÉ-LAROCHE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 233250,
+          "musique": "1a 4a 7a 1a (25) 12a 1a 1a",
+          "carriere": {
+            "courses": 26,
+            "victoires": 12,
+            "places": 6,
+            "pourcentage": 69.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.082,
+        "gains": 0.5057,
+        "couple_je": 0.625,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 35.24,
+      "enrichi": true,
+      "rang_predit": 9
     },
     {
       "numero": 2,
@@ -1225,7 +1321,7 @@
       "vh": null,
       "gains_eur": 255265,
       "entraineur": "C. Mottier",
-      "cote_pmu": 26.0,
+      "cote_pmu": 54.0,
       "non_partant": false,
       "musique_raw": "2a2a2a2a(25)9a",
       "nb_courses_recentes": 5,
@@ -1255,7 +1351,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 54.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. BODIN",
@@ -1297,7 +1393,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0346,
+        "cote": 0.0167,
         "gains": 0.5534,
         "couple_je": 0.695,
         "hippodrome": 0.5,
@@ -1305,85 +1401,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 35.11,
-      "enrichi": true,
-      "rang_predit": 9
-    },
-    {
-      "numero": 1,
-      "nom": "Karnac Wood",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 2825.0,
-      "jockey": "H. Monthulé",
-      "musique": "1a4a7a1a(25)12a",
-      "vh": null,
-      "gains_eur": 233250,
-      "entraineur": "S. Guarato",
-      "cote_pmu": 9.0,
-      "non_partant": false,
-      "musique_raw": "1a4a7a1a(25)12a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Karnac Wood",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "H. Monthulé",
-          "proprietaire": "S. Guarato",
-          "eleveur": "Ecurie Hunter Valley",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 15,
-          "allocation_eur": 90000,
-          "distance_m": 2825,
-          "vh": null
-        },
-        "cote_live_fiche": 9.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 233250,
-          "musique": "1a 4a 7a 1a (25) 12a 1a 1a",
-          "carriere": {
-            "courses": 26,
-            "victoires": 12,
-            "places": 6,
-            "pourcentage": 69.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1,
-        "gains": 0.5057,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 34.09,
+      "score": 34.39,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1399,7 +1417,7 @@
       "vh": null,
       "gains_eur": 271060,
       "entraineur": "P. Danet",
-      "cote_pmu": 32.0,
+      "cote_pmu": 44.0,
       "non_partant": false,
       "musique_raw": "3a3a6aDa(25)1a",
       "nb_courses_recentes": 5,
@@ -1429,7 +1447,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 44.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. RAFFIN",
@@ -1471,7 +1489,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0281,
+        "cote": 0.0205,
         "gains": 0.5877,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1479,7 +1497,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.44,
+      "score": 32.13,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1495,7 +1513,7 @@
       "vh": null,
       "gains_eur": 454538,
       "entraineur": "B. Michardière",
-      "cote_pmu": 30.0,
+      "cote_pmu": 42.0,
       "non_partant": false,
       "musique_raw": "4a4a15a12a(25)11a",
       "nb_courses_recentes": 5,
@@ -1525,7 +1543,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 30.0,
+        "cote_live_fiche": 42.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. NIVARD",
@@ -1567,7 +1585,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.03,
+        "cote": 0.0215,
         "gains": 0.9855,
         "couple_je": 0.42,
         "hippodrome": 0.0,
@@ -1575,7 +1593,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.28,
+      "score": 31.94,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1687,7 +1705,7 @@
       "vh": null,
       "gains_eur": 274320,
       "entraineur": "M. Izzo",
-      "cote_pmu": 94.0,
+      "cote_pmu": 120.0,
       "non_partant": false,
       "musique_raw": "Da7a10a7a9aDa",
       "nb_courses_recentes": 6,
@@ -1717,7 +1735,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 94.0,
+        "cote_live_fiche": 120.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "PP. PLOQUIN",
@@ -1759,7 +1777,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0096,
+        "cote": 0.0075,
         "gains": 0.5947,
         "couple_je": 0.07,
         "hippodrome": 0.33,
@@ -1767,7 +1785,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.65,
+      "score": 23.57,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1783,7 +1801,7 @@
       "vh": null,
       "gains_eur": 275675,
       "entraineur": "G. Beaufils",
-      "cote_pmu": 56.0,
+      "cote_pmu": 49.0,
       "non_partant": false,
       "musique_raw": "10a6a5a7a7a1a",
       "nb_courses_recentes": 6,
@@ -1813,7 +1831,7 @@
           "distance_m": 2825,
           "vh": null
         },
-        "cote_live_fiche": 56.0,
+        "cote_live_fiche": 49.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. ABRIVARD",
@@ -1855,7 +1873,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0161,
+        "cote": 0.0184,
         "gains": 0.5977,
         "couple_je": 0.19,
         "hippodrome": 0.0,
@@ -1863,7 +1881,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 22.46,
+      "score": 22.55,
       "enrichi": true,
       "rang_predit": 15
     }
