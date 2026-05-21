@@ -2,7 +2,9 @@ name: QUINTE — pipeline quotidien
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '17 6 * * *'   # 08:17 CEST — tentative principale (heure non ronde)
+    - cron: '47 6 * * *'   # 08:47 CEST — backup si GitHub a sauté le 1er
+    
   workflow_dispatch:
 
 permissions:
