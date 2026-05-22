@@ -13,7 +13,7 @@
     "distance_m": 2700,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "23°C Ciel clair, vent 4km/h - N"
+    "meteo": "24°C Ciel clair, vent 6km/h - N"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 259495,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 5.3,
+      "cote_pmu": 5.2,
       "non_partant": false,
       "musique_raw": "5a4a1a3a(25)7a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 5.3,
+        "cote_live_fiche": 5.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "JM. BAZIRE",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.17,
+        "cote": 0.1742,
         "gains": 0.9838,
         "couple_je": 0.74,
         "hippodrome": 0.48,
@@ -118,7 +118,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 47.46,
+      "score": 47.62,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -206,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0901,
+        "cote": 0.0906,
         "gains": 0.9735,
         "couple_je": 0.705,
         "hippodrome": 0.6,
@@ -214,7 +214,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.78,
+      "score": 44.8,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -302,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1287,
+        "cote": 0.1294,
         "gains": 0.9103,
         "couple_je": 0.62,
         "hippodrome": 0.53,
@@ -310,7 +310,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 43.4,
+      "score": 43.43,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -398,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0693,
+        "cote": 0.0697,
         "gains": 1.0,
         "couple_je": 0.665,
         "hippodrome": 0.5,
@@ -406,7 +406,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.75,
+      "score": 42.76,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -494,7 +494,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1959,
+        "cote": 0.1969,
         "gains": 0.9024,
         "couple_je": 0.51,
         "hippodrome": 0.32,
@@ -502,7 +502,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.22,
+      "score": 42.26,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -520,7 +520,7 @@
       "vh": null,
       "gains_eur": 259495,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 5.3,
+      "cote_pmu": 5.2,
       "non_partant": false,
       "musique_raw": "5a4a1a3a(25)7a",
       "nb_courses_recentes": 5,
@@ -550,7 +550,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 5.3,
+        "cote_live_fiche": 5.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "JM. BAZIRE",
@@ -592,7 +592,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.17,
+        "cote": 0.1742,
         "gains": 0.9838,
         "couple_je": 0.74,
         "hippodrome": 0.48,
@@ -600,7 +600,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 47.46,
+      "score": 47.62,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -688,7 +688,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0901,
+        "cote": 0.0906,
         "gains": 0.9735,
         "couple_je": 0.705,
         "hippodrome": 0.6,
@@ -696,7 +696,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.78,
+      "score": 44.8,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -784,7 +784,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1287,
+        "cote": 0.1294,
         "gains": 0.9103,
         "couple_je": 0.62,
         "hippodrome": 0.53,
@@ -792,7 +792,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 43.4,
+      "score": 43.43,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -880,7 +880,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0693,
+        "cote": 0.0697,
         "gains": 1.0,
         "couple_je": 0.665,
         "hippodrome": 0.5,
@@ -888,7 +888,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.75,
+      "score": 42.76,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -976,7 +976,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1959,
+        "cote": 0.1969,
         "gains": 0.9024,
         "couple_je": 0.51,
         "hippodrome": 0.32,
@@ -984,7 +984,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.22,
+      "score": 42.26,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1072,7 +1072,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0474,
+        "cote": 0.0477,
         "gains": 0.9095,
         "couple_je": 0.705,
         "hippodrome": 0.28,
@@ -1080,9 +1080,42 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 38.91,
+      "score": 38.92,
       "enrichi": true,
       "rang_predit": 6
+    },
+    {
+      "numero": 12,
+      "nom": "Hercule de Léau",
+      "artifice": null,
+      "sexe": "H",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "E. De Jésus",
+      "musique": "8a3a9a11a(25)10a",
+      "vh": null,
+      "gains_eur": 256970,
+      "entraineur": "A. De Jésus",
+      "cote_pmu": 113.0,
+      "non_partant": false,
+      "musique_raw": "8a3a9a11a(25)10a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 8,
+      "position_moyenne": 4.2,
+      "sous_scores": {
+        "cote": 0.008,
+        "gains": 0.9742,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.43,
+      "enrichi": false,
+      "rang_predit": 7
     },
     {
       "numero": 5,
@@ -1096,7 +1129,7 @@
       "vh": null,
       "gains_eur": 224850,
       "entraineur": "T. Levesque",
-      "cote_pmu": 20.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "6a5a3a2a(25)3a",
       "nb_courses_recentes": 5,
@@ -1126,29 +1159,11 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "T. LEVESQUE",
-            "victoires": 3,
-            "places": 11,
-            "courses": 26,
-            "pourcentage": 54.0
-          },
-          "avec_entraineur": {
-            "nom": "T. LEVESQUE",
-            "victoires": 6,
-            "places": 13,
-            "courses": 39,
-            "pourcentage": 49.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 2,
-            "places": 10,
-            "courses": 21,
-            "pourcentage": 57.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 224850,
@@ -1168,49 +1183,16 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0451,
+        "cote": 0.0477,
         "gains": 0.8525,
-        "couple_je": 0.515,
-        "hippodrome": 0.57,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 38.01,
-      "enrichi": true,
-      "rang_predit": 7
-    },
-    {
-      "numero": 12,
-      "nom": "Hercule de Léau",
-      "artifice": null,
-      "sexe": "H",
-      "age": 9,
-      "poids": 2700.0,
-      "jockey": "E. De Jésus",
-      "musique": "8a3a9a11a(25)10a",
-      "vh": null,
-      "gains_eur": 256970,
-      "entraineur": "A. De Jésus",
-      "cote_pmu": 111.0,
-      "non_partant": false,
-      "musique_raw": "8a3a9a11a(25)10a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 8,
-      "position_moyenne": 4.2,
-      "sous_scores": {
-        "cote": 0.0081,
-        "gains": 0.9742,
         "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.44,
-      "enrichi": false,
+      "score": 37.19,
+      "enrichi": true,
       "rang_predit": 8
     },
     {
@@ -1225,7 +1207,7 @@
       "vh": null,
       "gains_eur": 218990,
       "entraineur": "A. Buisson",
-      "cote_pmu": 11.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "5a3a(25)13a2a3a",
       "nb_courses_recentes": 5,
@@ -1255,7 +1237,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 11.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -1297,7 +1279,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0819,
+        "cote": 0.0755,
         "gains": 0.8303,
         "couple_je": 0.465,
         "hippodrome": 0.4,
@@ -1305,9 +1287,87 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.71,
+      "score": 36.45,
       "enrichi": true,
       "rang_predit": 9
+    },
+    {
+      "numero": 1,
+      "nom": "Ilio Mannetot",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "F. Nivard",
+      "musique": "4aAm9a6a(25)5a",
+      "vh": null,
+      "gains_eur": 216620,
+      "entraineur": "E. Szirmay",
+      "cote_pmu": 32.0,
+      "non_partant": false,
+      "musique_raw": "4aAm9a6a(25)5a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 0,
+      "derniere_position": 4,
+      "position_moyenne": 6.0,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Ilio Mannetot",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Nivard",
+          "proprietaire": "E. Szirmay",
+          "eleveur": "M. Fillie",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 15,
+          "allocation_eur": 68000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 32.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 216620,
+          "musique": "4a Am 9a 6a (25) 5a 8a 3m",
+          "carriere": {
+            "courses": 76,
+            "victoires": 8,
+            "places": 19,
+            "pourcentage": 36.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0283,
+        "gains": 0.8213,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 35.95,
+      "enrichi": true,
+      "rang_predit": 10
     },
     {
       "numero": 3,
@@ -1393,7 +1453,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0644,
+        "cote": 0.0647,
         "gains": 0.8351,
         "couple_je": 0.71,
         "hippodrome": 0.0,
@@ -1401,9 +1461,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 35.75,
+      "score": 35.76,
       "enrichi": true,
-      "rang_predit": 10
+      "rang_predit": 11
     },
     {
       "numero": 9,
@@ -1417,7 +1477,7 @@
       "vh": null,
       "gains_eur": 255525,
       "entraineur": "P. Levesque",
-      "cote_pmu": 28.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "1m4m4m6m2m(25)",
       "nb_courses_recentes": 5,
@@ -1447,7 +1507,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. RAFFIN",
@@ -1489,7 +1549,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0322,
+        "cote": 0.0292,
         "gains": 0.9688,
         "couple_je": 0.37,
         "hippodrome": 0.38,
@@ -1497,9 +1557,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 35.17,
+      "score": 35.05,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 12
     },
     {
       "numero": 4,
@@ -1513,7 +1573,7 @@
       "vh": null,
       "gains_eur": 222695,
       "entraineur": "E. Szirmay",
-      "cote_pmu": 96.0,
+      "cote_pmu": 102.0,
       "non_partant": false,
       "musique_raw": "6a5a3a10a7a14a",
       "nb_courses_recentes": 6,
@@ -1543,7 +1603,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 96.0,
+        "cote_live_fiche": 102.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. SZIRMAY",
@@ -1585,7 +1645,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0094,
+        "cote": 0.0089,
         "gains": 0.8443,
         "couple_je": 0.415,
         "hippodrome": 0.38,
@@ -1593,103 +1653,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.06,
-      "enrichi": true,
-      "rang_predit": 12
-    },
-    {
-      "numero": 1,
-      "nom": "Ilio Mannetot",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2700.0,
-      "jockey": "F. Nivard",
-      "musique": "4aAm9a6a(25)5a",
-      "vh": null,
-      "gains_eur": 216620,
-      "entraineur": "E. Szirmay",
-      "cote_pmu": 31.0,
-      "non_partant": false,
-      "musique_raw": "4aAm9a6a(25)5a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 0,
-      "derniere_position": 4,
-      "position_moyenne": 6.0,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Ilio Mannetot",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "F. Nivard",
-          "proprietaire": "E. Szirmay",
-          "eleveur": "M. Fillie",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 15,
-          "allocation_eur": 68000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 31.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "F. NIVARD",
-            "victoires": 2,
-            "places": 4,
-            "courses": 14,
-            "pourcentage": 43.0
-          },
-          "avec_entraineur": {
-            "nom": "E. SZIRMAY",
-            "victoires": 8,
-            "places": 18,
-            "courses": 72,
-            "pourcentage": 36.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 2,
-            "courses": 16,
-            "pourcentage": 19.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 216620,
-          "musique": "4a Am 9a 6a (25) 5a 8a 3m",
-          "carriere": {
-            "courses": 76,
-            "victoires": 8,
-            "places": 19,
-            "pourcentage": 36.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0291,
-        "gains": 0.8213,
-        "couple_je": 0.395,
-        "hippodrome": 0.19,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 31.31,
+      "score": 33.04,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1705,7 +1669,7 @@
       "vh": null,
       "gains_eur": 255560,
       "entraineur": "B. Marie",
-      "cote_pmu": 139.0,
+      "cote_pmu": 144.0,
       "non_partant": false,
       "musique_raw": "10a(25)10aDa9a11a",
       "nb_courses_recentes": 5,
@@ -1735,7 +1699,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 139.0,
+        "cote_live_fiche": 144.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. ALLARD",
@@ -1772,7 +1736,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0065,
+        "cote": 0.0063,
         "gains": 0.9689,
         "couple_je": 0.41,
         "hippodrome": 0.0,
@@ -1796,7 +1760,7 @@
       "vh": null,
       "gains_eur": 262130,
       "entraineur": "B. Marie",
-      "cote_pmu": 41.0,
+      "cote_pmu": 39.0,
       "non_partant": false,
       "musique_raw": "6a6aDaDa4a2a",
       "nb_courses_recentes": 6,
@@ -1826,7 +1790,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 41.0,
+        "cote_live_fiche": 39.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "PP. PLOQUIN",
@@ -1868,7 +1832,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.022,
+        "cote": 0.0232,
         "gains": 0.9938,
         "couple_je": 0.245,
         "hippodrome": 0.08,
@@ -1876,7 +1840,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 30.26,
+      "score": 30.31,
       "enrichi": true,
       "rang_predit": 15
     }
