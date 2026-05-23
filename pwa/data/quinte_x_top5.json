@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.4469,
+        "cote": 0.4446,
         "gains": 0.8995,
         "couple_je": 0.535,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 59.39,
+      "score": 59.3,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 239512,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 9.8,
+      "cote_pmu": 9.9,
       "non_partant": false,
       "musique_raw": "2a9a2a5a(25)3a",
       "nb_courses_recentes": 5,
@@ -164,7 +164,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 9.8,
+        "cote_live_fiche": 9.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -206,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0912,
+        "cote": 0.0898,
         "gains": 1.0,
         "couple_je": 0.815,
         "hippodrome": 0.5,
@@ -214,7 +214,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 45.87,
+      "score": 45.82,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -230,7 +230,7 @@
       "vh": null,
       "gains_eur": 171119,
       "entraineur": "D. Locqueneux",
-      "cote_pmu": 32.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "3a3a13a(25)3aDa",
       "nb_courses_recentes": 5,
@@ -260,7 +260,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. LEBOURGEOIS",
@@ -302,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0279,
+        "cote": 0.0287,
         "gains": 0.7144,
         "couple_je": 0.67,
         "hippodrome": 1.0,
@@ -310,7 +310,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.88,
+      "score": 41.91,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -398,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0596,
+        "cote": 0.0593,
         "gains": 0.9114,
         "couple_je": 0.655,
         "hippodrome": 0.5,
@@ -406,7 +406,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.88,
+      "score": 40.87,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -431,7 +431,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0596,
+        "cote": 0.0593,
         "gains": 0.8382,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -439,7 +439,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.46,
+      "score": 37.44,
       "enrichi": false,
       "rang_predit": 5
     }
@@ -529,7 +529,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.4469,
+        "cote": 0.4446,
         "gains": 0.8995,
         "couple_je": 0.535,
         "hippodrome": 1.0,
@@ -537,7 +537,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 59.39,
+      "score": 59.3,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -553,7 +553,7 @@
       "vh": null,
       "gains_eur": 239512,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 9.8,
+      "cote_pmu": 9.9,
       "non_partant": false,
       "musique_raw": "2a9a2a5a(25)3a",
       "nb_courses_recentes": 5,
@@ -583,7 +583,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 9.8,
+        "cote_live_fiche": 9.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -625,7 +625,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0912,
+        "cote": 0.0898,
         "gains": 1.0,
         "couple_je": 0.815,
         "hippodrome": 0.5,
@@ -633,7 +633,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 45.87,
+      "score": 45.82,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -649,7 +649,7 @@
       "vh": null,
       "gains_eur": 171119,
       "entraineur": "D. Locqueneux",
-      "cote_pmu": 32.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "3a3a13a(25)3aDa",
       "nb_courses_recentes": 5,
@@ -679,7 +679,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. LEBOURGEOIS",
@@ -721,7 +721,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0279,
+        "cote": 0.0287,
         "gains": 0.7144,
         "couple_je": 0.67,
         "hippodrome": 1.0,
@@ -729,7 +729,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.88,
+      "score": 41.91,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -817,7 +817,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0596,
+        "cote": 0.0593,
         "gains": 0.9114,
         "couple_je": 0.655,
         "hippodrome": 0.5,
@@ -825,7 +825,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.88,
+      "score": 40.87,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -850,7 +850,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0596,
+        "cote": 0.0593,
         "gains": 0.8382,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -858,7 +858,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.46,
+      "score": 37.44,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -883,7 +883,7 @@
       "derniere_position": 4,
       "position_moyenne": 5.0,
       "sous_scores": {
-        "cote": 0.0279,
+        "cote": 0.0278,
         "gains": 0.8979,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -891,7 +891,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.09,
+      "score": 37.08,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -907,7 +907,7 @@
       "vh": null,
       "gains_eur": 211140,
       "entraineur": "S. Roger",
-      "cote_pmu": 57.0,
+      "cote_pmu": 58.0,
       "non_partant": false,
       "musique_raw": "5a1a7a6a11a2a",
       "nb_courses_recentes": 6,
@@ -916,7 +916,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.67,
       "sous_scores": {
-        "cote": 0.0157,
+        "cote": 0.0153,
         "gains": 0.8815,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -924,9 +924,105 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.35,
+      "score": 36.34,
       "enrichi": false,
       "rang_predit": 7
+    },
+    {
+      "numero": 11,
+      "nom": "Lewis River",
+      "artifice": null,
+      "sexe": "M",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "D. Bonne",
+      "musique": "2a2aDa6a(25)8a",
+      "vh": null,
+      "gains_eur": 137580,
+      "entraineur": "S. Guarato",
+      "cote_pmu": 30.0,
+      "non_partant": false,
+      "musique_raw": "2a2aDa6a(25)8a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 2,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Lewis River",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "D. Bonne",
+          "proprietaire": "S. Guarato",
+          "eleveur": "S. Dewulf",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 14,
+          "allocation_eur": 71000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 30.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "D. BONNE",
+            "victoires": 0,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 43.0
+          },
+          "avec_entraineur": {
+            "nom": "S. GUARATO",
+            "victoires": 3,
+            "places": 7,
+            "courses": 24,
+            "pourcentage": 42.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 2,
+            "courses": 2,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 137580,
+          "musique": "2a 2a Da 6a (25) 8a 4a 2a",
+          "carriere": {
+            "courses": 24,
+            "victoires": 3,
+            "places": 7,
+            "pourcentage": 42.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0296,
+        "gains": 0.5744,
+        "couple_je": 0.425,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 36.18,
+      "enrichi": true,
+      "rang_predit": 8
     },
     {
       "numero": 16,
@@ -949,7 +1045,7 @@
       "derniere_position": 3,
       "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.0497,
+        "cote": 0.0494,
         "gains": 0.7686,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -957,9 +1053,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.02,
+      "score": 36.01,
       "enrichi": false,
-      "rang_predit": 8
+      "rang_predit": 9
     },
     {
       "numero": 6,
@@ -973,7 +1069,7 @@
       "vh": null,
       "gains_eur": 222370,
       "entraineur": "JM. Baudouin",
-      "cote_pmu": 16.0,
+      "cote_pmu": 15.0,
       "non_partant": false,
       "musique_raw": "2a3m6m1aDm(25)",
       "nb_courses_recentes": 5,
@@ -1003,7 +1099,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 16.0,
+        "cote_live_fiche": 15.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. BAUDOUIN",
@@ -1045,7 +1141,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0559,
+        "cote": 0.0593,
         "gains": 0.9284,
         "couple_je": 0.485,
         "hippodrome": 0.0,
@@ -1053,9 +1149,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.44,
+      "score": 33.57,
       "enrichi": true,
-      "rang_predit": 9
+      "rang_predit": 10
     },
     {
       "numero": 14,
@@ -1141,7 +1237,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0894,
+        "cote": 0.0889,
         "gains": 0.6472,
         "couple_je": 0.33,
         "hippodrome": 0.5,
@@ -1149,85 +1245,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.23,
-      "enrichi": true,
-      "rang_predit": 10
-    },
-    {
-      "numero": 11,
-      "nom": "Lewis River",
-      "artifice": null,
-      "sexe": "M",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "D. Bonne",
-      "musique": "2a2aDa6a(25)8a",
-      "vh": null,
-      "gains_eur": 137580,
-      "entraineur": "S. Guarato",
-      "cote_pmu": 32.0,
-      "non_partant": false,
-      "musique_raw": "2a2aDa6a(25)8a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.5,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Lewis River",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "D. Bonne",
-          "proprietaire": "S. Guarato",
-          "eleveur": "S. Dewulf",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 14,
-          "allocation_eur": 71000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 32.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 137580,
-          "musique": "2a 2a Da 6a (25) 8a 4a 2a",
-          "carriere": {
-            "courses": 24,
-            "victoires": 3,
-            "places": 7,
-            "pourcentage": 42.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0279,
-        "gains": 0.5744,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 32.23,
+      "score": 33.21,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1315,7 +1333,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.019,
+        "cote": 0.0189,
         "gains": 0.8179,
         "couple_je": 0.15,
         "hippodrome": 0.5,
@@ -1339,7 +1357,7 @@
       "vh": null,
       "gains_eur": 188860,
       "entraineur": "RC. Larue",
-      "cote_pmu": 80.0,
+      "cote_pmu": 84.0,
       "non_partant": false,
       "musique_raw": "8aDa5a9a12aDa",
       "nb_courses_recentes": 6,
@@ -1369,7 +1387,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 80.0,
+        "cote_live_fiche": 84.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. LE BELLER",
@@ -1411,7 +1429,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0112,
+        "cote": 0.0106,
         "gains": 0.7885,
         "couple_je": 0.06,
         "hippodrome": 0.56,
@@ -1419,7 +1437,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.77,
+      "score": 28.75,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1435,7 +1453,7 @@
       "vh": null,
       "gains_eur": 182605,
       "entraineur": "K. Leblanc",
-      "cote_pmu": 49.0,
+      "cote_pmu": 48.0,
       "non_partant": false,
       "musique_raw": "DaDa2a2a(25)2a",
       "nb_courses_recentes": 5,
@@ -1465,7 +1483,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 49.0,
+        "cote_live_fiche": 48.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. COLLETTE",
@@ -1507,7 +1525,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0182,
+        "cote": 0.0185,
         "gains": 0.7624,
         "couple_je": 0.3,
         "hippodrome": 0.0,
@@ -1515,7 +1533,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.67,
+      "score": 26.68,
       "enrichi": true,
       "rang_predit": 14
     }
