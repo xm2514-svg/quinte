@@ -13,7 +13,7 @@
     "distance_m": 1400,
     "corde": "droite",
     "terrain": "-",
-    "meteo": "25°C Ciel clair, vent 15km/h - NE"
+    "meteo": "26°C Ciel clair, vent 19km/h - NE"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": 39.0,
       "gains_eur": 57027,
       "entraineur": "M. Delcher-Sanchez",
-      "cote_pmu": 3.6,
+      "cote_pmu": 3.7,
       "non_partant": false,
       "musique_raw": "3p3p4p(25)1p11p",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 1400,
           "vh": 39.0
         },
-        "cote_live_fiche": 3.6,
+        "cote_live_fiche": 3.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. SOUMILLON",
@@ -102,219 +102,6 @@
             "pourcentage": 45.0
           }
         },
-        "dernieres_courses": [
-          {
-            "date": "05/03/26",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix Teddy",
-            "qplus": true,
-            "distance_m": 1400,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 50900,
-            "rang": "3e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "30/01/26",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix du Tréport",
-            "qplus": true,
-            "distance_m": 1300,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "4e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "27/10/25",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix du Cabinet d'Angle",
-            "qplus": false,
-            "distance_m": 1400,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 26900,
-            "rang": "1er",
-            "partants": 14,
-            "vh": 36.5
-          },
-          {
-            "date": "19/08/25",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix «Le Parisien» (Prix de Balleroy)",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 52800,
-            "rang": "2e",
-            "partants": 16,
-            "vh": 36.5
-          },
-          {
-            "date": "11/06/25",
-            "spec": "P",
-            "hippodrome": "CRAON",
-            "nom_course": "Prix de la Foire de Craon (Prix Capitaine Gefflot)",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 21000,
-            "rang": "1er",
-            "partants": 12,
-            "vh": 34.0
-          },
-          {
-            "date": "28/03/25",
-            "spec": "P",
-            "hippodrome": "COMPIÈGNE",
-            "nom_course": "Prix de la Bourdelotte",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 27000,
-            "rang": "9e",
-            "partants": 12,
-            "vh": null
-          },
-          {
-            "date": "16/03/25",
-            "spec": "P",
-            "hippodrome": "LYON-PARILLY",
-            "nom_course": "Prix des Fondateurs",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 21000,
-            "rang": "4e",
-            "partants": 11,
-            "vh": null
-          },
-          {
-            "date": "29/11/24",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix de la Pommeraie",
-            "qplus": false,
-            "distance_m": 1500,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 30000,
-            "rang": "7e",
-            "partants": 14,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": {
-            "courses": 4,
-            "places_top3": 2,
-            "taux": 0.5
-          },
-          "jours_depuis_derniere_course": 80
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2516,
-        "gains": 0.3358,
-        "couple_je": 0.725,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 40.98,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 12,
-      "nom": "Paintello",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 5,
-      "poids": 55.0,
-      "jockey": "A. Pouchin",
-      "musique": "2p1p(25)9p2p4p",
-      "vh": 37.0,
-      "gains_eur": 62759,
-      "entraineur": "Mlle A. Budka",
-      "cote_pmu": 8.0,
-      "non_partant": false,
-      "musique_raw": "2p1p(25)9p2p4p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.6,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Paintello",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Pouchin",
-          "proprietaire": "Mlle A. Budka",
-          "eleveur": "Ecurie Georginio",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Intello"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 16,
-          "allocation_eur": 50900,
-          "distance_m": 1400,
-          "vh": 37.0
-        },
-        "cote_live_fiche": 8.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. POUCHIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "MLLE A. BUDKA",
-            "victoires": 2,
-            "places": 7,
-            "courses": 15,
-            "pourcentage": 60.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 1,
-            "places": 3,
-            "courses": 4,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 62759,
-          "musique": "2p 1p (25) 9p 2p 4p 8p 3p",
-          "carriere": {
-            "courses": 17,
-            "victoires": 2,
-            "places": 8,
-            "pourcentage": 59.0
-          }
-        },
         "dernieres_courses": [],
         "derives": {
           "preference_terrain": null,
@@ -323,17 +110,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1132,
-        "gains": 0.3696,
-        "couple_je": 0.6,
-        "hippodrome": 1.0,
+        "cote": 0.245,
+        "gains": 0.3358,
+        "couple_je": 0.725,
+        "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.07,
+      "score": 40.71,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 1
     },
     {
       "numero": 9,
@@ -419,13 +206,240 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1438,
+        "cote": 0.1439,
         "gains": 1.0,
         "couple_je": 0.37,
         "hippodrome": 0.2,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
+      },
+      "score": 38.31,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 12,
+      "nom": "Paintello",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 5,
+      "poids": 55.0,
+      "jockey": "A. Pouchin",
+      "musique": "2p1p(25)9p2p4p",
+      "vh": 37.0,
+      "gains_eur": 62759,
+      "entraineur": "Mlle A. Budka",
+      "cote_pmu": 8.1,
+      "non_partant": false,
+      "musique_raw": "2p1p(25)9p2p4p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Paintello",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Pouchin",
+          "proprietaire": "Mlle A. Budka",
+          "eleveur": "Ecurie Georginio",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Intello"
+        },
+        "course_actuelle": {
+          "hippodrome": "Parislongchamp",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 1400,
+          "vh": 37.0
+        },
+        "cote_live_fiche": 8.1,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. POUCHIN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "MLLE A. BUDKA",
+            "victoires": 2,
+            "places": 7,
+            "courses": 15,
+            "pourcentage": 60.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARISLONGCHAMP",
+            "victoires": 1,
+            "places": 3,
+            "courses": 4,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 62759,
+          "musique": "2p 1p (25) 9p 2p 4p 8p 3p",
+          "carriere": {
+            "courses": 17,
+            "victoires": 2,
+            "places": 8,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [
+          {
+            "date": "08/11/25",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix du Domaine de Valgenceuse",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 28800,
+            "rang": "9e",
+            "partants": 14,
+            "vh": 35.0
+          },
+          {
+            "date": "06/06/25",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix de l'Impératrice Eugénie",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Très souple",
+            "allocation_eur": 23000,
+            "rang": "12e",
+            "partants": 14,
+            "vh": 35.0
+          },
+          {
+            "date": "25/04/25",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix du Carrefour du Rond Royal",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 23000,
+            "rang": "2e",
+            "partants": 13,
+            "vh": 35.0
+          },
+          {
+            "date": "11/03/25",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix de Crécy Fitz-James",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Collant",
+            "allocation_eur": 27000,
+            "rang": "7e",
+            "partants": 16,
+            "vh": 35.0
+          },
+          {
+            "date": "27/02/25",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix de la Route Bourbon",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 18000,
+            "rang": "1er",
+            "partants": 9,
+            "vh": 35.0
+          },
+          {
+            "date": "04/01/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Saint-James",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 18000,
+            "rang": "3e",
+            "partants": 12,
+            "vh": 37.0
+          },
+          {
+            "date": "02/08/24",
+            "spec": "P",
+            "hippodrome": "CLAIREFONTAINE",
+            "nom_course": "Prix Passion Racing Club (Prix Gris Vitesse)",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Bon",
+            "allocation_eur": 22000,
+            "rang": "8e",
+            "partants": 13,
+            "vh": 37.5
+          },
+          {
+            "date": "09/07/24",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix d'Actéon - Peloton A",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Bon souple",
+            "allocation_eur": 22000,
+            "rang": "3e",
+            "partants": 13,
+            "vh": null
+          },
+          {
+            "date": "24/05/24",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix de la Fontaine Roch",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 27000,
+            "rang": "3e",
+            "partants": 11,
+            "vh": null
+          }
+        ],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": {
+            "courses": 9,
+            "places_top3": 5,
+            "taux": 0.556
+          },
+          "jours_depuis_derniere_course": 197
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1119,
+        "gains": 0.3696,
+        "couple_je": 0.6,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.556,
+        "recuperation": 0.3
       },
       "score": 38.3,
       "enrichi": true,
@@ -515,7 +529,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0647,
+        "cote": 0.0648,
         "gains": 0.9732,
         "couple_je": 0.46,
         "hippodrome": 0.38,
@@ -539,7 +553,7 @@
       "vh": 36.5,
       "gains_eur": 139391,
       "entraineur": "Mlle C. Fey",
-      "cote_pmu": 12.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p(25)11p10p3p12p",
       "nb_courses_recentes": 5,
@@ -569,7 +583,7 @@
           "distance_m": 1400,
           "vh": 36.5
         },
-        "cote_live_fiche": 12.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. HARDOUIN",
@@ -611,7 +625,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0755,
+        "cote": 0.0824,
         "gains": 0.8209,
         "couple_je": 0.395,
         "hippodrome": 0.5,
@@ -619,7 +633,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.26,
+      "score": 36.53,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -637,7 +651,7 @@
       "vh": 39.0,
       "gains_eur": 57027,
       "entraineur": "M. Delcher-Sanchez",
-      "cote_pmu": 3.6,
+      "cote_pmu": 3.7,
       "non_partant": false,
       "musique_raw": "3p3p4p(25)1p11p",
       "nb_courses_recentes": 5,
@@ -667,7 +681,7 @@
           "distance_m": 1400,
           "vh": 39.0
         },
-        "cote_live_fiche": 3.6,
+        "cote_live_fiche": 3.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. SOUMILLON",
@@ -701,219 +715,6 @@
             "pourcentage": 45.0
           }
         },
-        "dernieres_courses": [
-          {
-            "date": "05/03/26",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix Teddy",
-            "qplus": true,
-            "distance_m": 1400,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 50900,
-            "rang": "3e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "30/01/26",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix du Tréport",
-            "qplus": true,
-            "distance_m": 1300,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "4e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "27/10/25",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix du Cabinet d'Angle",
-            "qplus": false,
-            "distance_m": 1400,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 26900,
-            "rang": "1er",
-            "partants": 14,
-            "vh": 36.5
-          },
-          {
-            "date": "19/08/25",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix «Le Parisien» (Prix de Balleroy)",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 52800,
-            "rang": "2e",
-            "partants": 16,
-            "vh": 36.5
-          },
-          {
-            "date": "11/06/25",
-            "spec": "P",
-            "hippodrome": "CRAON",
-            "nom_course": "Prix de la Foire de Craon (Prix Capitaine Gefflot)",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 21000,
-            "rang": "1er",
-            "partants": 12,
-            "vh": 34.0
-          },
-          {
-            "date": "28/03/25",
-            "spec": "P",
-            "hippodrome": "COMPIÈGNE",
-            "nom_course": "Prix de la Bourdelotte",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 27000,
-            "rang": "9e",
-            "partants": 12,
-            "vh": null
-          },
-          {
-            "date": "16/03/25",
-            "spec": "P",
-            "hippodrome": "LYON-PARILLY",
-            "nom_course": "Prix des Fondateurs",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 21000,
-            "rang": "4e",
-            "partants": 11,
-            "vh": null
-          },
-          {
-            "date": "29/11/24",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix de la Pommeraie",
-            "qplus": false,
-            "distance_m": 1500,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 30000,
-            "rang": "7e",
-            "partants": 14,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": {
-            "courses": 4,
-            "places_top3": 2,
-            "taux": 0.5
-          },
-          "jours_depuis_derniere_course": 80
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2516,
-        "gains": 0.3358,
-        "couple_je": 0.725,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 40.98,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 12,
-      "nom": "Paintello",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 5,
-      "poids": 55.0,
-      "jockey": "A. Pouchin",
-      "musique": "2p1p(25)9p2p4p",
-      "vh": 37.0,
-      "gains_eur": 62759,
-      "entraineur": "Mlle A. Budka",
-      "cote_pmu": 8.0,
-      "non_partant": false,
-      "musique_raw": "2p1p(25)9p2p4p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.6,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Paintello",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Pouchin",
-          "proprietaire": "Mlle A. Budka",
-          "eleveur": "Ecurie Georginio",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Intello"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 16,
-          "allocation_eur": 50900,
-          "distance_m": 1400,
-          "vh": 37.0
-        },
-        "cote_live_fiche": 8.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. POUCHIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "MLLE A. BUDKA",
-            "victoires": 2,
-            "places": 7,
-            "courses": 15,
-            "pourcentage": 60.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 1,
-            "places": 3,
-            "courses": 4,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 62759,
-          "musique": "2p 1p (25) 9p 2p 4p 8p 3p",
-          "carriere": {
-            "courses": 17,
-            "victoires": 2,
-            "places": 8,
-            "pourcentage": 59.0
-          }
-        },
         "dernieres_courses": [],
         "derives": {
           "preference_terrain": null,
@@ -922,17 +723,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1132,
-        "gains": 0.3696,
-        "couple_je": 0.6,
-        "hippodrome": 1.0,
+        "cote": 0.245,
+        "gains": 0.3358,
+        "couple_je": 0.725,
+        "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.07,
+      "score": 40.71,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 1
     },
     {
       "numero": 9,
@@ -1018,13 +819,240 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1438,
+        "cote": 0.1439,
         "gains": 1.0,
         "couple_je": 0.37,
         "hippodrome": 0.2,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
+      },
+      "score": 38.31,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 12,
+      "nom": "Paintello",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 5,
+      "poids": 55.0,
+      "jockey": "A. Pouchin",
+      "musique": "2p1p(25)9p2p4p",
+      "vh": 37.0,
+      "gains_eur": 62759,
+      "entraineur": "Mlle A. Budka",
+      "cote_pmu": 8.1,
+      "non_partant": false,
+      "musique_raw": "2p1p(25)9p2p4p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Paintello",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Pouchin",
+          "proprietaire": "Mlle A. Budka",
+          "eleveur": "Ecurie Georginio",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Intello"
+        },
+        "course_actuelle": {
+          "hippodrome": "Parislongchamp",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 1400,
+          "vh": 37.0
+        },
+        "cote_live_fiche": 8.1,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. POUCHIN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "MLLE A. BUDKA",
+            "victoires": 2,
+            "places": 7,
+            "courses": 15,
+            "pourcentage": 60.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARISLONGCHAMP",
+            "victoires": 1,
+            "places": 3,
+            "courses": 4,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 62759,
+          "musique": "2p 1p (25) 9p 2p 4p 8p 3p",
+          "carriere": {
+            "courses": 17,
+            "victoires": 2,
+            "places": 8,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [
+          {
+            "date": "08/11/25",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix du Domaine de Valgenceuse",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 28800,
+            "rang": "9e",
+            "partants": 14,
+            "vh": 35.0
+          },
+          {
+            "date": "06/06/25",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix de l'Impératrice Eugénie",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Très souple",
+            "allocation_eur": 23000,
+            "rang": "12e",
+            "partants": 14,
+            "vh": 35.0
+          },
+          {
+            "date": "25/04/25",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix du Carrefour du Rond Royal",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 23000,
+            "rang": "2e",
+            "partants": 13,
+            "vh": 35.0
+          },
+          {
+            "date": "11/03/25",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix de Crécy Fitz-James",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Collant",
+            "allocation_eur": 27000,
+            "rang": "7e",
+            "partants": 16,
+            "vh": 35.0
+          },
+          {
+            "date": "27/02/25",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix de la Route Bourbon",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 18000,
+            "rang": "1er",
+            "partants": 9,
+            "vh": 35.0
+          },
+          {
+            "date": "04/01/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Saint-James",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 18000,
+            "rang": "3e",
+            "partants": 12,
+            "vh": 37.0
+          },
+          {
+            "date": "02/08/24",
+            "spec": "P",
+            "hippodrome": "CLAIREFONTAINE",
+            "nom_course": "Prix Passion Racing Club (Prix Gris Vitesse)",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Bon",
+            "allocation_eur": 22000,
+            "rang": "8e",
+            "partants": 13,
+            "vh": 37.5
+          },
+          {
+            "date": "09/07/24",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix d'Actéon - Peloton A",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Bon souple",
+            "allocation_eur": 22000,
+            "rang": "3e",
+            "partants": 13,
+            "vh": null
+          },
+          {
+            "date": "24/05/24",
+            "spec": "P",
+            "hippodrome": "COMPIÈGNE",
+            "nom_course": "Prix de la Fontaine Roch",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 27000,
+            "rang": "3e",
+            "partants": 11,
+            "vh": null
+          }
+        ],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": {
+            "courses": 9,
+            "places_top3": 5,
+            "taux": 0.556
+          },
+          "jours_depuis_derniere_course": 197
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1119,
+        "gains": 0.3696,
+        "couple_je": 0.6,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.556,
+        "recuperation": 0.3
       },
       "score": 38.3,
       "enrichi": true,
@@ -1114,7 +1142,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0647,
+        "cote": 0.0648,
         "gains": 0.9732,
         "couple_je": 0.46,
         "hippodrome": 0.38,
@@ -1138,7 +1166,7 @@
       "vh": 36.5,
       "gains_eur": 139391,
       "entraineur": "Mlle C. Fey",
-      "cote_pmu": 12.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p(25)11p10p3p12p",
       "nb_courses_recentes": 5,
@@ -1168,7 +1196,7 @@
           "distance_m": 1400,
           "vh": 36.5
         },
-        "cote_live_fiche": 12.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. HARDOUIN",
@@ -1210,7 +1238,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0755,
+        "cote": 0.0824,
         "gains": 0.8209,
         "couple_je": 0.395,
         "hippodrome": 0.5,
@@ -1218,7 +1246,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.26,
+      "score": 36.53,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1330,7 +1358,7 @@
       "vh": 36.0,
       "gains_eur": 58611,
       "entraineur": "X. Blanchet",
-      "cote_pmu": 33.0,
+      "cote_pmu": 32.0,
       "non_partant": false,
       "musique_raw": "2p2p9p6p(25)12p",
       "nb_courses_recentes": 5,
@@ -1402,7 +1430,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0274,
+        "cote": 0.0283,
         "gains": 0.3452,
         "couple_je": 0.5,
         "hippodrome": 1.0,
@@ -1410,7 +1438,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.78,
+      "score": 33.81,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1435,7 +1463,7 @@
       "derniere_position": 7,
       "position_moyenne": 4.4,
       "sous_scores": {
-        "cote": 0.0362,
+        "cote": 0.0363,
         "gains": 0.4261,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1446,6 +1474,102 @@
       "score": 30.34,
       "enrichi": false,
       "rang_predit": 8
+    },
+    {
+      "numero": 11,
+      "nom": "Duty",
+      "artifice": null,
+      "sexe": "H",
+      "age": 4,
+      "poids": 55.5,
+      "jockey": "I. Mendizabal",
+      "musique": "4p1p(25)8p2p8p",
+      "vh": 37.5,
+      "gains_eur": 34892,
+      "entraineur": "M. Delzangles",
+      "cote_pmu": 23.0,
+      "non_partant": false,
+      "musique_raw": "4p1p(25)8p2p8p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 4.6,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Duty",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "I. Mendizabal",
+          "proprietaire": "M. Delzangles",
+          "eleveur": "R. Ng",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Romanised"
+        },
+        "course_actuelle": {
+          "hippodrome": "Parislongchamp",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 1400,
+          "vh": 37.5
+        },
+        "cote_live_fiche": 23.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "I. MENDIZABAL",
+            "victoires": 1,
+            "places": 1,
+            "courses": 6,
+            "pourcentage": 33.0
+          },
+          "avec_entraineur": {
+            "nom": "M. DELZANGLES",
+            "victoires": 2,
+            "places": 1,
+            "courses": 8,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARISLONGCHAMP",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 34892,
+          "musique": "4p 1p (25) 8p 2p 8p (24) 1p",
+          "carriere": {
+            "courses": 8,
+            "victoires": 2,
+            "places": 1,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0394,
+        "gains": 0.2055,
+        "couple_je": 0.355,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 29.98,
+      "enrichi": true,
+      "rang_predit": 9
     },
     {
       "numero": 5,
@@ -1459,7 +1583,7 @@
       "vh": 40.0,
       "gains_eur": 96567,
       "entraineur": "PE. Dubois",
-      "cote_pmu": 41.0,
+      "cote_pmu": 39.0,
       "non_partant": false,
       "musique_raw": "9p3p2p3p1p(25)",
       "nb_courses_recentes": 5,
@@ -1489,7 +1613,7 @@
           "distance_m": 1400,
           "vh": 40.0
         },
-        "cote_live_fiche": 41.0,
+        "cote_live_fiche": 39.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -1531,7 +1655,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0221,
+        "cote": 0.0232,
         "gains": 0.5687,
         "couple_je": 0.435,
         "hippodrome": 0.33,
@@ -1539,9 +1663,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.24,
+      "score": 29.28,
       "enrichi": true,
-      "rang_predit": 9
+      "rang_predit": 10
     },
     {
       "numero": 8,
@@ -1555,7 +1679,7 @@
       "vh": 39.0,
       "gains_eur": 69432,
       "entraineur": "C. Head (s)",
-      "cote_pmu": 18.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "6p8p(25)13p7p6p",
       "nb_courses_recentes": 5,
@@ -1585,7 +1709,7 @@
           "distance_m": 1400,
           "vh": 39.0
         },
-        "cote_live_fiche": 18.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. PICCONE",
@@ -1627,7 +1751,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0503,
+        "cote": 0.0477,
         "gains": 0.4089,
         "couple_je": 0.5,
         "hippodrome": 0.33,
@@ -1635,9 +1759,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.95,
+      "score": 28.84,
       "enrichi": true,
-      "rang_predit": 10
+      "rang_predit": 11
     },
     {
       "numero": 4,
@@ -1651,7 +1775,7 @@
       "vh": 40.5,
       "gains_eur": 51642,
       "entraineur": "HF. Devin",
-      "cote_pmu": 46.0,
+      "cote_pmu": 45.0,
       "non_partant": false,
       "musique_raw": "4p4p(25)7p6p4p",
       "nb_courses_recentes": 5,
@@ -1681,7 +1805,7 @@
           "distance_m": 1400,
           "vh": 40.5
         },
-        "cote_live_fiche": 46.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. PROVOST",
@@ -1723,7 +1847,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0197,
+        "cote": 0.0201,
         "gains": 0.3041,
         "couple_je": 0.2,
         "hippodrome": 1.0,
@@ -1731,9 +1855,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.35,
+      "score": 28.37,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 12
     },
     {
       "numero": 10,
@@ -1747,7 +1871,7 @@
       "vh": 38.0,
       "gains_eur": 71098,
       "entraineur": "M. Nieslanik",
-      "cote_pmu": 75.0,
+      "cote_pmu": 70.0,
       "non_partant": false,
       "musique_raw": "15p12p8p8p9p8p",
       "nb_courses_recentes": 6,
@@ -1777,7 +1901,7 @@
           "distance_m": 1400,
           "vh": 38.0
         },
-        "cote_live_fiche": 75.0,
+        "cote_live_fiche": 70.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. MORRIS",
@@ -1819,7 +1943,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0121,
+        "cote": 0.013,
         "gains": 0.4187,
         "couple_je": 0.34,
         "hippodrome": 0.6,
@@ -1827,9 +1951,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.86,
+      "score": 27.9,
       "enrichi": true,
-      "rang_predit": 12
+      "rang_predit": 13
     },
     {
       "numero": 15,
@@ -1843,7 +1967,7 @@
       "vh": 36.0,
       "gains_eur": 101746,
       "entraineur": "Mme N. Moons",
-      "cote_pmu": 42.0,
+      "cote_pmu": 45.0,
       "non_partant": false,
       "musique_raw": "1p5Distp10p6p1p5p",
       "nb_courses_recentes": 6,
@@ -1873,7 +1997,7 @@
           "distance_m": 1400,
           "vh": 36.0
         },
-        "cote_live_fiche": 44.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE S. TISON",
@@ -1915,7 +2039,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0216,
+        "cote": 0.0201,
         "gains": 0.5992,
         "couple_je": 0.28,
         "hippodrome": 0.33,
@@ -1923,192 +2047,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.35,
-      "enrichi": true,
-      "rang_predit": 13
-    },
-    {
-      "numero": 11,
-      "nom": "Duty",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 55.5,
-      "jockey": "I. Mendizabal",
-      "musique": "4p1p(25)8p2p8p",
-      "vh": 37.5,
-      "gains_eur": 34892,
-      "entraineur": "M. Delzangles",
-      "cote_pmu": 26.0,
-      "non_partant": false,
-      "musique_raw": "4p1p(25)8p2p8p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 4.6,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Duty",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "I. Mendizabal",
-          "proprietaire": "M. Delzangles",
-          "eleveur": "R. Ng",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Romanised"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 16,
-          "allocation_eur": 50900,
-          "distance_m": 1400,
-          "vh": 37.5
-        },
-        "cote_live_fiche": 26.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "I. MENDIZABAL",
-            "victoires": 1,
-            "places": 1,
-            "courses": 6,
-            "pourcentage": 33.0
-          },
-          "avec_entraineur": {
-            "nom": "M. DELZANGLES",
-            "victoires": 2,
-            "places": 1,
-            "courses": 8,
-            "pourcentage": 38.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 34892,
-          "musique": "4p 1p (25) 8p 2p 8p (24) 1p",
-          "carriere": {
-            "courses": 8,
-            "victoires": 2,
-            "places": 1,
-            "pourcentage": 38.0
-          }
-        },
-        "dernieres_courses": [
-          {
-            "date": "27/02/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix du Chemin du Bac",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 28800,
-            "rang": "4e",
-            "partants": 13,
-            "vh": 37.5
-          },
-          {
-            "date": "10/01/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Table d'Apremont",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 22100,
-            "rang": "1er",
-            "partants": 16,
-            "vh": 35.0
-          },
-          {
-            "date": "25/03/25",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix d'Estimauville",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 25000,
-            "rang": "8e",
-            "partants": 13,
-            "vh": 36.5
-          },
-          {
-            "date": "16/10/24",
-            "spec": "P",
-            "hippodrome": "LE MANS",
-            "nom_course": "Prix France Bleu Maine (Prix des Hunaudières)",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 23000,
-            "rang": "1er",
-            "partants": 15,
-            "vh": null
-          },
-          {
-            "date": "28/08/24",
-            "spec": "P",
-            "hippodrome": "COMPIÈGNE",
-            "nom_course": "Prix de l'Avesnois",
-            "qplus": false,
-            "distance_m": 1400,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 30000,
-            "rang": "4e",
-            "partants": 8,
-            "vh": null
-          },
-          {
-            "date": "28/07/24",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix de Crèvecœur",
-            "qplus": false,
-            "distance_m": 1500,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 50000,
-            "rang": "5e",
-            "partants": 6,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": {
-            "courses": 2,
-            "places_top3": 0,
-            "taux": 0.0
-          },
-          "jours_depuis_derniere_course": 86
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0348,
-        "gains": 0.2055,
-        "couple_je": 0.355,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.0,
-        "recuperation": 0.5
-      },
-      "score": 27.3,
+      "score": 27.29,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -2220,7 +2159,7 @@
       "vh": 39.0,
       "gains_eur": 65056,
       "entraineur": "V. Luka",
-      "cote_pmu": 32.0,
+      "cote_pmu": 36.0,
       "non_partant": false,
       "musique_raw": "9p11p(25)16p4p11p",
       "nb_courses_recentes": 5,
@@ -2250,7 +2189,7 @@
           "distance_m": 1400,
           "vh": 39.0
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 36.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. BACHELOT",
@@ -2284,23 +2223,182 @@
             "pourcentage": 43.0
           }
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "05/03/26",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix Teddy",
+            "qplus": true,
+            "distance_m": 1400,
+            "corde": "G",
+            "terrain": "Très souple",
+            "allocation_eur": 50900,
+            "rang": "11e",
+            "partants": 16,
+            "vh": 40.5
+          },
+          {
+            "date": "26/11/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Saint-Céneri-le-Gérei",
+            "qplus": true,
+            "distance_m": 1300,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 50900,
+            "rang": "16e",
+            "partants": 16,
+            "vh": 41.0
+          },
+          {
+            "date": "07/11/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Voltaire",
+            "qplus": false,
+            "distance_m": 1300,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 38400,
+            "rang": "4e",
+            "partants": 11,
+            "vh": 41.0
+          },
+          {
+            "date": "16/10/25",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix Amonita",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 25600,
+            "rang": "11e",
+            "partants": 13,
+            "vh": 42.0
+          },
+          {
+            "date": "20/05/25",
+            "spec": "P",
+            "hippodrome": "ANGERS",
+            "nom_course": "Prix Angers Info (Prix d'Eventard)",
+            "qplus": false,
+            "distance_m": 1350,
+            "corde": "D",
+            "terrain": "Bon",
+            "allocation_eur": 30000,
+            "rang": "5e",
+            "partants": 7,
+            "vh": 42.5
+          },
+          {
+            "date": "22/03/25",
+            "spec": "P",
+            "hippodrome": "LA TESTE",
+            "nom_course": "Prix de la Société des Courses de Craon",
+            "qplus": false,
+            "distance_m": 1200,
+            "corde": "D",
+            "terrain": "Bon souple",
+            "allocation_eur": 30000,
+            "rang": "3e",
+            "partants": 5,
+            "vh": 43.0
+          },
+          {
+            "date": "24/02/25",
+            "spec": "P",
+            "hippodrome": "TOULOUSE",
+            "nom_course": "Prix Saunhac",
+            "qplus": false,
+            "distance_m": 1200,
+            "corde": "D",
+            "terrain": "Souple",
+            "allocation_eur": 22000,
+            "rang": "1er",
+            "partants": 8,
+            "vh": 42.0
+          },
+          {
+            "date": "11/11/24",
+            "spec": "P",
+            "hippodrome": "TOULOUSE",
+            "nom_course": "Critérium du Languedoc - Prix Bernard de Marmiesse",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "D",
+            "terrain": "Très souple",
+            "allocation_eur": 60000,
+            "rang": "3e",
+            "partants": 8,
+            "vh": 42.0
+          },
+          {
+            "date": "07/09/24",
+            "spec": "P",
+            "hippodrome": "DAX",
+            "nom_course": "Prix des Trois Couronnes",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Collant",
+            "allocation_eur": 27000,
+            "rang": "1er",
+            "partants": 9,
+            "vh": null
+          },
+          {
+            "date": "20/08/24",
+            "spec": "P",
+            "hippodrome": "DAX",
+            "nom_course": "Prix du Chêne de Saint-Vincent-de-Paul",
+            "qplus": false,
+            "distance_m": 1200,
+            "corde": "D",
+            "terrain": "Bon souple",
+            "allocation_eur": 23000,
+            "rang": "1er",
+            "partants": 9,
+            "vh": null
+          },
+          {
+            "date": "22/07/24",
+            "spec": "P",
+            "hippodrome": "LA TESTE",
+            "nom_course": "Prix la Toque Cuivrée",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Très souple",
+            "allocation_eur": 23000,
+            "rang": "2e",
+            "partants": 9,
+            "vh": null
+          }
+        ],
         "derives": {
           "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "preference_distance": {
+            "courses": 6,
+            "places_top3": 2,
+            "taux": 0.333
+          },
+          "jours_depuis_derniere_course": 80
         }
       },
       "sous_scores": {
-        "cote": 0.0283,
+        "cote": 0.0252,
         "gains": 0.3831,
         "couple_je": 0.0,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
-        "pref_distance": 0.5,
+        "pref_distance": 0.333,
         "recuperation": 0.5
       },
-      "score": 21.88,
+      "score": 20.92,
       "enrichi": true,
       "rang_predit": 16
     }
