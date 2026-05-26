@@ -13,7 +13,7 @@
     "distance_m": 2700,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "21°C Ciel clair, vent 4km/h - NE"
+    "meteo": "28°C Ciel clair, vent 7km/h - E"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -27,102 +27,6 @@
   },
   "top5": [
     {
-      "numero": 8,
-      "nom": "Lolly Star",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "E. Raffin",
-      "musique": "2a1a5a2a(25)9a",
-      "vh": null,
-      "gains_eur": 57810,
-      "entraineur": "FP. Bossuet",
-      "cote_pmu": 3.4,
-      "non_partant": false,
-      "musique_raw": "2a1a5a2a(25)9a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.8,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Lolly Star",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Raffin",
-          "proprietaire": "FP. Bossuet",
-          "eleveur": "L. Guilbert",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 46000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 3.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 0,
-            "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "FP. BOSSUET",
-            "victoires": 2,
-            "places": 3,
-            "courses": 11,
-            "pourcentage": 45.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 57810,
-          "musique": "2a 1a 5a 2a (25) 9a 5a 4a",
-          "carriere": {
-            "courses": 13,
-            "victoires": 2,
-            "places": 5,
-            "pourcentage": 54.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2674,
-        "gains": 0.9503,
-        "couple_je": 0.725,
-        "hippodrome": 0.25,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 48.33,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
       "numero": 11,
       "nom": "Laguna Seca",
       "artifice": null,
@@ -134,7 +38,7 @@
       "vh": null,
       "gains_eur": 58220,
       "entraineur": "C. Clin",
-      "cote_pmu": 4.1,
+      "cote_pmu": 5.1,
       "non_partant": false,
       "musique_raw": "1a2a8a7a4a2a",
       "nb_courses_recentes": 6,
@@ -164,7 +68,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 4.1,
+        "cote_live_fiche": 5.1,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -206,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2218,
+        "cote": 0.179,
         "gains": 0.957,
         "couple_je": 0.685,
         "hippodrome": 0.4,
@@ -214,169 +118,10 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 47.5,
+      "score": 45.79,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 1
     },
-    {
-      "numero": 1,
-      "nom": "Léontine Cash",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "F. Nivard",
-      "musique": "Da6a(25)15a1a3a",
-      "vh": null,
-      "gains_eur": 51260,
-      "entraineur": "P. Hachin",
-      "cote_pmu": 8.1,
-      "non_partant": false,
-      "musique_raw": "Da6a(25)15a1a3a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 6,
-      "position_moyenne": 3.75,
-      "sous_scores": {
-        "cote": 0.1123,
-        "gains": 0.8426,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 39.63,
-      "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 12,
-      "nom": "Little du Rib",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "N. Perron",
-      "musique": "3aDa3a5a(25)1a",
-      "vh": null,
-      "gains_eur": 58420,
-      "entraineur": "J. Hallais",
-      "cote_pmu": 8.5,
-      "non_partant": false,
-      "musique_raw": "3aDa3a5a(25)1a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Little du Rib",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "N. Perron",
-          "proprietaire": "J. Hallais",
-          "eleveur": "Ecurie Rib",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 46000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 8.5,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "N. PERRON",
-            "victoires": 1,
-            "places": 2,
-            "courses": 8,
-            "pourcentage": 38.0
-          },
-          "avec_entraineur": {
-            "nom": "J. HALLAIS",
-            "victoires": 1,
-            "places": 8,
-            "courses": 22,
-            "pourcentage": 41.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 58420,
-          "musique": "3a Da 3a 5a (25) 1a 4a 2a",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.107,
-        "gains": 0.9603,
-        "couple_je": 0.395,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 39.61,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 6,
-      "nom": "Légende Games",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "M. Abrivard",
-      "musique": "7a1a5a5aDa(25)",
-      "vh": null,
-      "gains_eur": 57455,
-      "entraineur": "P. Le Moel",
-      "cote_pmu": 28.0,
-      "non_partant": false,
-      "musique_raw": "7a1a5a5aDa(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 7,
-      "position_moyenne": 4.5,
-      "sous_scores": {
-        "cote": 0.0325,
-        "gains": 0.9444,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.97,
-      "enrichi": false,
-      "rang_predit": 5
-    }
-  ],
-  "tous_chevaux": [
     {
       "numero": 8,
       "nom": "Lolly Star",
@@ -389,7 +134,7 @@
       "vh": null,
       "gains_eur": 57810,
       "entraineur": "FP. Bossuet",
-      "cote_pmu": 3.4,
+      "cote_pmu": 4.4,
       "non_partant": false,
       "musique_raw": "2a1a5a2a(25)9a",
       "nb_courses_recentes": 5,
@@ -419,29 +164,11 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 3.4,
+        "cote_live_fiche": 4.4,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 0,
-            "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "FP. BOSSUET",
-            "victoires": 2,
-            "places": 3,
-            "courses": 11,
-            "pourcentage": 45.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 57810,
@@ -461,111 +188,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2674,
+        "cote": 0.2075,
         "gains": 0.9503,
-        "couple_je": 0.725,
-        "hippodrome": 0.25,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 48.33,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 11,
-      "nom": "Laguna Seca",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "D. Thomain",
-      "musique": "1a2a8a7a4a2a",
-      "vh": null,
-      "gains_eur": 58220,
-      "entraineur": "C. Clin",
-      "cote_pmu": 4.1,
-      "non_partant": false,
-      "musique_raw": "1a2a8a7a4a2a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 4.0,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Laguna Seca",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "D. Thomain",
-          "proprietaire": "C. Clin",
-          "eleveur": "C. Clin",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 46000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 4.1,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "D. THOMAIN",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "C. CLIN",
-            "victoires": 3,
-            "places": 4,
-            "courses": 19,
-            "pourcentage": 37.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 1,
-            "courses": 5,
-            "pourcentage": 40.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 58220,
-          "musique": "1a 2a 8a 7a 4a 2a (25) 2a",
-          "carriere": {
-            "courses": 22,
-            "victoires": 3,
-            "places": 4,
-            "pourcentage": 32.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2218,
-        "gains": 0.957,
-        "couple_je": 0.685,
-        "hippodrome": 0.4,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 47.5,
+      "score": 45.05,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -581,7 +212,7 @@
       "vh": null,
       "gains_eur": 51260,
       "entraineur": "P. Hachin",
-      "cote_pmu": 8.1,
+      "cote_pmu": 7.3,
       "non_partant": false,
       "musique_raw": "Da6a(25)15a1a3a",
       "nb_courses_recentes": 5,
@@ -590,7 +221,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.75,
       "sous_scores": {
-        "cote": 0.1123,
+        "cote": 0.125,
         "gains": 0.8426,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -598,7 +229,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.63,
+      "score": 40.14,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -614,7 +245,7 @@
       "vh": null,
       "gains_eur": 58420,
       "entraineur": "J. Hallais",
-      "cote_pmu": 8.5,
+      "cote_pmu": 7.9,
       "non_partant": false,
       "musique_raw": "3aDa3a5a(25)1a",
       "nb_courses_recentes": 5,
@@ -644,7 +275,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 8.5,
+        "cote_live_fiche": 7.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "N. PERRON",
@@ -681,7 +312,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.107,
+        "cote": 0.1155,
         "gains": 0.9603,
         "couple_je": 0.395,
         "hippodrome": 0.5,
@@ -689,141 +320,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.61,
+      "score": 39.95,
       "enrichi": true,
       "rang_predit": 4
-    },
-    {
-      "numero": 6,
-      "nom": "Légende Games",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "M. Abrivard",
-      "musique": "7a1a5a5aDa(25)",
-      "vh": null,
-      "gains_eur": 57455,
-      "entraineur": "P. Le Moel",
-      "cote_pmu": 28.0,
-      "non_partant": false,
-      "musique_raw": "7a1a5a5aDa(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 7,
-      "position_moyenne": 4.5,
-      "sous_scores": {
-        "cote": 0.0325,
-        "gains": 0.9444,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.97,
-      "enrichi": false,
-      "rang_predit": 5
-    },
-    {
-      "numero": 10,
-      "nom": "Lucia de la Crière",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "G. Martin",
-      "musique": "2a12a2a8a3a2a",
-      "vh": null,
-      "gains_eur": 58145,
-      "entraineur": "Mlle M. Le Bourhis",
-      "cote_pmu": 51.0,
-      "non_partant": false,
-      "musique_raw": "2a12a2a8a3a2a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 3.17,
-      "sous_scores": {
-        "cote": 0.0178,
-        "gains": 0.9558,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.55,
-      "enrichi": false,
-      "rang_predit": 6
-    },
-    {
-      "numero": 4,
-      "nom": "La Trinité Nemo",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "A. Desmottes",
-      "musique": "1aDa2a10a(25)3Da",
-      "vh": null,
-      "gains_eur": 56605,
-      "entraineur": "A. Desmottes",
-      "cote_pmu": 35.0,
-      "non_partant": false,
-      "musique_raw": "1aDa2a10a(25)3Da",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 1.5,
-      "sous_scores": {
-        "cote": 0.026,
-        "gains": 0.9305,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.5,
-      "enrichi": false,
-      "rang_predit": 7
-    },
-    {
-      "numero": 2,
-      "nom": "Lutte de Cossé",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2700.0,
-      "jockey": "S. Baude",
-      "musique": "2a6a2aDa4a3a",
-      "vh": null,
-      "gains_eur": 56400,
-      "entraineur": "A. Leduc",
-      "cote_pmu": 53.0,
-      "non_partant": false,
-      "musique_raw": "2a6a2aDa4a3a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.4,
-      "sous_scores": {
-        "cote": 0.0172,
-        "gains": 0.9271,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.09,
-      "enrichi": false,
-      "rang_predit": 8
     },
     {
       "numero": 9,
@@ -837,7 +336,7 @@
       "vh": null,
       "gains_eur": 58105,
       "entraineur": "N. Brossard",
-      "cote_pmu": 46.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "6a2a1a5a1aDa",
       "nb_courses_recentes": 6,
@@ -867,29 +366,11 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 46.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "N. BROSSARD",
-            "victoires": 4,
-            "places": 3,
-            "courses": 15,
-            "pourcentage": 47.0
-          },
-          "avec_entraineur": {
-            "nom": "N. BROSSARD",
-            "victoires": 4,
-            "places": 4,
-            "courses": 18,
-            "pourcentage": 44.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 58105,
@@ -909,16 +390,526 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0198,
+        "cote": 0.0365,
         "gains": 0.9551,
-        "couple_je": 0.455,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.94,
+      "score": 38.29,
       "enrichi": true,
+      "rang_predit": 5
+    }
+  ],
+  "tous_chevaux": [
+    {
+      "numero": 11,
+      "nom": "Laguna Seca",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "D. Thomain",
+      "musique": "1a2a8a7a4a2a",
+      "vh": null,
+      "gains_eur": 58220,
+      "entraineur": "C. Clin",
+      "cote_pmu": 5.1,
+      "non_partant": false,
+      "musique_raw": "1a2a8a7a4a2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Laguna Seca",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "D. Thomain",
+          "proprietaire": "C. Clin",
+          "eleveur": "C. Clin",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 46000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 5.1,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "D. THOMAIN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "C. CLIN",
+            "victoires": 3,
+            "places": 4,
+            "courses": 19,
+            "pourcentage": 37.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 1,
+            "courses": 5,
+            "pourcentage": 40.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 58220,
+          "musique": "1a 2a 8a 7a 4a 2a (25) 2a",
+          "carriere": {
+            "courses": 22,
+            "victoires": 3,
+            "places": 4,
+            "pourcentage": 32.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.179,
+        "gains": 0.957,
+        "couple_je": 0.685,
+        "hippodrome": 0.4,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 45.79,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 8,
+      "nom": "Lolly Star",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "E. Raffin",
+      "musique": "2a1a5a2a(25)9a",
+      "vh": null,
+      "gains_eur": 57810,
+      "entraineur": "FP. Bossuet",
+      "cote_pmu": 4.4,
+      "non_partant": false,
+      "musique_raw": "2a1a5a2a(25)9a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 3.8,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Lolly Star",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "E. Raffin",
+          "proprietaire": "FP. Bossuet",
+          "eleveur": "L. Guilbert",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 46000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 4.4,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 57810,
+          "musique": "2a 1a 5a 2a (25) 9a 5a 4a",
+          "carriere": {
+            "courses": 13,
+            "victoires": 2,
+            "places": 5,
+            "pourcentage": 54.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2075,
+        "gains": 0.9503,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 45.05,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 1,
+      "nom": "Léontine Cash",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "F. Nivard",
+      "musique": "Da6a(25)15a1a3a",
+      "vh": null,
+      "gains_eur": 51260,
+      "entraineur": "P. Hachin",
+      "cote_pmu": 7.3,
+      "non_partant": false,
+      "musique_raw": "Da6a(25)15a1a3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 6,
+      "position_moyenne": 3.75,
+      "sous_scores": {
+        "cote": 0.125,
+        "gains": 0.8426,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 40.14,
+      "enrichi": false,
+      "rang_predit": 3
+    },
+    {
+      "numero": 12,
+      "nom": "Little du Rib",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "N. Perron",
+      "musique": "3aDa3a5a(25)1a",
+      "vh": null,
+      "gains_eur": 58420,
+      "entraineur": "J. Hallais",
+      "cote_pmu": 7.9,
+      "non_partant": false,
+      "musique_raw": "3aDa3a5a(25)1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 3,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Little du Rib",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "N. Perron",
+          "proprietaire": "J. Hallais",
+          "eleveur": "Ecurie Rib",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 46000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 7.9,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "N. PERRON",
+            "victoires": 1,
+            "places": 2,
+            "courses": 8,
+            "pourcentage": 38.0
+          },
+          "avec_entraineur": {
+            "nom": "J. HALLAIS",
+            "victoires": 1,
+            "places": 8,
+            "courses": 22,
+            "pourcentage": 41.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 58420,
+          "musique": "3a Da 3a 5a (25) 1a 4a 2a",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1155,
+        "gains": 0.9603,
+        "couple_je": 0.395,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 39.95,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 9,
+      "nom": "Libertine de Freca",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "N. Brossard",
+      "musique": "6a2a1a5a1aDa",
+      "vh": null,
+      "gains_eur": 58105,
+      "entraineur": "N. Brossard",
+      "cote_pmu": 25.0,
+      "non_partant": false,
+      "musique_raw": "6a2a1a5a1aDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 6,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 9,
+        "nom": "Libertine de Freca",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "N. Brossard",
+          "proprietaire": "N. Brossard",
+          "eleveur": "Ecurie Freca",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 46000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 25.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 58105,
+          "musique": "6a 2a 1a 5a 1a Da (25) 1a",
+          "carriere": {
+            "courses": 23,
+            "victoires": 5,
+            "places": 5,
+            "pourcentage": 43.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0365,
+        "gains": 0.9551,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 38.29,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 10,
+      "nom": "Lucia de la Crière",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "G. Martin",
+      "musique": "2a12a2a8a3a2a",
+      "vh": null,
+      "gains_eur": 58145,
+      "entraineur": "Mlle M. Le Bourhis",
+      "cote_pmu": 34.0,
+      "non_partant": false,
+      "musique_raw": "2a12a2a8a3a2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 3.17,
+      "sous_scores": {
+        "cote": 0.0268,
+        "gains": 0.9558,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.91,
+      "enrichi": false,
+      "rang_predit": 6
+    },
+    {
+      "numero": 6,
+      "nom": "Légende Games",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "M. Abrivard",
+      "musique": "7a1a5a5aDa(25)",
+      "vh": null,
+      "gains_eur": 57455,
+      "entraineur": "P. Le Moel",
+      "cote_pmu": 30.0,
+      "non_partant": false,
+      "musique_raw": "7a1a5a5aDa(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 7,
+      "position_moyenne": 4.5,
+      "sous_scores": {
+        "cote": 0.0304,
+        "gains": 0.9444,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.88,
+      "enrichi": false,
+      "rang_predit": 7
+    },
+    {
+      "numero": 2,
+      "nom": "Lutte de Cossé",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "S. Baude",
+      "musique": "2a6a2aDa4a3a",
+      "vh": null,
+      "gains_eur": 56400,
+      "entraineur": "A. Leduc",
+      "cote_pmu": 35.0,
+      "non_partant": false,
+      "musique_raw": "2a6a2aDa4a3a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 3.4,
+      "sous_scores": {
+        "cote": 0.0261,
+        "gains": 0.9271,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.45,
+      "enrichi": false,
+      "rang_predit": 8
+    },
+    {
+      "numero": 4,
+      "nom": "La Trinité Nemo",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2700.0,
+      "jockey": "A. Desmottes",
+      "musique": "1aDa2a10a(25)3Da",
+      "vh": null,
+      "gains_eur": 56605,
+      "entraineur": "A. Desmottes",
+      "cote_pmu": 38.0,
+      "non_partant": false,
+      "musique_raw": "1aDa2a10a(25)3Da",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 1,
+      "position_moyenne": 1.5,
+      "sous_scores": {
+        "cote": 0.024,
+        "gains": 0.9305,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.42,
+      "enrichi": false,
       "rang_predit": 9
     },
     {
@@ -933,7 +924,7 @@
       "vh": null,
       "gains_eur": 56795,
       "entraineur": "V. Viel",
-      "cote_pmu": 9.2,
+      "cote_pmu": 9.0,
       "non_partant": false,
       "musique_raw": "6a4a1a1a(25)4a",
       "nb_courses_recentes": 5,
@@ -963,7 +954,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 9.2,
+        "cote_live_fiche": 9.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. LEBOURGEOIS",
@@ -1005,7 +996,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0988,
+        "cote": 0.1014,
         "gains": 0.9336,
         "couple_je": 0.485,
         "hippodrome": 0.17,
@@ -1013,7 +1004,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.93,
+      "score": 37.04,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1029,7 +1020,7 @@
       "vh": null,
       "gains_eur": 60825,
       "entraineur": "C. Cuiller",
-      "cote_pmu": 51.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "5a9a4a3a2aDa",
       "nb_courses_recentes": 6,
@@ -1059,7 +1050,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 51.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -1101,7 +1092,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0178,
+        "cote": 0.0315,
         "gains": 0.9998,
         "couple_je": 0.485,
         "hippodrome": 0.17,
@@ -1109,7 +1100,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 34.69,
+      "score": 35.23,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1125,7 +1116,7 @@
       "vh": null,
       "gains_eur": 56510,
       "entraineur": "JL. Dersoir",
-      "cote_pmu": 78.0,
+      "cote_pmu": 37.0,
       "non_partant": false,
       "musique_raw": "2a7a10a8a6a(25)",
       "nb_courses_recentes": 5,
@@ -1155,7 +1146,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 78.0,
+        "cote_live_fiche": 37.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "G. GELORMINI",
@@ -1197,7 +1188,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0117,
+        "cote": 0.0247,
         "gains": 0.9289,
         "couple_je": 0.365,
         "hippodrome": 0.33,
@@ -1205,7 +1196,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.17,
+      "score": 33.7,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1221,7 +1212,7 @@
       "vh": null,
       "gains_eur": 60835,
       "entraineur": "S. Hardy",
-      "cote_pmu": 56.0,
+      "cote_pmu": 48.0,
       "non_partant": false,
       "musique_raw": "2a6a8a6a7a(25)",
       "nb_courses_recentes": 5,
@@ -1251,7 +1242,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 56.0,
+        "cote_live_fiche": 48.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "S. HARDY",
@@ -1288,7 +1279,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0162,
+        "cote": 0.019,
         "gains": 1.0,
         "couple_je": 0.32,
         "hippodrome": 0.25,
@@ -1296,7 +1287,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.95,
+      "score": 33.06,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1312,7 +1303,7 @@
       "vh": null,
       "gains_eur": 60480,
       "entraineur": "C. Cuiller",
-      "cote_pmu": 67.0,
+      "cote_pmu": 40.0,
       "non_partant": false,
       "musique_raw": "Da5a7aDa(25)Da",
       "nb_courses_recentes": 5,
@@ -1342,7 +1333,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 67.0,
+        "cote_live_fiche": 40.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "PP. PLOQUIN",
@@ -1379,7 +1370,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0136,
+        "cote": 0.0228,
         "gains": 0.9942,
         "couple_je": 0.125,
         "hippodrome": 0.25,
@@ -1387,7 +1378,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.83,
+      "score": 30.2,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1403,7 +1394,7 @@
       "vh": null,
       "gains_eur": 57480,
       "entraineur": "R. Jajolet",
-      "cote_pmu": 62.0,
+      "cote_pmu": 43.0,
       "non_partant": false,
       "musique_raw": "4a7a4a0a2a5a",
       "nb_courses_recentes": 6,
@@ -1433,7 +1424,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 62.0,
+        "cote_live_fiche": 43.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. LAGADEUC",
@@ -1475,7 +1466,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0147,
+        "cote": 0.0212,
         "gains": 0.9449,
         "couple_je": 0.15,
         "hippodrome": 0.0,
@@ -1483,7 +1474,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.01,
+      "score": 27.27,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1499,7 +1490,7 @@
       "vh": null,
       "gains_eur": 60450,
       "entraineur": "L. Abrivard",
-      "cote_pmu": 164.0,
+      "cote_pmu": 108.0,
       "non_partant": false,
       "musique_raw": "11a(25)11a9a12a9a",
       "nb_courses_recentes": 5,
@@ -1529,7 +1520,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 164.0,
+        "cote_live_fiche": 108.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. ABRIVARD",
@@ -1571,7 +1562,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0055,
+        "cote": 0.0085,
         "gains": 0.9937,
         "couple_je": 0.065,
         "hippodrome": 0.0,
@@ -1579,7 +1570,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.1,
+      "score": 26.22,
       "enrichi": true,
       "rang_predit": 16
     }
