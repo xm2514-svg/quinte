@@ -13,7 +13,7 @@
     "distance_m": 3000,
     "corde": "droite",
     "terrain": "Bon souple",
-    "meteo": "29°C Ciel clair, vent 7km/h - N"
+    "meteo": "30°C Ciel clair, vent 9km/h - NE"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": 36.5,
       "gains_eur": 36109,
       "entraineur": "Mlle C. Fey",
-      "cote_pmu": 5.1,
+      "cote_pmu": 4.5,
       "non_partant": false,
       "musique_raw": "3p5p(25)1p3p1p",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 3000,
           "vh": 36.5
         },
-        "cote_live_fiche": 5.1,
+        "cote_live_fiche": 4.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. HARDOUIN",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.175,
+        "cote": 0.2015,
         "gains": 0.1586,
         "couple_je": 0.73,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.33,
+      "score": 41.39,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": 35.5,
       "gains_eur": 208851,
       "entraineur": "M. Rulec",
-      "cote_pmu": 14.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "12p5p3p(25)6h11p",
       "nb_courses_recentes": 5,
@@ -164,7 +164,7 @@
           "distance_m": 3000,
           "vh": 35.5
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -206,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0638,
+        "cote": 0.0567,
         "gains": 0.9171,
         "couple_je": 0.215,
         "hippodrome": 1.0,
@@ -214,7 +214,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.53,
+      "score": 39.25,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -230,7 +230,7 @@
       "vh": 36.0,
       "gains_eur": 21034,
       "entraineur": "G. Batistic",
-      "cote_pmu": 14.0,
+      "cote_pmu": 15.0,
       "non_partant": false,
       "musique_raw": "2p(25)4p2p3p1p",
       "nb_courses_recentes": 5,
@@ -260,7 +260,7 @@
           "distance_m": 3000,
           "vh": 36.0
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 15.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. NICOLEAU",
@@ -297,7 +297,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0638,
+        "cote": 0.0604,
         "gains": 0.0924,
         "couple_je": 0.9,
         "hippodrome": 1.0,
@@ -305,7 +305,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.44,
+      "score": 37.3,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -321,7 +321,7 @@
       "vh": 33.0,
       "gains_eur": 227723,
       "entraineur": "G. Batistic",
-      "cote_pmu": 10.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p10p5p(25)7p6p",
       "nb_courses_recentes": 5,
@@ -351,7 +351,7 @@
           "distance_m": 3000,
           "vh": 33.0
         },
-        "cote_live_fiche": 10.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -393,7 +393,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0893,
+        "cote": 0.0824,
         "gains": 1.0,
         "couple_je": 0.29,
         "hippodrome": 0.4,
@@ -401,7 +401,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.92,
+      "score": 36.65,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -417,7 +417,7 @@
       "vh": 32.0,
       "gains_eur": 45896,
       "entraineur": "M. Rulec",
-      "cote_pmu": 12.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "1p1p2p4p(24)8p",
       "nb_courses_recentes": 5,
@@ -447,7 +447,7 @@
           "distance_m": 3000,
           "vh": 32.0
         },
-        "cote_live_fiche": 12.0,
+        "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. MADAMET",
@@ -489,7 +489,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0744,
+        "cote": 0.0697,
         "gains": 0.2015,
         "couple_je": 0.67,
         "hippodrome": 1.0,
@@ -497,7 +497,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.05,
+      "score": 35.86,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -515,7 +515,7 @@
       "vh": 36.5,
       "gains_eur": 36109,
       "entraineur": "Mlle C. Fey",
-      "cote_pmu": 5.1,
+      "cote_pmu": 4.5,
       "non_partant": false,
       "musique_raw": "3p5p(25)1p3p1p",
       "nb_courses_recentes": 5,
@@ -545,7 +545,7 @@
           "distance_m": 3000,
           "vh": 36.5
         },
-        "cote_live_fiche": 5.1,
+        "cote_live_fiche": 4.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. HARDOUIN",
@@ -587,7 +587,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.175,
+        "cote": 0.2015,
         "gains": 0.1586,
         "couple_je": 0.73,
         "hippodrome": 1.0,
@@ -595,7 +595,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.33,
+      "score": 41.39,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -611,7 +611,7 @@
       "vh": 35.5,
       "gains_eur": 208851,
       "entraineur": "M. Rulec",
-      "cote_pmu": 14.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "12p5p3p(25)6h11p",
       "nb_courses_recentes": 5,
@@ -641,7 +641,7 @@
           "distance_m": 3000,
           "vh": 35.5
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -683,7 +683,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0638,
+        "cote": 0.0567,
         "gains": 0.9171,
         "couple_je": 0.215,
         "hippodrome": 1.0,
@@ -691,7 +691,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.53,
+      "score": 39.25,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -707,7 +707,7 @@
       "vh": 36.0,
       "gains_eur": 21034,
       "entraineur": "G. Batistic",
-      "cote_pmu": 14.0,
+      "cote_pmu": 15.0,
       "non_partant": false,
       "musique_raw": "2p(25)4p2p3p1p",
       "nb_courses_recentes": 5,
@@ -737,7 +737,7 @@
           "distance_m": 3000,
           "vh": 36.0
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 15.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. NICOLEAU",
@@ -774,7 +774,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0638,
+        "cote": 0.0604,
         "gains": 0.0924,
         "couple_je": 0.9,
         "hippodrome": 1.0,
@@ -782,7 +782,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.44,
+      "score": 37.3,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -798,7 +798,7 @@
       "vh": 33.0,
       "gains_eur": 227723,
       "entraineur": "G. Batistic",
-      "cote_pmu": 10.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p10p5p(25)7p6p",
       "nb_courses_recentes": 5,
@@ -828,7 +828,7 @@
           "distance_m": 3000,
           "vh": 33.0
         },
-        "cote_live_fiche": 10.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -870,7 +870,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0893,
+        "cote": 0.0824,
         "gains": 1.0,
         "couple_je": 0.29,
         "hippodrome": 0.4,
@@ -878,7 +878,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.92,
+      "score": 36.65,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -894,7 +894,7 @@
       "vh": 32.0,
       "gains_eur": 45896,
       "entraineur": "M. Rulec",
-      "cote_pmu": 12.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "1p1p2p4p(24)8p",
       "nb_courses_recentes": 5,
@@ -924,7 +924,7 @@
           "distance_m": 3000,
           "vh": 32.0
         },
-        "cote_live_fiche": 12.0,
+        "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. MADAMET",
@@ -966,7 +966,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0744,
+        "cote": 0.0697,
         "gains": 0.2015,
         "couple_je": 0.67,
         "hippodrome": 1.0,
@@ -974,7 +974,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.05,
+      "score": 35.86,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -990,7 +990,7 @@
       "vh": 30.5,
       "gains_eur": 105645,
       "entraineur": "S. Eveno",
-      "cote_pmu": 24.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "3p2p6p(25)8p4p",
       "nb_courses_recentes": 5,
@@ -1020,7 +1020,7 @@
           "distance_m": 3000,
           "vh": 30.5
         },
-        "cote_live_fiche": 24.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE F. VALLE SKAR",
@@ -1062,7 +1062,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0372,
+        "cote": 0.0349,
         "gains": 0.4639,
         "couple_je": 0.43,
         "hippodrome": 1.0,
@@ -1070,7 +1070,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 34.9,
+      "score": 34.8,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1086,7 +1086,7 @@
       "vh": 33.5,
       "gains_eur": 179505,
       "entraineur": "Mme C. Whitfield",
-      "cote_pmu": 28.0,
+      "cote_pmu": 27.0,
       "non_partant": false,
       "musique_raw": "9p11p5p(25)3p12p",
       "nb_courses_recentes": 5,
@@ -1116,7 +1116,7 @@
           "distance_m": 3000,
           "vh": 33.5
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 27.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. SEIDL",
@@ -1158,7 +1158,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0319,
+        "cote": 0.0336,
         "gains": 0.7883,
         "couple_je": 0.38,
         "hippodrome": 0.4,
@@ -1166,7 +1166,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.8,
+      "score": 32.87,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1182,7 +1182,7 @@
       "vh": 30.5,
       "gains_eur": 104180,
       "entraineur": "C. Peterschmitt",
-      "cote_pmu": 14.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "1p(25)12p10p7p8p",
       "nb_courses_recentes": 5,
@@ -1212,7 +1212,7 @@
           "distance_m": 3000,
           "vh": 30.5
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE D. SANTIAGO",
@@ -1254,7 +1254,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0638,
+        "cote": 0.0567,
         "gains": 0.4575,
         "couple_je": 0.41,
         "hippodrome": 0.4,
@@ -1262,42 +1262,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.56,
+      "score": 29.28,
       "enrichi": true,
       "rang_predit": 8
-    },
-    {
-      "numero": 2,
-      "nom": "Pretty Queen",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 4,
-      "poids": 59.0,
-      "jockey": "R. Thomas",
-      "musique": "2p8p5p(25)1p5p",
-      "vh": 38.0,
-      "gains_eur": 23872,
-      "entraineur": "Lerner (s)",
-      "cote_pmu": 7.3,
-      "non_partant": false,
-      "musique_raw": "2p8p5p(25)1p5p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.2,
-      "sous_scores": {
-        "cote": 0.1223,
-        "gains": 0.1048,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 28.96,
-      "enrichi": false,
-      "rang_predit": 9
     },
     {
       "numero": 3,
@@ -1311,7 +1278,7 @@
       "vh": 37.0,
       "gains_eur": 66907,
       "entraineur": "M. Cesandri",
-      "cote_pmu": 17.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "6p10p6p(25)12p1p",
       "nb_courses_recentes": 5,
@@ -1341,29 +1308,11 @@
           "distance_m": 3000,
           "vh": 37.0
         },
-        "cote_live_fiche": 17.0,
+        "cote_live_fiche": 18.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "D. PROVOST",
-            "victoires": 2,
-            "places": 0,
-            "courses": 7,
-            "pourcentage": 29.0
-          },
-          "avec_entraineur": {
-            "nom": "M. CESANDRI",
-            "victoires": 3,
-            "places": 5,
-            "courses": 17,
-            "pourcentage": 47.0
-          },
-          "sur_hippodrome": {
-            "nom": "STRASBOURG",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 66907,
@@ -1383,75 +1332,75 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0525,
+        "cote": 0.0504,
         "gains": 0.2938,
-        "couple_je": 0.38,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.21,
+      "score": 28.92,
       "enrichi": true,
-      "rang_predit": 10
+      "rang_predit": 9
     },
     {
-      "numero": 14,
-      "nom": "Que Bella",
-      "artifice": null,
+      "numero": 2,
+      "nom": "Pretty Queen",
+      "artifice": "oui",
       "sexe": "F",
       "age": 4,
-      "poids": 52.0,
-      "jockey": "B. Marie",
-      "musique": "1p1p8p(25)8p4p",
-      "vh": 30.5,
-      "gains_eur": 22403,
-      "entraineur": "A. Suborics",
-      "cote_pmu": 19.0,
+      "poids": 59.0,
+      "jockey": "R. Thomas",
+      "musique": "2p8p5p(25)1p5p",
+      "vh": 38.0,
+      "gains_eur": 23872,
+      "entraineur": "Lerner (s)",
+      "cote_pmu": 6.6,
       "non_partant": false,
-      "musique_raw": "1p1p8p(25)8p4p",
+      "musique_raw": "2p8p5p(25)1p5p",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
+      "nb_victoires_recentes": 1,
       "nb_places_recentes": 2,
-      "derniere_position": 1,
-      "position_moyenne": 4.4,
+      "derniere_position": 2,
+      "position_moyenne": 4.2,
       "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Que Bella",
+        "numero": 2,
+        "nom": "Pretty Queen",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "B. Marie",
-          "proprietaire": "A. Suborics",
-          "eleveur": "Turfsyndikat Baden-Baden",
+          "entraineur": "R. Thomas",
+          "proprietaire": "Lerner (s)",
+          "eleveur": "Chevotel Racing",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Femelle",
           "pere": "Galop",
-          "mere": "Mastercraftsman"
+          "mere": "Australia"
         },
         "course_actuelle": {
           "hippodrome": "Strasbourg",
           "nb_partants": 16,
           "allocation_eur": 50900,
           "distance_m": 3000,
-          "vh": 30.5
+          "vh": 38.0
         },
-        "cote_live_fiche": 19.0,
+        "cote_live_fiche": 6.6,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "B. MARIE",
-            "victoires": 2,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 67.0
+            "nom": "R. THOMAS",
+            "victoires": 1,
+            "places": 1,
+            "courses": 5,
+            "pourcentage": 40.0
           },
           "avec_entraineur": {
-            "nom": "A. SUBORICS",
+            "nom": "LERNER (S)",
             "victoires": 2,
-            "places": 0,
-            "courses": 7,
-            "pourcentage": 29.0
+            "places": 1,
+            "courses": 6,
+            "pourcentage": 50.0
           },
           "sur_hippodrome": {
             "nom": "STRASBOURG",
@@ -1462,13 +1411,13 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 22403,
-          "musique": "1p 1p 8p (25) 8p 4p 7p 4p",
+          "gains_eur": 23872,
+          "musique": "2p 8p 5p (25) 1p 5p 1p",
           "carriere": {
-            "courses": 12,
+            "courses": 6,
             "victoires": 2,
             "places": 1,
-            "pourcentage": 25.0
+            "pourcentage": 50.0
           }
         },
         "dernieres_courses": [],
@@ -1479,17 +1428,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.047,
-        "gains": 0.0984,
-        "couple_je": 0.48,
+        "cote": 0.1374,
+        "gains": 0.1048,
+        "couple_je": 0.45,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 25.55,
+      "score": 28.82,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 10
     },
     {
       "numero": 12,
@@ -1575,7 +1524,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0811,
+        "cote": 0.0824,
         "gains": 0.1646,
         "couple_je": 0.395,
         "hippodrome": 0.38,
@@ -1583,7 +1532,103 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 25.44,
+      "score": 25.49,
+      "enrichi": true,
+      "rang_predit": 11
+    },
+    {
+      "numero": 14,
+      "nom": "Que Bella",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 52.0,
+      "jockey": "B. Marie",
+      "musique": "1p1p8p(25)8p4p",
+      "vh": 30.5,
+      "gains_eur": 22403,
+      "entraineur": "A. Suborics",
+      "cote_pmu": 22.0,
+      "non_partant": false,
+      "musique_raw": "1p1p8p(25)8p4p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 1,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 14,
+        "nom": "Que Bella",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "B. Marie",
+          "proprietaire": "A. Suborics",
+          "eleveur": "Turfsyndikat Baden-Baden",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Mastercraftsman"
+        },
+        "course_actuelle": {
+          "hippodrome": "Strasbourg",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 3000,
+          "vh": 30.5
+        },
+        "cote_live_fiche": 22.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "B. MARIE",
+            "victoires": 2,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "A. SUBORICS",
+            "victoires": 2,
+            "places": 0,
+            "courses": 7,
+            "pourcentage": 29.0
+          },
+          "sur_hippodrome": {
+            "nom": "STRASBOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 22403,
+          "musique": "1p 1p 8p (25) 8p 4p 7p 4p",
+          "carriere": {
+            "courses": 12,
+            "victoires": 2,
+            "places": 1,
+            "pourcentage": 25.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0412,
+        "gains": 0.0984,
+        "couple_je": 0.48,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 25.32,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1599,7 +1644,7 @@
       "vh": 39.0,
       "gains_eur": 63086,
       "entraineur": "Mme J. Manova",
-      "cote_pmu": 21.0,
+      "cote_pmu": 24.0,
       "non_partant": false,
       "musique_raw": "1p9p(25)1p7p1p",
       "nb_courses_recentes": 5,
@@ -1629,7 +1674,7 @@
           "distance_m": 3000,
           "vh": 39.0
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 24.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. ZATLOUKAL",
@@ -1671,7 +1716,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0425,
+        "cote": 0.0378,
         "gains": 0.277,
         "couple_je": 0.195,
         "hippodrome": 0.5,
@@ -1679,7 +1724,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.78,
+      "score": 23.59,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1695,7 +1740,7 @@
       "vh": 32.5,
       "gains_eur": 24821,
       "entraineur": "M. Nieslanik",
-      "cote_pmu": 64.0,
+      "cote_pmu": 60.0,
       "non_partant": false,
       "musique_raw": "6p(25)4p1p6p2p",
       "nb_courses_recentes": 5,
@@ -1725,7 +1770,7 @@
           "distance_m": 3000,
           "vh": 32.5
         },
-        "cote_live_fiche": 64.0,
+        "cote_live_fiche": 60.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. FLAMENT",
@@ -1767,7 +1812,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0139,
+        "cote": 0.0151,
         "gains": 0.109,
         "couple_je": 0.35,
         "hippodrome": 0.5,
@@ -1775,7 +1820,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 22.44,
+      "score": 22.49,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1791,7 +1836,7 @@
       "vh": 29.5,
       "gains_eur": 81888,
       "entraineur": "M. Krebs",
-      "cote_pmu": 33.0,
+      "cote_pmu": 35.0,
       "non_partant": false,
       "musique_raw": "3p7p14p2p7p5p",
       "nb_courses_recentes": 6,
@@ -1821,7 +1866,7 @@
           "distance_m": 3000,
           "vh": 29.5
         },
-        "cote_live_fiche": 33.0,
+        "cote_live_fiche": 35.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE P. CHEYER",
@@ -1863,7 +1908,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.027,
+        "cote": 0.0259,
         "gains": 0.3596,
         "couple_je": 0.15,
         "hippodrome": 0.17,
@@ -1871,7 +1916,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 20.43,
+      "score": 20.38,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1887,7 +1932,7 @@
       "vh": 32.0,
       "gains_eur": 16700,
       "entraineur": "Mme Y. Vollmer",
-      "cote_pmu": 61.0,
+      "cote_pmu": 65.0,
       "non_partant": false,
       "musique_raw": "12p12p(25)12p5p3p",
       "nb_courses_recentes": 5,
@@ -1917,7 +1962,7 @@
           "distance_m": 3000,
           "vh": 32.0
         },
-        "cote_live_fiche": 61.0,
+        "cote_live_fiche": 65.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. BOISSEAU",
@@ -1954,7 +1999,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0146,
+        "cote": 0.0139,
         "gains": 0.0733,
         "couple_je": 0.31,
         "hippodrome": 0.4,
@@ -1962,12 +2007,12 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 20.34,
+      "score": 20.31,
       "enrichi": true,
       "rang_predit": 16
     }
   ],
-  "nb_enrichis": 15,
+  "nb_enrichis": 16,
   "nb_partants": 16,
   "cotes_dispo": 16
 }
