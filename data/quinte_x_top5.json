@@ -13,7 +13,7 @@
     "distance_m": 2850,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "22°C Ciel clair, vent 6km/h - E"
+    "meteo": "30°C Ciel clair, vent 13km/h - S"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 173695,
       "entraineur": "CA. Mallet",
-      "cote_pmu": 6.4,
+      "cote_pmu": 3.3,
       "non_partant": false,
       "musique_raw": "14a2a10a10a(25)1a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 6.4,
+        "cote_live_fiche": 3.3,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. LEBOURGEOIS",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1421,
+        "cote": 0.2736,
         "gains": 0.9663,
         "couple_je": 0.545,
         "hippodrome": 1.0,
@@ -118,42 +118,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 48.35,
+      "score": 53.61,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 10,
-      "nom": "Idole Eldé",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "M. Mottier",
-      "musique": "4a1a11a(25)6aDa",
-      "vh": null,
-      "gains_eur": 175265,
-      "entraineur": "N. Lemétayer",
-      "cote_pmu": 3.9,
-      "non_partant": false,
-      "musique_raw": "4a1a11a(25)6aDa",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 3.0,
-      "sous_scores": {
-        "cote": 0.2331,
-        "gains": 0.975,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 46.45,
-      "enrichi": false,
-      "rang_predit": 2
     },
     {
       "numero": 9,
@@ -167,729 +134,22 @@
       "vh": null,
       "gains_eur": 173745,
       "entraineur": "CA. Mallet",
-      "cote_pmu": 12.0,
-      "non_partant": false,
-      "musique_raw": "15a2a10a2a10a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 5,
-      "position_moyenne": 1.8,
-      "fiche_enrichie": {
-        "numero": 9,
-        "nom": "Ienisse de Barbray",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Raffin",
-          "proprietaire": "CA. Mallet",
-          "eleveur": "Ecurie Christophe Mallet",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 12.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 4,
-            "places": 5,
-            "courses": 13,
-            "pourcentage": 69.0
-          },
-          "avec_entraineur": {
-            "nom": "CA. MALLET",
-            "victoires": 8,
-            "places": 18,
-            "courses": 61,
-            "pourcentage": 43.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 173745,
-          "musique": "15a 2a 10a 2a 10a (25) 2a 3a",
-          "carriere": {
-            "courses": 61,
-            "victoires": 8,
-            "places": 18,
-            "pourcentage": 43.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0758,
-        "gains": 0.9666,
-        "couple_je": 0.56,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 45.93,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 2,
-      "nom": "Izijal",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "A. Abrivard",
-      "musique": "12a7a9a1a3a(25)",
-      "vh": null,
-      "gains_eur": 166505,
-      "entraineur": "Benoît Barassin (s)",
-      "cote_pmu": 9.3,
-      "non_partant": false,
-      "musique_raw": "12a7a9a1a3a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 4.4,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Izijal",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Abrivard",
-          "proprietaire": "Benoît Barassin (s)",
-          "eleveur": "Benoît Barassin (s)",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 9.3,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. ABRIVARD",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "BENOÎT BARASSIN (S)",
-            "victoires": 2,
-            "places": 2,
-            "courses": 7,
-            "pourcentage": 57.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 3,
-            "courses": 11,
-            "pourcentage": 36.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 166505,
-          "musique": "12a 7a 9a 1a 3a (25) 3a 1a",
-          "carriere": {
-            "courses": 67,
-            "victoires": 8,
-            "places": 11,
-            "pourcentage": 28.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0978,
-        "gains": 0.9263,
-        "couple_je": 0.785,
-        "hippodrome": 0.36,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 43.18,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 14,
-      "nom": "Ilton de Bellande",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "M. Abrivard",
-      "musique": "4a(25)4a1a3a2a",
-      "vh": null,
-      "gains_eur": 177095,
-      "entraineur": "G. Fournigault",
-      "cote_pmu": 8.1,
-      "non_partant": false,
-      "musique_raw": "4a(25)4a1a3a2a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 2.8,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Ilton de Bellande",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Abrivard",
-          "proprietaire": "G. Fournigault",
-          "eleveur": "L. Gauthier",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 8.1,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. ABRIVARD",
-            "victoires": 2,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 63.0
-          },
-          "avec_entraineur": {
-            "nom": "G. FOURNIGAULT",
-            "victoires": 6,
-            "places": 15,
-            "courses": 60,
-            "pourcentage": 35.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 3,
-            "courses": 7,
-            "pourcentage": 57.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 177095,
-          "musique": "4a (25) 4a 1a 3a 2a 4a 6a",
-          "carriere": {
-            "courses": 59,
-            "victoires": 6,
-            "places": 15,
-            "pourcentage": 36.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1122,
-        "gains": 0.9852,
-        "couple_je": 0.49,
-        "hippodrome": 0.57,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 42.32,
-      "enrichi": true,
-      "rang_predit": 5
-    }
-  ],
-  "tous_chevaux": [
-    {
-      "numero": 8,
-      "nom": "Iroise de Madker",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "Y. Lebourgeois",
-      "musique": "14a2a10a10a(25)1a",
-      "vh": null,
-      "gains_eur": 173695,
-      "entraineur": "CA. Mallet",
-      "cote_pmu": 6.4,
-      "non_partant": false,
-      "musique_raw": "14a2a10a10a(25)1a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 4,
-      "position_moyenne": 1.4,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Iroise de Madker",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "Y. Lebourgeois",
-          "proprietaire": "CA. Mallet",
-          "eleveur": "Ecurie Christophe Mallet",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 6.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "Y. LEBOURGEOIS",
-            "victoires": 4,
-            "places": 1,
-            "courses": 7,
-            "pourcentage": 71.0
-          },
-          "avec_entraineur": {
-            "nom": "CA. MALLET",
-            "victoires": 11,
-            "places": 12,
-            "courses": 60,
-            "pourcentage": 38.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 173695,
-          "musique": "14a 2a 10a 10a (25) 1a Da 4a",
-          "carriere": {
-            "courses": 60,
-            "victoires": 11,
-            "places": 12,
-            "pourcentage": 38.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1421,
-        "gains": 0.9663,
-        "couple_je": 0.545,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 48.35,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 10,
-      "nom": "Idole Eldé",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "M. Mottier",
-      "musique": "4a1a11a(25)6aDa",
-      "vh": null,
-      "gains_eur": 175265,
-      "entraineur": "N. Lemétayer",
-      "cote_pmu": 3.9,
-      "non_partant": false,
-      "musique_raw": "4a1a11a(25)6aDa",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 3.0,
-      "sous_scores": {
-        "cote": 0.2331,
-        "gains": 0.975,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 46.45,
-      "enrichi": false,
-      "rang_predit": 2
-    },
-    {
-      "numero": 9,
-      "nom": "Ienisse de Barbray",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "E. Raffin",
-      "musique": "15a2a10a2a10a(25)",
-      "vh": null,
-      "gains_eur": 173745,
-      "entraineur": "CA. Mallet",
-      "cote_pmu": 12.0,
-      "non_partant": false,
-      "musique_raw": "15a2a10a2a10a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 5,
-      "position_moyenne": 1.8,
-      "fiche_enrichie": {
-        "numero": 9,
-        "nom": "Ienisse de Barbray",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Raffin",
-          "proprietaire": "CA. Mallet",
-          "eleveur": "Ecurie Christophe Mallet",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 12.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 4,
-            "places": 5,
-            "courses": 13,
-            "pourcentage": 69.0
-          },
-          "avec_entraineur": {
-            "nom": "CA. MALLET",
-            "victoires": 8,
-            "places": 18,
-            "courses": 61,
-            "pourcentage": 43.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 173745,
-          "musique": "15a 2a 10a 2a 10a (25) 2a 3a",
-          "carriere": {
-            "courses": 61,
-            "victoires": 8,
-            "places": 18,
-            "pourcentage": 43.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0758,
-        "gains": 0.9666,
-        "couple_je": 0.56,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 45.93,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 2,
-      "nom": "Izijal",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "A. Abrivard",
-      "musique": "12a7a9a1a3a(25)",
-      "vh": null,
-      "gains_eur": 166505,
-      "entraineur": "Benoît Barassin (s)",
-      "cote_pmu": 9.3,
-      "non_partant": false,
-      "musique_raw": "12a7a9a1a3a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 4.4,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Izijal",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Abrivard",
-          "proprietaire": "Benoît Barassin (s)",
-          "eleveur": "Benoît Barassin (s)",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 9.3,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. ABRIVARD",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "BENOÎT BARASSIN (S)",
-            "victoires": 2,
-            "places": 2,
-            "courses": 7,
-            "pourcentage": 57.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 3,
-            "courses": 11,
-            "pourcentage": 36.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 166505,
-          "musique": "12a 7a 9a 1a 3a (25) 3a 1a",
-          "carriere": {
-            "courses": 67,
-            "victoires": 8,
-            "places": 11,
-            "pourcentage": 28.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0978,
-        "gains": 0.9263,
-        "couple_je": 0.785,
-        "hippodrome": 0.36,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 43.18,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 14,
-      "nom": "Ilton de Bellande",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "M. Abrivard",
-      "musique": "4a(25)4a1a3a2a",
-      "vh": null,
-      "gains_eur": 177095,
-      "entraineur": "G. Fournigault",
-      "cote_pmu": 8.1,
-      "non_partant": false,
-      "musique_raw": "4a(25)4a1a3a2a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 2.8,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Ilton de Bellande",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Abrivard",
-          "proprietaire": "G. Fournigault",
-          "eleveur": "L. Gauthier",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 8.1,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. ABRIVARD",
-            "victoires": 2,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 63.0
-          },
-          "avec_entraineur": {
-            "nom": "G. FOURNIGAULT",
-            "victoires": 6,
-            "places": 15,
-            "courses": 60,
-            "pourcentage": 35.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 3,
-            "courses": 7,
-            "pourcentage": 57.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 177095,
-          "musique": "4a (25) 4a 1a 3a 2a 4a 6a",
-          "carriere": {
-            "courses": 59,
-            "victoires": 6,
-            "places": 15,
-            "pourcentage": 36.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1122,
-        "gains": 0.9852,
-        "couple_je": 0.49,
-        "hippodrome": 0.57,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 42.32,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 4,
-      "nom": "Icare Dungy",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "R. Lamy",
-      "musique": "14a2a1a2a3a(25)",
-      "vh": null,
-      "gains_eur": 169415,
-      "entraineur": "Y. Lacombe",
       "cote_pmu": 11.0,
       "non_partant": false,
-      "musique_raw": "14a2a1a2a3a(25)",
+      "musique_raw": "15a2a10a2a10a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 4,
-      "derniere_position": 4,
-      "position_moyenne": 2.4,
+      "derniere_position": 5,
+      "position_moyenne": 1.8,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Icare Dungy",
+        "numero": 9,
+        "nom": "Ienisse de Barbray",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "R. Lamy",
-          "proprietaire": "Y. Lacombe",
-          "eleveur": "Mlle E. Duffillol",
+          "entraineur": "E. Raffin",
+          "proprietaire": "CA. Mallet",
+          "eleveur": "Ecurie Christophe Mallet",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
@@ -907,35 +167,35 @@
         "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "R. LAMY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "E. RAFFIN",
+            "victoires": 4,
+            "places": 5,
+            "courses": 13,
+            "pourcentage": 69.0
           },
           "avec_entraineur": {
-            "nom": "Y. LACOMBE",
+            "nom": "CA. MALLET",
             "victoires": 8,
-            "places": 17,
+            "places": 18,
             "courses": 61,
-            "pourcentage": 41.0
+            "pourcentage": 43.0
           },
           "sur_hippodrome": {
             "nom": "PARIS-VINCENNES",
             "victoires": 0,
             "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
+            "courses": 2,
+            "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 169415,
-          "musique": "14a 2a 1a 2a 3a (25) 1a 3a",
+          "gains_eur": 173745,
+          "musique": "15a 2a 10a 2a 10a (25) 2a 3a",
           "carriere": {
-            "courses": 63,
+            "courses": 61,
             "victoires": 8,
             "places": 18,
-            "pourcentage": 41.0
+            "pourcentage": 43.0
           }
         },
         "dernieres_courses": [],
@@ -946,17 +206,661 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0827,
-        "gains": 0.9425,
-        "couple_je": 0.41,
-        "hippodrome": 0.67,
+        "cote": 0.0821,
+        "gains": 0.9666,
+        "couple_je": 0.56,
+        "hippodrome": 1.0,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.29,
+      "score": 46.18,
       "enrichi": true,
-      "rang_predit": 6
+      "rang_predit": 2
+    },
+    {
+      "numero": 14,
+      "nom": "Ilton de Bellande",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "M. Abrivard",
+      "musique": "4a(25)4a1a3a2a",
+      "vh": null,
+      "gains_eur": 177095,
+      "entraineur": "G. Fournigault",
+      "cote_pmu": 8.0,
+      "non_partant": false,
+      "musique_raw": "4a(25)4a1a3a2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 4,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 14,
+        "nom": "Ilton de Bellande",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Abrivard",
+          "proprietaire": "G. Fournigault",
+          "eleveur": "L. Gauthier",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 8.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. ABRIVARD",
+            "victoires": 2,
+            "places": 3,
+            "courses": 8,
+            "pourcentage": 63.0
+          },
+          "avec_entraineur": {
+            "nom": "G. FOURNIGAULT",
+            "victoires": 6,
+            "places": 15,
+            "courses": 60,
+            "pourcentage": 35.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 57.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 177095,
+          "musique": "4a (25) 4a 1a 3a 2a 4a 6a",
+          "carriere": {
+            "courses": 59,
+            "victoires": 6,
+            "places": 15,
+            "pourcentage": 36.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1129,
+        "gains": 0.9852,
+        "couple_je": 0.49,
+        "hippodrome": 0.57,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 42.34,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 2,
+      "nom": "Izijal",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "A. Abrivard",
+      "musique": "12a7a9a1a3a(25)",
+      "vh": null,
+      "gains_eur": 166505,
+      "entraineur": "Benoît Barassin (s)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "12a7a9a1a3a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Izijal",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "Benoît Barassin (s)",
+          "eleveur": "Benoît Barassin (s)",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "BENOÎT BARASSIN (S)",
+            "victoires": 2,
+            "places": 2,
+            "courses": 7,
+            "pourcentage": 57.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 3,
+            "courses": 11,
+            "pourcentage": 36.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 166505,
+          "musique": "12a 7a 9a 1a 3a (25) 3a 1a",
+          "carriere": {
+            "courses": 67,
+            "victoires": 8,
+            "places": 11,
+            "pourcentage": 28.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0752,
+        "gains": 0.9263,
+        "couple_je": 0.785,
+        "hippodrome": 0.36,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 42.28,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 10,
+      "nom": "Idole Eldé",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "M. Mottier",
+      "musique": "4a1a11a(25)6aDa",
+      "vh": null,
+      "gains_eur": 175265,
+      "entraineur": "N. Lemétayer",
+      "cote_pmu": 7.6,
+      "non_partant": false,
+      "musique_raw": "4a1a11a(25)6aDa",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 3.0,
+      "sous_scores": {
+        "cote": 0.1188,
+        "gains": 0.975,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 41.88,
+      "enrichi": false,
+      "rang_predit": 5
+    }
+  ],
+  "tous_chevaux": [
+    {
+      "numero": 8,
+      "nom": "Iroise de Madker",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "Y. Lebourgeois",
+      "musique": "14a2a10a10a(25)1a",
+      "vh": null,
+      "gains_eur": 173695,
+      "entraineur": "CA. Mallet",
+      "cote_pmu": 3.3,
+      "non_partant": false,
+      "musique_raw": "14a2a10a10a(25)1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 4,
+      "position_moyenne": 1.4,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Iroise de Madker",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "Y. Lebourgeois",
+          "proprietaire": "CA. Mallet",
+          "eleveur": "Ecurie Christophe Mallet",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 3.3,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "Y. LEBOURGEOIS",
+            "victoires": 4,
+            "places": 1,
+            "courses": 7,
+            "pourcentage": 71.0
+          },
+          "avec_entraineur": {
+            "nom": "CA. MALLET",
+            "victoires": 11,
+            "places": 12,
+            "courses": 60,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 173695,
+          "musique": "14a 2a 10a 10a (25) 1a Da 4a",
+          "carriere": {
+            "courses": 60,
+            "victoires": 11,
+            "places": 12,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2736,
+        "gains": 0.9663,
+        "couple_je": 0.545,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 53.61,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 9,
+      "nom": "Ienisse de Barbray",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "E. Raffin",
+      "musique": "15a2a10a2a10a(25)",
+      "vh": null,
+      "gains_eur": 173745,
+      "entraineur": "CA. Mallet",
+      "cote_pmu": 11.0,
+      "non_partant": false,
+      "musique_raw": "15a2a10a2a10a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 5,
+      "position_moyenne": 1.8,
+      "fiche_enrichie": {
+        "numero": 9,
+        "nom": "Ienisse de Barbray",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "E. Raffin",
+          "proprietaire": "CA. Mallet",
+          "eleveur": "Ecurie Christophe Mallet",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 11.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "E. RAFFIN",
+            "victoires": 4,
+            "places": 5,
+            "courses": 13,
+            "pourcentage": 69.0
+          },
+          "avec_entraineur": {
+            "nom": "CA. MALLET",
+            "victoires": 8,
+            "places": 18,
+            "courses": 61,
+            "pourcentage": 43.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 2,
+            "courses": 2,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 173745,
+          "musique": "15a 2a 10a 2a 10a (25) 2a 3a",
+          "carriere": {
+            "courses": 61,
+            "victoires": 8,
+            "places": 18,
+            "pourcentage": 43.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0821,
+        "gains": 0.9666,
+        "couple_je": 0.56,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 46.18,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 14,
+      "nom": "Ilton de Bellande",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "M. Abrivard",
+      "musique": "4a(25)4a1a3a2a",
+      "vh": null,
+      "gains_eur": 177095,
+      "entraineur": "G. Fournigault",
+      "cote_pmu": 8.0,
+      "non_partant": false,
+      "musique_raw": "4a(25)4a1a3a2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 4,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 14,
+        "nom": "Ilton de Bellande",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Abrivard",
+          "proprietaire": "G. Fournigault",
+          "eleveur": "L. Gauthier",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 8.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. ABRIVARD",
+            "victoires": 2,
+            "places": 3,
+            "courses": 8,
+            "pourcentage": 63.0
+          },
+          "avec_entraineur": {
+            "nom": "G. FOURNIGAULT",
+            "victoires": 6,
+            "places": 15,
+            "courses": 60,
+            "pourcentage": 35.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 57.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 177095,
+          "musique": "4a (25) 4a 1a 3a 2a 4a 6a",
+          "carriere": {
+            "courses": 59,
+            "victoires": 6,
+            "places": 15,
+            "pourcentage": 36.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1129,
+        "gains": 0.9852,
+        "couple_je": 0.49,
+        "hippodrome": 0.57,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 42.34,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 2,
+      "nom": "Izijal",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "A. Abrivard",
+      "musique": "12a7a9a1a3a(25)",
+      "vh": null,
+      "gains_eur": 166505,
+      "entraineur": "Benoît Barassin (s)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "12a7a9a1a3a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Izijal",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "Benoît Barassin (s)",
+          "eleveur": "Benoît Barassin (s)",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "BENOÎT BARASSIN (S)",
+            "victoires": 2,
+            "places": 2,
+            "courses": 7,
+            "pourcentage": 57.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 3,
+            "courses": 11,
+            "pourcentage": 36.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 166505,
+          "musique": "12a 7a 9a 1a 3a (25) 3a 1a",
+          "carriere": {
+            "courses": 67,
+            "victoires": 8,
+            "places": 11,
+            "pourcentage": 28.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0752,
+        "gains": 0.9263,
+        "couple_je": 0.785,
+        "hippodrome": 0.36,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 42.28,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 10,
+      "nom": "Idole Eldé",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "M. Mottier",
+      "musique": "4a1a11a(25)6aDa",
+      "vh": null,
+      "gains_eur": 175265,
+      "entraineur": "N. Lemétayer",
+      "cote_pmu": 7.6,
+      "non_partant": false,
+      "musique_raw": "4a1a11a(25)6aDa",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 3.0,
+      "sous_scores": {
+        "cote": 0.1188,
+        "gains": 0.975,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 41.88,
+      "enrichi": false,
+      "rang_predit": 5
     },
     {
       "numero": 6,
@@ -970,7 +874,7 @@
       "vh": null,
       "gains_eur": 172775,
       "entraineur": "PL. Desaunette",
-      "cote_pmu": 25.0,
+      "cote_pmu": 27.0,
       "non_partant": false,
       "musique_raw": "9a1a7a(25)7a6a",
       "nb_courses_recentes": 5,
@@ -1000,7 +904,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 25.0,
+        "cote_live_fiche": 27.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -1042,7 +946,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0364,
+        "cote": 0.0334,
         "gains": 0.9612,
         "couple_je": 0.705,
         "hippodrome": 0.35,
@@ -1050,7 +954,103 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.95,
+      "score": 39.83,
+      "enrichi": true,
+      "rang_predit": 6
+    },
+    {
+      "numero": 4,
+      "nom": "Icare Dungy",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "R. Lamy",
+      "musique": "14a2a1a2a3a(25)",
+      "vh": null,
+      "gains_eur": 169415,
+      "entraineur": "Y. Lacombe",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "14a2a1a2a3a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 4,
+      "position_moyenne": 2.4,
+      "fiche_enrichie": {
+        "numero": 4,
+        "nom": "Icare Dungy",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "R. Lamy",
+          "proprietaire": "Y. Lacombe",
+          "eleveur": "Mlle E. Duffillol",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "R. LAMY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "Y. LACOMBE",
+            "victoires": 8,
+            "places": 17,
+            "courses": 61,
+            "pourcentage": 41.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 67.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 169415,
+          "musique": "14a 2a 1a 2a 3a (25) 1a 3a",
+          "carriere": {
+            "courses": 63,
+            "victoires": 8,
+            "places": 18,
+            "pourcentage": 41.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0645,
+        "gains": 0.9425,
+        "couple_je": 0.41,
+        "hippodrome": 0.67,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 39.57,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1066,7 +1066,7 @@
       "vh": null,
       "gains_eur": 175780,
       "entraineur": "GM. Bernier",
-      "cote_pmu": 54.0,
+      "cote_pmu": 63.0,
       "non_partant": false,
       "musique_raw": "3a13a14a(25)DaDa",
       "nb_courses_recentes": 5,
@@ -1096,7 +1096,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 54.0,
+        "cote_live_fiche": 63.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "PP. PLOQUIN",
@@ -1138,7 +1138,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0168,
+        "cote": 0.0143,
         "gains": 0.9779,
         "couple_je": 0.62,
         "hippodrome": 0.47,
@@ -1146,42 +1146,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.34,
+      "score": 39.24,
       "enrichi": true,
       "rang_predit": 8
-    },
-    {
-      "numero": 3,
-      "nom": "Isolée du Bouillon",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2850.0,
-      "jockey": "F. Lagadeuc",
-      "musique": "3a10a9a8a(25)7a",
-      "vh": null,
-      "gains_eur": 169155,
-      "entraineur": "B. Marie",
-      "cote_pmu": 40.0,
-      "non_partant": false,
-      "musique_raw": "3a10a9a8a(25)7a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 3,
-      "position_moyenne": 5.4,
-      "sous_scores": {
-        "cote": 0.0227,
-        "gains": 0.941,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 37.52,
-      "enrichi": false,
-      "rang_predit": 9
     },
     {
       "numero": 7,
@@ -1195,7 +1162,7 @@
       "vh": null,
       "gains_eur": 173135,
       "entraineur": "D. Bonne",
-      "cote_pmu": 42.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "7a0a(25)15a10aDa",
       "nb_courses_recentes": 5,
@@ -1225,29 +1192,11 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 42.0,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "D. BONNE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "D. BONNE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 1,
-            "places": 1,
-            "courses": 18,
-            "pourcentage": 11.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 173135,
@@ -1267,17 +1216,128 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0216,
+        "cote": 0.0451,
         "gains": 0.9632,
         "couple_je": 0.5,
-        "hippodrome": 0.11,
+        "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.91,
+      "score": 38.75,
+      "enrichi": true,
+      "rang_predit": 9
+    },
+    {
+      "numero": 1,
+      "nom": "Gisaro",
+      "artifice": null,
+      "sexe": "H",
+      "age": 10,
+      "poids": 2850.0,
+      "jockey": "G. Gelormini",
+      "musique": "0a4aDaDa1a4a",
+      "vh": null,
+      "gains_eur": 166195,
+      "entraineur": "JM. Baudouin",
+      "cote_pmu": 31.0,
+      "non_partant": false,
+      "musique_raw": "0a4aDaDa1a4a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 0,
+      "position_moyenne": 2.25,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Gisaro",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Gelormini",
+          "proprietaire": "JM. Baudouin",
+          "eleveur": "F. Avon-Eslan",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2016",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 59000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 31.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 166195,
+          "musique": "0a 4a Da Da 1a 4a (25) 10a",
+          "carriere": {
+            "courses": 117,
+            "victoires": 7,
+            "places": 16,
+            "pourcentage": 20.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0291,
+        "gains": 0.9246,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.53,
       "enrichi": true,
       "rang_predit": 10
+    },
+    {
+      "numero": 3,
+      "nom": "Isolée du Bouillon",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2850.0,
+      "jockey": "F. Lagadeuc",
+      "musique": "3a10a9a8a(25)7a",
+      "vh": null,
+      "gains_eur": 169155,
+      "entraineur": "B. Marie",
+      "cote_pmu": 51.0,
+      "non_partant": false,
+      "musique_raw": "3a10a9a8a(25)7a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 3,
+      "position_moyenne": 5.4,
+      "sous_scores": {
+        "cote": 0.0177,
+        "gains": 0.941,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 37.32,
+      "enrichi": false,
+      "rang_predit": 11
     },
     {
       "numero": 13,
@@ -1291,7 +1351,7 @@
       "vh": null,
       "gains_eur": 175800,
       "entraineur": "P. Daugeard",
-      "cote_pmu": 47.0,
+      "cote_pmu": 61.0,
       "non_partant": false,
       "musique_raw": "6a6a8a5a(25)1a",
       "nb_courses_recentes": 5,
@@ -1321,7 +1381,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 47.0,
+        "cote_live_fiche": 61.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "S. OLIVIER",
@@ -1363,7 +1423,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0193,
+        "cote": 0.0148,
         "gains": 0.978,
         "couple_je": 0.325,
         "hippodrome": 0.29,
@@ -1371,103 +1431,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.22,
-      "enrichi": true,
-      "rang_predit": 11
-    },
-    {
-      "numero": 1,
-      "nom": "Gisaro",
-      "artifice": null,
-      "sexe": "H",
-      "age": 10,
-      "poids": 2850.0,
-      "jockey": "G. Gelormini",
-      "musique": "0a4aDaDa1a4a",
-      "vh": null,
-      "gains_eur": 166195,
-      "entraineur": "JM. Baudouin",
-      "cote_pmu": 24.0,
-      "non_partant": false,
-      "musique_raw": "0a4aDaDa1a4a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 0,
-      "position_moyenne": 2.25,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Gisaro",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "G. Gelormini",
-          "proprietaire": "JM. Baudouin",
-          "eleveur": "F. Avon-Eslan",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2016",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 59000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 24.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "G. GELORMINI",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
-          },
-          "avec_entraineur": {
-            "nom": "JM. BAUDOUIN",
-            "victoires": 1,
-            "places": 6,
-            "courses": 28,
-            "pourcentage": 25.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 0,
-            "places": 4,
-            "courses": 10,
-            "pourcentage": 40.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 166195,
-          "musique": "0a 4a Da Da 1a 4a (25) 10a",
-          "carriere": {
-            "courses": 117,
-            "victoires": 7,
-            "places": 16,
-            "pourcentage": 20.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0379,
-        "gains": 0.9246,
-        "couple_je": 0.25,
-        "hippodrome": 0.4,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 33.13,
+      "score": 33.04,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1483,7 +1447,7 @@
       "vh": null,
       "gains_eur": 169555,
       "entraineur": "F. Terry",
-      "cote_pmu": 24.0,
+      "cote_pmu": 39.0,
       "non_partant": false,
       "musique_raw": "2a1a15a(25)DaDa",
       "nb_courses_recentes": 5,
@@ -1513,7 +1477,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 24.0,
+        "cote_live_fiche": 39.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. TERRY",
@@ -1555,7 +1519,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0379,
+        "cote": 0.0232,
         "gains": 0.9433,
         "couple_je": 0.325,
         "hippodrome": 0.25,
@@ -1563,7 +1527,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 33.04,
+      "score": 32.45,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1579,7 +1543,7 @@
       "vh": null,
       "gains_eur": 175765,
       "entraineur": "PY. Verva",
-      "cote_pmu": 31.0,
+      "cote_pmu": 27.0,
       "non_partant": false,
       "musique_raw": "10aDa7a5a7a(25)",
       "nb_courses_recentes": 5,
@@ -1609,7 +1573,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 27.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. COLLETTE",
@@ -1651,7 +1615,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0293,
+        "cote": 0.0334,
         "gains": 0.9778,
         "couple_je": 0.23,
         "hippodrome": 0.16,
@@ -1659,7 +1623,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 30.89,
+      "score": 31.05,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1675,7 +1639,7 @@
       "vh": null,
       "gains_eur": 179755,
       "entraineur": "P. Gendry",
-      "cote_pmu": 38.0,
+      "cote_pmu": 48.0,
       "non_partant": false,
       "musique_raw": "4a6a9a7a(25)3a",
       "nb_courses_recentes": 5,
@@ -1705,7 +1669,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 38.0,
+        "cote_live_fiche": 48.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. GENDROT",
@@ -1747,7 +1711,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0239,
+        "cote": 0.0188,
         "gains": 1.0,
         "couple_je": 0.07,
         "hippodrome": 0.14,
@@ -1755,7 +1719,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.41,
+      "score": 28.2,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1771,7 +1735,7 @@
       "vh": null,
       "gains_eur": 177110,
       "entraineur": "F. Terry",
-      "cote_pmu": 87.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "13a7m6a4a8aDa",
       "nb_courses_recentes": 6,
@@ -1801,7 +1765,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 87.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -1843,7 +1807,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0105,
+        "cote": 0.043,
         "gains": 0.9853,
         "couple_je": 0.0,
         "hippodrome": 0.0,
@@ -1851,7 +1815,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 25.2,
+      "score": 26.5,
       "enrichi": true,
       "rang_predit": 16
     }
