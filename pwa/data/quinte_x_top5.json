@@ -13,7 +13,7 @@
     "distance_m": 2100,
     "corde": "droite",
     "terrain": "Bon souple",
-    "meteo": "20°C Nuageux, vent 18km/h - O"
+    "meteo": "21°C Nuageux, vent 17km/h - O"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -102,23 +102,56 @@
             "pourcentage": 80.0
           }
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "27/09/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "Beresford Stakes Group 2",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "D",
+            "terrain": "Souple",
+            "allocation_eur": 120000,
+            "rang": "1er",
+            "partants": 5,
+            "vh": null
+          },
+          {
+            "date": "30/08/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "John Ormonde Wexford Sand Irish European Breeders Fund C & G Ma",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "D",
+            "terrain": "Bon souple",
+            "allocation_eur": 20000,
+            "rang": "1er",
+            "partants": 7,
+            "vh": null
+          }
+        ],
         "derives": {
-          "preference_terrain": null,
+          "preference_terrain": {
+            "courses": 1,
+            "places_top3": 1,
+            "taux": 1.0
+          },
           "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "jours_depuis_derniere_course": 246
         }
       },
       "sous_scores": {
-        "cote": 0.0924,
+        "cote": 0.0919,
         "gains": 1.0,
         "couple_je": 0.9,
         "hippodrome": 1.0,
-        "pref_terrain": 0.5,
+        "pref_terrain": 1.0,
         "pref_distance": 0.5,
-        "recuperation": 0.5
+        "recuperation": 0.3
       },
-      "score": 52.2,
+      "score": 56.18,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +167,7 @@
       "vh": 52.0,
       "gains_eur": 234780,
       "entraineur": "A. Fabre",
-      "cote_pmu": 8.6,
+      "cote_pmu": 8.8,
       "non_partant": false,
       "musique_raw": "2p1p(25)2p1p1p",
       "nb_courses_recentes": 5,
@@ -164,7 +197,7 @@
           "distance_m": 2100,
           "vh": 52.0
         },
-        "cote_live_fiche": 8.6,
+        "cote_live_fiche": 8.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "W. BUICK",
@@ -206,7 +239,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0999,
+        "cote": 0.0972,
         "gains": 0.9544,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -214,9 +247,94 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 48.31,
+      "score": 48.2,
       "enrichi": true,
       "rang_predit": 2
+    },
+    {
+      "numero": 1,
+      "nom": "Daryzan",
+      "artifice": null,
+      "sexe": "M",
+      "age": 3,
+      "poids": 58.0,
+      "jockey": "M. Barzalona",
+      "musique": null,
+      "vh": null,
+      "gains_eur": null,
+      "entraineur": null,
+      "cote_pmu": 5.0,
+      "non_partant": false,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Daryzan",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Barzalona",
+          "proprietaire": "FH. Graffard",
+          "eleveur": "Scea Aga Khan Studs",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Zarak"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 1500000,
+          "distance_m": 2100,
+          "vh": null
+        },
+        "cote_live_fiche": 7.4,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. BARZALONA",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "FH. GRAFFARD",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 12350,
+          "musique": "1p",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.171,
+        "gains": 0.5,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 44.34,
+      "enrichi": true,
+      "rang_predit": 3
     },
     {
       "numero": 16,
@@ -294,108 +412,38 @@
             "pourcentage": 100.0
           }
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "23/08/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "Coolmore Stud Wootton Bassett Tom Cooper Irish EBF Futurity",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Bon",
+            "allocation_eur": 120000,
+            "rang": "1er",
+            "partants": 5,
+            "vh": null
+          }
+        ],
         "derives": {
           "preference_terrain": null,
           "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "jours_depuis_derniere_course": 281
         }
       },
       "sous_scores": {
-        "cote": 0.1409,
+        "cote": 0.1402,
         "gains": 0.6353,
         "couple_je": 1.0,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
-        "recuperation": 0.5
+        "recuperation": 0.3
       },
-      "score": 45.16,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 1,
-      "nom": "Daryzan",
-      "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Barzalona",
-      "musique": null,
-      "vh": null,
-      "gains_eur": null,
-      "entraineur": null,
-      "cote_pmu": 5.0,
-      "non_partant": false,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Daryzan",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "FH. Graffard",
-          "eleveur": "Scea Aga Khan Studs",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Zarak"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 1500000,
-          "distance_m": 2100,
-          "vh": null
-        },
-        "cote_live_fiche": 7.2,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. BARZALONA",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "FH. GRAFFARD",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 12350,
-          "musique": "1p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1718,
-        "gains": 0.5,
-        "couple_je": 1.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 44.37,
+      "score": 44.14,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -411,7 +459,7 @@
       "vh": 49.5,
       "gains_eur": 189770,
       "entraineur": "JC. Rouget",
-      "cote_pmu": 28.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "3p4p(25)2p4p1p",
       "nb_courses_recentes": 5,
@@ -441,7 +489,7 @@
           "distance_m": 2100,
           "vh": 49.5
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -483,7 +531,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0307,
+        "cote": 0.0295,
         "gains": 0.7715,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -491,7 +539,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.05,
+      "score": 44.0,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -573,23 +621,56 @@
             "pourcentage": 80.0
           }
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "27/09/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "Beresford Stakes Group 2",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "D",
+            "terrain": "Souple",
+            "allocation_eur": 120000,
+            "rang": "1er",
+            "partants": 5,
+            "vh": null
+          },
+          {
+            "date": "30/08/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "John Ormonde Wexford Sand Irish European Breeders Fund C & G Ma",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "D",
+            "terrain": "Bon souple",
+            "allocation_eur": 20000,
+            "rang": "1er",
+            "partants": 7,
+            "vh": null
+          }
+        ],
         "derives": {
-          "preference_terrain": null,
+          "preference_terrain": {
+            "courses": 1,
+            "places_top3": 1,
+            "taux": 1.0
+          },
           "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "jours_depuis_derniere_course": 246
         }
       },
       "sous_scores": {
-        "cote": 0.0924,
+        "cote": 0.0919,
         "gains": 1.0,
         "couple_je": 0.9,
         "hippodrome": 1.0,
-        "pref_terrain": 0.5,
+        "pref_terrain": 1.0,
         "pref_distance": 0.5,
-        "recuperation": 0.5
+        "recuperation": 0.3
       },
-      "score": 52.2,
+      "score": 56.18,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -605,7 +686,7 @@
       "vh": 52.0,
       "gains_eur": 234780,
       "entraineur": "A. Fabre",
-      "cote_pmu": 8.6,
+      "cote_pmu": 8.8,
       "non_partant": false,
       "musique_raw": "2p1p(25)2p1p1p",
       "nb_courses_recentes": 5,
@@ -635,7 +716,7 @@
           "distance_m": 2100,
           "vh": 52.0
         },
-        "cote_live_fiche": 8.6,
+        "cote_live_fiche": 8.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "W. BUICK",
@@ -677,7 +758,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0999,
+        "cote": 0.0972,
         "gains": 0.9544,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -685,9 +766,94 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 48.31,
+      "score": 48.2,
       "enrichi": true,
       "rang_predit": 2
+    },
+    {
+      "numero": 1,
+      "nom": "Daryzan",
+      "artifice": null,
+      "sexe": "M",
+      "age": 3,
+      "poids": 58.0,
+      "jockey": "M. Barzalona",
+      "musique": null,
+      "vh": null,
+      "gains_eur": null,
+      "entraineur": null,
+      "cote_pmu": 5.0,
+      "non_partant": false,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Daryzan",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Barzalona",
+          "proprietaire": "FH. Graffard",
+          "eleveur": "Scea Aga Khan Studs",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Zarak"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 1500000,
+          "distance_m": 2100,
+          "vh": null
+        },
+        "cote_live_fiche": 7.4,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. BARZALONA",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "FH. GRAFFARD",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 12350,
+          "musique": "1p",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.171,
+        "gains": 0.5,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 44.34,
+      "enrichi": true,
+      "rang_predit": 3
     },
     {
       "numero": 16,
@@ -765,108 +931,38 @@
             "pourcentage": 100.0
           }
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "23/08/25",
+            "spec": "P",
+            "hippodrome": "CURRAGH",
+            "nom_course": "Coolmore Stud Wootton Bassett Tom Cooper Irish EBF Futurity",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Bon",
+            "allocation_eur": 120000,
+            "rang": "1er",
+            "partants": 5,
+            "vh": null
+          }
+        ],
         "derives": {
           "preference_terrain": null,
           "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "jours_depuis_derniere_course": 281
         }
       },
       "sous_scores": {
-        "cote": 0.1409,
+        "cote": 0.1402,
         "gains": 0.6353,
         "couple_je": 1.0,
         "hippodrome": 0.5,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
-        "recuperation": 0.5
+        "recuperation": 0.3
       },
-      "score": 45.16,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 1,
-      "nom": "Daryzan",
-      "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Barzalona",
-      "musique": null,
-      "vh": null,
-      "gains_eur": null,
-      "entraineur": null,
-      "cote_pmu": 5.0,
-      "non_partant": false,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Daryzan",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "FH. Graffard",
-          "eleveur": "Scea Aga Khan Studs",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Zarak"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 1500000,
-          "distance_m": 2100,
-          "vh": null
-        },
-        "cote_live_fiche": 7.2,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. BARZALONA",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "FH. GRAFFARD",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 12350,
-          "musique": "1p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1718,
-        "gains": 0.5,
-        "couple_je": 1.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 44.37,
+      "score": 44.14,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -882,7 +978,7 @@
       "vh": 49.5,
       "gains_eur": 189770,
       "entraineur": "JC. Rouget",
-      "cote_pmu": 28.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "3p4p(25)2p4p1p",
       "nb_courses_recentes": 5,
@@ -912,7 +1008,7 @@
           "distance_m": 2100,
           "vh": 49.5
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -954,7 +1050,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0307,
+        "cote": 0.0295,
         "gains": 0.7715,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -962,7 +1058,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.05,
+      "score": 44.0,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -978,7 +1074,7 @@
       "vh": 50.0,
       "gains_eur": 68307,
       "entraineur": "M. Delcher-Sanchez",
-      "cote_pmu": 5.3,
+      "cote_pmu": 5.5,
       "non_partant": false,
       "musique_raw": "1p1p(25)1p3p6p",
       "nb_courses_recentes": 5,
@@ -1008,7 +1104,7 @@
           "distance_m": 2100,
           "vh": 50.0
         },
-        "cote_live_fiche": 5.3,
+        "cote_live_fiche": 5.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. DEMURO",
@@ -1050,7 +1146,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1621,
+        "cote": 0.1555,
         "gains": 0.2777,
         "couple_je": 0.8,
         "hippodrome": 1.0,
@@ -1058,7 +1154,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.65,
+      "score": 42.38,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1074,7 +1170,7 @@
       "vh": 50.5,
       "gains_eur": 166000,
       "entraineur": "A. Wöhler",
-      "cote_pmu": 21.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "1p(25)1p1p1p",
       "nb_courses_recentes": 4,
@@ -1104,7 +1200,7 @@
           "distance_m": 2100,
           "vh": 50.5
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. LOUGHNANE",
@@ -1146,7 +1242,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0409,
+        "cote": 0.045,
         "gains": 0.6748,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -1154,7 +1250,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.76,
+      "score": 41.92,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1170,7 +1266,7 @@
       "vh": 47.5,
       "gains_eur": 51650,
       "entraineur": "M. Delzangles",
-      "cote_pmu": 13.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "1p1p(25)1p",
       "nb_courses_recentes": 3,
@@ -1200,7 +1296,7 @@
           "distance_m": 2100,
           "vh": 47.5
         },
-        "cote_live_fiche": 13.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LECOEUVRE",
@@ -1242,7 +1338,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0661,
+        "cote": 0.0713,
         "gains": 0.21,
         "couple_je": 1.0,
         "hippodrome": 1.0,
@@ -1250,7 +1346,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.79,
+      "score": 41.0,
       "enrichi": true,
       "rang_predit": 8
     },
@@ -1338,7 +1434,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0391,
+        "cote": 0.0389,
         "gains": 0.6144,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -1346,7 +1442,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 40.78,
+      "score": 40.77,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1421,23 +1517,52 @@
           "musique": "2p (25) 1p 3p",
           "carriere": null
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "07/08/25",
+            "spec": "P",
+            "hippodrome": "LEOPARDSTOWN",
+            "nom_course": "Irish Stallion Farms EBF C&G",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "G",
+            "terrain": "Bon",
+            "allocation_eur": 20000,
+            "rang": "1er",
+            "partants": 9,
+            "vh": null
+          },
+          {
+            "date": "24/07/25",
+            "spec": "P",
+            "hippodrome": "LEOPARDSTOWN",
+            "nom_course": "Frank Conroy Irish Ebf",
+            "qplus": false,
+            "distance_m": 1600,
+            "corde": "G",
+            "terrain": "Bon",
+            "allocation_eur": 20000,
+            "rang": "3e",
+            "partants": 8,
+            "vh": null
+          }
+        ],
         "derives": {
           "preference_terrain": null,
           "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "jours_depuis_derniere_course": 297
         }
       },
       "sous_scores": {
-        "cote": 0.0172,
+        "cote": 0.0171,
         "gains": 0.0978,
         "couple_je": 1.0,
         "hippodrome": 1.0,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
-        "recuperation": 0.5
+        "recuperation": 0.3
       },
-      "score": 37.15,
+      "score": 36.15,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1453,7 +1578,7 @@
       "vh": 48.5,
       "gains_eur": 104650,
       "entraineur": "D. O'Brien",
-      "cote_pmu": 43.0,
+      "cote_pmu": 42.0,
       "non_partant": false,
       "musique_raw": "3p(25)2p2p4p4p",
       "nb_courses_recentes": 5,
@@ -1483,7 +1608,7 @@
           "distance_m": 2100,
           "vh": 48.5
         },
-        "cote_live_fiche": 43.0,
+        "cote_live_fiche": 42.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GUYON",
@@ -1520,7 +1645,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.02,
+        "cote": 0.0204,
         "gains": 0.4254,
         "couple_je": 0.67,
         "hippodrome": 0.5,
@@ -1528,7 +1653,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.23,
+      "score": 32.25,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1544,7 +1669,7 @@
       "vh": 50.5,
       "gains_eur": 138890,
       "entraineur": "John & Thady Gosden",
-      "cote_pmu": 31.0,
+      "cote_pmu": 30.0,
       "non_partant": false,
       "musique_raw": "6p1p(25)5p5p2p",
       "nb_courses_recentes": 5,
@@ -1553,7 +1678,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.8,
       "sous_scores": {
-        "cote": 0.0277,
+        "cote": 0.0285,
         "gains": 0.5646,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1561,7 +1686,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.08,
+      "score": 32.11,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -1577,7 +1702,7 @@
       "vh": 48.0,
       "gains_eur": 61660,
       "entraineur": "A. Fabre",
-      "cote_pmu": 25.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "12p1p2p(25)10p7p",
       "nb_courses_recentes": 5,
@@ -1607,7 +1732,7 @@
           "distance_m": 2100,
           "vh": 48.0
         },
-        "cote_live_fiche": 25.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. POUCHIN",
@@ -1649,7 +1774,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0344,
+        "cote": 0.0329,
         "gains": 0.2507,
         "couple_je": 0.75,
         "hippodrome": 0.5,
@@ -1657,7 +1782,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 31.38,
+      "score": 31.33,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1673,7 +1798,7 @@
       "vh": 49.5,
       "gains_eur": 48454,
       "entraineur": "M. Delzangles",
-      "cote_pmu": 32.0,
+      "cote_pmu": 28.0,
       "non_partant": false,
       "musique_raw": "1p2p2p(25)4p",
       "nb_courses_recentes": 4,
@@ -1703,7 +1828,7 @@
           "distance_m": 2100,
           "vh": 49.5
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 28.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. HAMELIN",
@@ -1740,7 +1865,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0269,
+        "cote": 0.0305,
         "gains": 0.197,
         "couple_je": 0.75,
         "hippodrome": 0.5,
@@ -1748,7 +1873,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 30.28,
+      "score": 30.43,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1764,7 +1889,7 @@
       "vh": 47.5,
       "gains_eur": 28360,
       "entraineur": "Brandt (s)",
-      "cote_pmu": 67.0,
+      "cote_pmu": 65.0,
       "non_partant": false,
       "musique_raw": "3p4p1p(25)8p",
       "nb_courses_recentes": 4,
@@ -1794,7 +1919,7 @@
           "distance_m": 2100,
           "vh": 47.5
         },
-        "cote_live_fiche": 67.0,
+        "cote_live_fiche": 65.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -1831,7 +1956,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0128,
+        "cote": 0.0132,
         "gains": 0.1153,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1839,7 +1964,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 24.74,
+      "score": 24.76,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1879,7 +2004,7 @@
           "distance_m": 2100,
           "vh": null
         },
-        "cote_live_fiche": 61.0,
+        "cote_live_fiche": 60.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. BACHELOT",
@@ -1916,7 +2041,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0172,
+        "cote": 0.0171,
         "gains": 0.5,
         "couple_je": 0.0,
         "hippodrome": 0.5,
@@ -1924,7 +2049,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.19,
+      "score": 23.18,
       "enrichi": true,
       "rang_predit": 16
     }
