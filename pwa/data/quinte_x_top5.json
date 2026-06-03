@@ -5,7 +5,7 @@
     "course_num": "C1",
     "hippodrome": "Laval",
     "nom": null,
-    "heure": "13h55",
+    "heure": "11:55",
     "type": null,
     "categorie": null,
     "nb_partants": 18,
@@ -13,7 +13,7 @@
     "distance_m": 2850,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "14°C Nuages dispersés, vent 14km/h - SO"
+    "meteo": "17°C Nuageux, vent 28km/h - SO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2677,
+        "cote": 0.2685,
         "gains": 0.5808,
         "couple_je": 0.835,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 51.95,
+      "score": 51.98,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 507720,
       "entraineur": "J. Le Mer",
-      "cote_pmu": 7.0,
+      "cote_pmu": 7.2,
       "non_partant": false,
       "musique_raw": "2a1a3aDa2a(25)",
       "nb_courses_recentes": 5,
@@ -143,7 +143,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.13,
+        "cote": 0.1268,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -151,7 +151,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.7,
+      "score": 42.57,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -167,7 +167,7 @@
       "vh": null,
       "gains_eur": 475610,
       "entraineur": "M. Sassier",
-      "cote_pmu": 8.4,
+      "cote_pmu": 7.9,
       "non_partant": false,
       "musique_raw": "1a3a11aDa(25)7a",
       "nb_courses_recentes": 5,
@@ -197,7 +197,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 7.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -239,7 +239,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1084,
+        "cote": 0.1156,
         "gains": 0.9368,
         "couple_je": 0.455,
         "hippodrome": 0.67,
@@ -247,7 +247,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.91,
+      "score": 42.2,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -293,7 +293,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 8.9,
+        "cote_live_fiche": 8.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -335,7 +335,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1046,
+        "cote": 0.1049,
         "gains": 0.5829,
         "couple_je": 0.64,
         "hippodrome": 0.67,
@@ -343,43 +343,43 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.23,
+      "score": 39.24,
       "enrichi": true,
       "rang_predit": 4
     },
     {
-      "numero": 12,
-      "nom": "Jongleuse de Lune",
-      "artifice": "oui",
+      "numero": 2,
+      "nom": "Key of Love",
+      "artifice": null,
       "sexe": "F",
-      "age": 7,
-      "poids": 2875.0,
-      "jockey": "P. Tijou",
-      "musique": "10a6a2a1a(25)3a",
+      "age": 6,
+      "poids": 2850.0,
+      "jockey": "A. Barrier",
+      "musique": "2a3a1aDa2a1a",
       "vh": null,
-      "gains_eur": 388060,
-      "entraineur": "K. Leblanc",
-      "cote_pmu": 118.0,
+      "gains_eur": 225430,
+      "entraineur": "T. Lamare",
+      "cote_pmu": 7.1,
       "non_partant": false,
-      "musique_raw": "10a6a2a1a(25)3a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 0,
-      "position_moyenne": 2.4,
+      "musique_raw": "2a3a1aDa2a1a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 1.8,
       "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Jongleuse de Lune",
+        "numero": 2,
+        "nom": "Key of Love",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "P. Tijou",
-          "proprietaire": "K. Leblanc",
-          "eleveur": "Elevage Always With Me",
+          "entraineur": "A. Barrier",
+          "proprietaire": "T. Lamare",
+          "eleveur": "Ecurie Gianni Fascella",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2019",
+          "pere": "2020",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -389,34 +389,39 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 95.0,
+        "cote_live_fiche": 7.1,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "P. TIJOU",
-            "victoires": 1,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 100.0
+            "nom": "A. BARRIER",
+            "victoires": 3,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 86.0
           },
           "avec_entraineur": {
-            "nom": "K. LEBLANC",
-            "victoires": 1,
-            "places": 2,
-            "courses": 5,
-            "pourcentage": 60.0
+            "nom": "T. LAMARE",
+            "victoires": 5,
+            "places": 5,
+            "courses": 25,
+            "pourcentage": 40.0
           },
           "sur_hippodrome": {
             "nom": "LAVAL",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "victoires": 1,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 75.0
           }
         },
         "performances_globales": {
-          "gains_eur": 388060,
-          "musique": null,
-          "carriere": null
+          "gains_eur": 225430,
+          "musique": "2a 3a 1a Da 2a 1a (25) 1a",
+          "carriere": {
+            "courses": 43,
+            "victoires": 8,
+            "places": 6,
+            "pourcentage": 33.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -426,15 +431,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0077,
-        "gains": 0.7643,
-        "couple_je": 0.8,
-        "hippodrome": 0.5,
+        "cote": 0.1286,
+        "gains": 0.444,
+        "couple_je": 0.63,
+        "hippodrome": 0.75,
         "pref_terrain": 0.5,
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 38.77,
+      "score": 38.75,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -524,7 +529,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2677,
+        "cote": 0.2685,
         "gains": 0.5808,
         "couple_je": 0.835,
         "hippodrome": 1.0,
@@ -532,7 +537,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 51.95,
+      "score": 51.98,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -548,7 +553,7 @@
       "vh": null,
       "gains_eur": 507720,
       "entraineur": "J. Le Mer",
-      "cote_pmu": 7.0,
+      "cote_pmu": 7.2,
       "non_partant": false,
       "musique_raw": "2a1a3aDa2a(25)",
       "nb_courses_recentes": 5,
@@ -557,7 +562,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.13,
+        "cote": 0.1268,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -565,7 +570,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.7,
+      "score": 42.57,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -581,7 +586,7 @@
       "vh": null,
       "gains_eur": 475610,
       "entraineur": "M. Sassier",
-      "cote_pmu": 8.4,
+      "cote_pmu": 7.9,
       "non_partant": false,
       "musique_raw": "1a3a11aDa(25)7a",
       "nb_courses_recentes": 5,
@@ -611,7 +616,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 7.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -653,7 +658,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1084,
+        "cote": 0.1156,
         "gains": 0.9368,
         "couple_je": 0.455,
         "hippodrome": 0.67,
@@ -661,7 +666,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 41.91,
+      "score": 42.2,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -707,7 +712,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 8.9,
+        "cote_live_fiche": 8.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -749,7 +754,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1046,
+        "cote": 0.1049,
         "gains": 0.5829,
         "couple_je": 0.64,
         "hippodrome": 0.67,
@@ -757,100 +762,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.23,
+      "score": 39.24,
       "enrichi": true,
       "rang_predit": 4
-    },
-    {
-      "numero": 12,
-      "nom": "Jongleuse de Lune",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 7,
-      "poids": 2875.0,
-      "jockey": "P. Tijou",
-      "musique": "10a6a2a1a(25)3a",
-      "vh": null,
-      "gains_eur": 388060,
-      "entraineur": "K. Leblanc",
-      "cote_pmu": 118.0,
-      "non_partant": false,
-      "musique_raw": "10a6a2a1a(25)3a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 0,
-      "position_moyenne": 2.4,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Jongleuse de Lune",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "P. Tijou",
-          "proprietaire": "K. Leblanc",
-          "eleveur": "Elevage Always With Me",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2019",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 90000,
-          "distance_m": 2850,
-          "vh": null
-        },
-        "cote_live_fiche": 95.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "P. TIJOU",
-            "victoires": 1,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "K. LEBLANC",
-            "victoires": 1,
-            "places": 2,
-            "courses": 5,
-            "pourcentage": 60.0
-          },
-          "sur_hippodrome": {
-            "nom": "LAVAL",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 388060,
-          "musique": null,
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0077,
-        "gains": 0.7643,
-        "couple_je": 0.8,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 38.77,
-      "enrichi": true,
-      "rang_predit": 5
     },
     {
       "numero": 2,
@@ -864,7 +778,7 @@
       "vh": null,
       "gains_eur": 225430,
       "entraineur": "T. Lamare",
-      "cote_pmu": 8.2,
+      "cote_pmu": 7.1,
       "non_partant": false,
       "musique_raw": "2a3a1aDa2a1a",
       "nb_courses_recentes": 6,
@@ -894,7 +808,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 8.2,
+        "cote_live_fiche": 7.1,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. BARRIER",
@@ -936,7 +850,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.111,
+        "cote": 0.1286,
         "gains": 0.444,
         "couple_je": 0.63,
         "hippodrome": 0.75,
@@ -944,7 +858,98 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 38.05,
+      "score": 38.75,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 12,
+      "nom": "Jongleuse de Lune",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 7,
+      "poids": 2875.0,
+      "jockey": "P. Tijou",
+      "musique": "10a6a2a1a(25)3a",
+      "vh": null,
+      "gains_eur": 388060,
+      "entraineur": "K. Leblanc",
+      "cote_pmu": 128.0,
+      "non_partant": false,
+      "musique_raw": "10a6a2a1a(25)3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 0,
+      "position_moyenne": 2.4,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Jongleuse de Lune",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "P. Tijou",
+          "proprietaire": "K. Leblanc",
+          "eleveur": "Elevage Always With Me",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 90000,
+          "distance_m": 2850,
+          "vh": null
+        },
+        "cote_live_fiche": 128.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "P. TIJOU",
+            "victoires": 1,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "K. LEBLANC",
+            "victoires": 1,
+            "places": 2,
+            "courses": 5,
+            "pourcentage": 60.0
+          },
+          "sur_hippodrome": {
+            "nom": "LAVAL",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 388060,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0071,
+        "gains": 0.7643,
+        "couple_je": 0.8,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 38.75,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1032,7 +1037,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.091,
+        "cote": 0.0913,
         "gains": 0.566,
         "couple_je": 0.715,
         "hippodrome": 0.5,
@@ -1040,7 +1045,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.86,
+      "score": 37.87,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1056,7 +1061,7 @@
       "vh": null,
       "gains_eur": 458060,
       "entraineur": "M. Sassier",
-      "cote_pmu": 49.0,
+      "cote_pmu": 38.0,
       "non_partant": false,
       "musique_raw": "4a7a6a1a(25)7a",
       "nb_courses_recentes": 5,
@@ -1065,7 +1070,7 @@
       "derniere_position": 4,
       "position_moyenne": 5.0,
       "sous_scores": {
-        "cote": 0.0186,
+        "cote": 0.024,
         "gains": 0.9022,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1073,7 +1078,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.78,
+      "score": 36.99,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -1089,7 +1094,7 @@
       "vh": null,
       "gains_eur": 478530,
       "entraineur": "F. Nivard",
-      "cote_pmu": 43.0,
+      "cote_pmu": 49.0,
       "non_partant": false,
       "musique_raw": "6m2m9m5mDm(25)",
       "nb_courses_recentes": 5,
@@ -1119,7 +1124,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 43.0,
+        "cote_live_fiche": 49.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. NIVARD",
@@ -1161,7 +1166,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0212,
+        "cote": 0.0186,
         "gains": 0.9425,
         "couple_je": 0.425,
         "hippodrome": 0.5,
@@ -1169,7 +1174,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.36,
+      "score": 36.26,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1185,7 +1190,7 @@
       "vh": null,
       "gains_eur": 465355,
       "entraineur": "M. Sassier",
-      "cote_pmu": 42.0,
+      "cote_pmu": 51.0,
       "non_partant": false,
       "musique_raw": "7a5a12a6a2a9a",
       "nb_courses_recentes": 6,
@@ -1215,7 +1220,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 45.0,
+        "cote_live_fiche": 51.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. ABRIVARD",
@@ -1257,7 +1262,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0217,
+        "cote": 0.0179,
         "gains": 0.9166,
         "couple_je": 0.43,
         "hippodrome": 0.5,
@@ -1265,7 +1270,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 36.07,
+      "score": 35.91,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1281,7 +1286,7 @@
       "vh": null,
       "gains_eur": 272785,
       "entraineur": "CA. Mary",
-      "cote_pmu": 26.0,
+      "cote_pmu": 27.0,
       "non_partant": false,
       "musique_raw": "Da1aDmDa(25)2Da",
       "nb_courses_recentes": 5,
@@ -1290,7 +1295,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.5,
       "sous_scores": {
-        "cote": 0.035,
+        "cote": 0.0338,
         "gains": 0.5373,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1298,7 +1303,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 31.96,
+      "score": 31.91,
       "enrichi": false,
       "rang_predit": 11
     },
@@ -1314,7 +1319,7 @@
       "vh": null,
       "gains_eur": 284295,
       "entraineur": "A. De Jésus",
-      "cote_pmu": 26.0,
+      "cote_pmu": 58.0,
       "non_partant": false,
       "musique_raw": "6a7a10a(25)5a2a",
       "nb_courses_recentes": 5,
@@ -1344,7 +1349,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 58.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. DE JÉSUS",
@@ -1386,7 +1391,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.035,
+        "cote": 0.0157,
         "gains": 0.5599,
         "couple_je": 0.395,
         "hippodrome": 0.5,
@@ -1394,7 +1399,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 30.72,
+      "score": 29.95,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1410,7 +1415,7 @@
       "vh": null,
       "gains_eur": 275675,
       "entraineur": "G. Beaufils",
-      "cote_pmu": 54.0,
+      "cote_pmu": 59.0,
       "non_partant": false,
       "musique_raw": "11a10a6a5a7a7a",
       "nb_courses_recentes": 6,
@@ -1440,7 +1445,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 54.0,
+        "cote_live_fiche": 59.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "PY. VERVA",
@@ -1482,7 +1487,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0169,
+        "cote": 0.0155,
         "gains": 0.543,
         "couple_je": 0.3,
         "hippodrome": 0.5,
@@ -1490,7 +1495,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.32,
+      "score": 28.26,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1506,7 +1511,7 @@
       "vh": null,
       "gains_eur": 247480,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 106.0,
+      "cote_pmu": 97.0,
       "non_partant": false,
       "musique_raw": "(25)0a3a8a14a10a",
       "nb_courses_recentes": 5,
@@ -1536,7 +1541,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 106.0,
+        "cote_live_fiche": 97.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. COLLETTE",
@@ -1578,7 +1583,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0086,
+        "cote": 0.0094,
         "gains": 0.4874,
         "couple_je": 0.245,
         "hippodrome": 0.5,
@@ -1586,7 +1591,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.33,
+      "score": 26.36,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1602,7 +1607,7 @@
       "vh": null,
       "gains_eur": 272230,
       "entraineur": "JP. Raffegeau",
-      "cote_pmu": 155.0,
+      "cote_pmu": 166.0,
       "non_partant": false,
       "musique_raw": "8aDa4a6a(25)1a",
       "nb_courses_recentes": 5,
@@ -1632,7 +1637,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 155.0,
+        "cote_live_fiche": 166.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "JP. RAFFEGEAU",
@@ -1674,7 +1679,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0059,
+        "cote": 0.0055,
         "gains": 0.5362,
         "couple_je": 0.24,
         "hippodrome": 0.38,
@@ -1682,7 +1687,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 25.68,
+      "score": 25.66,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1698,7 +1703,7 @@
       "vh": null,
       "gains_eur": 267990,
       "entraineur": "C. Chalon",
-      "cote_pmu": 126.0,
+      "cote_pmu": 143.0,
       "non_partant": false,
       "musique_raw": "Da7a8a2a7a14a",
       "nb_courses_recentes": 6,
@@ -1728,7 +1733,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 126.0,
+        "cote_live_fiche": 143.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. CHALON",
@@ -1770,7 +1775,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0072,
+        "cote": 0.0064,
         "gains": 0.5278,
         "couple_je": 0.245,
         "hippodrome": 0.25,
@@ -1778,7 +1783,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 24.38,
+      "score": 24.35,
       "enrichi": true,
       "rang_predit": 16
     },
@@ -1794,7 +1799,7 @@
       "vh": null,
       "gains_eur": 466150,
       "entraineur": "Grégory Thorel (S)",
-      "cote_pmu": 168.0,
+      "cote_pmu": 172.0,
       "non_partant": false,
       "musique_raw": "3m1m(25)6m3mDa",
       "nb_courses_recentes": 5,
@@ -1824,7 +1829,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 183.0,
+        "cote_live_fiche": 172.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "G. MARIN",
@@ -1866,7 +1871,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0054,
+        "cote": 0.0053,
         "gains": 0.9181,
         "couple_je": 0.0,
         "hippodrome": 0.0,
@@ -1874,7 +1879,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.99,
+      "score": 23.98,
       "enrichi": true,
       "rang_predit": 17
     },
@@ -1890,7 +1895,7 @@
       "vh": null,
       "gains_eur": 209345,
       "entraineur": "CM. Bruneau",
-      "cote_pmu": 224.0,
+      "cote_pmu": 181.0,
       "non_partant": false,
       "musique_raw": "14a12a(25)5a7a9a",
       "nb_courses_recentes": 5,
@@ -1920,7 +1925,7 @@
           "distance_m": 2850,
           "vh": null
         },
-        "cote_live_fiche": 224.0,
+        "cote_live_fiche": 181.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "G. LENAIN",
@@ -1962,7 +1967,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0041,
+        "cote": 0.005,
         "gains": 0.4123,
         "couple_je": 0.37,
         "hippodrome": 0.0,
@@ -1970,7 +1975,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 21.9,
+      "score": 21.94,
       "enrichi": true,
       "rang_predit": 18
     }
