@@ -30,6 +30,14 @@ if __name__ == "__main__":
     import argparse, subprocess
     from datetime import date, timedelta
 
+    # Fetch arrivee J-1 et archive (non bloquant : si echec, on continue le pipeline)
+    try:
+        from quinte_results import main as fetch_results
+        print("[QUINTE] Fetch resultats J-1...")
+        fetch_results()
+    except Exception as e:
+        print(f"[QUINTE] Echec fetch results (non bloquant): {e}")
+
     p = argparse.ArgumentParser()
     p.add_argument("--demain", action="store_true")
     args = p.parse_args()
