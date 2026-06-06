@@ -256,9 +256,26 @@ def _rang_to_int(rang: str | None) -> int | None:
     return int(m.group(1)) if m else None
 
 
+def _taux_top3_general(courses: list[dict], limite: int = 10) -> dict | None:
+    """Fallback : taux top3 sur les N courses les plus recentes, indifferent au terrain/distance.
+    Utilise quand le terrain du jour est inconnu ('-') ou si aucune course de l'historique
+    ne matche le contexte. Sert de proxy 'forme generale' a la place de NEUTRAL."""
+    if not courses:
+        return None
+    sample = courses[:limite]
+    placed = sum(1 for c in sample if (_rang_to_int(c.get("rang")) or 99) <= 3)
+    return {
+        "courses": len(sample),
+        "places_top3": placed,
+        "taux": round(placed / len(sample), 3),
+        "fallback": True,
+    }
+
+
 def calc_derives(fiche: dict, contexte: dict | None) -> dict:
     """Calcule préférence terrain/distance + jours depuis dernière course.
-    Exclut la course du jour de l'historique pour éviter les biais post-course."""
+    Exclut la course du jour de l'historique pour éviter les biais post-course.
+    Si terrain inconnu ('-') ou pas de match historique, fallback sur la forme générale."""
     out = {"preference_terrain": None, "preference_distance": None,
            "jours_depuis_derniere_course": None}
     all_courses = fiche.get("dernieres_courses", [])
@@ -279,14 +296,12 @@ def calc_derives(fiche: dict, contexte: dict | None) -> dict:
     except (ValueError, KeyError):
         pass
 
-    if not contexte:
-        return out
-
-    terrain_jour = contexte.get("terrain")
-    distance_jour = contexte.get("distance_m")
+    terrain_jour = (contexte or {}).get("terrain")
+    distance_jour = (contexte or {}).get("distance_m")
 
     # Préférence terrain (taux placé top 3 sur courses au même terrain)
-    if terrain_jour:
+    # On considère "-", "—" ou "" comme terrain inconnu (paris-turf ne l'annonce pas toujours)
+    if terrain_jour and terrain_jour not in ("-", "—", ""):
         same_terrain = [c for c in courses if c.get("terrain") == terrain_jour]
         if same_terrain:
             placed = sum(1 for c in same_terrain if (_rang_to_int(c.get("rang")) or 99) <= 3)
@@ -295,6 +310,9 @@ def calc_derives(fiche: dict, contexte: dict | None) -> dict:
                 "places_top3": placed,
                 "taux": round(placed / len(same_terrain), 3),
             }
+    # Fallback si terrain inconnu OU aucun match
+    if out["preference_terrain"] is None:
+        out["preference_terrain"] = _taux_top3_general(courses)
 
     # Préférence distance (±10%)
     if distance_jour:
@@ -308,6 +326,9 @@ def calc_derives(fiche: dict, contexte: dict | None) -> dict:
                 "places_top3": placed,
                 "taux": round(placed / len(same_dist), 3),
             }
+    # Fallback si distance inconnue OU aucun match ±10%
+    if out["preference_distance"] is None:
+        out["preference_distance"] = _taux_top3_general(courses)
 
     return out
 
