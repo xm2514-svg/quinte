@@ -13,7 +13,7 @@
     "distance_m": 2700,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "17°C Nuageux, vent 16km/h - S"
+    "meteo": "17°C Pluie, vent 16km/h - S"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 581175,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 9.3,
+      "cote_pmu": 9.4,
       "non_partant": false,
       "musique_raw": "6a4a(25)1a2a1a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 9.3,
+        "cote_live_fiche": 9.4,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0967,
+        "cote": 0.0966,
         "gains": 1.0,
         "couple_je": 0.77,
         "hippodrome": 0.77,
@@ -118,7 +118,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 49.62,
+      "score": 49.61,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 196760,
       "entraineur": "F. Blandin",
-      "cote_pmu": 3.9,
+      "cote_pmu": 3.8,
       "non_partant": false,
       "musique_raw": "3a1a1a1a1a1a",
       "nb_courses_recentes": 6,
@@ -164,29 +164,11 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 3.9,
+        "cote_live_fiche": 3.8,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "F. BLANDIN",
-            "victoires": 5,
-            "places": 5,
-            "courses": 20,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "F. BLANDIN",
-            "victoires": 5,
-            "places": 7,
-            "courses": 22,
-            "pourcentage": 55.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 5,
-            "places": 1,
-            "courses": 12,
-            "pourcentage": 50.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 196760,
@@ -206,15 +188,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2307,
+        "cote": 0.239,
         "gains": 0.3386,
-        "couple_je": 0.525,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 1.0,
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 44.68,
+      "score": 44.64,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -239,7 +221,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.75,
       "sous_scores": {
-        "cote": 0.0818,
+        "cote": 0.0826,
         "gains": 0.8515,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -247,7 +229,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 43.04,
+      "score": 43.08,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -335,7 +317,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.09,
+        "cote": 0.0908,
         "gains": 0.5298,
         "couple_je": 0.74,
         "hippodrome": 0.7,
@@ -343,7 +325,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 41.15,
+      "score": 41.18,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -431,7 +413,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0529,
+        "cote": 0.0534,
         "gains": 0.2945,
         "couple_je": 0.645,
         "hippodrome": 0.67,
@@ -439,7 +421,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.91,
+      "score": 32.93,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -457,7 +439,7 @@
       "vh": null,
       "gains_eur": 581175,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 9.3,
+      "cote_pmu": 9.4,
       "non_partant": false,
       "musique_raw": "6a4a(25)1a2a1a",
       "nb_courses_recentes": 5,
@@ -487,7 +469,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 9.3,
+        "cote_live_fiche": 9.4,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -529,7 +511,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0967,
+        "cote": 0.0966,
         "gains": 1.0,
         "couple_je": 0.77,
         "hippodrome": 0.77,
@@ -537,7 +519,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 49.62,
+      "score": 49.61,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -553,7 +535,7 @@
       "vh": null,
       "gains_eur": 196760,
       "entraineur": "F. Blandin",
-      "cote_pmu": 3.9,
+      "cote_pmu": 3.8,
       "non_partant": false,
       "musique_raw": "3a1a1a1a1a1a",
       "nb_courses_recentes": 6,
@@ -583,29 +565,11 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 3.9,
+        "cote_live_fiche": 3.8,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "F. BLANDIN",
-            "victoires": 5,
-            "places": 5,
-            "courses": 20,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "F. BLANDIN",
-            "victoires": 5,
-            "places": 7,
-            "courses": 22,
-            "pourcentage": 55.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 5,
-            "places": 1,
-            "courses": 12,
-            "pourcentage": 50.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 196760,
@@ -625,15 +589,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2307,
+        "cote": 0.239,
         "gains": 0.3386,
-        "couple_je": 0.525,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 1.0,
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 44.68,
+      "score": 44.64,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -658,7 +622,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.75,
       "sous_scores": {
-        "cote": 0.0818,
+        "cote": 0.0826,
         "gains": 0.8515,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -666,7 +630,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 43.04,
+      "score": 43.08,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -754,7 +718,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.09,
+        "cote": 0.0908,
         "gains": 0.5298,
         "couple_je": 0.74,
         "hippodrome": 0.7,
@@ -762,7 +726,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 41.15,
+      "score": 41.18,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -850,7 +814,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0529,
+        "cote": 0.0534,
         "gains": 0.2945,
         "couple_je": 0.645,
         "hippodrome": 0.67,
@@ -858,7 +822,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 32.91,
+      "score": 32.93,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -874,7 +838,7 @@
       "vh": null,
       "gains_eur": 211530,
       "entraineur": "Etienne Dubois (s)",
-      "cote_pmu": 4.5,
+      "cote_pmu": 4.6,
       "non_partant": false,
       "musique_raw": "1aDa4aDa(25)Da",
       "nb_courses_recentes": 5,
@@ -882,80 +846,17 @@
       "nb_places_recentes": 1,
       "derniere_position": 1,
       "position_moyenne": 2.5,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Magic Man",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Raffin",
-          "proprietaire": "Etienne Dubois (s)",
-          "eleveur": "Etienne Dubois (s)",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2022",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 14,
-          "allocation_eur": 120000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 4.5,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 1,
-            "places": 0,
-            "courses": 2,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "ETIENNE DUBOIS (S)",
-            "victoires": 1,
-            "places": 0,
-            "courses": 4,
-            "pourcentage": 25.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 2,
-            "places": 2,
-            "courses": 9,
-            "pourcentage": 44.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 211530,
-          "musique": "1a Da 4a Da (25) Da 4a Da",
-          "carriere": {
-            "courses": 14,
-            "victoires": 5,
-            "places": 3,
-            "pourcentage": 57.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
       "sous_scores": {
-        "cote": 0.1999,
+        "cote": 0.1974,
         "gains": 0.364,
-        "couple_je": 0.375,
-        "hippodrome": 0.44,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
         "pref_terrain": 0.2,
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 28.98,
-      "enrichi": true,
+      "score": 31.36,
+      "enrichi": false,
       "rang_predit": 6
     },
     {
@@ -970,7 +871,7 @@
       "vh": null,
       "gains_eur": 204910,
       "entraineur": "D. Bonne",
-      "cote_pmu": 18.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "3a2m(25)1mDaDa",
       "nb_courses_recentes": 5,
@@ -1000,7 +901,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 18.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. BONNE",
@@ -1042,7 +943,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.05,
+        "cote": 0.0478,
         "gains": 0.3526,
         "couple_je": 0.36,
         "hippodrome": 0.33,
@@ -1050,7 +951,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 27.49,
+      "score": 27.4,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1075,7 +976,7 @@
       "derniere_position": 9,
       "position_moyenne": 5.0,
       "sous_scores": {
-        "cote": 0.0529,
+        "cote": 0.0534,
         "gains": 0.1675,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1083,7 +984,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 25.63,
+      "score": 25.65,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -1099,7 +1000,7 @@
       "vh": null,
       "gains_eur": 88090,
       "entraineur": "V. Lebarque",
-      "cote_pmu": 39.0,
+      "cote_pmu": 41.0,
       "non_partant": false,
       "musique_raw": "2a4a1a4a3a4a",
       "nb_courses_recentes": 6,
@@ -1129,7 +1030,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 39.0,
+        "cote_live_fiche": 41.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. REBÈCHE",
@@ -1171,7 +1072,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0231,
+        "cote": 0.0222,
         "gains": 0.1516,
         "couple_je": 0.47,
         "hippodrome": 0.45,
@@ -1179,7 +1080,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 24.75,
+      "score": 24.71,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1195,7 +1096,7 @@
       "vh": null,
       "gains_eur": 99475,
       "entraineur": "P. Allaire",
-      "cote_pmu": 22.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "5a(25)Da1aDaDa",
       "nb_courses_recentes": 5,
@@ -1225,7 +1126,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 22.0,
+        "cote_live_fiche": 23.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. LEBOURGEOIS",
@@ -1267,7 +1168,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0409,
+        "cote": 0.0395,
         "gains": 0.1712,
         "couple_je": 0.58,
         "hippodrome": 0.56,
@@ -1275,9 +1176,87 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 24.0,
+      "score": 23.95,
       "enrichi": true,
       "rang_predit": 10
+    },
+    {
+      "numero": 7,
+      "nom": "Monzon Normand",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 2700.0,
+      "jockey": "D. Thomain",
+      "musique": "Da5a11a(25)6a5a",
+      "vh": null,
+      "gains_eur": 175735,
+      "entraineur": "P. Allaire",
+      "cote_pmu": 33.0,
+      "non_partant": false,
+      "musique_raw": "Da5a11a(25)6a5a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 5,
+      "position_moyenne": 4.25,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Monzon Normand",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "D. Thomain",
+          "proprietaire": "P. Allaire",
+          "eleveur": "P. Allaire",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 14,
+          "allocation_eur": 120000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 33.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 175735,
+          "musique": "Da 5a 11a (25) 6a 5a Da Da",
+          "carriere": {
+            "courses": 22,
+            "victoires": 4,
+            "places": 5,
+            "pourcentage": 41.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0275,
+        "gains": 0.3024,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 23.64,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 3,
@@ -1291,7 +1270,7 @@
       "vh": null,
       "gains_eur": 99185,
       "entraineur": "T. Levesque",
-      "cote_pmu": 78.0,
+      "cote_pmu": 82.0,
       "non_partant": false,
       "musique_raw": "3m2a7m(25)5a4m",
       "nb_courses_recentes": 5,
@@ -1321,7 +1300,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 78.0,
+        "cote_live_fiche": 82.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. LEVESQUE",
@@ -1363,7 +1342,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0115,
+        "cote": 0.0111,
         "gains": 0.1707,
         "couple_je": 0.5,
         "hippodrome": 0.33,
@@ -1371,9 +1350,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 22.32,
+      "score": 22.3,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 12
     },
     {
       "numero": 5,
@@ -1387,7 +1366,7 @@
       "vh": null,
       "gains_eur": 130745,
       "entraineur": "Emmanuel Allard (S)",
-      "cote_pmu": 44.0,
+      "cote_pmu": 47.0,
       "non_partant": false,
       "musique_raw": "Da8a3a2a(25)5a",
       "nb_courses_recentes": 5,
@@ -1417,7 +1396,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 44.0,
+        "cote_live_fiche": 47.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. ALLARD",
@@ -1459,7 +1438,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0204,
+        "cote": 0.0193,
         "gains": 0.225,
         "couple_je": 0.38,
         "hippodrome": 0.36,
@@ -1467,103 +1446,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 21.99,
-      "enrichi": true,
-      "rang_predit": 12
-    },
-    {
-      "numero": 7,
-      "nom": "Monzon Normand",
-      "artifice": null,
-      "sexe": "M",
-      "age": 4,
-      "poids": 2700.0,
-      "jockey": "D. Thomain",
-      "musique": "Da5a11a(25)6a5a",
-      "vh": null,
-      "gains_eur": 175735,
-      "entraineur": "P. Allaire",
-      "cote_pmu": 31.0,
-      "non_partant": false,
-      "musique_raw": "Da5a11a(25)6a5a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 5,
-      "position_moyenne": 4.25,
-      "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Monzon Normand",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "D. Thomain",
-          "proprietaire": "P. Allaire",
-          "eleveur": "P. Allaire",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2022",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 14,
-          "allocation_eur": 120000,
-          "distance_m": 2700,
-          "vh": null
-        },
-        "cote_live_fiche": 31.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "D. THOMAIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "P. ALLAIRE",
-            "victoires": 4,
-            "places": 5,
-            "courses": 22,
-            "pourcentage": 41.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARIS-VINCENNES",
-            "victoires": 2,
-            "places": 3,
-            "courses": 15,
-            "pourcentage": 33.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 175735,
-          "musique": "Da 5a 11a (25) 6a 5a Da Da",
-          "carriere": {
-            "courses": 22,
-            "victoires": 4,
-            "places": 5,
-            "pourcentage": 41.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.029,
-        "gains": 0.3024,
-        "couple_je": 0.41,
-        "hippodrome": 0.33,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 20.65,
+      "score": 21.95,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1579,7 +1462,7 @@
       "vh": null,
       "gains_eur": 210940,
       "entraineur": "N. Bridault",
-      "cote_pmu": 45.0,
+      "cote_pmu": 47.0,
       "non_partant": false,
       "musique_raw": "4a7a8aDa5a(25)",
       "nb_courses_recentes": 5,
@@ -1609,7 +1492,7 @@
           "distance_m": 2700,
           "vh": null
         },
-        "cote_live_fiche": 45.0,
+        "cote_live_fiche": 47.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. LAGADEUC",
@@ -1646,7 +1529,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.02,
+        "cote": 0.0193,
         "gains": 0.363,
         "couple_je": 0.405,
         "hippodrome": 0.35,
@@ -1654,12 +1537,12 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 18.32,
+      "score": 18.29,
       "enrichi": true,
       "rang_predit": 14
     }
   ],
-  "nb_enrichis": 12,
+  "nb_enrichis": 11,
   "nb_partants": 14,
   "cotes_dispo": 14
 }
