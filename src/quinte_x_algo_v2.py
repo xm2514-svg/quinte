@@ -108,20 +108,52 @@ def f_hippodrome(fiche: dict) -> float:
     return (pct / 100.0) if pct is not None else NEUTRAL
 
 
-def f_preference_terrain(fiche: dict) -> float:
+def _taux_musique(cheval: dict) -> float | None:
+    """Fallback ultime : taux places top3 / courses depuis la musique parsee (top niveau du partant).
+    Sert quand la fiche enrichie n'a pas de dernieres_courses exploitables."""
+    nb_c = cheval.get("nb_courses_recentes")
+    nb_p = cheval.get("nb_places_recentes")
+    if nb_c and nb_c > 0 and nb_p is not None:
+        return nb_p / nb_c
+    return None
+
+
+def f_preference_terrain(fiche: dict, cheval: dict | None = None) -> float:
     if not fiche:
+        # Fallback musique meme sans fiche
+        if cheval is not None:
+            tm = _taux_musique(cheval)
+            if tm is not None:
+                return tm
         return NEUTRAL
     pt = (fiche.get("derives") or {}).get("preference_terrain") or {}
     taux = pt.get("taux")
-    return taux if taux is not None else NEUTRAL
+    if taux is not None:
+        return taux
+    # Fallback musique si dernieres_courses vide
+    if cheval is not None:
+        tm = _taux_musique(cheval)
+        if tm is not None:
+            return tm
+    return NEUTRAL
 
 
-def f_preference_distance(fiche: dict) -> float:
+def f_preference_distance(fiche: dict, cheval: dict | None = None) -> float:
     if not fiche:
+        if cheval is not None:
+            tm = _taux_musique(cheval)
+            if tm is not None:
+                return tm
         return NEUTRAL
     pd = (fiche.get("derives") or {}).get("preference_distance") or {}
     taux = pd.get("taux")
-    return taux if taux is not None else NEUTRAL
+    if taux is not None:
+        return taux
+    if cheval is not None:
+        tm = _taux_musique(cheval)
+        if tm is not None:
+            return tm
+    return NEUTRAL
 
 
 def f_recuperation(fiche: dict) -> float:
@@ -166,8 +198,8 @@ def score_chevaux(partants: list[dict]) -> list[dict]:
             "gains":         f_gains(ch.get("gains_eur"), max_g),
             "couple_je":     f_couple_je(fiche),
             "hippodrome":    f_hippodrome(fiche),
-            "pref_terrain":  f_preference_terrain(fiche),
-            "pref_distance": f_preference_distance(fiche),
+            "pref_terrain":  f_preference_terrain(fiche, ch),
+            "pref_distance": f_preference_distance(fiche, ch),
             "recuperation":  f_recuperation(fiche),
         }
         score = 100.0 * sum(W[k] * sub[k] for k in W)
