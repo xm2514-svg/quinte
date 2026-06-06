@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-05",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "VINCENNES",
+    "libelle": "PX VILLE DE NOGENT SUR MARNE (ADALBERTA)"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 4
+    },
+    {
+      "rang": 2,
+      "numero": 13
+    },
+    {
+      "rang": 3,
+      "numero": 2
+    },
+    {
+      "rang": 4,
+      "numero": 5
+    },
+    {
+      "rang": 5,
+      "numero": 7
+    },
+    {
+      "rang": 6,
+      "numero": 16
+    },
+    {
+      "rang": 7,
+      "numero": 10
+    },
+    {
+      "rang": 8,
+      "numero": 1
+    },
+    {
+      "rang": 9,
+      "numero": 12
+    },
+    {
+      "rang": 10,
+      "numero": 3
+    },
+    {
+      "rang": 11,
+      "numero": 15
+    },
+    {
+      "rang": 12,
+      "numero": 8
+    },
+    {
+      "rang": 13,
+      "numero": 9
+    },
+    {
+      "rang": 14,
+      "numero": 14
+    },
+    {
+      "rang": 15,
+      "numero": 6
+    }
+  ],
+  "predictions": null,
+  "metriques": null
+}
