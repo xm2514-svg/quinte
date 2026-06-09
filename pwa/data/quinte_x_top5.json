@@ -105,7 +105,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0525,
+        "cote": 0.0531,
         "gains": 0.7861,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -113,7 +113,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 51.39,
+      "score": 51.41,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -129,7 +129,7 @@
       "vh": 36.5,
       "gains_eur": 23387,
       "entraineur": "Prod'homme (s)",
-      "cote_pmu": 4.0,
+      "cote_pmu": 4.1,
       "non_partant": false,
       "musique_raw": "2p1p4p5p6p",
       "nb_courses_recentes": 5,
@@ -159,7 +159,7 @@
           "distance_m": 1800,
           "vh": 36.5
         },
-        "cote_live_fiche": 4.0,
+        "cote_live_fiche": 4.1,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. HAMELIN",
@@ -196,7 +196,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2233,
+        "cote": 0.2201,
         "gains": 0.6917,
         "couple_je": 0.7,
         "hippodrome": 0.5,
@@ -204,7 +204,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 43.31,
+      "score": 43.18,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -292,7 +292,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0255,
+        "cote": 0.0258,
         "gains": 0.9046,
         "couple_je": 0.45,
         "hippodrome": 0.5,
@@ -300,7 +300,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 40.84,
+      "score": 40.85,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -316,7 +316,7 @@
       "vh": 36.5,
       "gains_eur": 33809,
       "entraineur": "Y. Barberot",
-      "cote_pmu": 11.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "10p8p2p7p6p(25)",
       "nb_courses_recentes": 5,
@@ -325,7 +325,7 @@
       "derniere_position": 0,
       "position_moyenne": 4.6,
       "sous_scores": {
-        "cote": 0.0812,
+        "cote": 0.0752,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -333,7 +333,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 39.25,
+      "score": 39.01,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -349,7 +349,7 @@
       "vh": 38.0,
       "gains_eur": 14684,
       "entraineur": "Lerner (s)",
-      "cote_pmu": 7.8,
+      "cote_pmu": 8.0,
       "non_partant": false,
       "musique_raw": "1p8p6p6p",
       "nb_courses_recentes": 4,
@@ -358,7 +358,7 @@
       "derniere_position": 1,
       "position_moyenne": 5.25,
       "sous_scores": {
-        "cote": 0.1145,
+        "cote": 0.1128,
         "gains": 0.4343,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -366,7 +366,7 @@
         "pref_distance": 0.25,
         "recuperation": 0.5
       },
-      "score": 29.84,
+      "score": 29.78,
       "enrichi": false,
       "rang_predit": 5
     }
@@ -451,7 +451,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0525,
+        "cote": 0.0531,
         "gains": 0.7861,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -459,7 +459,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 51.39,
+      "score": 51.41,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -475,7 +475,7 @@
       "vh": 36.5,
       "gains_eur": 23387,
       "entraineur": "Prod'homme (s)",
-      "cote_pmu": 4.0,
+      "cote_pmu": 4.1,
       "non_partant": false,
       "musique_raw": "2p1p4p5p6p",
       "nb_courses_recentes": 5,
@@ -505,7 +505,7 @@
           "distance_m": 1800,
           "vh": 36.5
         },
-        "cote_live_fiche": 4.0,
+        "cote_live_fiche": 4.1,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. HAMELIN",
@@ -542,7 +542,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2233,
+        "cote": 0.2201,
         "gains": 0.6917,
         "couple_je": 0.7,
         "hippodrome": 0.5,
@@ -550,7 +550,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 43.31,
+      "score": 43.18,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -638,7 +638,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0255,
+        "cote": 0.0258,
         "gains": 0.9046,
         "couple_je": 0.45,
         "hippodrome": 0.5,
@@ -646,7 +646,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 40.84,
+      "score": 40.85,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -662,7 +662,7 @@
       "vh": 36.5,
       "gains_eur": 33809,
       "entraineur": "Y. Barberot",
-      "cote_pmu": 11.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "10p8p2p7p6p(25)",
       "nb_courses_recentes": 5,
@@ -671,7 +671,7 @@
       "derniere_position": 0,
       "position_moyenne": 4.6,
       "sous_scores": {
-        "cote": 0.0812,
+        "cote": 0.0752,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -679,7 +679,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 39.25,
+      "score": 39.01,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -695,7 +695,7 @@
       "vh": 38.0,
       "gains_eur": 14684,
       "entraineur": "Lerner (s)",
-      "cote_pmu": 7.8,
+      "cote_pmu": 8.0,
       "non_partant": false,
       "musique_raw": "1p8p6p6p",
       "nb_courses_recentes": 4,
@@ -704,7 +704,7 @@
       "derniere_position": 1,
       "position_moyenne": 5.25,
       "sous_scores": {
-        "cote": 0.1145,
+        "cote": 0.1128,
         "gains": 0.4343,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -712,7 +712,7 @@
         "pref_distance": 0.25,
         "recuperation": 0.5
       },
-      "score": 29.84,
+      "score": 29.78,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -728,7 +728,7 @@
       "vh": 34.0,
       "gains_eur": 10406,
       "entraineur": "Mlle F. Bresson",
-      "cote_pmu": 37.0,
+      "cote_pmu": 32.0,
       "non_partant": false,
       "musique_raw": "5p(25)3p1p7p",
       "nb_courses_recentes": 4,
@@ -758,7 +758,7 @@
           "distance_m": 1800,
           "vh": 34.0
         },
-        "cote_live_fiche": 37.0,
+        "cote_live_fiche": 32.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. CLAUDIC",
@@ -795,7 +795,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0241,
+        "cote": 0.0282,
         "gains": 0.3078,
         "couple_je": 0.585,
         "hippodrome": 0.5,
@@ -803,7 +803,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.36,
+      "score": 29.52,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -819,7 +819,7 @@
       "vh": 36.0,
       "gains_eur": 23243,
       "entraineur": "H. Ghabri",
-      "cote_pmu": 26.0,
+      "cote_pmu": 24.0,
       "non_partant": false,
       "musique_raw": "4p6p1p9p(25)6p",
       "nb_courses_recentes": 5,
@@ -849,7 +849,7 @@
           "distance_m": 1800,
           "vh": 36.0
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 24.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. FAVRIAUX",
@@ -886,7 +886,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0343,
+        "cote": 0.0376,
         "gains": 0.6875,
         "couple_je": 0.415,
         "hippodrome": 0.5,
@@ -894,7 +894,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 28.41,
+      "score": 28.54,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -910,7 +910,7 @@
       "vh": 34.5,
       "gains_eur": 11182,
       "entraineur": "D. Artu",
-      "cote_pmu": 69.0,
+      "cote_pmu": 70.0,
       "non_partant": false,
       "musique_raw": "4p12p8p6p2p3p",
       "nb_courses_recentes": 6,
@@ -943,7 +943,7 @@
       "vh": 38.5,
       "gains_eur": 9691,
       "entraineur": "S. Wattel",
-      "cote_pmu": 8.7,
+      "cote_pmu": 8.8,
       "non_partant": false,
       "musique_raw": "7p6p5p3p(25)3p",
       "nb_courses_recentes": 5,
@@ -973,7 +973,7 @@
           "distance_m": 1800,
           "vh": 38.5
         },
-        "cote_live_fiche": 8.7,
+        "cote_live_fiche": 8.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. POUCHIN",
@@ -1010,7 +1010,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1027,
+        "cote": 0.1026,
         "gains": 0.2866,
         "couple_je": 0.4,
         "hippodrome": 0.5,
@@ -1018,7 +1018,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 27.91,
+      "score": 27.9,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1034,7 +1034,7 @@
       "vh": 38.5,
       "gains_eur": 11126,
       "entraineur": "M. Rulec",
-      "cote_pmu": 10.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p2p(25)3p4p",
       "nb_courses_recentes": 4,
@@ -1064,7 +1064,7 @@
           "distance_m": 1800,
           "vh": 38.5
         },
-        "cote_live_fiche": 10.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -1101,7 +1101,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0893,
+        "cote": 0.082,
         "gains": 0.3291,
         "couple_je": 0.5,
         "hippodrome": 0.0,
@@ -1109,100 +1109,9 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.01,
+      "score": 25.72,
       "enrichi": true,
       "rang_predit": 10
-    },
-    {
-      "numero": 14,
-      "nom": "Samor",
-      "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 56.0,
-      "jockey": "M. Guyon",
-      "musique": "9p3p(25)4p3p",
-      "vh": 36.0,
-      "gains_eur": 9760,
-      "entraineur": "C. Ferland",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "9p3p(25)4p3p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 9,
-      "position_moyenne": 4.75,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Samor",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "C. Ferland",
-          "eleveur": "Wertheimer & Frère",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Dubawi"
-        },
-        "course_actuelle": {
-          "hippodrome": "Compiègne",
-          "nb_partants": 16,
-          "allocation_eur": 52800,
-          "distance_m": 1800,
-          "vh": 36.0
-        },
-        "cote_live_fiche": 14.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "C. FERLAND",
-            "victoires": 0,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "sur_hippodrome": {
-            "nom": "COMPIÈGNE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 9760,
-          "musique": "9p 3p (25) 4p 3p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0638,
-        "gains": 0.2887,
-        "couple_je": 0.25,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 25.63,
-      "enrichi": true,
-      "rang_predit": 11
     },
     {
       "numero": 7,
@@ -1283,7 +1192,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0279,
+        "cote": 0.0282,
         "gains": 0.2838,
         "couple_je": 0.25,
         "hippodrome": 0.5,
@@ -1291,7 +1200,193 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 24.12,
+      "score": 24.14,
+      "enrichi": true,
+      "rang_predit": 11
+    },
+    {
+      "numero": 9,
+      "nom": "The Tinker",
+      "artifice": null,
+      "sexe": "M",
+      "age": 3,
+      "poids": 57.0,
+      "jockey": "M. Barzalona",
+      "musique": "5p8p12p5p(25)7p",
+      "vh": 37.0,
+      "gains_eur": 17302,
+      "entraineur": "Brandt (s)",
+      "cote_pmu": 31.0,
+      "non_partant": false,
+      "musique_raw": "5p8p12p5p(25)7p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 5,
+      "position_moyenne": 5.4,
+      "fiche_enrichie": {
+        "numero": 9,
+        "nom": "The Tinker",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Barzalona",
+          "proprietaire": "Brandt (s)",
+          "eleveur": "F. Blichfeldt",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Dabirsim"
+        },
+        "course_actuelle": {
+          "hippodrome": "Compiègne",
+          "nb_partants": 16,
+          "allocation_eur": 52800,
+          "distance_m": 1800,
+          "vh": 37.0
+        },
+        "cote_live_fiche": 31.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. BARZALONA",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 1,
+            "places": 0,
+            "courses": 7,
+            "pourcentage": 14.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 17302,
+          "musique": "5p 8p 12p 5p (25) 7p 1p 9p",
+          "carriere": null
+        },
+        "dernieres_courses": [
+          {
+            "date": "05/05/26",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix de La Fouilleuse",
+            "qplus": true,
+            "distance_m": 1600,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 52800,
+            "rang": "5e",
+            "partants": 14,
+            "vh": 37.0
+          },
+          {
+            "date": "16/03/26",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix des Quatre Glacières",
+            "qplus": true,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 52800,
+            "rang": "12e",
+            "partants": 16,
+            "vh": 38.0
+          },
+          {
+            "date": "16/01/26",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Benerville",
+            "qplus": false,
+            "distance_m": 1300,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 25600,
+            "rang": "5e",
+            "partants": 5,
+            "vh": 39.0
+          },
+          {
+            "date": "27/12/25",
+            "spec": "P",
+            "hippodrome": "CHANTILLY",
+            "nom_course": "Prix du Bois de la Coharde",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 31100,
+            "rang": "7e",
+            "partants": 8,
+            "vh": null
+          },
+          {
+            "date": "28/11/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Bagnoles-de-l'Orne",
+            "qplus": false,
+            "distance_m": 1300,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 27400,
+            "rang": "1er",
+            "partants": 14,
+            "vh": null
+          },
+          {
+            "date": "21/10/25",
+            "spec": "P",
+            "hippodrome": "CLAIREFONTAINE",
+            "nom_course": "Prix Baptême à Poneys (Prix Madina)",
+            "qplus": false,
+            "distance_m": 1400,
+            "corde": "D",
+            "terrain": "Très souple",
+            "allocation_eur": 18300,
+            "rang": "9e",
+            "partants": 12,
+            "vh": null
+          }
+        ],
+        "derives": {
+          "preference_terrain": {
+            "courses": 6,
+            "places_top3": 1,
+            "taux": 0.167,
+            "fallback": true
+          },
+          "preference_distance": {
+            "courses": 6,
+            "places_top3": 1,
+            "taux": 0.167,
+            "fallback": true
+          },
+          "jours_depuis_derniere_course": 35
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0291,
+        "gains": 0.5118,
+        "couple_je": 0.14,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.167,
+        "pref_distance": 0.167,
+        "recuperation": 1.0
+      },
+      "score": 23.45,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1374,7 +1469,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0744,
+        "cote": 0.0752,
         "gains": 0.6076,
         "couple_je": 0.0,
         "hippodrome": 0.5,
@@ -1382,7 +1477,7 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 22.09,
+      "score": 22.12,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1465,7 +1560,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0223,
+        "cote": 0.0226,
         "gains": 0.4138,
         "couple_je": 0.165,
         "hippodrome": 0.5,
@@ -1478,62 +1573,62 @@
       "rang_predit": 14
     },
     {
-      "numero": 9,
-      "nom": "The Tinker",
+      "numero": 14,
+      "nom": "Samor",
       "artifice": null,
       "sexe": "M",
       "age": 3,
-      "poids": 57.0,
-      "jockey": "M. Barzalona",
-      "musique": "5p8p12p5p(25)7p",
-      "vh": 37.0,
-      "gains_eur": 17302,
-      "entraineur": "Brandt (s)",
-      "cote_pmu": 40.0,
+      "poids": 56.0,
+      "jockey": "M. Guyon",
+      "musique": "9p3p(25)4p3p",
+      "vh": 36.0,
+      "gains_eur": 9760,
+      "entraineur": "C. Ferland",
+      "cote_pmu": 14.0,
       "non_partant": false,
-      "musique_raw": "5p8p12p5p(25)7p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "9p3p(25)4p3p",
+      "nb_courses_recentes": 4,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 5,
-      "position_moyenne": 5.4,
+      "nb_places_recentes": 2,
+      "derniere_position": 9,
+      "position_moyenne": 4.75,
       "fiche_enrichie": {
-        "numero": 9,
-        "nom": "The Tinker",
+        "numero": 14,
+        "nom": "Samor",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "Brandt (s)",
-          "eleveur": "F. Blichfeldt",
+          "entraineur": "M. Guyon",
+          "proprietaire": "C. Ferland",
+          "eleveur": "Wertheimer & Frère",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Mâle",
           "pere": "Galop",
-          "mere": "Dabirsim"
+          "mere": "Dubawi"
         },
         "course_actuelle": {
           "hippodrome": "Compiègne",
           "nb_partants": 16,
           "allocation_eur": 52800,
           "distance_m": 1800,
-          "vh": 37.0
+          "vh": 36.0
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 14.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. BARZALONA",
+            "nom": "M. GUYON",
             "victoires": 0,
             "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "courses": 1,
+            "pourcentage": 0.0
           },
           "avec_entraineur": {
-            "nom": "BRANDT (S)",
-            "victoires": 1,
-            "places": 0,
-            "courses": 7,
-            "pourcentage": 14.0
+            "nom": "C. FERLAND",
+            "victoires": 0,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
           },
           "sur_hippodrome": {
             "nom": "COMPIÈGNE",
@@ -1544,27 +1639,92 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 17302,
-          "musique": "5p 8p 12p 5p (25) 7p 1p 9p",
+          "gains_eur": 9760,
+          "musique": "9p 3p (25) 4p 3p",
           "carriere": null
         },
-        "dernieres_courses": [],
+        "dernieres_courses": [
+          {
+            "date": "24/03/26",
+            "spec": "P",
+            "hippodrome": "SAINT-CLOUD",
+            "nom_course": "Prix Goodly",
+            "qplus": false,
+            "distance_m": 2400,
+            "corde": "G",
+            "terrain": "Bon souple",
+            "allocation_eur": 24700,
+            "rang": "9e",
+            "partants": 14,
+            "vh": 36.5
+          },
+          {
+            "date": "28/02/26",
+            "spec": "P",
+            "hippodrome": "FONTAINEBLEAU",
+            "nom_course": "Prix des Grands Cerfs",
+            "qplus": false,
+            "distance_m": 2200,
+            "corde": "G",
+            "terrain": "Souple",
+            "allocation_eur": 24700,
+            "rang": "3e",
+            "partants": 12,
+            "vh": null
+          },
+          {
+            "date": "29/12/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de Martainville",
+            "qplus": false,
+            "distance_m": 1900,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 27400,
+            "rang": "4e",
+            "partants": 15,
+            "vh": null
+          },
+          {
+            "date": "02/12/25",
+            "spec": "P",
+            "hippodrome": "DEAUVILLE",
+            "nom_course": "Prix de la Gagnerie",
+            "qplus": false,
+            "distance_m": 1900,
+            "corde": "D",
+            "terrain": "PSF Standard",
+            "allocation_eur": 27400,
+            "rang": "3e",
+            "partants": 16,
+            "vh": null
+          }
+        ],
         "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
+          "preference_terrain": {
+            "courses": 1,
+            "places_top3": 0,
+            "taux": 0.0
+          },
+          "preference_distance": {
+            "courses": 2,
+            "places_top3": 1,
+            "taux": 0.5
+          },
+          "jours_depuis_derniere_course": 77
         }
       },
       "sous_scores": {
-        "cote": 0.0223,
-        "gains": 0.5118,
-        "couple_je": 0.14,
+        "cote": 0.0645,
+        "gains": 0.2887,
+        "couple_je": 0.25,
         "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 21.17,
+      "score": 20.66,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1580,7 +1740,7 @@
       "vh": 37.5,
       "gains_eur": 15820,
       "entraineur": "S. Kobayashi",
-      "cote_pmu": 31.0,
+      "cote_pmu": 30.0,
       "non_partant": false,
       "musique_raw": "7p6p(25)1p5p",
       "nb_courses_recentes": 4,
@@ -1610,7 +1770,7 @@
           "distance_m": 1800,
           "vh": 37.5
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 30.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -1647,7 +1807,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0288,
+        "cote": 0.0301,
         "gains": 0.4679,
         "couple_je": 0.25,
         "hippodrome": 0.0,
@@ -1655,7 +1815,7 @@
         "pref_distance": 0.25,
         "recuperation": 0.5
       },
-      "score": 18.17,
+      "score": 18.22,
       "enrichi": true,
       "rang_predit": 16
     }
