@@ -411,38 +411,38 @@
       "rang_predit": 4
     },
     {
-      "numero": 10,
-      "nom": "Kaiser",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
+      "numero": 13,
+      "nom": "Ivoire Prestance",
+      "artifice": "oui",
+      "sexe": "M",
+      "age": 8,
       "poids": 2475.0,
-      "jockey": "F. Nivard",
-      "musique": "1aDa3a2a5a(25)",
+      "jockey": "D. Locqueneux",
+      "musique": "12a7a(25)11a1a4a",
       "vh": null,
-      "gains_eur": 181700,
-      "entraineur": "F. Nivard",
-      "cote_pmu": 15.0,
+      "gains_eur": 216920,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 87.0,
       "non_partant": false,
-      "musique_raw": "1aDa3a2a5a(25)",
+      "musique_raw": "12a7a(25)11a1a4a",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
+      "nb_victoires_recentes": 2,
       "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 2.75,
+      "derniere_position": 2,
+      "position_moyenne": 3.0,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Kaiser River",
+        "numero": 13,
+        "nom": "Ivoire Prestance",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "R. Lamy",
-          "proprietaire": "E. Varin",
-          "eleveur": "P. Bertin",
+          "entraineur": "D. Locqueneux",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "J. Vanduffel",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2020",
+          "pere": "2018",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -452,38 +452,20 @@
           "distance_m": 2450,
           "vh": null
         },
-        "cote_live_fiche": 56.0,
+        "cote_live_fiche": 87.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "R. LAMY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "E. VARIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "sur_hippodrome": {
-            "nom": "CAEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
-          "gains_eur": 112400,
-          "musique": "1a 8a (25) 6a 10a 3a (24) 13a",
+          "gains_eur": 216920,
+          "musique": "12a 7a (25) 11a 1a 4a 2a 4a",
           "carriere": {
-            "courses": 26,
-            "victoires": 4,
+            "courses": 42,
+            "victoires": 12,
             "places": 7,
-            "pourcentage": 42.0
+            "pourcentage": 45.0
           }
         },
         "dernieres_courses": [],
@@ -494,15 +476,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0605,
-        "gains": 0.7701,
+        "cote": 0.0104,
+        "gains": 0.9193,
         "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.6,
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 37.97,
+      "score": 38.21,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -893,6 +875,84 @@
       "rang_predit": 4
     },
     {
+      "numero": 13,
+      "nom": "Ivoire Prestance",
+      "artifice": "oui",
+      "sexe": "M",
+      "age": 8,
+      "poids": 2475.0,
+      "jockey": "D. Locqueneux",
+      "musique": "12a7a(25)11a1a4a",
+      "vh": null,
+      "gains_eur": 216920,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 87.0,
+      "non_partant": false,
+      "musique_raw": "12a7a(25)11a1a4a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 13,
+        "nom": "Ivoire Prestance",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "D. Locqueneux",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "J. Vanduffel",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Caen",
+          "nb_partants": 18,
+          "allocation_eur": 35000,
+          "distance_m": 2450,
+          "vh": null
+        },
+        "cote_live_fiche": 87.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 216920,
+          "musique": "12a 7a (25) 11a 1a 4a 2a 4a",
+          "carriere": {
+            "courses": 42,
+            "victoires": 12,
+            "places": 7,
+            "pourcentage": 45.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0104,
+        "gains": 0.9193,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 38.21,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
       "numero": 10,
       "nom": "Kaiser",
       "artifice": null,
@@ -985,102 +1045,6 @@
         "recuperation": 0.5
       },
       "score": 37.97,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 13,
-      "nom": "Ivoire Prestance",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 8,
-      "poids": 2475.0,
-      "jockey": "D. Locqueneux",
-      "musique": "12a7a(25)11a1a4a",
-      "vh": null,
-      "gains_eur": 216920,
-      "entraineur": "D. Locqueneux",
-      "cote_pmu": 87.0,
-      "non_partant": false,
-      "musique_raw": "12a7a(25)11a1a4a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Ivoire Prestance",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "D. Locqueneux",
-          "proprietaire": "D. Locqueneux",
-          "eleveur": "J. Vanduffel",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Caen",
-          "nb_partants": 18,
-          "allocation_eur": 35000,
-          "distance_m": 2450,
-          "vh": null
-        },
-        "cote_live_fiche": 87.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "D. LOCQUENEUX",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "D. LOCQUENEUX",
-            "victoires": 1,
-            "places": 3,
-            "courses": 11,
-            "pourcentage": 36.0
-          },
-          "sur_hippodrome": {
-            "nom": "CAEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 216920,
-          "musique": "12a 7a (25) 11a 1a 4a 2a 4a",
-          "carriere": {
-            "courses": 42,
-            "victoires": 12,
-            "places": 7,
-            "pourcentage": 45.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0104,
-        "gains": 0.9193,
-        "couple_je": 0.43,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 37.16,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1439,84 +1403,6 @@
       "rang_predit": 11
     },
     {
-      "numero": 7,
-      "nom": "Kancalais",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 2450.0,
-      "jockey": "F. Lagadeuc",
-      "musique": "8a2a2a6aDa(25)",
-      "vh": null,
-      "gains_eur": 117480,
-      "entraineur": "CA. Mary",
-      "cote_pmu": 12.0,
-      "non_partant": false,
-      "musique_raw": "8a2a2a6aDa(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 8,
-      "position_moyenne": 4.5,
-      "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Kancalais",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "F. Lagadeuc",
-          "proprietaire": "CA. Mary",
-          "eleveur": "Ecurie du Lys",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Caen",
-          "nb_partants": 18,
-          "allocation_eur": 35000,
-          "distance_m": 2450,
-          "vh": null
-        },
-        "cote_live_fiche": 12.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 117480,
-          "musique": "8a 2a 2a 6a Da (25) 4a 3a",
-          "carriere": {
-            "courses": 26,
-            "victoires": 5,
-            "places": 5,
-            "pourcentage": 38.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0756,
-        "gains": 0.4979,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 31.49,
-      "enrichi": true,
-      "rang_predit": 12
-    },
-    {
       "numero": 11,
       "nom": "Ivre de Toi",
       "artifice": null,
@@ -1610,7 +1496,7 @@
       },
       "score": 29.35,
       "enrichi": true,
-      "rang_predit": 13
+      "rang_predit": 12
     },
     {
       "numero": 2,
@@ -1643,7 +1529,7 @@
       },
       "score": 29.11,
       "enrichi": false,
-      "rang_predit": 14
+      "rang_predit": 13
     },
     {
       "numero": 18,
@@ -1738,6 +1624,102 @@
         "recuperation": 0.5
       },
       "score": 28.52,
+      "enrichi": true,
+      "rang_predit": 14
+    },
+    {
+      "numero": 7,
+      "nom": "Kancalais",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2450.0,
+      "jockey": "F. Lagadeuc",
+      "musique": "8a2a2a6aDa(25)",
+      "vh": null,
+      "gains_eur": 117480,
+      "entraineur": "CA. Mary",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "8a2a2a6aDa(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 8,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Kancalais",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Lagadeuc",
+          "proprietaire": "CA. Mary",
+          "eleveur": "Ecurie du Lys",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Caen",
+          "nb_partants": 18,
+          "allocation_eur": 35000,
+          "distance_m": 2450,
+          "vh": null
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. LAGADEUC",
+            "victoires": 1,
+            "places": 0,
+            "courses": 5,
+            "pourcentage": 20.0
+          },
+          "avec_entraineur": {
+            "nom": "CA. MARY",
+            "victoires": 5,
+            "places": 5,
+            "courses": 26,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "CAEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 117480,
+          "musique": "8a 2a 2a 6a Da (25) 4a 3a",
+          "carriere": {
+            "courses": 26,
+            "victoires": 5,
+            "places": 5,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0756,
+        "gains": 0.4979,
+        "couple_je": 0.29,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 28.34,
       "enrichi": true,
       "rang_predit": 15
     },
