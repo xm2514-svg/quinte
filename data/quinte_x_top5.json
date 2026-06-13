@@ -13,7 +13,7 @@
     "distance_m": 2150,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "16°C Quelques nuages, vent 11km/h - O"
+    "meteo": "20°C Nuageux, vent 14km/h - O"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 452150,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 2.1,
+      "cote_pmu": 1.8,
       "non_partant": false,
       "musique_raw": "1aDa2a4a(25)1a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 2.1,
+        "cote_live_fiche": 1.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.4342,
+        "cote": 0.4951,
         "gains": 0.9947,
         "couple_je": 0.695,
         "hippodrome": 1.0,
@@ -118,105 +118,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 64.21,
+      "score": 66.65,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 3,
-      "nom": "Ibiza Bella",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2150.0,
-      "jockey": "A. Wiels",
-      "musique": "2a13a1a6a2a(25)",
-      "vh": null,
-      "gains_eur": 402830,
-      "entraineur": "JP. Marmion",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "2a13a1a6a2a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 2.8,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Ibiza Bella",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Wiels",
-          "proprietaire": "JP. Marmion",
-          "eleveur": "Ecurie Jean-Paul Marmion",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 13.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. WIELS",
-            "victoires": 14,
-            "places": 15,
-            "courses": 48,
-            "pourcentage": 60.0
-          },
-          "avec_entraineur": {
-            "nom": "JP. MARMION",
-            "victoires": 14,
-            "places": 15,
-            "courses": 52,
-            "pourcentage": 56.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 1,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 402830,
-          "musique": "2a 13a 1a 6a 2a (25) 8a Da",
-          "carriere": {
-            "courses": 52,
-            "victoires": 14,
-            "places": 15,
-            "pourcentage": 56.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0701,
-        "gains": 0.8862,
-        "couple_je": 0.58,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 44.3,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 9,
@@ -230,7 +134,7 @@
       "vh": null,
       "gains_eur": 347340,
       "entraineur": "J. Elfving",
-      "cote_pmu": 6.3,
+      "cote_pmu": 7.0,
       "non_partant": false,
       "musique_raw": "1a2aDa5a(25)8a",
       "nb_courses_recentes": 5,
@@ -260,7 +164,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 6.3,
+        "cote_live_fiche": 7.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -302,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1447,
+        "cote": 0.1273,
         "gains": 0.7642,
         "couple_je": 0.855,
         "hippodrome": 0.5,
@@ -310,9 +214,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 43.58,
+      "score": 42.88,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
       "numero": 7,
@@ -326,7 +230,7 @@
       "vh": null,
       "gains_eur": 429425,
       "entraineur": "JM. Chaineux",
-      "cote_pmu": 9.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "3a3aDa2a1a5a",
       "nb_courses_recentes": 6,
@@ -356,7 +260,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -380,7 +284,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1013,
+        "cote": 0.081,
         "gains": 0.9448,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -388,7 +292,85 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 43.22,
+      "score": 42.41,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 3,
+      "nom": "Ibiza Bella",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2150.0,
+      "jockey": "A. Wiels",
+      "musique": "2a13a1a6a2a(25)",
+      "vh": null,
+      "gains_eur": 402830,
+      "entraineur": "JP. Marmion",
+      "cote_pmu": 18.0,
+      "non_partant": false,
+      "musique_raw": "2a13a1a6a2a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Ibiza Bella",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Wiels",
+          "proprietaire": "JP. Marmion",
+          "eleveur": "Ecurie Jean-Paul Marmion",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 18.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 402830,
+          "musique": "2a 13a 1a 6a 2a (25) 8a Da",
+          "carriere": {
+            "courses": 52,
+            "victoires": 14,
+            "places": 15,
+            "pourcentage": 56.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0495,
+        "gains": 0.8862,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 42.27,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -404,7 +386,7 @@
       "vh": null,
       "gains_eur": 454538,
       "entraineur": "B. Michardière",
-      "cote_pmu": 53.0,
+      "cote_pmu": 45.0,
       "non_partant": false,
       "musique_raw": "12a4a4a15a12a(25)",
       "nb_courses_recentes": 5,
@@ -434,7 +416,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 53.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -458,7 +440,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0172,
+        "cote": 0.0198,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -466,7 +448,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 36.69,
+      "score": 36.79,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -484,7 +466,7 @@
       "vh": null,
       "gains_eur": 452150,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 2.1,
+      "cote_pmu": 1.8,
       "non_partant": false,
       "musique_raw": "1aDa2a4a(25)1a",
       "nb_courses_recentes": 5,
@@ -514,7 +496,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 2.1,
+        "cote_live_fiche": 1.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -556,7 +538,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.4342,
+        "cote": 0.4951,
         "gains": 0.9947,
         "couple_je": 0.695,
         "hippodrome": 1.0,
@@ -564,105 +546,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 64.21,
+      "score": 66.65,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 3,
-      "nom": "Ibiza Bella",
-      "artifice": null,
-      "sexe": "F",
-      "age": 8,
-      "poids": 2150.0,
-      "jockey": "A. Wiels",
-      "musique": "2a13a1a6a2a(25)",
-      "vh": null,
-      "gains_eur": 402830,
-      "entraineur": "JP. Marmion",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "2a13a1a6a2a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 2.8,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Ibiza Bella",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Wiels",
-          "proprietaire": "JP. Marmion",
-          "eleveur": "Ecurie Jean-Paul Marmion",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 13.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. WIELS",
-            "victoires": 14,
-            "places": 15,
-            "courses": 48,
-            "pourcentage": 60.0
-          },
-          "avec_entraineur": {
-            "nom": "JP. MARMION",
-            "victoires": 14,
-            "places": 15,
-            "courses": 52,
-            "pourcentage": 56.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 1,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 402830,
-          "musique": "2a 13a 1a 6a 2a (25) 8a Da",
-          "carriere": {
-            "courses": 52,
-            "victoires": 14,
-            "places": 15,
-            "pourcentage": 56.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0701,
-        "gains": 0.8862,
-        "couple_je": 0.58,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 44.3,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 9,
@@ -676,7 +562,7 @@
       "vh": null,
       "gains_eur": 347340,
       "entraineur": "J. Elfving",
-      "cote_pmu": 6.3,
+      "cote_pmu": 7.0,
       "non_partant": false,
       "musique_raw": "1a2aDa5a(25)8a",
       "nb_courses_recentes": 5,
@@ -706,7 +592,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 6.3,
+        "cote_live_fiche": 7.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -748,7 +634,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1447,
+        "cote": 0.1273,
         "gains": 0.7642,
         "couple_je": 0.855,
         "hippodrome": 0.5,
@@ -756,9 +642,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 43.58,
+      "score": 42.88,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
       "numero": 7,
@@ -772,7 +658,7 @@
       "vh": null,
       "gains_eur": 429425,
       "entraineur": "JM. Chaineux",
-      "cote_pmu": 9.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "3a3aDa2a1a5a",
       "nb_courses_recentes": 6,
@@ -802,7 +688,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -826,7 +712,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1013,
+        "cote": 0.081,
         "gains": 0.9448,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -834,7 +720,85 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 43.22,
+      "score": 42.41,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 3,
+      "nom": "Ibiza Bella",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2150.0,
+      "jockey": "A. Wiels",
+      "musique": "2a13a1a6a2a(25)",
+      "vh": null,
+      "gains_eur": 402830,
+      "entraineur": "JP. Marmion",
+      "cote_pmu": 18.0,
+      "non_partant": false,
+      "musique_raw": "2a13a1a6a2a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Ibiza Bella",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Wiels",
+          "proprietaire": "JP. Marmion",
+          "eleveur": "Ecurie Jean-Paul Marmion",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 18.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 402830,
+          "musique": "2a 13a 1a 6a 2a (25) 8a Da",
+          "carriere": {
+            "courses": 52,
+            "victoires": 14,
+            "places": 15,
+            "pourcentage": 56.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0495,
+        "gains": 0.8862,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 42.27,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -850,7 +814,7 @@
       "vh": null,
       "gains_eur": 454538,
       "entraineur": "B. Michardière",
-      "cote_pmu": 53.0,
+      "cote_pmu": 45.0,
       "non_partant": false,
       "musique_raw": "12a4a4a15a12a(25)",
       "nb_courses_recentes": 5,
@@ -880,7 +844,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 53.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -904,7 +868,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0172,
+        "cote": 0.0198,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -912,7 +876,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 36.69,
+      "score": 36.79,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -928,7 +892,7 @@
       "vh": null,
       "gains_eur": 377555,
       "entraineur": "SG. Dupont",
-      "cote_pmu": 38.0,
+      "cote_pmu": 47.0,
       "non_partant": false,
       "musique_raw": "2mDa2m2a8aDa",
       "nb_courses_recentes": 6,
@@ -958,7 +922,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 38.0,
+        "cote_live_fiche": 47.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -982,7 +946,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.024,
+        "cote": 0.019,
         "gains": 0.8306,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -990,7 +954,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 35.92,
+      "score": 35.72,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1006,7 +970,7 @@
       "vh": null,
       "gains_eur": 416165,
       "entraineur": "S. Laloum",
-      "cote_pmu": 70.0,
+      "cote_pmu": 88.0,
       "non_partant": false,
       "musique_raw": "7a5a9a3a11a(25)",
       "nb_courses_recentes": 5,
@@ -1036,7 +1000,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 70.0,
+        "cote_live_fiche": 88.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -1060,7 +1024,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.013,
+        "cote": 0.0101,
         "gains": 0.9156,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1068,7 +1032,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 35.25,
+      "score": 35.14,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1084,7 +1048,7 @@
       "vh": null,
       "gains_eur": 382550,
       "entraineur": "J. Raffestin",
-      "cote_pmu": 53.0,
+      "cote_pmu": 92.0,
       "non_partant": false,
       "musique_raw": "6a9a1a5a13a(25)",
       "nb_courses_recentes": 5,
@@ -1092,53 +1056,8 @@
       "nb_places_recentes": 2,
       "derniere_position": 6,
       "position_moyenne": 4.8,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Jilord Viva",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "J. Raffestin",
-          "proprietaire": "J. Raffestin",
-          "eleveur": "P. Viel",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2019",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 53.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 382550,
-          "musique": "6a 9a 1a 5a 13a (25) 4a 1a",
-          "carriere": {
-            "courses": 60,
-            "victoires": 9,
-            "places": 17,
-            "pourcentage": 43.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
       "sous_scores": {
-        "cote": 0.0172,
+        "cote": 0.0097,
         "gains": 0.8416,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1146,8 +1065,8 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 34.31,
-      "enrichi": true,
+      "score": 34.01,
+      "enrichi": false,
       "rang_predit": 8
     },
     {
@@ -1162,7 +1081,7 @@
       "vh": null,
       "gains_eur": 373920,
       "entraineur": "A. Chavatte",
-      "cote_pmu": 156.0,
+      "cote_pmu": 148.0,
       "non_partant": false,
       "musique_raw": "6a11a9a(25)4a1a",
       "nb_courses_recentes": 5,
@@ -1192,7 +1111,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 156.0,
+        "cote_live_fiche": 148.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "AA. CHAVATTE",
@@ -1234,7 +1153,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0058,
+        "cote": 0.006,
         "gains": 0.8226,
         "couple_je": 0.505,
         "hippodrome": 0.5,
@@ -1242,7 +1161,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 33.65,
+      "score": 33.66,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1258,7 +1177,7 @@
       "vh": null,
       "gains_eur": 340150,
       "entraineur": "A. Chavatte",
-      "cote_pmu": 91.0,
+      "cote_pmu": 98.0,
       "non_partant": false,
       "musique_raw": "4a5a(25)10a4a17a",
       "nb_courses_recentes": 5,
@@ -1288,7 +1207,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 91.0,
+        "cote_live_fiche": 98.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -1312,7 +1231,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.01,
+        "cote": 0.0091,
         "gains": 0.7483,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1320,9 +1239,100 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 29.63,
+      "score": 29.59,
       "enrichi": true,
       "rang_predit": 10
+    },
+    {
+      "numero": 11,
+      "nom": "Jazzman",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 2150.0,
+      "jockey": "A. Abrivard",
+      "musique": "7a4a8a1a(25)Da",
+      "vh": null,
+      "gains_eur": 369810,
+      "entraineur": "LC. Abrivard",
+      "cote_pmu": 20.0,
+      "non_partant": false,
+      "musique_raw": "7a4a8a1a(25)Da",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 7,
+      "position_moyenne": 5.0,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Jazzman",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "LC. Abrivard",
+          "eleveur": "Mme MN. Lusseau",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 20.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 6,
+            "places": 2,
+            "courses": 18,
+            "pourcentage": 44.0
+          },
+          "avec_entraineur": {
+            "nom": "LC. ABRIVARD",
+            "victoires": 7,
+            "places": 2,
+            "courses": 30,
+            "pourcentage": 30.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 2,
+            "places": 0,
+            "courses": 8,
+            "pourcentage": 25.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 369810,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0446,
+        "gains": 0.8136,
+        "couple_je": 0.37,
+        "hippodrome": 0.25,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 27.54,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 16,
@@ -1336,7 +1346,7 @@
       "vh": null,
       "gains_eur": 366010,
       "entraineur": "Y. Desmet",
-      "cote_pmu": 52.0,
+      "cote_pmu": 77.0,
       "non_partant": false,
       "musique_raw": "3a9a4aDa6aDa",
       "nb_courses_recentes": 6,
@@ -1366,7 +1376,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 52.0,
+        "cote_live_fiche": 77.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. MARTENS",
@@ -1408,7 +1418,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0175,
+        "cote": 0.0116,
         "gains": 0.8052,
         "couple_je": 0.47,
         "hippodrome": 0.27,
@@ -1416,196 +1426,9 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 27.53,
-      "enrichi": true,
-      "rang_predit": 11
-    },
-    {
-      "numero": 11,
-      "nom": "Jazzman",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 2150.0,
-      "jockey": "A. Abrivard",
-      "musique": "7a4a8a1a(25)Da",
-      "vh": null,
-      "gains_eur": 369810,
-      "entraineur": "LC. Abrivard",
-      "cote_pmu": 21.0,
-      "non_partant": false,
-      "musique_raw": "7a4a8a1a(25)Da",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 7,
-      "position_moyenne": 5.0,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Jazzman",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Abrivard",
-          "proprietaire": "LC. Abrivard",
-          "eleveur": "Mme MN. Lusseau",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 21.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. ABRIVARD",
-            "victoires": 6,
-            "places": 2,
-            "courses": 18,
-            "pourcentage": 44.0
-          },
-          "avec_entraineur": {
-            "nom": "LC. ABRIVARD",
-            "victoires": 7,
-            "places": 2,
-            "courses": 30,
-            "pourcentage": 30.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 2,
-            "places": 0,
-            "courses": 8,
-            "pourcentage": 25.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 369810,
-          "musique": null,
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0434,
-        "gains": 0.8136,
-        "couple_je": 0.37,
-        "hippodrome": 0.25,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 27.49,
+      "score": 27.29,
       "enrichi": true,
       "rang_predit": 12
-    },
-    {
-      "numero": 8,
-      "nom": "Indy Rock",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2150.0,
-      "jockey": "M. Mottier",
-      "musique": "9a4aDaDaDa10a",
-      "vh": null,
-      "gains_eur": 413318,
-      "entraineur": "J. Westholm",
-      "cote_pmu": 33.0,
-      "non_partant": false,
-      "musique_raw": "9a4aDaDaDa10a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 9,
-      "position_moyenne": 4.33,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Indy Rock",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Mottier",
-          "proprietaire": "J. Westholm",
-          "eleveur": "Stall Verrazzano AB",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 33.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. MOTTIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "J. WESTHOLM",
-            "victoires": 0,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 0.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 414892,
-          "musique": "9a 4a Da Da Da 10a (25) Da",
-          "carriere": {
-            "courses": 65,
-            "victoires": 11,
-            "places": 15,
-            "pourcentage": 40.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0276,
-        "gains": 0.9093,
-        "couple_je": 0.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.1667,
-        "pref_distance": 0.1667,
-        "recuperation": 0.5
-      },
-      "score": 24.74,
-      "enrichi": true,
-      "rang_predit": 13
     },
     {
       "numero": 12,
@@ -1619,7 +1442,7 @@
       "vh": null,
       "gains_eur": 327876,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 30.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "4a8a5a7aDa5a",
       "nb_courses_recentes": 6,
@@ -1649,7 +1472,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 30.0,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. RAFFIN",
@@ -1691,7 +1514,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0304,
+        "cote": 0.0446,
         "gains": 0.7213,
         "couple_je": 0.45,
         "hippodrome": 0.33,
@@ -1699,7 +1522,103 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 24.59,
+      "score": 25.15,
+      "enrichi": true,
+      "rang_predit": 13
+    },
+    {
+      "numero": 8,
+      "nom": "Indy Rock",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2150.0,
+      "jockey": "M. Mottier",
+      "musique": "9a4aDaDaDa10a",
+      "vh": null,
+      "gains_eur": 413318,
+      "entraineur": "J. Westholm",
+      "cote_pmu": 27.0,
+      "non_partant": false,
+      "musique_raw": "9a4aDaDaDa10a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 9,
+      "position_moyenne": 4.33,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Indy Rock",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Mottier",
+          "proprietaire": "J. Westholm",
+          "eleveur": "Stall Verrazzano AB",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 27.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. MOTTIER",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "J. WESTHOLM",
+            "victoires": 0,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 0.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 414892,
+          "musique": "9a 4a Da Da Da 10a (25) Da",
+          "carriere": {
+            "courses": 65,
+            "victoires": 11,
+            "places": 15,
+            "pourcentage": 40.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.033,
+        "gains": 0.9093,
+        "couple_je": 0.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
+        "recuperation": 0.5
+      },
+      "score": 24.96,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1715,7 +1634,7 @@
       "vh": null,
       "gains_eur": 372340,
       "entraineur": "LC. Abrivard",
-      "cote_pmu": 31.0,
+      "cote_pmu": 37.0,
       "non_partant": false,
       "musique_raw": "5a4m9a5a3a7m",
       "nb_courses_recentes": 6,
@@ -1745,7 +1664,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 37.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -1787,7 +1706,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0294,
+        "cote": 0.0241,
         "gains": 0.8192,
         "couple_je": 0.385,
         "hippodrome": 0.0,
@@ -1795,7 +1714,7 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 24.24,
+      "score": 24.03,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1811,7 +1730,7 @@
       "vh": null,
       "gains_eur": 348694,
       "entraineur": "P. Tarrimaa",
-      "cote_pmu": 65.0,
+      "cote_pmu": 57.0,
       "non_partant": false,
       "musique_raw": "5m7a7a8a12a4a",
       "nb_courses_recentes": 6,
@@ -1841,7 +1760,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 65.0,
+        "cote_live_fiche": 57.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "G. GELORMINI",
@@ -1883,7 +1802,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.014,
+        "cote": 0.0156,
         "gains": 0.7671,
         "couple_je": 0.0,
         "hippodrome": 0.5,
@@ -1891,12 +1810,12 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 22.07,
+      "score": 22.13,
       "enrichi": true,
       "rang_predit": 16
     }
   ],
-  "nb_enrichis": 16,
+  "nb_enrichis": 15,
   "nb_partants": 16,
   "cotes_dispo": 16
 }
