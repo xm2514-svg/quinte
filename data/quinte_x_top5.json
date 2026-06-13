@@ -68,7 +68,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 1.8,
+        "cote_live_fiche": 1.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -164,7 +164,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 7.0,
+        "cote_live_fiche": 7.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -338,7 +338,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 18.0,
+        "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -375,38 +375,38 @@
       "rang_predit": 4
     },
     {
-      "numero": 4,
-      "nom": "Invictus Madiba",
+      "numero": 6,
+      "nom": "Grand Trio Ludois",
       "artifice": null,
-      "sexe": "M",
-      "age": 8,
+      "sexe": "H",
+      "age": 10,
       "poids": 2150.0,
-      "jockey": "F. Nivard",
-      "musique": "12a4a4a15a12a(25)",
+      "jockey": "S. Laloum",
+      "musique": "7a5a9a3a11a(25)",
       "vh": null,
-      "gains_eur": 454538,
-      "entraineur": "B. Michardière",
-      "cote_pmu": 45.0,
+      "gains_eur": 416165,
+      "entraineur": "S. Laloum",
+      "cote_pmu": 88.0,
       "non_partant": false,
-      "musique_raw": "12a4a4a15a12a(25)",
+      "musique_raw": "7a5a9a3a11a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
+      "nb_victoires_recentes": 1,
       "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 3.4,
+      "derniere_position": 7,
+      "position_moyenne": 5.0,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Invictus Madiba",
+        "numero": 6,
+        "nom": "Grand Trio Ludois",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "F. Nivard",
-          "proprietaire": "B. Michardière",
-          "eleveur": "Ecurie Hunter Valley",
+          "entraineur": "S. Laloum",
+          "proprietaire": "S. Laloum",
+          "eleveur": "A. Laloum",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2018",
+          "pere": "2016",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -416,20 +416,38 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 45.0,
+        "cote_live_fiche": 90.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "S. LALOUM",
+            "victoires": 3,
+            "places": 3,
+            "courses": 9,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "S. LALOUM",
+            "victoires": 7,
+            "places": 7,
+            "courses": 24,
+            "pourcentage": 58.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
         },
         "performances_globales": {
-          "gains_eur": 454587,
-          "musique": "12a 4a 4a 15a 12a (25) 11a 5Dm",
+          "gains_eur": 416165,
+          "musique": "7a 5a 9a 3a 11a (25) 12m 5a",
           "carriere": {
-            "courses": 79,
-            "victoires": 4,
-            "places": 24,
-            "pourcentage": 35.0
+            "courses": 100,
+            "victoires": 15,
+            "places": 22,
+            "pourcentage": 37.0
           }
         },
         "dernieres_courses": [],
@@ -440,15 +458,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0198,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
+        "cote": 0.0101,
+        "gains": 0.9156,
+        "couple_je": 0.625,
+        "hippodrome": 1.0,
         "pref_terrain": 0.4,
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 36.79,
+      "score": 42.01,
       "enrichi": true,
       "rang_predit": 5
     }
@@ -496,7 +514,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 1.8,
+        "cote_live_fiche": 1.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -592,7 +610,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 7.0,
+        "cote_live_fiche": 7.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -766,7 +784,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 18.0,
+        "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -801,6 +819,102 @@
       "score": 42.27,
       "enrichi": true,
       "rang_predit": 4
+    },
+    {
+      "numero": 6,
+      "nom": "Grand Trio Ludois",
+      "artifice": null,
+      "sexe": "H",
+      "age": 10,
+      "poids": 2150.0,
+      "jockey": "S. Laloum",
+      "musique": "7a5a9a3a11a(25)",
+      "vh": null,
+      "gains_eur": 416165,
+      "entraineur": "S. Laloum",
+      "cote_pmu": 88.0,
+      "non_partant": false,
+      "musique_raw": "7a5a9a3a11a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 7,
+      "position_moyenne": 5.0,
+      "fiche_enrichie": {
+        "numero": 6,
+        "nom": "Grand Trio Ludois",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "S. Laloum",
+          "proprietaire": "S. Laloum",
+          "eleveur": "A. Laloum",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2016",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 90.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "S. LALOUM",
+            "victoires": 3,
+            "places": 3,
+            "courses": 9,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "S. LALOUM",
+            "victoires": 7,
+            "places": 7,
+            "courses": 24,
+            "pourcentage": 58.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 416165,
+          "musique": "7a 5a 9a 3a 11a (25) 12m 5a",
+          "carriere": {
+            "courses": 100,
+            "victoires": 15,
+            "places": 22,
+            "pourcentage": 37.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0101,
+        "gains": 0.9156,
+        "couple_je": 0.625,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 42.01,
+      "enrichi": true,
+      "rang_predit": 5
     },
     {
       "numero": 4,
@@ -878,7 +992,7 @@
       },
       "score": 36.79,
       "enrichi": true,
-      "rang_predit": 5
+      "rang_predit": 6
     },
     {
       "numero": 2,
@@ -922,7 +1036,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 47.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
@@ -956,84 +1070,6 @@
       },
       "score": 35.72,
       "enrichi": true,
-      "rang_predit": 6
-    },
-    {
-      "numero": 6,
-      "nom": "Grand Trio Ludois",
-      "artifice": null,
-      "sexe": "H",
-      "age": 10,
-      "poids": 2150.0,
-      "jockey": "S. Laloum",
-      "musique": "7a5a9a3a11a(25)",
-      "vh": null,
-      "gains_eur": 416165,
-      "entraineur": "S. Laloum",
-      "cote_pmu": 88.0,
-      "non_partant": false,
-      "musique_raw": "7a5a9a3a11a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 7,
-      "position_moyenne": 5.0,
-      "fiche_enrichie": {
-        "numero": 6,
-        "nom": "Grand Trio Ludois",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "S. Laloum",
-          "proprietaire": "S. Laloum",
-          "eleveur": "A. Laloum",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2016",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 88.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 416165,
-          "musique": "7a 5a 9a 3a 11a (25) 12m 5a",
-          "carriere": {
-            "courses": 100,
-            "victoires": 15,
-            "places": 22,
-            "pourcentage": 37.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0101,
-        "gains": 0.9156,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 35.14,
-      "enrichi": true,
       "rang_predit": 7
     },
     {
@@ -1056,6 +1092,51 @@
       "nb_places_recentes": 2,
       "derniere_position": 6,
       "position_moyenne": 4.8,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Jilord Viva",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "J. Raffestin",
+          "proprietaire": "J. Raffestin",
+          "eleveur": "P. Viel",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 88.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 382550,
+          "musique": "6a 9a 1a 5a 13a (25) 4a 1a",
+          "carriere": {
+            "courses": 60,
+            "victoires": 9,
+            "places": 17,
+            "pourcentage": 43.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
         "cote": 0.0097,
         "gains": 0.8416,
@@ -1066,7 +1147,7 @@
         "recuperation": 0.5
       },
       "score": 34.01,
-      "enrichi": false,
+      "enrichi": true,
       "rang_predit": 8
     },
     {
@@ -1111,29 +1192,11 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 148.0,
+        "cote_live_fiche": 145.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "AA. CHAVATTE",
-            "victoires": 10,
-            "places": 7,
-            "courses": 32,
-            "pourcentage": 53.0
-          },
-          "avec_entraineur": {
-            "nom": "A. CHAVATTE",
-            "victoires": 15,
-            "places": 12,
-            "courses": 56,
-            "pourcentage": 48.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 373920,
@@ -1155,49 +1218,49 @@
       "sous_scores": {
         "cote": 0.006,
         "gains": 0.8226,
-        "couple_je": 0.505,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.4,
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 33.66,
+      "score": 33.58,
       "enrichi": true,
       "rang_predit": 9
     },
     {
-      "numero": 14,
-      "nom": "Hold Up du Saptel",
-      "artifice": "oui",
+      "numero": 8,
+      "nom": "Indy Rock",
+      "artifice": null,
       "sexe": "H",
-      "age": 9,
+      "age": 8,
       "poids": 2150.0,
-      "jockey": "A. Collette",
-      "musique": "4a5a(25)10a4a17a",
+      "jockey": "M. Mottier",
+      "musique": "9a4aDaDaDa10a",
       "vh": null,
-      "gains_eur": 340150,
-      "entraineur": "A. Chavatte",
-      "cote_pmu": 98.0,
+      "gains_eur": 413318,
+      "entraineur": "J. Westholm",
+      "cote_pmu": 27.0,
       "non_partant": false,
-      "musique_raw": "4a5a(25)10a4a17a",
-      "nb_courses_recentes": 5,
+      "musique_raw": "9a4aDaDaDa10a",
+      "nb_courses_recentes": 6,
       "nb_victoires_recentes": 0,
       "nb_places_recentes": 1,
-      "derniere_position": 4,
-      "position_moyenne": 4.0,
+      "derniere_position": 9,
+      "position_moyenne": 4.33,
       "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Hold Up du Saptel",
+        "numero": 8,
+        "nom": "Indy Rock",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Collette",
-          "proprietaire": "A. Chavatte",
-          "eleveur": "Mlle E. Chenet",
+          "entraineur": "M. Mottier",
+          "proprietaire": "J. Westholm",
+          "eleveur": "Stall Verrazzano AB",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Record",
-          "pere": "2017",
+          "pere": "2018",
           "mere": "Trot"
         },
         "course_actuelle": {
@@ -1207,20 +1270,20 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 98.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
           "avec_jockey": null,
           "avec_entraineur": null,
           "sur_hippodrome": null
         },
         "performances_globales": {
-          "gains_eur": 340150,
-          "musique": "4a 5a (25) 10a 4a 17a 5a 4a",
+          "gains_eur": 414892,
+          "musique": "9a 4a Da Da Da 10a (25) Da",
           "carriere": {
-            "courses": 91,
-            "victoires": 10,
-            "places": 18,
-            "pourcentage": 31.0
+            "courses": 65,
+            "victoires": 11,
+            "places": 15,
+            "pourcentage": 40.0
           }
         },
         "dernieres_courses": [],
@@ -1231,17 +1294,95 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0091,
-        "gains": 0.7483,
+        "cote": 0.033,
+        "gains": 0.9093,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 29.59,
+      "score": 32.46,
       "enrichi": true,
       "rang_predit": 10
+    },
+    {
+      "numero": 12,
+      "nom": "Colbert Wf",
+      "artifice": null,
+      "sexe": "M",
+      "age": 8,
+      "poids": 2150.0,
+      "jockey": "E. Raffin",
+      "musique": "4a8a5a7aDa5a",
+      "vh": null,
+      "gains_eur": 327876,
+      "entraineur": "HE. Bondo",
+      "cote_pmu": 20.0,
+      "non_partant": false,
+      "musique_raw": "4a8a5a7aDa5a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 0,
+      "derniere_position": 4,
+      "position_moyenne": 5.8,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Colbert Wf",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "E. Raffin",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Scuderia My Horse Srl",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 19.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 327876,
+          "musique": "4a 8a 5a 7a Da 5a (25) Da",
+          "carriere": {
+            "courses": 58,
+            "victoires": 17,
+            "places": 11,
+            "pourcentage": 48.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0446,
+        "gains": 0.7213,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.0,
+        "recuperation": 0.5
+      },
+      "score": 27.6,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 11,
@@ -1285,7 +1426,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -1332,7 +1473,7 @@
       },
       "score": 27.54,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 12
     },
     {
       "numero": 16,
@@ -1376,7 +1517,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 77.0,
+        "cote_live_fiche": 76.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. MARTENS",
@@ -1428,199 +1569,7 @@
       },
       "score": 27.29,
       "enrichi": true,
-      "rang_predit": 12
-    },
-    {
-      "numero": 12,
-      "nom": "Colbert Wf",
-      "artifice": null,
-      "sexe": "M",
-      "age": 8,
-      "poids": 2150.0,
-      "jockey": "E. Raffin",
-      "musique": "4a8a5a7aDa5a",
-      "vh": null,
-      "gains_eur": 327876,
-      "entraineur": "HE. Bondo",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "4a8a5a7aDa5a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 0,
-      "derniere_position": 4,
-      "position_moyenne": 5.8,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Colbert Wf",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Raffin",
-          "proprietaire": "HE. Bondo",
-          "eleveur": "Scuderia My Horse Srl",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 20.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. RAFFIN",
-            "victoires": 2,
-            "places": 3,
-            "courses": 12,
-            "pourcentage": 42.0
-          },
-          "avec_entraineur": {
-            "nom": "HE. BONDO",
-            "victoires": 4,
-            "places": 7,
-            "courses": 23,
-            "pourcentage": 48.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 2,
-            "places": 0,
-            "courses": 6,
-            "pourcentage": 33.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 327876,
-          "musique": "4a 8a 5a 7a Da 5a (25) Da",
-          "carriere": {
-            "courses": 58,
-            "victoires": 17,
-            "places": 11,
-            "pourcentage": 48.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0446,
-        "gains": 0.7213,
-        "couple_je": 0.45,
-        "hippodrome": 0.33,
-        "pref_terrain": 0.0,
-        "pref_distance": 0.0,
-        "recuperation": 0.5
-      },
-      "score": 25.15,
-      "enrichi": true,
       "rang_predit": 13
-    },
-    {
-      "numero": 8,
-      "nom": "Indy Rock",
-      "artifice": null,
-      "sexe": "H",
-      "age": 8,
-      "poids": 2150.0,
-      "jockey": "M. Mottier",
-      "musique": "9a4aDaDaDa10a",
-      "vh": null,
-      "gains_eur": 413318,
-      "entraineur": "J. Westholm",
-      "cote_pmu": 27.0,
-      "non_partant": false,
-      "musique_raw": "9a4aDaDaDa10a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 9,
-      "position_moyenne": 4.33,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Indy Rock",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Mottier",
-          "proprietaire": "J. Westholm",
-          "eleveur": "Stall Verrazzano AB",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2018",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 16,
-          "allocation_eur": 90000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 27.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. MOTTIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "J. WESTHOLM",
-            "victoires": 0,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 0.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 414892,
-          "musique": "9a 4a Da Da Da 10a (25) Da",
-          "carriere": {
-            "courses": 65,
-            "victoires": 11,
-            "places": 15,
-            "pourcentage": 40.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.033,
-        "gains": 0.9093,
-        "couple_je": 0.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.1667,
-        "pref_distance": 0.1667,
-        "recuperation": 0.5
-      },
-      "score": 24.96,
-      "enrichi": true,
-      "rang_predit": 14
     },
     {
       "numero": 13,
@@ -1716,7 +1665,7 @@
       },
       "score": 24.03,
       "enrichi": true,
-      "rang_predit": 15
+      "rang_predit": 14
     },
     {
       "numero": 15,
@@ -1760,7 +1709,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 57.0,
+        "cote_live_fiche": 56.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "G. GELORMINI",
@@ -1812,10 +1761,106 @@
       },
       "score": 22.13,
       "enrichi": true,
+      "rang_predit": 15
+    },
+    {
+      "numero": 14,
+      "nom": "Hold Up du Saptel",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 9,
+      "poids": 2150.0,
+      "jockey": "A. Collette",
+      "musique": "4a5a(25)10a4a17a",
+      "vh": null,
+      "gains_eur": 340150,
+      "entraineur": "A. Chavatte",
+      "cote_pmu": 98.0,
+      "non_partant": false,
+      "musique_raw": "4a5a(25)10a4a17a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": 14,
+        "nom": "Hold Up du Saptel",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "A. Chavatte",
+          "eleveur": "Mlle E. Chenet",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 16,
+          "allocation_eur": 90000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 98.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "A. CHAVATTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 2,
+            "courses": 11,
+            "pourcentage": 18.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 340150,
+          "musique": "4a 5a (25) 10a 4a 17a 5a 4a",
+          "carriere": {
+            "courses": 91,
+            "victoires": 10,
+            "places": 18,
+            "pourcentage": 31.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0091,
+        "gains": 0.7483,
+        "couple_je": 0.0,
+        "hippodrome": 0.18,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 18.89,
+      "enrichi": true,
       "rang_predit": 16
     }
   ],
-  "nb_enrichis": 15,
+  "nb_enrichis": 16,
   "nb_partants": 16,
   "cotes_dispo": 16
 }
