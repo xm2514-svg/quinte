@@ -12,8 +12,8 @@
     "allocation_eur": 72000,
     "distance_m": 1800,
     "corde": "droite",
-    "terrain": "-",
-    "meteo": "14°C Quelques nuages, vent 9km/h - N"
+    "terrain": "Bon souple",
+    "meteo": "21°C Nuages dispersés, vent 12km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -27,102 +27,6 @@
   },
   "top5": [
     {
-      "numero": 12,
-      "nom": "Big Log",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 6,
-      "poids": 54.5,
-      "jockey": "A. Hamelin",
-      "musique": "3p3p1p13p5p(25)",
-      "vh": 39.0,
-      "gains_eur": 181750,
-      "entraineur": "Prod'homme (s)",
-      "cote_pmu": 7.4,
-      "non_partant": false,
-      "musique_raw": "3p3p1p13p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 3,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Big Log",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Hamelin",
-          "proprietaire": "Prod'homme (s)",
-          "eleveur": "B. Lynam",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Ultra"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 39.0
-        },
-        "cote_live_fiche": 7.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. HAMELIN",
-            "victoires": 1,
-            "places": 3,
-            "courses": 6,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "PROD'HOMME (S)",
-            "victoires": 4,
-            "places": 9,
-            "courses": 36,
-            "pourcentage": 36.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 1,
-            "places": 3,
-            "courses": 10,
-            "pourcentage": 40.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 181750,
-          "musique": "3p 3p 1p 13p 5p (25) 2p 1p",
-          "carriere": {
-            "courses": 38,
-            "victoires": 4,
-            "places": 10,
-            "pourcentage": 37.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1216,
-        "gains": 0.9555,
-        "couple_je": 0.515,
-        "hippodrome": 0.4,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 45.42,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
       "numero": 7,
       "nom": "Half Half",
       "artifice": "oui",
@@ -134,7 +38,7 @@
       "vh": 41.0,
       "gains_eur": 169938,
       "entraineur": "D. Smaga",
-      "cote_pmu": 6.3,
+      "cote_pmu": 5.5,
       "non_partant": false,
       "musique_raw": "2p1p5p2p3p12p",
       "nb_courses_recentes": 6,
@@ -164,7 +68,7 @@
           "distance_m": 1800,
           "vh": 41.0
         },
-        "cote_live_fiche": 6.3,
+        "cote_live_fiche": 5.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. POUCHIN",
@@ -206,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1428,
+        "cote": 0.1638,
         "gains": 0.8934,
         "couple_je": 0.705,
         "hippodrome": 0.0,
@@ -214,361 +118,10 @@
         "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 44.69,
+      "score": 45.53,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 1
     },
-    {
-      "numero": 2,
-      "nom": "Calas",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 59.5,
-      "jockey": "C. Soumillon",
-      "musique": "1p1p5p(25)1p5p",
-      "vh": 44.0,
-      "gains_eur": 136200,
-      "entraineur": "Brandt (s)",
-      "cote_pmu": 10.0,
-      "non_partant": false,
-      "musique_raw": "1p1p5p(25)1p5p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 2.6,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Calas",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Soumillon",
-          "proprietaire": "Brandt (s)",
-          "eleveur": "Buck Racing AB",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Al Wukair"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 44.0
-        },
-        "cote_live_fiche": 10.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. SOUMILLON",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "BRANDT (S)",
-            "victoires": 5,
-            "places": 6,
-            "courses": 23,
-            "pourcentage": 48.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 38.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 136200,
-          "musique": "1p 1p 5p (25) 1p 5p 13p (24)",
-          "carriere": {
-            "courses": 23,
-            "victoires": 5,
-            "places": 6,
-            "pourcentage": 48.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.09,
-        "gains": 0.716,
-        "couple_je": 0.48,
-        "hippodrome": 0.38,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 36.84,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 11,
-      "nom": "Saucepot",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 4,
-      "poids": 55.5,
-      "jockey": "M. Barzalona",
-      "musique": "3p6p1p(25)2p",
-      "vh": 40.0,
-      "gains_eur": 19808,
-      "entraineur": "FH. Graffard",
-      "cote_pmu": 11.0,
-      "non_partant": false,
-      "musique_raw": "3p6p1p(25)2p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Saucepot",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "FH. Graffard",
-          "eleveur": "Al Asayl France",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Siyouni"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 40.0
-        },
-        "cote_live_fiche": 11.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. BARZALONA",
-            "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "FH. GRAFFARD",
-            "victoires": 1,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 75.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 19808,
-          "musique": "3p 6p 1p (25) 2p",
-          "carriere": null
-        },
-        "dernieres_courses": [
-          {
-            "date": "19/05/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Forêt de Chantilly",
-            "qplus": true,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "3e",
-            "partants": 16,
-            "vh": 40.0
-          },
-          {
-            "date": "16/03/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Queue du Renard",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "6e",
-            "partants": 13,
-            "vh": null
-          },
-          {
-            "date": "30/01/26",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix de Balme",
-            "qplus": false,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "1er",
-            "partants": 10,
-            "vh": null
-          },
-          {
-            "date": "08/08/25",
-            "spec": "P",
-            "hippodrome": "CLAIREFONTAINE",
-            "nom_course": "Prix Garten On The Beach Festival (Prix du Quai au Coq)",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 20100,
-            "rang": "2e",
-            "partants": 13,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": {
-            "courses": 4,
-            "places_top3": 3,
-            "taux": 0.75,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 3,
-            "places_top3": 2,
-            "taux": 0.667
-          },
-          "jours_depuis_derniere_course": 26
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0818,
-        "gains": 0.1041,
-        "couple_je": 0.71,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.75,
-        "pref_distance": 0.667,
-        "recuperation": 1.0
-      },
-      "score": 36.32,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 1,
-      "nom": "Maneki",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 4,
-      "poids": 60.0,
-      "jockey": "C. Demuro",
-      "musique": "9p3p1p(25)7p1p",
-      "vh": 44.5,
-      "gains_eur": 67000,
-      "entraineur": "JC. Rouget",
-      "cote_pmu": 8.6,
-      "non_partant": false,
-      "musique_raw": "9p3p1p(25)7p1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 9,
-      "position_moyenne": 4.2,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Maneki",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Demuro",
-          "proprietaire": "JC. Rouget",
-          "eleveur": "Mme W. Spanner",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Cracksman"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 44.5
-        },
-        "cote_live_fiche": 8.6,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. DEMURO",
-            "victoires": 1,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "JC. ROUGET",
-            "victoires": 4,
-            "places": 1,
-            "courses": 8,
-            "pourcentage": 63.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 67000,
-          "musique": "9p 3p 1p (25) 7p 1p 1p 5p",
-          "carriere": {
-            "courses": 8,
-            "victoires": 4,
-            "places": 1,
-            "pourcentage": 63.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1046,
-        "gains": 0.3522,
-        "couple_je": 0.65,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 35.72,
-      "enrichi": true,
-      "rang_predit": 5
-    }
-  ],
-  "tous_chevaux": [
     {
       "numero": 12,
       "nom": "Big Log",
@@ -581,7 +134,7 @@
       "vh": 39.0,
       "gains_eur": 181750,
       "entraineur": "Prod'homme (s)",
-      "cote_pmu": 7.4,
+      "cote_pmu": 8.4,
       "non_partant": false,
       "musique_raw": "3p3p1p13p5p(25)",
       "nb_courses_recentes": 5,
@@ -611,7 +164,7 @@
           "distance_m": 1800,
           "vh": 39.0
         },
-        "cote_live_fiche": 7.4,
+        "cote_live_fiche": 8.4,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. HAMELIN",
@@ -653,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1216,
+        "cote": 0.1072,
         "gains": 0.9555,
         "couple_je": 0.515,
         "hippodrome": 0.4,
@@ -661,103 +214,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 45.42,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 7,
-      "nom": "Half Half",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 6,
-      "poids": 56.5,
-      "jockey": "A. Pouchin",
-      "musique": "2p1p5p2p3p12p",
-      "vh": 41.0,
-      "gains_eur": 169938,
-      "entraineur": "D. Smaga",
-      "cote_pmu": 6.3,
-      "non_partant": false,
-      "musique_raw": "2p1p5p2p3p12p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 2.5,
-      "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Half Half",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Pouchin",
-          "proprietaire": "D. Smaga",
-          "eleveur": "Mme MB. Fougy-Smaga",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Anodin"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 41.0
-        },
-        "cote_live_fiche": 6.3,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. POUCHIN",
-            "victoires": 1,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "D. SMAGA",
-            "victoires": 3,
-            "places": 9,
-            "courses": 29,
-            "pourcentage": 41.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 169938,
-          "musique": "2p 1p 5p 2p 3p 12p (25) 7p",
-          "carriere": {
-            "courses": 29,
-            "victoires": 3,
-            "places": 9,
-            "pourcentage": 41.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1428,
-        "gains": 0.8934,
-        "couple_je": 0.705,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.8333,
-        "pref_distance": 0.8333,
-        "recuperation": 0.5
-      },
-      "score": 44.69,
+      "score": 44.85,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -773,7 +230,7 @@
       "vh": 44.0,
       "gains_eur": 136200,
       "entraineur": "Brandt (s)",
-      "cote_pmu": 10.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "1p1p5p(25)1p5p",
       "nb_courses_recentes": 5,
@@ -803,7 +260,7 @@
           "distance_m": 1800,
           "vh": 44.0
         },
-        "cote_live_fiche": 10.0,
+        "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. SOUMILLON",
@@ -845,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.09,
+        "cote": 0.0693,
         "gains": 0.716,
         "couple_je": 0.48,
         "hippodrome": 0.38,
@@ -853,358 +310,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 36.84,
+      "score": 36.01,
       "enrichi": true,
       "rang_predit": 3
-    },
-    {
-      "numero": 11,
-      "nom": "Saucepot",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 4,
-      "poids": 55.5,
-      "jockey": "M. Barzalona",
-      "musique": "3p6p1p(25)2p",
-      "vh": 40.0,
-      "gains_eur": 19808,
-      "entraineur": "FH. Graffard",
-      "cote_pmu": 11.0,
-      "non_partant": false,
-      "musique_raw": "3p6p1p(25)2p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Saucepot",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "FH. Graffard",
-          "eleveur": "Al Asayl France",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Siyouni"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 40.0
-        },
-        "cote_live_fiche": 11.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. BARZALONA",
-            "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "FH. GRAFFARD",
-            "victoires": 1,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 75.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 19808,
-          "musique": "3p 6p 1p (25) 2p",
-          "carriere": null
-        },
-        "dernieres_courses": [
-          {
-            "date": "19/05/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Forêt de Chantilly",
-            "qplus": true,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "3e",
-            "partants": 16,
-            "vh": 40.0
-          },
-          {
-            "date": "16/03/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Queue du Renard",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "6e",
-            "partants": 13,
-            "vh": null
-          },
-          {
-            "date": "30/01/26",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix de Balme",
-            "qplus": false,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "1er",
-            "partants": 10,
-            "vh": null
-          },
-          {
-            "date": "08/08/25",
-            "spec": "P",
-            "hippodrome": "CLAIREFONTAINE",
-            "nom_course": "Prix Garten On The Beach Festival (Prix du Quai au Coq)",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 20100,
-            "rang": "2e",
-            "partants": 13,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": {
-            "courses": 4,
-            "places_top3": 3,
-            "taux": 0.75,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 3,
-            "places_top3": 2,
-            "taux": 0.667
-          },
-          "jours_depuis_derniere_course": 26
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0818,
-        "gains": 0.1041,
-        "couple_je": 0.71,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.75,
-        "pref_distance": 0.667,
-        "recuperation": 1.0
-      },
-      "score": 36.32,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 1,
-      "nom": "Maneki",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 4,
-      "poids": 60.0,
-      "jockey": "C. Demuro",
-      "musique": "9p3p1p(25)7p1p",
-      "vh": 44.5,
-      "gains_eur": 67000,
-      "entraineur": "JC. Rouget",
-      "cote_pmu": 8.6,
-      "non_partant": false,
-      "musique_raw": "9p3p1p(25)7p1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 9,
-      "position_moyenne": 4.2,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Maneki",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Demuro",
-          "proprietaire": "JC. Rouget",
-          "eleveur": "Mme W. Spanner",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Cracksman"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 44.5
-        },
-        "cote_live_fiche": 8.6,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. DEMURO",
-            "victoires": 1,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "JC. ROUGET",
-            "victoires": 4,
-            "places": 1,
-            "courses": 8,
-            "pourcentage": 63.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 67000,
-          "musique": "9p 3p 1p (25) 7p 1p 1p 5p",
-          "carriere": {
-            "courses": 8,
-            "victoires": 4,
-            "places": 1,
-            "pourcentage": 63.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1046,
-        "gains": 0.3522,
-        "couple_je": 0.65,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 35.72,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 3,
-      "nom": "Tiego The First",
-      "artifice": null,
-      "sexe": "M",
-      "age": 4,
-      "poids": 59.0,
-      "jockey": "M. Guyon",
-      "musique": "2p8p(25)8p10p2p",
-      "vh": 43.5,
-      "gains_eur": 92594,
-      "entraineur": "Brandt (s)",
-      "cote_pmu": 11.0,
-      "non_partant": false,
-      "musique_raw": "2p8p(25)8p10p2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 4.0,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Tiego The First",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "Brandt (s)",
-          "eleveur": "M. Jordanger",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Blue Point"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 43.5
-        },
-        "cote_live_fiche": 11.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 1,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "BRANDT (S)",
-            "victoires": 3,
-            "places": 3,
-            "courses": 13,
-            "pourcentage": 46.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 0,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 50.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 92594,
-          "musique": "2p 8p (25) 8p 10p 2p 1p 4p",
-          "carriere": {
-            "courses": 13,
-            "victoires": 3,
-            "places": 3,
-            "pourcentage": 46.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0818,
-        "gains": 0.4868,
-        "couple_je": 0.565,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 35.55,
-      "enrichi": true,
-      "rang_predit": 6
     },
     {
       "numero": 16,
@@ -1218,7 +326,7 @@
       "vh": 37.5,
       "gains_eur": 95639,
       "entraineur": "Mlle F. Bresson",
-      "cote_pmu": 32.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "1p2p6p8p(25)1p",
       "nb_courses_recentes": 5,
@@ -1248,7 +356,7 @@
           "distance_m": 1800,
           "vh": 37.5
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. CLAUDIC",
@@ -1290,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0281,
+        "cote": 0.0291,
         "gains": 0.5028,
         "couple_je": 0.575,
         "hippodrome": 0.67,
@@ -1298,9 +406,683 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 35.49,
+      "score": 35.53,
       "enrichi": true,
-      "rang_predit": 7
+      "rang_predit": 4
+    },
+    {
+      "numero": 3,
+      "nom": "Tiego The First",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 59.0,
+      "jockey": "M. Guyon",
+      "musique": "2p8p(25)8p10p2p",
+      "vh": 43.5,
+      "gains_eur": 92594,
+      "entraineur": "Brandt (s)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "2p8p(25)8p10p2p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Tiego The First",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Guyon",
+          "proprietaire": "Brandt (s)",
+          "eleveur": "M. Jordanger",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Blue Point"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 43.5
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. GUYON",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 3,
+            "places": 3,
+            "courses": 13,
+            "pourcentage": 46.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 92594,
+          "musique": "2p 8p (25) 8p 10p 2p 1p 4p",
+          "carriere": {
+            "courses": 13,
+            "victoires": 3,
+            "places": 3,
+            "pourcentage": 46.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0751,
+        "gains": 0.4868,
+        "couple_je": 0.565,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 35.28,
+      "enrichi": true,
+      "rang_predit": 5
+    }
+  ],
+  "tous_chevaux": [
+    {
+      "numero": 7,
+      "nom": "Half Half",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 6,
+      "poids": 56.5,
+      "jockey": "A. Pouchin",
+      "musique": "2p1p5p2p3p12p",
+      "vh": 41.0,
+      "gains_eur": 169938,
+      "entraineur": "D. Smaga",
+      "cote_pmu": 5.5,
+      "non_partant": false,
+      "musique_raw": "2p1p5p2p3p12p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 2.5,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Half Half",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Pouchin",
+          "proprietaire": "D. Smaga",
+          "eleveur": "Mme MB. Fougy-Smaga",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Anodin"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 41.0
+        },
+        "cote_live_fiche": 5.5,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. POUCHIN",
+            "victoires": 1,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "D. SMAGA",
+            "victoires": 3,
+            "places": 9,
+            "courses": 29,
+            "pourcentage": 41.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 169938,
+          "musique": "2p 1p 5p 2p 3p 12p (25) 7p",
+          "carriere": {
+            "courses": 29,
+            "victoires": 3,
+            "places": 9,
+            "pourcentage": 41.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1638,
+        "gains": 0.8934,
+        "couple_je": 0.705,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
+        "recuperation": 0.5
+      },
+      "score": 45.53,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 12,
+      "nom": "Big Log",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 6,
+      "poids": 54.5,
+      "jockey": "A. Hamelin",
+      "musique": "3p3p1p13p5p(25)",
+      "vh": 39.0,
+      "gains_eur": 181750,
+      "entraineur": "Prod'homme (s)",
+      "cote_pmu": 8.4,
+      "non_partant": false,
+      "musique_raw": "3p3p1p13p5p(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 3,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Big Log",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Hamelin",
+          "proprietaire": "Prod'homme (s)",
+          "eleveur": "B. Lynam",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Ultra"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 39.0
+        },
+        "cote_live_fiche": 8.4,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. HAMELIN",
+            "victoires": 1,
+            "places": 3,
+            "courses": 6,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "PROD'HOMME (S)",
+            "victoires": 4,
+            "places": 9,
+            "courses": 36,
+            "pourcentage": 36.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 1,
+            "places": 3,
+            "courses": 10,
+            "pourcentage": 40.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 181750,
+          "musique": "3p 3p 1p 13p 5p (25) 2p 1p",
+          "carriere": {
+            "courses": 38,
+            "victoires": 4,
+            "places": 10,
+            "pourcentage": 37.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1072,
+        "gains": 0.9555,
+        "couple_je": 0.515,
+        "hippodrome": 0.4,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 44.85,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 2,
+      "nom": "Calas",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 59.5,
+      "jockey": "C. Soumillon",
+      "musique": "1p1p5p(25)1p5p",
+      "vh": 44.0,
+      "gains_eur": 136200,
+      "entraineur": "Brandt (s)",
+      "cote_pmu": 13.0,
+      "non_partant": false,
+      "musique_raw": "1p1p5p(25)1p5p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 2.6,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Calas",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Soumillon",
+          "proprietaire": "Brandt (s)",
+          "eleveur": "Buck Racing AB",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Al Wukair"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 44.0
+        },
+        "cote_live_fiche": 13.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "C. SOUMILLON",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 5,
+            "places": 6,
+            "courses": 23,
+            "pourcentage": 48.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 3,
+            "courses": 8,
+            "pourcentage": 38.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 136200,
+          "musique": "1p 1p 5p (25) 1p 5p 13p (24)",
+          "carriere": {
+            "courses": 23,
+            "victoires": 5,
+            "places": 6,
+            "pourcentage": 48.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0693,
+        "gains": 0.716,
+        "couple_je": 0.48,
+        "hippodrome": 0.38,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 36.01,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 16,
+      "nom": "Fearless Cheetah",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 6,
+      "poids": 53.0,
+      "jockey": "J. Claudic",
+      "musique": "1p2p6p8p(25)1p",
+      "vh": 37.5,
+      "gains_eur": 95639,
+      "entraineur": "Mlle F. Bresson",
+      "cote_pmu": 31.0,
+      "non_partant": false,
+      "musique_raw": "1p2p6p8p(25)1p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": 16,
+        "nom": "Fearless Cheetah",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "J. Claudic",
+          "proprietaire": "Mlle F. Bresson",
+          "eleveur": "Mlle F. Bresson",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Tigron"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 37.5
+        },
+        "cote_live_fiche": 31.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "J. CLAUDIC",
+            "victoires": 2,
+            "places": 3,
+            "courses": 7,
+            "pourcentage": 71.0
+          },
+          "avec_entraineur": {
+            "nom": "MLLE F. BRESSON",
+            "victoires": 6,
+            "places": 6,
+            "courses": 27,
+            "pourcentage": 44.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 4,
+            "places": 2,
+            "courses": 9,
+            "pourcentage": 67.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 95639,
+          "musique": "1p 2p 6p 8p (25) 1p 3p 3p",
+          "carriere": {
+            "courses": 27,
+            "victoires": 6,
+            "places": 6,
+            "pourcentage": 44.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0291,
+        "gains": 0.5028,
+        "couple_je": 0.575,
+        "hippodrome": 0.67,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 35.53,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 3,
+      "nom": "Tiego The First",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 59.0,
+      "jockey": "M. Guyon",
+      "musique": "2p8p(25)8p10p2p",
+      "vh": 43.5,
+      "gains_eur": 92594,
+      "entraineur": "Brandt (s)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "2p8p(25)8p10p2p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Tiego The First",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Guyon",
+          "proprietaire": "Brandt (s)",
+          "eleveur": "M. Jordanger",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Blue Point"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 43.5
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. GUYON",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 3,
+            "places": 3,
+            "courses": 13,
+            "pourcentage": 46.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 92594,
+          "musique": "2p 8p (25) 8p 10p 2p 1p 4p",
+          "carriere": {
+            "courses": 13,
+            "victoires": 3,
+            "places": 3,
+            "pourcentage": 46.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0751,
+        "gains": 0.4868,
+        "couple_je": 0.565,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 35.28,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 1,
+      "nom": "Maneki",
+      "artifice": "oui",
+      "sexe": "M",
+      "age": 4,
+      "poids": 60.0,
+      "jockey": "C. Demuro",
+      "musique": "9p3p1p(25)7p1p",
+      "vh": 44.5,
+      "gains_eur": 67000,
+      "entraineur": "JC. Rouget",
+      "cote_pmu": 10.0,
+      "non_partant": false,
+      "musique_raw": "9p3p1p(25)7p1p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 9,
+      "position_moyenne": 4.2,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Maneki",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Demuro",
+          "proprietaire": "JC. Rouget",
+          "eleveur": "Mme W. Spanner",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Cracksman"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 44.5
+        },
+        "cote_live_fiche": 10.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "C. DEMURO",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "JC. ROUGET",
+            "victoires": 4,
+            "places": 1,
+            "courses": 8,
+            "pourcentage": 63.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 67000,
+          "musique": "9p 3p 1p (25) 7p 1p 1p 5p",
+          "carriere": {
+            "courses": 8,
+            "victoires": 4,
+            "places": 1,
+            "pourcentage": 63.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0901,
+        "gains": 0.3522,
+        "couple_je": 0.65,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 35.14,
+      "enrichi": true,
+      "rang_predit": 6
     },
     {
       "numero": 10,
@@ -1314,7 +1096,7 @@
       "vh": 40.0,
       "gains_eur": 51879,
       "entraineur": "P. Decouz (s)",
-      "cote_pmu": 16.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "2p5p3p1p(25)9p",
       "nb_courses_recentes": 5,
@@ -1344,7 +1126,7 @@
           "distance_m": 1800,
           "vh": 40.0
         },
-        "cote_live_fiche": 16.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. MADAMET",
@@ -1386,7 +1168,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0562,
+        "cote": 0.053,
         "gains": 0.2727,
         "couple_je": 0.7,
         "hippodrome": 0.6,
@@ -1394,7 +1176,98 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 34.34,
+      "score": 34.21,
+      "enrichi": true,
+      "rang_predit": 7
+    },
+    {
+      "numero": 11,
+      "nom": "Saucepot",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 4,
+      "poids": 55.5,
+      "jockey": "M. Barzalona",
+      "musique": "3p6p1p(25)2p",
+      "vh": 40.0,
+      "gains_eur": 19808,
+      "entraineur": "FH. Graffard",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "3p6p1p(25)2p",
+      "nb_courses_recentes": 4,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 3,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Saucepot",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Barzalona",
+          "proprietaire": "FH. Graffard",
+          "eleveur": "Al Asayl France",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Siyouni"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 40.0
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. BARZALONA",
+            "victoires": 0,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "FH. GRAFFARD",
+            "victoires": 1,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 75.0
+          },
+          "sur_hippodrome": {
+            "nom": "CHANTILLY",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 19808,
+          "musique": "3p 6p 1p (25) 2p",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0751,
+        "gains": 0.1041,
+        "couple_je": 0.71,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.75,
+        "pref_distance": 0.75,
+        "recuperation": 0.5
+      },
+      "score": 33.96,
       "enrichi": true,
       "rang_predit": 8
     },
@@ -1410,7 +1283,7 @@
       "vh": 37.5,
       "gains_eur": 122165,
       "entraineur": "V. Luka",
-      "cote_pmu": 32.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "6p12p(25)9p2p5p",
       "nb_courses_recentes": 5,
@@ -1440,7 +1313,7 @@
           "distance_m": 1800,
           "vh": 37.5
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 23.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. FAVRIAUX",
@@ -1482,7 +1355,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0281,
+        "cote": 0.0392,
         "gains": 0.6422,
         "couple_je": 0.665,
         "hippodrome": 0.42,
@@ -1490,7 +1363,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 33.43,
+      "score": 33.88,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1602,7 +1475,7 @@
       "vh": 40.0,
       "gains_eur": 97972,
       "entraineur": "Z. Koplik",
-      "cote_pmu": 27.0,
+      "cote_pmu": 33.0,
       "non_partant": false,
       "musique_raw": "7p3p(25)1p2p4p",
       "nb_courses_recentes": 5,
@@ -1632,7 +1505,7 @@
           "distance_m": 1800,
           "vh": 40.0
         },
-        "cote_live_fiche": 27.0,
+        "cote_live_fiche": 33.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -1674,7 +1547,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0333,
+        "cote": 0.0273,
         "gains": 0.5151,
         "couple_je": 0.5,
         "hippodrome": 0.33,
@@ -1682,7 +1555,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 31.36,
+      "score": 31.12,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1698,7 +1571,7 @@
       "vh": 43.0,
       "gains_eur": 100244,
       "entraineur": "G. Bietolini",
-      "cote_pmu": 24.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "6p1p1p(25)5p7p",
       "nb_courses_recentes": 5,
@@ -1707,7 +1580,7 @@
       "derniere_position": 6,
       "position_moyenne": 4.0,
       "sous_scores": {
-        "cote": 0.0375,
+        "cote": 0.0346,
         "gains": 0.527,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1715,7 +1588,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 30.4,
+      "score": 30.29,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -1731,7 +1604,7 @@
       "vh": 42.0,
       "gains_eur": 190218,
       "entraineur": "C. Plisson",
-      "cote_pmu": 68.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "11p5p4p9p10p14p",
       "nb_courses_recentes": 6,
@@ -1761,7 +1634,7 @@
           "distance_m": 1800,
           "vh": 42.0
         },
-        "cote_live_fiche": 68.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. SUBIAS",
@@ -1803,7 +1676,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0132,
+        "cote": 0.0265,
         "gains": 1.0,
         "couple_je": 0.14,
         "hippodrome": 0.38,
@@ -1811,7 +1684,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 28.93,
+      "score": 29.46,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1827,7 +1700,7 @@
       "vh": 37.5,
       "gains_eur": 34600,
       "entraineur": "G. Hernon",
-      "cote_pmu": 65.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "12p8p(25)8p1p1p",
       "nb_courses_recentes": 5,
@@ -1857,7 +1730,7 @@
           "distance_m": 1800,
           "vh": 37.5
         },
-        "cote_live_fiche": 65.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. CRASTUS",
@@ -1899,7 +1772,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0138,
+        "cote": 0.0311,
         "gains": 0.1819,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1907,9 +1780,87 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 27.28,
+      "score": 27.97,
       "enrichi": true,
       "rang_predit": 14
+    },
+    {
+      "numero": 8,
+      "nom": "Pumalin Park",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 55.5,
+      "jockey": "C. Lecoeuvre",
+      "musique": "12p8p4p4p1p9p",
+      "vh": 40.0,
+      "gains_eur": 84980,
+      "entraineur": "G. Mossé",
+      "cote_pmu": 52.0,
+      "non_partant": false,
+      "musique_raw": "12p8p4p4p1p9p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 2,
+      "position_moyenne": 4.67,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Pumalin Park",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Lecoeuvre",
+          "proprietaire": "G. Mossé",
+          "eleveur": "R. Ng",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Exceed And Excel"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 72000,
+          "distance_m": 1800,
+          "vh": 40.0
+        },
+        "cote_live_fiche": 52.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 84980,
+          "musique": "12p 8p 4p 4p 1p 9p (25) 1p",
+          "carriere": {
+            "courses": 31,
+            "victoires": 5,
+            "places": 2,
+            "pourcentage": 23.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0173,
+        "gains": 0.4468,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 27.39,
+      "enrichi": true,
+      "rang_predit": 15
     },
     {
       "numero": 6,
@@ -1923,7 +1874,7 @@
       "vh": 41.5,
       "gains_eur": 103489,
       "entraineur": "M. Rulec",
-      "cote_pmu": 46.0,
+      "cote_pmu": 36.0,
       "non_partant": false,
       "musique_raw": "2p7p6p8p(25)4p",
       "nb_courses_recentes": 5,
@@ -1953,7 +1904,7 @@
           "distance_m": 1800,
           "vh": 41.5
         },
-        "cote_live_fiche": 46.0,
+        "cote_live_fiche": 36.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRANDIN",
@@ -1995,7 +1946,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0196,
+        "cote": 0.025,
         "gains": 0.5441,
         "couple_je": 0.5,
         "hippodrome": 0.33,
@@ -2003,103 +1954,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 25.24,
-      "enrichi": true,
-      "rang_predit": 15
-    },
-    {
-      "numero": 8,
-      "nom": "Pumalin Park",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 55.5,
-      "jockey": "C. Lecoeuvre",
-      "musique": "12p8p4p4p1p9p",
-      "vh": 40.0,
-      "gains_eur": 84980,
-      "entraineur": "G. Mossé",
-      "cote_pmu": 51.0,
-      "non_partant": false,
-      "musique_raw": "12p8p4p4p1p9p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.67,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Pumalin Park",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Lecoeuvre",
-          "proprietaire": "G. Mossé",
-          "eleveur": "R. Ng",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Exceed And Excel"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 18,
-          "allocation_eur": 72000,
-          "distance_m": 1800,
-          "vh": 40.0
-        },
-        "cote_live_fiche": 51.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. LECOEUVRE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "G. MOSSÉ",
-            "victoires": 3,
-            "places": 0,
-            "courses": 19,
-            "pourcentage": 16.0
-          },
-          "sur_hippodrome": {
-            "nom": "CHANTILLY",
-            "victoires": 2,
-            "places": 0,
-            "courses": 7,
-            "pourcentage": 29.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 84980,
-          "musique": "12p 8p 4p 4p 1p 9p (25) 1p",
-          "carriere": {
-            "courses": 31,
-            "victoires": 5,
-            "places": 2,
-            "pourcentage": 23.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0176,
-        "gains": 0.4468,
-        "couple_je": 0.16,
-        "hippodrome": 0.29,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
-        "recuperation": 0.5
-      },
-      "score": 20.21,
+      "score": 25.46,
       "enrichi": true,
       "rang_predit": 16
     },
@@ -2115,7 +1970,7 @@
       "vh": 39.0,
       "gains_eur": 32675,
       "entraineur": "S. Wattel",
-      "cote_pmu": 31.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "6p9p13p7p(25)1p",
       "nb_courses_recentes": 5,
@@ -2145,7 +2000,7 @@
           "distance_m": 1800,
           "vh": 39.0
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. TRULLIER",
@@ -2179,131 +2034,23 @@
             "pourcentage": 33.0
           }
         },
-        "dernieres_courses": [
-          {
-            "date": "19/05/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Forêt de Chantilly",
-            "qplus": true,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "6e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "28/04/26",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix Chantilly Capitale du Cheval",
-            "qplus": true,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "9e",
-            "partants": 15,
-            "vh": 39.5
-          },
-          {
-            "date": "24/03/26",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix de la Maison des Jardies",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 50900,
-            "rang": "7e",
-            "partants": 16,
-            "vh": 40.0
-          },
-          {
-            "date": "20/11/25",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix des Falaises de Jobourg",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Lourd",
-            "allocation_eur": 28800,
-            "rang": "1er",
-            "partants": 16,
-            "vh": 37.0
-          },
-          {
-            "date": "09/11/25",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix de Windsor",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Lourd",
-            "allocation_eur": 50900,
-            "rang": "3e",
-            "partants": 16,
-            "vh": 37.0
-          },
-          {
-            "date": "17/10/25",
-            "spec": "P",
-            "hippodrome": "LE CROISÉ-LAROCHE",
-            "nom_course": "Prix Hector Franchomme",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "G",
-            "terrain": "Souple",
-            "allocation_eur": 14600,
-            "rang": "4e",
-            "partants": 6,
-            "vh": null
-          },
-          {
-            "date": "23/09/25",
-            "spec": "P",
-            "hippodrome": "VICHY",
-            "nom_course": "Prix de Lapalisse",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Collant",
-            "allocation_eur": 15600,
-            "rang": "1er",
-            "partants": 10,
-            "vh": null
-          }
-        ],
+        "dernieres_courses": [],
         "derives": {
-          "preference_terrain": {
-            "courses": 7,
-            "places_top3": 3,
-            "taux": 0.429,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 3,
-            "places_top3": 0,
-            "taux": 0.0
-          },
-          "jours_depuis_derniere_course": 26
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
         }
       },
       "sous_scores": {
-        "cote": 0.029,
+        "cote": 0.0311,
         "gains": 0.1718,
         "couple_je": 0.33,
         "hippodrome": 0.0,
-        "pref_terrain": 0.429,
-        "pref_distance": 0.0,
-        "recuperation": 1.0
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
       },
-      "score": 17.98,
+      "score": 17.27,
       "enrichi": true,
       "rang_predit": 17
     },
@@ -2319,7 +2066,7 @@
       "vh": 39.0,
       "gains_eur": 29330,
       "entraineur": "Clément & Frauke Hermans",
-      "cote_pmu": 15.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "9p(25)12p4p11p9p",
       "nb_courses_recentes": 5,
@@ -2349,7 +2096,7 @@
           "distance_m": 1800,
           "vh": 39.0
         },
-        "cote_live_fiche": 15.0,
+        "cote_live_fiche": 14.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "S. PASQUIER",
@@ -2378,131 +2125,23 @@
           "musique": "9p (25) 12p 4p 11p 9p 3p 1p",
           "carriere": null
         },
-        "dernieres_courses": [
-          {
-            "date": "25/04/26",
-            "spec": "P",
-            "hippodrome": "COMPIÈGNE",
-            "nom_course": "Prix du Laonnois",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 21000,
-            "rang": "9e",
-            "partants": 13,
-            "vh": 40.0
-          },
-          {
-            "date": "22/12/25",
-            "spec": "P",
-            "hippodrome": "DEAUVILLE",
-            "nom_course": "Prix Petite Etoile",
-            "qplus": false,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 47600,
-            "rang": "12e",
-            "partants": 12,
-            "vh": 41.5
-          },
-          {
-            "date": "06/12/25",
-            "spec": "P",
-            "hippodrome": "CHANTILLY",
-            "nom_course": "Prix de la Route du Duc d'Enghien",
-            "qplus": false,
-            "distance_m": 1900,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 32000,
-            "rang": "4e",
-            "partants": 9,
-            "vh": 44.5
-          },
-          {
-            "date": "09/11/25",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix Solitude",
-            "qplus": false,
-            "distance_m": 2000,
-            "corde": "G",
-            "terrain": "Lourd",
-            "allocation_eur": 50300,
-            "rang": "11e",
-            "partants": 13,
-            "vh": 45.0
-          },
-          {
-            "date": "01/10/25",
-            "spec": "P",
-            "hippodrome": "TOULOUSE",
-            "nom_course": "Prix Panacée",
-            "qplus": false,
-            "distance_m": 2400,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 47600,
-            "rang": "9e",
-            "partants": 13,
-            "vh": 45.0
-          },
-          {
-            "date": "10/05/25",
-            "spec": "P",
-            "hippodrome": "COMPIÈGNE",
-            "nom_course": "Prix de Crépy-en-Valois",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "G",
-            "terrain": "Bon souple",
-            "allocation_eur": 27000,
-            "rang": "1er",
-            "partants": 13,
-            "vh": null
-          },
-          {
-            "date": "23/04/25",
-            "spec": "P",
-            "hippodrome": "SAINT-CLOUD",
-            "nom_course": "Prix Basse Pointe",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "Très souple",
-            "allocation_eur": 27000,
-            "rang": "4e",
-            "partants": 13,
-            "vh": null
-          }
-        ],
+        "dernieres_courses": [],
         "derives": {
-          "preference_terrain": {
-            "courses": 7,
-            "places_top3": 1,
-            "taux": 0.143,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 4,
-            "places_top3": 1,
-            "taux": 0.25
-          },
-          "jours_depuis_derniere_course": 50
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
         }
       },
       "sous_scores": {
-        "cote": 0.06,
+        "cote": 0.0643,
         "gains": 0.1542,
         "couple_je": 0.225,
         "hippodrome": 0.0,
-        "pref_terrain": 0.143,
-        "pref_distance": 0.25,
-        "recuperation": 0.75
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
       },
-      "score": 14.52,
+      "score": 16.76,
       "enrichi": true,
       "rang_predit": 18
     }
