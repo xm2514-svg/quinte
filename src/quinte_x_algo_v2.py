@@ -35,11 +35,11 @@ from paths import BASE as HERE, CACHE, LOGS
 
 # Pondérations v2
 W = {
-    "cote":       0.40,
+    "cote":       0.30,
     "gains":      0.15,
     "couple_je":  0.15,
-    "hippodrome": 0.10,
-    "pref_terrain":  0.10,
+    "hippodrome": 0.15,
+    "pref_terrain":  0.15,
     "pref_distance": 0.05,
     "recuperation":  0.05,
 }
@@ -240,7 +240,7 @@ def run(target_date: str, logger: logging.Logger) -> dict:
         "course": course,
         "fiabilite_globale": fiab,
         "ponderations": W,
-        "top5": enriched[:5],
+        "top5": enriched[:6],  # 6 chevaux pour champ réduit Xavier
         "tous_chevaux": enriched,
     }
     out_path = CACHE / "quinte_x_top5.json"
