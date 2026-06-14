@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-13",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "ENGHIEN",
+    "libelle": "PRIX DE NEW YORK"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 7
+    },
+    {
+      "rang": 2,
+      "numero": 3
+    },
+    {
+      "rang": 3,
+      "numero": 4
+    },
+    {
+      "rang": 4,
+      "numero": 5
+    },
+    {
+      "rang": 5,
+      "numero": 1
+    }
+  ],
+  "predictions": {
+    "top5": [
+      5,
+      9,
+      7,
+      3,
+      6
+    ],
+    "date_prediction": "2026-06-13"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 5,
+    "favori_arrive_rang": 4
+  }
+}
