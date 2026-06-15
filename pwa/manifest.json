@@ -1,7 +1,7 @@
 {
-  "name": "QUINTE-X",
-  "short_name": "Quinté",
-  "description": "Top 6 quinté+ du jour avec algorithme prédictif",
+  "name": "QUINTE-X v3",
+  "short_name": "Quint\u00e9 6",
+  "description": "Top 6 quint\u00e9+ du jour avec algorithme pr\u00e9dictif",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
