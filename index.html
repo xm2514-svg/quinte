@@ -6,8 +6,8 @@
 <meta name="theme-color" content="#12161F">
 <title>QUINTE-X</title>
 <link rel="manifest" href="manifest.json">
-<link rel="icon" type="image/svg+xml" href="icon.svg">
-<link rel="apple-touch-icon" href="icon.svg">
+<link rel="icon" type="image/svg+xml" href="icon-v6.svg">
+<link rel="apple-touch-icon" href="icon-v6.svg">
 <style>
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
 body{background:#12161F;color:#F2F5F8;min-height:100vh;padding:14px;padding-bottom:env(safe-area-inset-bottom,14px);padding-top:env(safe-area-inset-top,14px)}
@@ -96,9 +96,9 @@ function render(data){
       <div class="meta">🏁 Départ <strong style="color:#F2C752">${fmt(c.heure)}</strong> · ${fmt(c.type)} · ${fmt(c.distance_m)}m · terrain ${fmt(c.terrain)} · ${np} partants</div>
       <div class="fiab">Fiabilité ${fiab}% · Enrichis ${enr}/${np} · Cotes ${cd}/${np}</div>
     </header>
-    <h2>TOP 5 PRÉDIT</h2>
+    <h2>TOP 6 PRÉDIT</h2>
     ${cards}
-    <footer>QUINTE-X v2 · ${fmt(data.date)}<br>C cote · G gains · J/E couple · H hippodrome · T terrain · D distance · R récup</footer>
+    <footer>QUINTE-X v3 · ${fmt(data.date)}<br>C cote · G gains · J/E couple · H hippodrome · T terrain · D distance · R récup</footer>
   `;
 }
 
