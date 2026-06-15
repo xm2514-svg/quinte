@@ -1,7 +1,7 @@
 {
   "name": "QUINTE-X",
   "short_name": "Quint\u00e9",
-  "description": "Top 6 quint\u00e9+ du jour avec algorithme pr\u00e9dictif",
+  "description": "Top 6 quint\u00e9+ du jour - algo v3 - fer \u00e0 cheval",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
