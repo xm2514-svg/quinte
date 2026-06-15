@@ -1,0 +1,99 @@
+{
+  "date": "2026-06-14",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "CHANTILLY",
+    "libelle": "GRAND HANDICAP DE LAMORLAYE LONGINES"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 13
+    },
+    {
+      "rang": 2,
+      "numero": 2
+    },
+    {
+      "rang": 3,
+      "numero": 14
+    },
+    {
+      "rang": 4,
+      "numero": 7
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 16
+    },
+    {
+      "rang": 7,
+      "numero": 18
+    },
+    {
+      "rang": 8,
+      "numero": 5
+    },
+    {
+      "rang": 9,
+      "numero": 15
+    },
+    {
+      "rang": 10,
+      "numero": 11
+    },
+    {
+      "rang": 11,
+      "numero": 17
+    },
+    {
+      "rang": 12,
+      "numero": 9
+    },
+    {
+      "rang": 13,
+      "numero": 12
+    },
+    {
+      "rang": 14,
+      "numero": 1
+    },
+    {
+      "rang": 15,
+      "numero": 8
+    },
+    {
+      "rang": 16,
+      "numero": 4
+    },
+    {
+      "rang": 17,
+      "numero": 6
+    },
+    {
+      "rang": 18,
+      "numero": 10
+    }
+  ],
+  "predictions": {
+    "top5": [
+      7,
+      12,
+      2,
+      16,
+      3
+    ],
+    "date_prediction": "2026-06-14"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 7,
+    "favori_arrive_rang": 4
+  }
+}
