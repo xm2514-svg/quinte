@@ -232,7 +232,7 @@ def run(demain: bool, logger: logging.Logger) -> dict:
         "course": base["course"],
         "fiabilite_globale": fiab,
         "ponderations": W,
-        "top5": enriched[:5],
+        "top5": enriched[:6],  # 6 chevaux champ réduit Xavier
         "tous_chevaux": enriched,
         "nb_enrichis": sum(1 for c in enriched if c.get("fiche_enrichie")),
         "nb_partants": len(partants_actifs),
