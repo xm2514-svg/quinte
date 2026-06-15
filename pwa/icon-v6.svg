@@ -2,10 +2,34 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1A2133"/>
-      <stop offset="100%" stop-color="#12161F"/>
+      <stop offset="100%" stop-color="#0A0D14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD966"/>
+      <stop offset="100%" stop-color="#C99A2E"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" rx="110" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="180" fill="none" stroke="#F2C752" stroke-width="14" opacity="0.9"/>
-  <text x="256" y="256" font-family="Arial Black, Helvetica, sans-serif" font-size="260" font-weight="900" fill="#F2C752" text-anchor="middle" dominant-baseline="central">6</text>
+  <!-- Fer a cheval : forme en U inverse, ouvert vers le bas -->
+  <path d="M 256 80
+           C 160 80, 110 175, 110 280
+           C 110 360, 140 410, 175 420
+           L 200 420
+           C 200 420, 185 400, 185 350
+           C 185 250, 210 175, 256 175
+           C 302 175, 327 250, 327 350
+           C 327 400, 312 420, 312 420
+           L 337 420
+           C 372 410, 402 360, 402 280
+           C 402 175, 352 80, 256 80 Z"
+        fill="url(#gold)" stroke="#8B6914" stroke-width="4"/>
+  <!-- Clous du fer (petits cercles) -->
+  <circle cx="150" cy="200" r="9" fill="#8B6914"/>
+  <circle cx="135" cy="260" r="9" fill="#8B6914"/>
+  <circle cx="145" cy="340" r="9" fill="#8B6914"/>
+  <circle cx="362" cy="200" r="9" fill="#8B6914"/>
+  <circle cx="377" cy="260" r="9" fill="#8B6914"/>
+  <circle cx="367" cy="340" r="9" fill="#8B6914"/>
+  <!-- 6 au centre -->
+  <text x="256" y="320" font-family="Arial Black, Helvetica, sans-serif" font-size="200" font-weight="900" fill="#F2F5F8" text-anchor="middle" dominant-baseline="central">6</text>
 </svg>
