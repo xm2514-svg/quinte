@@ -33,15 +33,17 @@ from pathlib import Path
 from paths import BASE as HERE, CACHE, LOGS
 
 
-# Pondérations v2
+# Pondérations v2 — RECALIBRÉES 2026-06-16 sur 3 ans de quintés (1093 courses).
+# La cote domine (87% du signal mesuré) ; gains quasi nul ; variables de fiches gardées
+# prudentes (non testées sur le dataset PMU). Voir ml/RESULTS.md. NB: n'égale pas le marché.
 W = {
-    "cote":       0.30,
-    "gains":      0.15,
-    "couple_je":  0.15,
-    "hippodrome": 0.15,
-    "pref_terrain":  0.15,
-    "pref_distance": 0.05,
-    "recuperation":  0.05,
+    "cote":       0.55,
+    "gains":      0.03,
+    "couple_je":  0.12,
+    "hippodrome": 0.1,
+    "pref_terrain":  0.12,
+    "pref_distance": 0.04,
+    "recuperation":  0.04,
 }
 
 
