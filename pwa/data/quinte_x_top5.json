@@ -13,7 +13,7 @@
     "distance_m": 1600,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "17°C Nuageux, vent 11km/h - N"
+    "meteo": "22°C Nuageux, vent 13km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -27,252 +27,6 @@
   },
   "top5": [
     {
-      "numero": 3,
-      "nom": "Grandpa Cen",
-      "artifice": null,
-      "sexe": "M",
-      "age": 4,
-      "poids": 59.0,
-      "jockey": "A. Lemaitre",
-      "musique": "2p5p(25)1p1p3p",
-      "vh": 39.0,
-      "gains_eur": 42962,
-      "entraineur": "P. Olave Valdivielso",
-      "cote_pmu": 3.4,
-      "non_partant": false,
-      "musique_raw": "2p5p(25)1p1p3p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 2.4,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Grandpa Cen",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Lemaitre",
-          "proprietaire": "P. Olave Valdivielso",
-          "eleveur": "Yeguada Centurion Slu",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Uncle Mo"
-        },
-        "course_actuelle": {
-          "hippodrome": "Nantes",
-          "nb_partants": 15,
-          "allocation_eur": 50900,
-          "distance_m": 1600,
-          "vh": 39.0
-        },
-        "cote_live_fiche": 3.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. LEMAITRE",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "P. OLAVE VALDIVIELSO",
-            "victoires": 2,
-            "places": 6,
-            "courses": 10,
-            "pourcentage": 80.0
-          },
-          "sur_hippodrome": {
-            "nom": "NANTES",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 42962,
-          "musique": "2p 5p (25) 1p 1p 3p 3p 2p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 6,
-            "pourcentage": 80.0
-          }
-        },
-        "dernieres_courses": [
-          {
-            "date": "27/04/26",
-            "spec": "P",
-            "hippodrome": "BORDEAUX - LE BOUSCAT",
-            "nom_course": "Handicap de Bordeaux",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 50900,
-            "rang": "2e",
-            "partants": 15,
-            "vh": 39.0
-          },
-          {
-            "date": "21/02/26",
-            "spec": "P",
-            "hippodrome": "CAGNES-SUR-MER",
-            "nom_course": "Prix Jacques Geliot",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "5e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "28/12/25",
-            "spec": "P",
-            "hippodrome": "PAU",
-            "nom_course": "Prix du Musée Bernadotte",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 19200,
-            "rang": "1er",
-            "partants": 12,
-            "vh": 34.5
-          },
-          {
-            "date": "23/11/25",
-            "spec": "P",
-            "hippodrome": "TOULOUSE",
-            "nom_course": "Prix Toulouse Métropole",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Très souple",
-            "allocation_eur": 15600,
-            "rang": "1er",
-            "partants": 8,
-            "vh": 34.0
-          },
-          {
-            "date": "08/10/25",
-            "spec": "P",
-            "hippodrome": "MARSEILLE-VIVAUX",
-            "nom_course": "Prix du Port de l'Eoube",
-            "qplus": false,
-            "distance_m": 2000,
-            "corde": "G",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "3e",
-            "partants": 8,
-            "vh": 34.0
-          },
-          {
-            "date": "21/09/25",
-            "spec": "P",
-            "hippodrome": "DAX",
-            "nom_course": "Prix Résidence «Les Maisons du Verger» - Dax Bertras",
-            "qplus": false,
-            "distance_m": 2300,
-            "corde": "D",
-            "terrain": "Collant",
-            "allocation_eur": 15600,
-            "rang": "3e",
-            "partants": 10,
-            "vh": 34.0
-          },
-          {
-            "date": "30/08/25",
-            "spec": "P",
-            "hippodrome": "TARBES",
-            "nom_course": "Prix Denis Charbonnel",
-            "qplus": false,
-            "distance_m": 2100,
-            "corde": "D",
-            "terrain": "Souple",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 12,
-            "vh": 34.5
-          },
-          {
-            "date": "11/08/25",
-            "spec": "P",
-            "hippodrome": "LA TESTE",
-            "nom_course": "Prix Hôtel Point France",
-            "qplus": false,
-            "distance_m": 2200,
-            "corde": "D",
-            "terrain": "Bon",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 8,
-            "vh": null
-          },
-          {
-            "date": "23/07/25",
-            "spec": "P",
-            "hippodrome": "DAX",
-            "nom_course": "Prix F. Ducassou",
-            "qplus": false,
-            "distance_m": 2100,
-            "corde": "D",
-            "terrain": "Très souple",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 9,
-            "vh": null
-          },
-          {
-            "date": "16/06/25",
-            "spec": "P",
-            "hippodrome": "LA TESTE",
-            "nom_course": "Prix Reconversion des Chevaux de Courses",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "D",
-            "terrain": "Souple",
-            "allocation_eur": 21000,
-            "rang": "9e",
-            "partants": 12,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": {
-            "courses": 10,
-            "places_top3": 8,
-            "taux": 0.8,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 4,
-            "places_top3": 3,
-            "taux": 0.75
-          },
-          "jours_depuis_derniere_course": 50
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2677,
-        "gains": 0.1427,
-        "couple_je": 0.65,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.75,
-        "recuperation": 0.75
-      },
-      "score": 46.92,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
       "numero": 5,
       "nom": "Harper",
       "artifice": null,
@@ -284,7 +38,7 @@
       "vh": 38.5,
       "gains_eur": 229658,
       "entraineur": "G. Mossé",
-      "cote_pmu": 9.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "2p(25)12p13p5p9p",
       "nb_courses_recentes": 5,
@@ -314,7 +68,7 @@
           "distance_m": 1600,
           "vh": 38.5
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. MOUTARD",
@@ -356,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1011,
+        "cote": 0.0746,
         "gains": 0.7629,
         "couple_je": 0.665,
         "hippodrome": 0.5,
@@ -364,7 +118,103 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 46.45,
+      "score": 45.66,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 3,
+      "nom": "Grandpa Cen",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 59.0,
+      "jockey": "A. Lemaitre",
+      "musique": "2p5p(25)1p1p3p",
+      "vh": 39.0,
+      "gains_eur": 42962,
+      "entraineur": "P. Olave Valdivielso",
+      "cote_pmu": 3.9,
+      "non_partant": false,
+      "musique_raw": "2p5p(25)1p1p3p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 2.4,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Grandpa Cen",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Lemaitre",
+          "proprietaire": "P. Olave Valdivielso",
+          "eleveur": "Yeguada Centurion Slu",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Uncle Mo"
+        },
+        "course_actuelle": {
+          "hippodrome": "Nantes",
+          "nb_partants": 15,
+          "allocation_eur": 50900,
+          "distance_m": 1600,
+          "vh": 39.0
+        },
+        "cote_live_fiche": 3.9,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. LEMAITRE",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "P. OLAVE VALDIVIELSO",
+            "victoires": 2,
+            "places": 6,
+            "courses": 10,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "NANTES",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 42962,
+          "musique": "2p 5p (25) 1p 1p 3p 3p 2p",
+          "carriere": {
+            "courses": 10,
+            "victoires": 2,
+            "places": 6,
+            "pourcentage": 80.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2296,
+        "gains": 0.1427,
+        "couple_je": 0.65,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 44.78,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -452,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0758,
+        "cote": 0.0746,
         "gains": 1.0,
         "couple_je": 0.125,
         "hippodrome": 0.5,
@@ -460,7 +310,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 42.48,
+      "score": 42.45,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -476,7 +326,7 @@
       "vh": 40.0,
       "gains_eur": 154010,
       "entraineur": "K. Plisson",
-      "cote_pmu": 20.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "1p8p1p11p7p9p",
       "nb_courses_recentes": 6,
@@ -506,7 +356,7 @@
           "distance_m": 1600,
           "vh": 40.0
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 22.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. ROUSSET",
@@ -548,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0455,
+        "cote": 0.0407,
         "gains": 0.5116,
         "couple_je": 0.715,
         "hippodrome": 0.67,
@@ -556,7 +406,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.31,
+      "score": 42.17,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -572,7 +422,7 @@
       "vh": 42.0,
       "gains_eur": 114412,
       "entraineur": "Y. Barberot",
-      "cote_pmu": 6.5,
+      "cote_pmu": 7.6,
       "non_partant": false,
       "musique_raw": "5p1p2p8p3p2p",
       "nb_courses_recentes": 6,
@@ -581,7 +431,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.5,
       "sous_scores": {
-        "cote": 0.14,
+        "cote": 0.1178,
         "gains": 0.3801,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -589,7 +439,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 40.74,
+      "score": 40.07,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -605,7 +455,7 @@
       "vh": 33.5,
       "gains_eur": 92125,
       "entraineur": "K. Plisson",
-      "cote_pmu": 15.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "1p5p6p6p5p2p",
       "nb_courses_recentes": 6,
@@ -635,7 +485,7 @@
           "distance_m": 1600,
           "vh": 33.5
         },
-        "cote_live_fiche": 15.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. GROSBOIS",
@@ -677,7 +527,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0607,
+        "cote": 0.0746,
         "gains": 0.306,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -685,259 +535,13 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 38.08,
+      "score": 38.5,
       "enrichi": true,
       "rang_predit": 6
     }
   ],
   "tous_chevaux": [
     {
-      "numero": 3,
-      "nom": "Grandpa Cen",
-      "artifice": null,
-      "sexe": "M",
-      "age": 4,
-      "poids": 59.0,
-      "jockey": "A. Lemaitre",
-      "musique": "2p5p(25)1p1p3p",
-      "vh": 39.0,
-      "gains_eur": 42962,
-      "entraineur": "P. Olave Valdivielso",
-      "cote_pmu": 3.4,
-      "non_partant": false,
-      "musique_raw": "2p5p(25)1p1p3p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 2.4,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Grandpa Cen",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Lemaitre",
-          "proprietaire": "P. Olave Valdivielso",
-          "eleveur": "Yeguada Centurion Slu",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Uncle Mo"
-        },
-        "course_actuelle": {
-          "hippodrome": "Nantes",
-          "nb_partants": 15,
-          "allocation_eur": 50900,
-          "distance_m": 1600,
-          "vh": 39.0
-        },
-        "cote_live_fiche": 3.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. LEMAITRE",
-            "victoires": 0,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "P. OLAVE VALDIVIELSO",
-            "victoires": 2,
-            "places": 6,
-            "courses": 10,
-            "pourcentage": 80.0
-          },
-          "sur_hippodrome": {
-            "nom": "NANTES",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 42962,
-          "musique": "2p 5p (25) 1p 1p 3p 3p 2p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 6,
-            "pourcentage": 80.0
-          }
-        },
-        "dernieres_courses": [
-          {
-            "date": "27/04/26",
-            "spec": "P",
-            "hippodrome": "BORDEAUX - LE BOUSCAT",
-            "nom_course": "Handicap de Bordeaux",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Bon souple",
-            "allocation_eur": 50900,
-            "rang": "2e",
-            "partants": 15,
-            "vh": 39.0
-          },
-          {
-            "date": "21/02/26",
-            "spec": "P",
-            "hippodrome": "CAGNES-SUR-MER",
-            "nom_course": "Prix Jacques Geliot",
-            "qplus": true,
-            "distance_m": 1600,
-            "corde": "G",
-            "terrain": "PSF Standard",
-            "allocation_eur": 50900,
-            "rang": "5e",
-            "partants": 16,
-            "vh": 39.0
-          },
-          {
-            "date": "28/12/25",
-            "spec": "P",
-            "hippodrome": "PAU",
-            "nom_course": "Prix du Musée Bernadotte",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "PSF Standard",
-            "allocation_eur": 19200,
-            "rang": "1er",
-            "partants": 12,
-            "vh": 34.5
-          },
-          {
-            "date": "23/11/25",
-            "spec": "P",
-            "hippodrome": "TOULOUSE",
-            "nom_course": "Prix Toulouse Métropole",
-            "qplus": false,
-            "distance_m": 1600,
-            "corde": "D",
-            "terrain": "Très souple",
-            "allocation_eur": 15600,
-            "rang": "1er",
-            "partants": 8,
-            "vh": 34.0
-          },
-          {
-            "date": "08/10/25",
-            "spec": "P",
-            "hippodrome": "MARSEILLE-VIVAUX",
-            "nom_course": "Prix du Port de l'Eoube",
-            "qplus": false,
-            "distance_m": 2000,
-            "corde": "G",
-            "terrain": "PSF Standard",
-            "allocation_eur": 16500,
-            "rang": "3e",
-            "partants": 8,
-            "vh": 34.0
-          },
-          {
-            "date": "21/09/25",
-            "spec": "P",
-            "hippodrome": "DAX",
-            "nom_course": "Prix Résidence «Les Maisons du Verger» - Dax Bertras",
-            "qplus": false,
-            "distance_m": 2300,
-            "corde": "D",
-            "terrain": "Collant",
-            "allocation_eur": 15600,
-            "rang": "3e",
-            "partants": 10,
-            "vh": 34.0
-          },
-          {
-            "date": "30/08/25",
-            "spec": "P",
-            "hippodrome": "TARBES",
-            "nom_course": "Prix Denis Charbonnel",
-            "qplus": false,
-            "distance_m": 2100,
-            "corde": "D",
-            "terrain": "Souple",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 12,
-            "vh": 34.5
-          },
-          {
-            "date": "11/08/25",
-            "spec": "P",
-            "hippodrome": "LA TESTE",
-            "nom_course": "Prix Hôtel Point France",
-            "qplus": false,
-            "distance_m": 2200,
-            "corde": "D",
-            "terrain": "Bon",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 8,
-            "vh": null
-          },
-          {
-            "date": "23/07/25",
-            "spec": "P",
-            "hippodrome": "DAX",
-            "nom_course": "Prix F. Ducassou",
-            "qplus": false,
-            "distance_m": 2100,
-            "corde": "D",
-            "terrain": "Très souple",
-            "allocation_eur": 15600,
-            "rang": "2e",
-            "partants": 9,
-            "vh": null
-          },
-          {
-            "date": "16/06/25",
-            "spec": "P",
-            "hippodrome": "LA TESTE",
-            "nom_course": "Prix Reconversion des Chevaux de Courses",
-            "qplus": false,
-            "distance_m": 1800,
-            "corde": "D",
-            "terrain": "Souple",
-            "allocation_eur": 21000,
-            "rang": "9e",
-            "partants": 12,
-            "vh": null
-          }
-        ],
-        "derives": {
-          "preference_terrain": {
-            "courses": 10,
-            "places_top3": 8,
-            "taux": 0.8,
-            "fallback": true
-          },
-          "preference_distance": {
-            "courses": 4,
-            "places_top3": 3,
-            "taux": 0.75
-          },
-          "jours_depuis_derniere_course": 50
-        }
-      },
-      "sous_scores": {
-        "cote": 0.2677,
-        "gains": 0.1427,
-        "couple_je": 0.65,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.75,
-        "recuperation": 0.75
-      },
-      "score": 46.92,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
       "numero": 5,
       "nom": "Harper",
       "artifice": null,
@@ -949,7 +553,7 @@
       "vh": 38.5,
       "gains_eur": 229658,
       "entraineur": "G. Mossé",
-      "cote_pmu": 9.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "2p(25)12p13p5p9p",
       "nb_courses_recentes": 5,
@@ -979,7 +583,7 @@
           "distance_m": 1600,
           "vh": 38.5
         },
-        "cote_live_fiche": 9.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. MOUTARD",
@@ -1021,7 +625,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1011,
+        "cote": 0.0746,
         "gains": 0.7629,
         "couple_je": 0.665,
         "hippodrome": 0.5,
@@ -1029,7 +633,103 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 46.45,
+      "score": 45.66,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 3,
+      "nom": "Grandpa Cen",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 59.0,
+      "jockey": "A. Lemaitre",
+      "musique": "2p5p(25)1p1p3p",
+      "vh": 39.0,
+      "gains_eur": 42962,
+      "entraineur": "P. Olave Valdivielso",
+      "cote_pmu": 3.9,
+      "non_partant": false,
+      "musique_raw": "2p5p(25)1p1p3p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 2.4,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Grandpa Cen",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Lemaitre",
+          "proprietaire": "P. Olave Valdivielso",
+          "eleveur": "Yeguada Centurion Slu",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Uncle Mo"
+        },
+        "course_actuelle": {
+          "hippodrome": "Nantes",
+          "nb_partants": 15,
+          "allocation_eur": 50900,
+          "distance_m": 1600,
+          "vh": 39.0
+        },
+        "cote_live_fiche": 3.9,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. LEMAITRE",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "P. OLAVE VALDIVIELSO",
+            "victoires": 2,
+            "places": 6,
+            "courses": 10,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "NANTES",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 42962,
+          "musique": "2p 5p (25) 1p 1p 3p 3p 2p",
+          "carriere": {
+            "courses": 10,
+            "victoires": 2,
+            "places": 6,
+            "pourcentage": 80.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2296,
+        "gains": 0.1427,
+        "couple_je": 0.65,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 44.78,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -1117,7 +817,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0758,
+        "cote": 0.0746,
         "gains": 1.0,
         "couple_je": 0.125,
         "hippodrome": 0.5,
@@ -1125,7 +825,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 42.48,
+      "score": 42.45,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -1141,7 +841,7 @@
       "vh": 40.0,
       "gains_eur": 154010,
       "entraineur": "K. Plisson",
-      "cote_pmu": 20.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "1p8p1p11p7p9p",
       "nb_courses_recentes": 6,
@@ -1171,7 +871,7 @@
           "distance_m": 1600,
           "vh": 40.0
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 22.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Y. ROUSSET",
@@ -1213,7 +913,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0455,
+        "cote": 0.0407,
         "gains": 0.5116,
         "couple_je": 0.715,
         "hippodrome": 0.67,
@@ -1221,7 +921,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 42.31,
+      "score": 42.17,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -1237,7 +937,7 @@
       "vh": 42.0,
       "gains_eur": 114412,
       "entraineur": "Y. Barberot",
-      "cote_pmu": 6.5,
+      "cote_pmu": 7.6,
       "non_partant": false,
       "musique_raw": "5p1p2p8p3p2p",
       "nb_courses_recentes": 6,
@@ -1246,7 +946,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.5,
       "sous_scores": {
-        "cote": 0.14,
+        "cote": 0.1178,
         "gains": 0.3801,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1254,7 +954,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 40.74,
+      "score": 40.07,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -1270,7 +970,7 @@
       "vh": 33.5,
       "gains_eur": 92125,
       "entraineur": "K. Plisson",
-      "cote_pmu": 15.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "1p5p6p6p5p2p",
       "nb_courses_recentes": 6,
@@ -1300,7 +1000,7 @@
           "distance_m": 1600,
           "vh": 33.5
         },
-        "cote_live_fiche": 15.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. GROSBOIS",
@@ -1342,7 +1042,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0607,
+        "cote": 0.0746,
         "gains": 0.306,
         "couple_je": 1.0,
         "hippodrome": 0.5,
@@ -1350,7 +1050,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 38.08,
+      "score": 38.5,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1366,7 +1066,7 @@
       "vh": 38.5,
       "gains_eur": 153644,
       "entraineur": "J. Boisnard",
-      "cote_pmu": 24.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "15p1p11p3p(25)15p",
       "nb_courses_recentes": 5,
@@ -1396,7 +1096,7 @@
           "distance_m": 1600,
           "vh": 38.5
         },
-        "cote_live_fiche": 24.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "H. LEBOUC",
@@ -1438,7 +1138,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0379,
+        "cote": 0.0471,
         "gains": 0.5104,
         "couple_je": 0.345,
         "hippodrome": 0.5,
@@ -1446,7 +1146,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 35.97,
+      "score": 36.24,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1462,7 +1162,7 @@
       "vh": 35.5,
       "gains_eur": 28592,
       "entraineur": "E. Libaud",
-      "cote_pmu": 47.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "13p1p6p(25)2p2p",
       "nb_courses_recentes": 5,
@@ -1492,7 +1192,7 @@
           "distance_m": 1600,
           "vh": 35.5
         },
-        "cote_live_fiche": 47.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. SUBIAS",
@@ -1529,7 +1229,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0194,
+        "cote": 0.0263,
         "gains": 0.095,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1537,105 +1237,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.51,
+      "score": 35.71,
       "enrichi": true,
       "rang_predit": 8
-    },
-    {
-      "numero": 15,
-      "nom": "Alcotan",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 6,
-      "poids": 53.0,
-      "jockey": "J. Claudic",
-      "musique": "15p(25)9p7p10p1p",
-      "vh": 33.0,
-      "gains_eur": 77776,
-      "entraineur": "M. Drean",
-      "cote_pmu": 88.0,
-      "non_partant": false,
-      "musique_raw": "15p(25)9p7p10p1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 5,
-      "position_moyenne": 4.4,
-      "fiche_enrichie": {
-        "numero": 15,
-        "nom": "Alcotan",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "J. Claudic",
-          "proprietaire": "M. Drean",
-          "eleveur": "M. Drean",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Recoletos"
-        },
-        "course_actuelle": {
-          "hippodrome": "Nantes",
-          "nb_partants": 15,
-          "allocation_eur": 50900,
-          "distance_m": 1600,
-          "vh": 33.0
-        },
-        "cote_live_fiche": 88.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "J. CLAUDIC",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "M. DREAN",
-            "victoires": 2,
-            "places": 2,
-            "courses": 18,
-            "pourcentage": 22.0
-          },
-          "sur_hippodrome": {
-            "nom": "NANTES",
-            "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 77776,
-          "musique": "15p (25) 9p 7p 10p 1p 1p 5p",
-          "carriere": {
-            "courses": 32,
-            "victoires": 4,
-            "places": 6,
-            "pourcentage": 31.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0103,
-        "gains": 0.2584,
-        "couple_je": 0.61,
-        "hippodrome": 0.67,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 33.89,
-      "enrichi": true,
-      "rang_predit": 9
     },
     {
       "numero": 8,
@@ -1649,7 +1253,7 @@
       "vh": 37.5,
       "gains_eur": 122914,
       "entraineur": "Allard",
-      "cote_pmu": 50.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "6p1p11p5p5p5p",
       "nb_courses_recentes": 6,
@@ -1679,7 +1283,7 @@
           "distance_m": 1600,
           "vh": 37.5
         },
-        "cote_live_fiche": 50.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "P. REMOUÉ",
@@ -1721,7 +1325,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0182,
+        "cote": 0.0358,
         "gains": 0.4083,
         "couple_je": 0.695,
         "hippodrome": 0.5,
@@ -1729,7 +1333,103 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 33.76,
+      "score": 34.29,
+      "enrichi": true,
+      "rang_predit": 9
+    },
+    {
+      "numero": 15,
+      "nom": "Alcotan",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 6,
+      "poids": 53.0,
+      "jockey": "J. Claudic",
+      "musique": "15p(25)9p7p10p1p",
+      "vh": 33.0,
+      "gains_eur": 77776,
+      "entraineur": "M. Drean",
+      "cote_pmu": 54.0,
+      "non_partant": false,
+      "musique_raw": "15p(25)9p7p10p1p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 5,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 15,
+        "nom": "Alcotan",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "J. Claudic",
+          "proprietaire": "M. Drean",
+          "eleveur": "M. Drean",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Recoletos"
+        },
+        "course_actuelle": {
+          "hippodrome": "Nantes",
+          "nb_partants": 15,
+          "allocation_eur": 50900,
+          "distance_m": 1600,
+          "vh": 33.0
+        },
+        "cote_live_fiche": 54.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "J. CLAUDIC",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "M. DREAN",
+            "victoires": 2,
+            "places": 2,
+            "courses": 18,
+            "pourcentage": 22.0
+          },
+          "sur_hippodrome": {
+            "nom": "NANTES",
+            "victoires": 0,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 67.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 77776,
+          "musique": "15p (25) 9p 7p 10p 1p 1p 5p",
+          "carriere": {
+            "courses": 32,
+            "victoires": 4,
+            "places": 6,
+            "pourcentage": 31.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0166,
+        "gains": 0.2584,
+        "couple_je": 0.61,
+        "hippodrome": 0.67,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 34.07,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1745,7 +1445,7 @@
       "vh": 32.5,
       "gains_eur": 163637,
       "entraineur": "C. Boutin (s)",
-      "cote_pmu": 24.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "9p4p4p5p4p6p",
       "nb_courses_recentes": 6,
@@ -1775,7 +1475,7 @@
           "distance_m": 1600,
           "vh": 32.5
         },
-        "cote_live_fiche": 24.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "R. MANGIONE",
@@ -1817,7 +1517,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0379,
+        "cote": 0.0471,
         "gains": 0.5436,
         "couple_je": 0.4,
         "hippodrome": 1.0,
@@ -1825,7 +1525,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 32.79,
+      "score": 33.07,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1841,7 +1541,7 @@
       "vh": 34.5,
       "gains_eur": 40140,
       "entraineur": "P. De Chevigny",
-      "cote_pmu": 32.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "14p1p6p3p7p9p",
       "nb_courses_recentes": 6,
@@ -1871,7 +1571,7 @@
           "distance_m": 1600,
           "vh": 34.5
         },
-        "cote_live_fiche": 32.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "I. MENDIZABAL",
@@ -1913,7 +1613,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0284,
+        "cote": 0.0358,
         "gains": 0.1333,
         "couple_je": 0.305,
         "hippodrome": 1.0,
@@ -1921,7 +1621,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 31.6,
+      "score": 31.82,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1937,7 +1637,7 @@
       "vh": 35.0,
       "gains_eur": 74868,
       "entraineur": "M. Brasme",
-      "cote_pmu": 13.0,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "4p10p5p(25)10p5p",
       "nb_courses_recentes": 5,
@@ -1967,7 +1667,7 @@
           "distance_m": 1600,
           "vh": 35.0
         },
-        "cote_live_fiche": 13.0,
+        "cote_live_fiche": 10.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. MADAMET",
@@ -2009,7 +1709,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0896,
         "gains": 0.2487,
         "couple_je": 0.28,
         "hippodrome": 0.67,
@@ -2017,7 +1717,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 30.58,
+      "score": 31.17,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -2033,7 +1733,7 @@
       "vh": 35.5,
       "gains_eur": 127256,
       "entraineur": "C. Pautier",
-      "cote_pmu": 54.0,
+      "cote_pmu": 35.0,
       "non_partant": false,
       "musique_raw": "14p1p1p2p2p4p",
       "nb_courses_recentes": 6,
@@ -2063,7 +1763,7 @@
           "distance_m": 1600,
           "vh": 35.5
         },
-        "cote_live_fiche": 54.0,
+        "cote_live_fiche": 35.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. WERLÉ",
@@ -2105,7 +1805,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0169,
+        "cote": 0.0256,
         "gains": 0.4227,
         "couple_je": 0.375,
         "hippodrome": 0.0,
@@ -2113,7 +1813,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 28.3,
+      "score": 28.57,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -2129,7 +1829,7 @@
       "vh": 36.5,
       "gains_eur": 164985,
       "entraineur": "N. Leenders",
-      "cote_pmu": 13.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "5p8p5p(25)1p9p",
       "nb_courses_recentes": 5,
@@ -2159,7 +1859,7 @@
           "distance_m": 1600,
           "vh": 36.5
         },
-        "cote_live_fiche": 13.0,
+        "cote_live_fiche": 14.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. ROUSSEL",
@@ -2201,7 +1901,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.064,
         "gains": 0.548,
         "couple_je": 0.225,
         "hippodrome": 0.42,
@@ -2209,7 +1909,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 26.5,
+      "score": 26.31,
       "enrichi": true,
       "rang_predit": 15
     }
