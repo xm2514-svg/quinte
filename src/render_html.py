@@ -89,7 +89,7 @@ footer {{ text-align: center; color: #A5AFC0; font-size: 11px; margin-top: 16px;
 </header>
 <h2>TOP 5 PRÉDIT</h2>
 {''.join(cards)}
-<footer>QUINTE-X v2.2 · {data.get('date','?')} · Légende sous-scores : C cote · G gains · J/E couple · H hippo · T terrain · D distance · R récup</footer>
+<footer>QUINTE-X v4 · {data.get('date','?')} · Légende sous-scores : C cote · G gains · J/E couple · H hippo · T terrain · D distance · R récup</footer>
 </div></body></html>"""
 
 out = PWA / "quinte.html"

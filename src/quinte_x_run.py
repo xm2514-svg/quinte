@@ -38,7 +38,7 @@ from playwright.sync_api import sync_playwright
 # Modules QUINTE-X locaux
 from quinte_x_parser import parse_paris_turf
 from quinte_x_parser_fiche import parse_fiche_cheval
-from quinte_x_algo_v2 import score_chevaux, fiabilite_globale, W
+from quinte_x_algo import score_chevaux, fiabilite_globale, W
 
 
 from paths import BASE as HERE, CACHE, FICHES_RAW, LOGS
