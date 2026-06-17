@@ -13,7 +13,7 @@
     "distance_m": 2625,
     "corde": "droite",
     "terrain": "-",
-    "meteo": "20°C Ciel clair, vent 1km/h - NE"
+    "meteo": "27°C Ciel clair, vent 4km/h - E"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 102620,
       "entraineur": "J. Foin",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.0,
       "non_partant": false,
       "musique_raw": "2a5a3aDa(25)1a",
       "nb_courses_recentes": 5,
@@ -68,7 +68,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 2.3,
+        "cote_live_fiche": 4.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GERGOUIL",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2219,
+        "cote": 0.2274,
         "gains": 0.9584,
         "couple_je": 0.76,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 45.8,
+      "score": 46.1,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 95465,
       "entraineur": "S. Provoost",
-      "cote_pmu": 4.2,
+      "cote_pmu": 5.8,
       "non_partant": false,
       "musique_raw": "2a2a4aDaDa2a",
       "nb_courses_recentes": 6,
@@ -164,7 +164,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 5.9,
+        "cote_live_fiche": 5.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. TRAVERS",
@@ -206,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2166,
+        "cote": 0.1568,
         "gains": 0.8916,
         "couple_je": 0.265,
         "hippodrome": 1.0,
@@ -214,7 +214,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.77,
+      "score": 34.48,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -230,7 +230,7 @@
       "vh": null,
       "gains_eur": 54690,
       "entraineur": "A. Hubert",
-      "cote_pmu": 3.9,
+      "cote_pmu": 4.0,
       "non_partant": false,
       "musique_raw": "3a7a7aDista(25)1a",
       "nb_courses_recentes": 5,
@@ -260,7 +260,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 4.7,
+        "cote_live_fiche": 4.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -302,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2332,
+        "cote": 0.2274,
         "gains": 0.5108,
         "couple_je": 0.41,
         "hippodrome": 0.5,
@@ -310,105 +310,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.68,
+      "score": 32.36,
       "enrichi": true,
       "rang_predit": 3
-    },
-    {
-      "numero": 5,
-      "nom": "Keepsake",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 2625.0,
-      "jockey": "M. Criado",
-      "musique": "1aDm8aDa(25)Da",
-      "vh": null,
-      "gains_eur": 49340,
-      "entraineur": "J. Foin",
-      "cote_pmu": 27.0,
-      "non_partant": false,
-      "musique_raw": "1aDm8aDa(25)Da",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 1,
-      "position_moyenne": 4.5,
-      "fiche_enrichie": {
-        "numero": 5,
-        "nom": "Keepsake",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Criado",
-          "proprietaire": "J. Foin",
-          "eleveur": "J. Séché",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Agen",
-          "nb_partants": 16,
-          "allocation_eur": 32000,
-          "distance_m": 2625,
-          "vh": null
-        },
-        "cote_live_fiche": 37.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. CRIADO",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "J. FOIN",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "AGEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 49340,
-          "musique": "Dm 8a Da (25) Da 11a Dm 1a",
-          "carriere": {
-            "courses": 33,
-            "victoires": 4,
-            "places": 6,
-            "pourcentage": 30.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0337,
-        "gains": 0.4608,
-        "couple_je": 1.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 25.44,
-      "enrichi": true,
-      "rang_predit": 4
     },
     {
       "numero": 12,
@@ -422,7 +326,7 @@
       "vh": null,
       "gains_eur": 90790,
       "entraineur": "Q. Machet",
-      "cote_pmu": 20.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "5a1a(25)Da2a9a",
       "nb_courses_recentes": 5,
@@ -452,7 +356,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Q. MACHET",
@@ -494,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0455,
+        "cote": 0.07,
         "gains": 0.8479,
         "couple_je": 0.575,
         "hippodrome": 0.5,
@@ -502,7 +406,103 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 25.35,
+      "score": 26.69,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 5,
+      "nom": "Keepsake",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2625.0,
+      "jockey": "M. Criado",
+      "musique": "1aDm8aDa(25)Da",
+      "vh": null,
+      "gains_eur": 49340,
+      "entraineur": "J. Foin",
+      "cote_pmu": 19.0,
+      "non_partant": false,
+      "musique_raw": "1aDm8aDa(25)Da",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 1,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 5,
+        "nom": "Keepsake",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Criado",
+          "proprietaire": "J. Foin",
+          "eleveur": "J. Séché",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Agen",
+          "nb_partants": 16,
+          "allocation_eur": 32000,
+          "distance_m": 2625,
+          "vh": null
+        },
+        "cote_live_fiche": 19.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. CRIADO",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "J. FOIN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "AGEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 49340,
+          "musique": "Dm 8a Da (25) Da 11a Dm 1a",
+          "carriere": {
+            "courses": 33,
+            "victoires": 4,
+            "places": 6,
+            "pourcentage": 30.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0479,
+        "gains": 0.4608,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 26.22,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -548,7 +548,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 104.0,
+        "cote_live_fiche": 87.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "P. GERAY",
@@ -616,7 +616,7 @@
       "vh": null,
       "gains_eur": 102620,
       "entraineur": "J. Foin",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.0,
       "non_partant": false,
       "musique_raw": "2a5a3aDa(25)1a",
       "nb_courses_recentes": 5,
@@ -646,7 +646,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 2.3,
+        "cote_live_fiche": 4.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GERGOUIL",
@@ -688,7 +688,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2219,
+        "cote": 0.2274,
         "gains": 0.9584,
         "couple_je": 0.76,
         "hippodrome": 1.0,
@@ -696,7 +696,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 45.8,
+      "score": 46.1,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -712,7 +712,7 @@
       "vh": null,
       "gains_eur": 95465,
       "entraineur": "S. Provoost",
-      "cote_pmu": 4.2,
+      "cote_pmu": 5.8,
       "non_partant": false,
       "musique_raw": "2a2a4aDaDa2a",
       "nb_courses_recentes": 6,
@@ -742,7 +742,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 5.9,
+        "cote_live_fiche": 5.8,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. TRAVERS",
@@ -784,7 +784,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2166,
+        "cote": 0.1568,
         "gains": 0.8916,
         "couple_je": 0.265,
         "hippodrome": 1.0,
@@ -792,7 +792,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 37.77,
+      "score": 34.48,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -808,7 +808,7 @@
       "vh": null,
       "gains_eur": 54690,
       "entraineur": "A. Hubert",
-      "cote_pmu": 3.9,
+      "cote_pmu": 4.0,
       "non_partant": false,
       "musique_raw": "3a7a7aDista(25)1a",
       "nb_courses_recentes": 5,
@@ -838,7 +838,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 4.7,
+        "cote_live_fiche": 4.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ABRIVARD",
@@ -880,7 +880,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2332,
+        "cote": 0.2274,
         "gains": 0.5108,
         "couple_je": 0.41,
         "hippodrome": 0.5,
@@ -888,105 +888,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.68,
+      "score": 32.36,
       "enrichi": true,
       "rang_predit": 3
-    },
-    {
-      "numero": 5,
-      "nom": "Keepsake",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 2625.0,
-      "jockey": "M. Criado",
-      "musique": "1aDm8aDa(25)Da",
-      "vh": null,
-      "gains_eur": 49340,
-      "entraineur": "J. Foin",
-      "cote_pmu": 27.0,
-      "non_partant": false,
-      "musique_raw": "1aDm8aDa(25)Da",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 1,
-      "position_moyenne": 4.5,
-      "fiche_enrichie": {
-        "numero": 5,
-        "nom": "Keepsake",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Criado",
-          "proprietaire": "J. Foin",
-          "eleveur": "J. Séché",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Agen",
-          "nb_partants": 16,
-          "allocation_eur": 32000,
-          "distance_m": 2625,
-          "vh": null
-        },
-        "cote_live_fiche": 37.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. CRIADO",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "J. FOIN",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "AGEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 49340,
-          "musique": "Dm 8a Da (25) Da 11a Dm 1a",
-          "carriere": {
-            "courses": 33,
-            "victoires": 4,
-            "places": 6,
-            "pourcentage": 30.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0337,
-        "gains": 0.4608,
-        "couple_je": 1.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 25.44,
-      "enrichi": true,
-      "rang_predit": 4
     },
     {
       "numero": 12,
@@ -1000,7 +904,7 @@
       "vh": null,
       "gains_eur": 90790,
       "entraineur": "Q. Machet",
-      "cote_pmu": 20.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "5a1a(25)Da2a9a",
       "nb_courses_recentes": 5,
@@ -1030,7 +934,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 26.0,
+        "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "Q. MACHET",
@@ -1072,7 +976,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0455,
+        "cote": 0.07,
         "gains": 0.8479,
         "couple_je": 0.575,
         "hippodrome": 0.5,
@@ -1080,7 +984,103 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 25.35,
+      "score": 26.69,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 5,
+      "nom": "Keepsake",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2625.0,
+      "jockey": "M. Criado",
+      "musique": "1aDm8aDa(25)Da",
+      "vh": null,
+      "gains_eur": 49340,
+      "entraineur": "J. Foin",
+      "cote_pmu": 19.0,
+      "non_partant": false,
+      "musique_raw": "1aDm8aDa(25)Da",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 1,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 5,
+        "nom": "Keepsake",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Criado",
+          "proprietaire": "J. Foin",
+          "eleveur": "J. Séché",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Agen",
+          "nb_partants": 16,
+          "allocation_eur": 32000,
+          "distance_m": 2625,
+          "vh": null
+        },
+        "cote_live_fiche": 19.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. CRIADO",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "J. FOIN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "AGEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 49340,
+          "musique": "Dm 8a Da (25) Da 11a Dm 1a",
+          "carriere": {
+            "courses": 33,
+            "victoires": 4,
+            "places": 6,
+            "pourcentage": 30.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0479,
+        "gains": 0.4608,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 26.22,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1126,7 +1126,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 104.0,
+        "cote_live_fiche": 87.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "P. GERAY",
@@ -1192,7 +1192,7 @@
       "vh": null,
       "gains_eur": 51140,
       "entraineur": "F. Marty",
-      "cote_pmu": 70.0,
+      "cote_pmu": 72.0,
       "non_partant": false,
       "musique_raw": "(25)9a3a2a6a3a",
       "nb_courses_recentes": 5,
@@ -1222,7 +1222,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 52.0,
+        "cote_live_fiche": 72.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. MARTY",
@@ -1264,7 +1264,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.013,
+        "cote": 0.0126,
         "gains": 0.4776,
         "couple_je": 0.435,
         "hippodrome": 0.5,
@@ -1272,7 +1272,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 23.97,
+      "score": 23.95,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1288,7 +1288,7 @@
       "vh": null,
       "gains_eur": 76285,
       "entraineur": "F. Terry",
-      "cote_pmu": 50.0,
+      "cote_pmu": 66.0,
       "non_partant": false,
       "musique_raw": "12a3a(25)1a1a8a",
       "nb_courses_recentes": 5,
@@ -1318,7 +1318,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 74.0,
+        "cote_live_fiche": 66.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUCOS",
@@ -1360,7 +1360,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0182,
+        "cote": 0.0138,
         "gains": 0.7125,
         "couple_je": 0.35,
         "hippodrome": 0.0,
@@ -1368,9 +1368,82 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 22.14,
+      "score": 21.9,
       "enrichi": true,
       "rang_predit": 8
+    },
+    {
+      "numero": 2,
+      "nom": "Koala du Dropt",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2625.0,
+      "jockey": "C. Feyte",
+      "musique": "7a3a5aDa3a(25)",
+      "vh": null,
+      "gains_eur": 46770,
+      "entraineur": "C. Feyte",
+      "cote_pmu": 48.0,
+      "non_partant": false,
+      "musique_raw": "7a3a5aDa3a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 7,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Koala du Dropt",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Feyte",
+          "proprietaire": "C. Feyte",
+          "eleveur": "C. Feyte",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Agen",
+          "nb_partants": 16,
+          "allocation_eur": 32000,
+          "distance_m": 2625,
+          "vh": null
+        },
+        "cote_live_fiche": 48.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 46770,
+          "musique": "7a 3a 5a Da 3a (25) 6a 6a",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0189,
+        "gains": 0.4368,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 21.75,
+      "enrichi": true,
+      "rang_predit": 9
     },
     {
       "numero": 4,
@@ -1384,7 +1457,7 @@
       "vh": null,
       "gains_eur": 48700,
       "entraineur": "J. Foin",
-      "cote_pmu": 117.0,
+      "cote_pmu": 87.0,
       "non_partant": false,
       "musique_raw": "11a7a8a9a(25)2a",
       "nb_courses_recentes": 5,
@@ -1414,7 +1487,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 174.0,
+        "cote_live_fiche": 87.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. CLOZIER",
@@ -1456,7 +1529,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0078,
+        "cote": 0.0105,
         "gains": 0.4548,
         "couple_je": 0.49,
         "hippodrome": 0.5,
@@ -1464,9 +1537,87 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 21.07,
+      "score": 21.22,
       "enrichi": true,
-      "rang_predit": 9
+      "rang_predit": 10
+    },
+    {
+      "numero": 8,
+      "nom": "Kifill Choisi",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2625.0,
+      "jockey": "N. Vimond",
+      "musique": "4a12aDa5aDa4a",
+      "vh": null,
+      "gains_eur": 52570,
+      "entraineur": "N. Vimond",
+      "cote_pmu": 46.0,
+      "non_partant": false,
+      "musique_raw": "4a12aDa5aDa4a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 3.75,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Kifill Choisi",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "N. Vimond",
+          "proprietaire": "N. Vimond",
+          "eleveur": "Ecurie Vimond",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Agen",
+          "nb_partants": 16,
+          "allocation_eur": 32000,
+          "distance_m": 2625,
+          "vh": null
+        },
+        "cote_live_fiche": 46.0,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": 52570,
+          "musique": "4a 12a Da 5a Da 4a 4a (25)",
+          "carriere": {
+            "courses": 32,
+            "victoires": 3,
+            "places": 6,
+            "pourcentage": 28.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0198,
+        "gains": 0.491,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
+        "recuperation": 0.5
+      },
+      "score": 18.23,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 1,
@@ -1480,7 +1631,7 @@
       "vh": null,
       "gains_eur": 46085,
       "entraineur": "M. Daougabel",
-      "cote_pmu": 117.0,
+      "cote_pmu": 71.0,
       "non_partant": false,
       "musique_raw": "(25)Da9a2a9aDa",
       "nb_courses_recentes": 5,
@@ -1489,7 +1640,7 @@
       "derniere_position": 9,
       "position_moyenne": 6.67,
       "sous_scores": {
-        "cote": 0.0078,
+        "cote": 0.0128,
         "gains": 0.4304,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1497,9 +1648,9 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 17.92,
+      "score": 18.2,
       "enrichi": false,
-      "rang_predit": 10
+      "rang_predit": 12
     },
     {
       "numero": 13,
@@ -1513,7 +1664,7 @@
       "vh": null,
       "gains_eur": 94150,
       "entraineur": "JH. Treich",
-      "cote_pmu": 18.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "4a5aDaDa2aDa",
       "nb_courses_recentes": 6,
@@ -1543,7 +1694,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "P. GESRET",
@@ -1585,7 +1736,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0505,
+        "cote": 0.0433,
         "gains": 0.8793,
         "couple_je": 0.31,
         "hippodrome": 0.36,
@@ -1593,9 +1744,9 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 17.4,
+      "score": 17.01,
       "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 13
     },
     {
       "numero": 16,
@@ -1609,7 +1760,7 @@
       "vh": null,
       "gains_eur": 107070,
       "entraineur": "Y. Henry",
-      "cote_pmu": 39.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "Da4aDaDa4aDa",
       "nb_courses_recentes": 6,
@@ -1639,7 +1790,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 58.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE L. HENRY",
@@ -1681,7 +1832,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0233,
+        "cote": 0.0364,
         "gains": 1.0,
         "couple_je": 0.275,
         "hippodrome": 0.67,
@@ -1689,9 +1840,9 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 16.28,
+      "score": 17.0,
       "enrichi": true,
-      "rang_predit": 12
+      "rang_predit": 14
     },
     {
       "numero": 9,
@@ -1735,7 +1886,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 18.0,
+        "cote_live_fiche": 15.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. GRASSET",
@@ -1787,193 +1938,6 @@
       },
       "score": 13.19,
       "enrichi": true,
-      "rang_predit": 13
-    },
-    {
-      "numero": 2,
-      "nom": "Koala du Dropt",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 2625.0,
-      "jockey": "C. Feyte",
-      "musique": "7a3a5aDa3a(25)",
-      "vh": null,
-      "gains_eur": 46770,
-      "entraineur": "C. Feyte",
-      "cote_pmu": 87.0,
-      "non_partant": false,
-      "musique_raw": "7a3a5aDa3a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 7,
-      "position_moyenne": 4.5,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Koala du Dropt",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Feyte",
-          "proprietaire": "C. Feyte",
-          "eleveur": "C. Feyte",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Agen",
-          "nb_partants": 16,
-          "allocation_eur": 32000,
-          "distance_m": 2625,
-          "vh": null
-        },
-        "cote_live_fiche": 130.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. FEYTE",
-            "victoires": 0,
-            "places": 4,
-            "courses": 24,
-            "pourcentage": 17.0
-          },
-          "avec_entraineur": {
-            "nom": "C. FEYTE",
-            "victoires": 1,
-            "places": 10,
-            "courses": 45,
-            "pourcentage": 24.0
-          },
-          "sur_hippodrome": {
-            "nom": "AGEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 4,
-            "pourcentage": 0.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 46770,
-          "musique": "7a 3a 5a Da 3a (25) 6a 6a",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0105,
-        "gains": 0.4368,
-        "couple_je": 0.205,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 12.75,
-      "enrichi": true,
-      "rang_predit": 14
-    },
-    {
-      "numero": 8,
-      "nom": "Kifill Choisi",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 2625.0,
-      "jockey": "N. Vimond",
-      "musique": "4a12aDa5aDa4a",
-      "vh": null,
-      "gains_eur": 52570,
-      "entraineur": "N. Vimond",
-      "cote_pmu": 29.0,
-      "non_partant": false,
-      "musique_raw": "4a12aDa5aDa4a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 4,
-      "position_moyenne": 3.75,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Kifill Choisi",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "N. Vimond",
-          "proprietaire": "N. Vimond",
-          "eleveur": "Ecurie Vimond",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2020",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Agen",
-          "nb_partants": 16,
-          "allocation_eur": 32000,
-          "distance_m": 2625,
-          "vh": null
-        },
-        "cote_live_fiche": 43.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "N. VIMOND",
-            "victoires": 2,
-            "places": 4,
-            "courses": 27,
-            "pourcentage": 22.0
-          },
-          "avec_entraineur": {
-            "nom": "N. VIMOND",
-            "victoires": 3,
-            "places": 6,
-            "courses": 32,
-            "pourcentage": 28.0
-          },
-          "sur_hippodrome": {
-            "nom": "AGEN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 0.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 52570,
-          "musique": "4a 12a Da 5a Da 4a 4a (25)",
-          "carriere": {
-            "courses": 32,
-            "victoires": 3,
-            "places": 6,
-            "pourcentage": 28.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0314,
-        "gains": 0.491,
-        "couple_je": 0.25,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.1667,
-        "pref_distance": 0.1667,
-        "recuperation": 0.5
-      },
-      "score": 10.86,
-      "enrichi": true,
       "rang_predit": 15
     },
     {
@@ -1988,7 +1952,7 @@
       "vh": null,
       "gains_eur": 48170,
       "entraineur": "C. Gazengel",
-      "cote_pmu": 58.0,
+      "cote_pmu": 29.0,
       "non_partant": false,
       "musique_raw": "5a(25)4a9a4a8a",
       "nb_courses_recentes": 5,
@@ -2018,7 +1982,7 @@
           "distance_m": 2625,
           "vh": null
         },
-        "cote_live_fiche": 74.0,
+        "cote_live_fiche": 29.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. GAZENGEL",
@@ -2060,7 +2024,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0157,
+        "cote": 0.0314,
         "gains": 0.4499,
         "couple_je": 0.0,
         "hippodrome": 0.14,
@@ -2068,7 +2032,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 5.61,
+      "score": 6.47,
       "enrichi": true,
       "rang_predit": 16
     }
