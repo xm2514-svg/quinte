@@ -1,19 +1,19 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "course": {
     "reunion": "R1",
-    "course_num": "C7",
-    "hippodrome": "ParisLongchamp",
+    "course_num": "C4",
+    "hippodrome": "Paris-Vincennes",
     "nom": null,
     "heure": "20h15",
     "type": null,
     "categorie": null,
-    "nb_partants": 14,
-    "allocation_eur": 52800,
-    "distance_m": 2200,
-    "corde": "droite",
+    "nb_partants": 18,
+    "allocation_eur": 59000,
+    "distance_m": 2700,
+    "corde": "gauche",
     "terrain": "-",
-    "meteo": "31°C Ciel clair, vent 7km/h - SE"
+    "meteo": "22°C Nuageux, vent 8km/h - S"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -27,75 +27,80 @@
   },
   "top5": [
     {
-      "numero": 3,
-      "nom": "Too Darn Quick",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 57.0,
-      "jockey": "PC. Boudot",
-      "musique": "2p4p6p5p(25)3p",
-      "vh": 36.0,
-      "gains_eur": 20208,
-      "entraineur": "A. Fabre",
-      "cote_pmu": 4.3,
+      "numero": 6,
+      "nom": "Ienisse de Barbray",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "E. Raffin",
+      "musique": "1a15a2a10a2a10a",
+      "vh": null,
+      "gains_eur": 200295,
+      "entraineur": "CA. Mallet",
+      "cote_pmu": 2.7,
       "non_partant": false,
-      "musique_raw": "2p4p6p5p(25)3p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.0,
+      "musique_raw": "1a15a2a10a2a10a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 1.67,
       "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Too Darn Quick",
+        "numero": 6,
+        "nom": "Ienisse de Barbray",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "PC. Boudot",
-          "proprietaire": "A. Fabre",
-          "eleveur": "Bn E. De Rothschild",
+          "entraineur": "E. Raffin",
+          "proprietaire": "CA. Mallet",
+          "eleveur": "Ecurie Christophe Mallet",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Too Darn Hot"
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 36.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 4.3,
+        "cote_live_fiche": 2.7,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "PC. BOUDOT",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "E. RAFFIN",
+            "victoires": 5,
+            "places": 5,
+            "courses": 14,
+            "pourcentage": 71.0
           },
           "avec_entraineur": {
-            "nom": "A. FABRE",
-            "victoires": 0,
-            "places": 2,
-            "courses": 6,
-            "pourcentage": 33.0
+            "nom": "CA. MALLET",
+            "victoires": 9,
+            "places": 18,
+            "courses": 62,
+            "pourcentage": 44.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 2,
+            "courses": 3,
             "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 20208,
-          "musique": "2p 4p 6p 5p (25) 3p 8p",
-          "carriere": null
+          "gains_eur": 200295,
+          "musique": "1a 15a 2a 10a 2a 10a (25) 2a",
+          "carriere": {
+            "courses": 62,
+            "victoires": 9,
+            "places": 18,
+            "pourcentage": 44.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -105,88 +110,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2104,
-        "gains": 0.7768,
-        "couple_je": 0.33,
+        "cote": 0.3345,
+        "gains": 0.9394,
+        "couple_je": 0.575,
         "hippodrome": 1.0,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 36.26,
+      "score": 53.45,
       "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 2,
-      "nom": "Cosy Bear",
+      "numero": 11,
+      "nom": "Henrique",
       "artifice": null,
       "sexe": "H",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Guyon",
-      "musique": "8p3p(25)2p2p2p",
-      "vh": 37.5,
-      "gains_eur": 25389,
-      "entraineur": "Brandt (s)",
-      "cote_pmu": 6.4,
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "M. Mottier",
+      "musique": "2a1a3a2aDaDa",
+      "vh": null,
+      "gains_eur": 207625,
+      "entraineur": "L. Durantet",
+      "cote_pmu": 4.7,
       "non_partant": false,
-      "musique_raw": "8p3p(25)2p2p2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
+      "musique_raw": "2a1a3a2aDaDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
       "nb_places_recentes": 4,
-      "derniere_position": 8,
-      "position_moyenne": 3.4,
+      "derniere_position": 2,
+      "position_moyenne": 2.0,
       "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Cosy Bear",
+        "numero": 11,
+        "nom": "Henrique",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "Brandt (s)",
-          "eleveur": "F. Blichfeldt",
+          "entraineur": "M. Mottier",
+          "proprietaire": "L. Durantet",
+          "eleveur": "A. Gaudin",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Kodi Bear"
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 37.5
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 6.4,
+        "cote_live_fiche": 4.7,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 0,
+            "nom": "M. MOTTIER",
+            "victoires": 1,
             "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
+            "courses": 4,
+            "pourcentage": 75.0
           },
           "avec_entraineur": {
-            "nom": "BRANDT (S)",
-            "victoires": 0,
-            "places": 6,
-            "courses": 10,
-            "pourcentage": 60.0
+            "nom": "L. DURANTET",
+            "victoires": 11,
+            "places": 16,
+            "courses": 60,
+            "pourcentage": 45.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "nom": "PARIS-VINCENNES",
+            "victoires": 3,
+            "places": 5,
+            "courses": 17,
+            "pourcentage": 47.0
           }
         },
         "performances_globales": {
-          "gains_eur": 25389,
-          "musique": "8p 3p (25) 2p 2p 2p 3p 7p",
-          "carriere": null
+          "gains_eur": 207625,
+          "musique": "2a 1a 3a 2a Da Da (25) 3a",
+          "carriere": {
+            "courses": 69,
+            "victoires": 12,
+            "places": 20,
+            "pourcentage": 46.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -196,307 +206,221 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1414,
-        "gains": 0.976,
-        "couple_je": 0.8,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
+        "cote": 0.1922,
+        "gains": 0.9738,
+        "couple_je": 0.6,
+        "hippodrome": 0.47,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 35.1,
+      "score": 38.06,
       "enrichi": true,
       "rang_predit": 2
     },
     {
-      "numero": 1,
-      "nom": "Rêve Bleu",
+      "numero": 12,
+      "nom": "Idem du Pont",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "A. Abrivard",
+      "musique": "3aDa1a2a2a2a",
+      "vh": null,
+      "gains_eur": 207952,
+      "entraineur": "MA. Bovay",
+      "cote_pmu": 15.0,
+      "non_partant": false,
+      "musique_raw": "3aDa1a2a2a2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 2.0,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Idem du Pont",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "MA. Bovay",
+          "eleveur": "JC. Gardaz",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 15.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "MA. BOVAY",
+            "victoires": 1,
+            "places": 4,
+            "courses": 8,
+            "pourcentage": 63.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 2,
+            "places": 0,
+            "courses": 17,
+            "pourcentage": 12.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 207952,
+          "musique": "3a Da 1a 2a 2a 2a Da 5a",
+          "carriere": {
+            "courses": 71,
+            "victoires": 12,
+            "places": 13,
+            "pourcentage": 35.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0602,
+        "gains": 0.9753,
+        "couple_je": 0.65,
+        "hippodrome": 0.12,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
+        "recuperation": 0.5
+      },
+      "score": 30.57,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 4,
+      "nom": "Isolée du Bouillon",
       "artifice": null,
       "sexe": "F",
-      "age": 3,
-      "poids": 60.0,
-      "jockey": "M. Barzalona",
-      "musique": "3p5p7p(25)1p3p",
-      "vh": 39.5,
-      "gains_eur": 25952,
-      "entraineur": "G. Bietolini",
-      "cote_pmu": 7.2,
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "M. Legros",
+      "musique": "2a3a10a9a8a(25)",
+      "vh": null,
+      "gains_eur": 183905,
+      "entraineur": "B. Marie",
+      "cote_pmu": 13.0,
       "non_partant": false,
-      "musique_raw": "3p5p7p(25)1p3p",
+      "musique_raw": "2a3a10a9a8a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.8,
+      "derniere_position": 2,
+      "position_moyenne": 4.4,
       "sous_scores": {
-        "cote": 0.1257,
-        "gains": 0.9977,
+        "cote": 0.0695,
+        "gains": 0.8625,
         "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.6,
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 32.5,
+      "score": 29.01,
       "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 14,
-      "nom": "Valloire",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 51.0,
-      "jockey": "A. Crastus",
-      "musique": "3p1p13p7p(25)7p",
-      "vh": 30.5,
-      "gains_eur": 13519,
-      "entraineur": "HA. Pantall",
-      "cote_pmu": 25.0,
-      "non_partant": false,
-      "musique_raw": "3p1p13p7p(25)7p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 4.2,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Valloire",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Crastus",
-          "proprietaire": "HA. Pantall",
-          "eleveur": "C. Capocasale",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Charm Spirit"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 30.5
-        },
-        "cote_live_fiche": 25.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. CRASTUS",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "HA. PANTALL",
-            "victoires": 1,
-            "places": 1,
-            "courses": 6,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 1,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 13519,
-          "musique": "3p 1p 13p 7p (25) 7p 6p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0362,
-        "gains": 0.5197,
-        "couple_je": 0.33,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 29.11,
-      "enrichi": true,
       "rang_predit": 4
     },
     {
-      "numero": 8,
-      "nom": "Marakana",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 54.5,
-      "jockey": "A. Madamet",
-      "musique": "2p3p4p",
-      "vh": 34.0,
-      "gains_eur": 6336,
-      "entraineur": "Mlle V. Head",
-      "cote_pmu": 19.0,
+      "numero": 3,
+      "nom": "Gitano Jack",
+      "artifice": null,
+      "sexe": "H",
+      "age": 10,
+      "poids": 2700.0,
+      "jockey": "PP. Ploquin",
+      "musique": "Da4a3a13a14a(25)",
+      "vh": null,
+      "gains_eur": 180500,
+      "entraineur": "GM. Bernier",
+      "cote_pmu": 17.0,
       "non_partant": false,
-      "musique_raw": "2p3p4p",
-      "nb_courses_recentes": 3,
+      "musique_raw": "Da4a3a13a14a(25)",
+      "nb_courses_recentes": 5,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Marakana",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Madamet",
-          "proprietaire": "Mlle V. Head",
-          "eleveur": "Bn P. Von Ullmann",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Zarak"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 34.0
-        },
-        "cote_live_fiche": 19.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. MADAMET",
-            "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "MLLE V. HEAD",
-            "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 6336,
-          "musique": "2p 3p 4p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0476,
-        "gains": 0.2436,
-        "couple_je": 0.67,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 29.06,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 9,
-      "nom": "Astredargent",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 53.5,
-      "jockey": "F. Veron",
-      "musique": "4p1p1p5p6p4p",
-      "vh": 33.0,
-      "gains_eur": 26013,
-      "entraineur": "E. Monfort",
-      "cote_pmu": 23.0,
-      "non_partant": false,
-      "musique_raw": "4p1p1p5p6p4p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
       "nb_places_recentes": 2,
       "derniere_position": 4,
       "position_moyenne": 3.5,
       "fiche_enrichie": {
-        "numero": 9,
-        "nom": "Astredargent",
+        "numero": 3,
+        "nom": "Gitano Jack",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "F. Veron",
-          "proprietaire": "E. Monfort",
-          "eleveur": "Ecurie Jupiter",
+          "entraineur": "PP. Ploquin",
+          "proprietaire": "GM. Bernier",
+          "eleveur": "J. Grisanti",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Kendargent"
+          "discipline": "Record",
+          "pere": "2016",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 33.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 23.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "F. VERON",
-            "victoires": 2,
-            "places": 0,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "E. MONFORT",
-            "victoires": 2,
-            "places": 0,
-            "courses": 6,
+            "nom": "PP. PLOQUIN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 3,
             "pourcentage": 33.0
           },
+          "avec_entraineur": {
+            "nom": "GM. BERNIER",
+            "victoires": 0,
+            "places": 5,
+            "courses": 23,
+            "pourcentage": 22.0
+          },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
+            "nom": "PARIS-VINCENNES",
+            "victoires": 3,
+            "places": 6,
+            "courses": 21,
+            "pourcentage": 43.0
           }
         },
         "performances_globales": {
-          "gains_eur": 26013,
-          "musique": "4p 1p 1p 5p 6p 4p 5p (25)",
+          "gains_eur": 180500,
+          "musique": "Da 4a 3a 13a 14a (25) Da Da",
           "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 0,
-            "pourcentage": 20.0
+            "courses": 66,
+            "victoires": 7,
+            "places": 17,
+            "pourcentage": 36.0
           }
         },
         "dernieres_courses": [],
@@ -507,90 +431,191 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0393,
-        "gains": 1.0,
-        "couple_je": 0.415,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
+        "cote": 0.0531,
+        "gains": 0.8466,
+        "couple_je": 0.275,
+        "hippodrome": 0.43,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 27.48,
+      "score": 21.46,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 8,
+      "nom": "Helma de Busset",
+      "artifice": null,
+      "sexe": "F",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "M. Abrivard",
+      "musique": "6a7aDa2a(25)3a",
+      "vh": null,
+      "gains_eur": 202520,
+      "entraineur": "S. Peltier",
+      "cote_pmu": 74.0,
+      "non_partant": false,
+      "musique_raw": "6a7aDa2a(25)3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 6,
+      "position_moyenne": 4.5,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Helma de Busset",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Abrivard",
+          "proprietaire": "S. Peltier",
+          "eleveur": "Csse AL. De Bourbon Busset",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 74.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. ABRIVARD",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "S. PELTIER",
+            "victoires": 8,
+            "places": 22,
+            "courses": 66,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 2,
+            "courses": 8,
+            "pourcentage": 38.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 202520,
+          "musique": "6a 7a Da 2a (25) 3a 2a Da",
+          "carriere": {
+            "courses": 66,
+            "victoires": 8,
+            "places": 22,
+            "pourcentage": 45.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0122,
+        "gains": 0.9498,
+        "couple_je": 0.45,
+        "hippodrome": 0.38,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 21.12,
       "enrichi": true,
       "rang_predit": 6
     }
   ],
   "tous_chevaux": [
     {
-      "numero": 3,
-      "nom": "Too Darn Quick",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 57.0,
-      "jockey": "PC. Boudot",
-      "musique": "2p4p6p5p(25)3p",
-      "vh": 36.0,
-      "gains_eur": 20208,
-      "entraineur": "A. Fabre",
-      "cote_pmu": 4.3,
+      "numero": 6,
+      "nom": "Ienisse de Barbray",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "E. Raffin",
+      "musique": "1a15a2a10a2a10a",
+      "vh": null,
+      "gains_eur": 200295,
+      "entraineur": "CA. Mallet",
+      "cote_pmu": 2.7,
       "non_partant": false,
-      "musique_raw": "2p4p6p5p(25)3p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.0,
+      "musique_raw": "1a15a2a10a2a10a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 1.67,
       "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Too Darn Quick",
+        "numero": 6,
+        "nom": "Ienisse de Barbray",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "PC. Boudot",
-          "proprietaire": "A. Fabre",
-          "eleveur": "Bn E. De Rothschild",
+          "entraineur": "E. Raffin",
+          "proprietaire": "CA. Mallet",
+          "eleveur": "Ecurie Christophe Mallet",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Too Darn Hot"
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 36.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 4.3,
+        "cote_live_fiche": 2.7,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "PC. BOUDOT",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "E. RAFFIN",
+            "victoires": 5,
+            "places": 5,
+            "courses": 14,
+            "pourcentage": 71.0
           },
           "avec_entraineur": {
-            "nom": "A. FABRE",
-            "victoires": 0,
-            "places": 2,
-            "courses": 6,
-            "pourcentage": 33.0
+            "nom": "CA. MALLET",
+            "victoires": 9,
+            "places": 18,
+            "courses": 62,
+            "pourcentage": 44.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 2,
+            "courses": 3,
             "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 20208,
-          "musique": "2p 4p 6p 5p (25) 3p 8p",
-          "carriere": null
+          "gains_eur": 200295,
+          "musique": "1a 15a 2a 10a 2a 10a (25) 2a",
+          "carriere": {
+            "courses": 62,
+            "victoires": 9,
+            "places": 18,
+            "pourcentage": 44.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -600,88 +625,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2104,
-        "gains": 0.7768,
-        "couple_je": 0.33,
+        "cote": 0.3345,
+        "gains": 0.9394,
+        "couple_je": 0.575,
         "hippodrome": 1.0,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 36.26,
+      "score": 53.45,
       "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 2,
-      "nom": "Cosy Bear",
+      "numero": 11,
+      "nom": "Henrique",
       "artifice": null,
       "sexe": "H",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Guyon",
-      "musique": "8p3p(25)2p2p2p",
-      "vh": 37.5,
-      "gains_eur": 25389,
-      "entraineur": "Brandt (s)",
-      "cote_pmu": 6.4,
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "M. Mottier",
+      "musique": "2a1a3a2aDaDa",
+      "vh": null,
+      "gains_eur": 207625,
+      "entraineur": "L. Durantet",
+      "cote_pmu": 4.7,
       "non_partant": false,
-      "musique_raw": "8p3p(25)2p2p2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
+      "musique_raw": "2a1a3a2aDaDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
       "nb_places_recentes": 4,
-      "derniere_position": 8,
-      "position_moyenne": 3.4,
+      "derniere_position": 2,
+      "position_moyenne": 2.0,
       "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Cosy Bear",
+        "numero": 11,
+        "nom": "Henrique",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "Brandt (s)",
-          "eleveur": "F. Blichfeldt",
+          "entraineur": "M. Mottier",
+          "proprietaire": "L. Durantet",
+          "eleveur": "A. Gaudin",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Kodi Bear"
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 37.5
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 6.4,
+        "cote_live_fiche": 4.7,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 0,
+            "nom": "M. MOTTIER",
+            "victoires": 1,
             "places": 2,
-            "courses": 2,
-            "pourcentage": 100.0
+            "courses": 4,
+            "pourcentage": 75.0
           },
           "avec_entraineur": {
-            "nom": "BRANDT (S)",
-            "victoires": 0,
-            "places": 6,
-            "courses": 10,
-            "pourcentage": 60.0
+            "nom": "L. DURANTET",
+            "victoires": 11,
+            "places": 16,
+            "courses": 60,
+            "pourcentage": 45.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "nom": "PARIS-VINCENNES",
+            "victoires": 3,
+            "places": 5,
+            "courses": 17,
+            "pourcentage": 47.0
           }
         },
         "performances_globales": {
-          "gains_eur": 25389,
-          "musique": "8p 3p (25) 2p 2p 2p 3p 7p",
-          "carriere": null
+          "gains_eur": 207625,
+          "musique": "2a 1a 3a 2a Da Da (25) 3a",
+          "carriere": {
+            "courses": 69,
+            "victoires": 12,
+            "places": 20,
+            "pourcentage": 46.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -691,212 +721,222 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1414,
-        "gains": 0.976,
-        "couple_je": 0.8,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
+        "cote": 0.1922,
+        "gains": 0.9738,
+        "couple_je": 0.6,
+        "hippodrome": 0.47,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 35.1,
+      "score": 38.06,
       "enrichi": true,
       "rang_predit": 2
     },
     {
-      "numero": 1,
-      "nom": "Rêve Bleu",
+      "numero": 12,
+      "nom": "Idem du Pont",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "A. Abrivard",
+      "musique": "3aDa1a2a2a2a",
+      "vh": null,
+      "gains_eur": 207952,
+      "entraineur": "MA. Bovay",
+      "cote_pmu": 15.0,
+      "non_partant": false,
+      "musique_raw": "3aDa1a2a2a2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 2.0,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Idem du Pont",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "MA. Bovay",
+          "eleveur": "JC. Gardaz",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 15.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "MA. BOVAY",
+            "victoires": 1,
+            "places": 4,
+            "courses": 8,
+            "pourcentage": 63.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 2,
+            "places": 0,
+            "courses": 17,
+            "pourcentage": 12.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 207952,
+          "musique": "3a Da 1a 2a 2a 2a Da 5a",
+          "carriere": {
+            "courses": 71,
+            "victoires": 12,
+            "places": 13,
+            "pourcentage": 35.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0602,
+        "gains": 0.9753,
+        "couple_je": 0.65,
+        "hippodrome": 0.12,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
+        "recuperation": 0.5
+      },
+      "score": 30.57,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 4,
+      "nom": "Isolée du Bouillon",
       "artifice": null,
       "sexe": "F",
-      "age": 3,
-      "poids": 60.0,
-      "jockey": "M. Barzalona",
-      "musique": "3p5p7p(25)1p3p",
-      "vh": 39.5,
-      "gains_eur": 25952,
-      "entraineur": "G. Bietolini",
-      "cote_pmu": 7.2,
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "M. Legros",
+      "musique": "2a3a10a9a8a(25)",
+      "vh": null,
+      "gains_eur": 183905,
+      "entraineur": "B. Marie",
+      "cote_pmu": 13.0,
       "non_partant": false,
-      "musique_raw": "3p5p7p(25)1p3p",
+      "musique_raw": "2a3a10a9a8a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.8,
+      "derniere_position": 2,
+      "position_moyenne": 4.4,
       "sous_scores": {
-        "cote": 0.1257,
-        "gains": 0.9977,
+        "cote": 0.0695,
+        "gains": 0.8625,
         "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.6,
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 32.5,
+      "score": 29.01,
       "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 14,
-      "nom": "Valloire",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 51.0,
-      "jockey": "A. Crastus",
-      "musique": "3p1p13p7p(25)7p",
-      "vh": 30.5,
-      "gains_eur": 13519,
-      "entraineur": "HA. Pantall",
-      "cote_pmu": 25.0,
-      "non_partant": false,
-      "musique_raw": "3p1p13p7p(25)7p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 4.2,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Valloire",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Crastus",
-          "proprietaire": "HA. Pantall",
-          "eleveur": "C. Capocasale",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Charm Spirit"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 30.5
-        },
-        "cote_live_fiche": 25.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. CRASTUS",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "HA. PANTALL",
-            "victoires": 1,
-            "places": 1,
-            "courses": 6,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 1,
-            "places": 1,
-            "courses": 2,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 13519,
-          "musique": "3p 1p 13p 7p (25) 7p 6p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0362,
-        "gains": 0.5197,
-        "couple_je": 0.33,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 29.11,
-      "enrichi": true,
       "rang_predit": 4
     },
     {
-      "numero": 8,
-      "nom": "Marakana",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 54.5,
-      "jockey": "A. Madamet",
-      "musique": "2p3p4p",
-      "vh": 34.0,
-      "gains_eur": 6336,
-      "entraineur": "Mlle V. Head",
-      "cote_pmu": 19.0,
+      "numero": 3,
+      "nom": "Gitano Jack",
+      "artifice": null,
+      "sexe": "H",
+      "age": 10,
+      "poids": 2700.0,
+      "jockey": "PP. Ploquin",
+      "musique": "Da4a3a13a14a(25)",
+      "vh": null,
+      "gains_eur": 180500,
+      "entraineur": "GM. Bernier",
+      "cote_pmu": 17.0,
       "non_partant": false,
-      "musique_raw": "2p3p4p",
-      "nb_courses_recentes": 3,
+      "musique_raw": "Da4a3a13a14a(25)",
+      "nb_courses_recentes": 5,
       "nb_victoires_recentes": 0,
       "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 3.0,
+      "derniere_position": 4,
+      "position_moyenne": 3.5,
       "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Marakana",
+        "numero": 3,
+        "nom": "Gitano Jack",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Madamet",
-          "proprietaire": "Mlle V. Head",
-          "eleveur": "Bn P. Von Ullmann",
+          "entraineur": "PP. Ploquin",
+          "proprietaire": "GM. Bernier",
+          "eleveur": "J. Grisanti",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Zarak"
+          "discipline": "Record",
+          "pere": "2016",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 34.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 19.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. MADAMET",
+            "nom": "PP. PLOQUIN",
             "victoires": 0,
-            "places": 2,
+            "places": 1,
             "courses": 3,
-            "pourcentage": 67.0
+            "pourcentage": 33.0
           },
           "avec_entraineur": {
-            "nom": "MLLE V. HEAD",
+            "nom": "GM. BERNIER",
             "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
+            "places": 5,
+            "courses": 23,
+            "pourcentage": 22.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "PARIS-VINCENNES",
+            "victoires": 3,
+            "places": 6,
+            "courses": 21,
+            "pourcentage": 43.0
           }
         },
         "performances_globales": {
-          "gains_eur": 6336,
-          "musique": "2p 3p 4p",
-          "carriere": null
+          "gains_eur": 180500,
+          "musique": "Da 4a 3a 13a 14a (25) Da Da",
+          "carriere": {
+            "courses": 66,
+            "victoires": 7,
+            "places": 17,
+            "pourcentage": 36.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -906,92 +946,92 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0476,
-        "gains": 0.2436,
-        "couple_je": 0.67,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
+        "cote": 0.0531,
+        "gains": 0.8466,
+        "couple_je": 0.275,
+        "hippodrome": 0.43,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 29.06,
+      "score": 21.46,
       "enrichi": true,
       "rang_predit": 5
     },
     {
-      "numero": 9,
-      "nom": "Astredargent",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 53.5,
-      "jockey": "F. Veron",
-      "musique": "4p1p1p5p6p4p",
-      "vh": 33.0,
-      "gains_eur": 26013,
-      "entraineur": "E. Monfort",
-      "cote_pmu": 23.0,
+      "numero": 8,
+      "nom": "Helma de Busset",
+      "artifice": null,
+      "sexe": "F",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "M. Abrivard",
+      "musique": "6a7aDa2a(25)3a",
+      "vh": null,
+      "gains_eur": 202520,
+      "entraineur": "S. Peltier",
+      "cote_pmu": 74.0,
       "non_partant": false,
-      "musique_raw": "4p1p1p5p6p4p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
+      "musique_raw": "6a7aDa2a(25)3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 3.5,
+      "derniere_position": 6,
+      "position_moyenne": 4.5,
       "fiche_enrichie": {
-        "numero": 9,
-        "nom": "Astredargent",
+        "numero": 8,
+        "nom": "Helma de Busset",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "F. Veron",
-          "proprietaire": "E. Monfort",
-          "eleveur": "Ecurie Jupiter",
+          "entraineur": "M. Abrivard",
+          "proprietaire": "S. Peltier",
+          "eleveur": "Csse AL. De Bourbon Busset",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Kendargent"
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 33.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 23.0,
+        "cote_live_fiche": 74.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "F. VERON",
-            "victoires": 2,
+            "nom": "M. ABRIVARD",
+            "victoires": 0,
             "places": 0,
-            "courses": 4,
-            "pourcentage": 50.0
+            "courses": 0,
+            "pourcentage": null
           },
           "avec_entraineur": {
-            "nom": "E. MONFORT",
-            "victoires": 2,
-            "places": 0,
-            "courses": 6,
-            "pourcentage": 33.0
+            "nom": "S. PELTIER",
+            "victoires": 8,
+            "places": 22,
+            "courses": 66,
+            "pourcentage": 45.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "PARIS-VINCENNES",
             "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
+            "places": 2,
+            "courses": 8,
+            "pourcentage": 38.0
           }
         },
         "performances_globales": {
-          "gains_eur": 26013,
-          "musique": "4p 1p 1p 5p 6p 4p 5p (25)",
+          "gains_eur": 202520,
+          "musique": "6a 7a Da 2a (25) 3a 2a Da",
           "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 0,
-            "pourcentage": 20.0
+            "courses": 66,
+            "victoires": 8,
+            "places": 22,
+            "pourcentage": 45.0
           }
         },
         "dernieres_courses": [],
@@ -1002,88 +1042,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0393,
-        "gains": 1.0,
-        "couple_je": 0.415,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
+        "cote": 0.0122,
+        "gains": 0.9498,
+        "couple_je": 0.45,
+        "hippodrome": 0.38,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 27.48,
+      "score": 21.12,
       "enrichi": true,
       "rang_predit": 6
     },
     {
-      "numero": 6,
-      "nom": "Notioni Fal",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 54.5,
-      "jockey": "C. Lecoeuvre",
-      "musique": "5p1p5p3p(25)3p",
-      "vh": 34.0,
-      "gains_eur": 25397,
-      "entraineur": "P. Groualle",
-      "cote_pmu": 11.0,
+      "numero": 1,
+      "nom": "Heaven d'Ecajeul",
+      "artifice": null,
+      "sexe": "H",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "PY. Verva",
+      "musique": "4a4a11a(25)4a3a",
+      "vh": null,
+      "gains_eur": 138760,
+      "entraineur": "JL. Dersoir",
+      "cote_pmu": 173.0,
       "non_partant": false,
-      "musique_raw": "5p1p5p3p(25)3p",
+      "musique_raw": "4a4a11a(25)4a3a",
       "nb_courses_recentes": 5,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 5,
-      "position_moyenne": 3.4,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 3.2,
       "fiche_enrichie": {
-        "numero": 6,
-        "nom": "Notioni Fal",
+        "numero": 1,
+        "nom": "Heaven d'Ecajeul",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "C. Lecoeuvre",
-          "proprietaire": "P. Groualle",
-          "eleveur": "Fal Stud",
+          "entraineur": "PY. Verva",
+          "proprietaire": "JL. Dersoir",
+          "eleveur": "Ecurie Luck",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Best Solution"
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 34.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 11.0,
+        "cote_live_fiche": 173.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "C. LECOEUVRE",
-            "victoires": 1,
-            "places": 1,
-            "courses": 4,
+            "nom": "PY. VERVA",
+            "victoires": 3,
+            "places": 9,
+            "courses": 24,
             "pourcentage": 50.0
           },
           "avec_entraineur": {
-            "nom": "P. GROUALLE",
+            "nom": "JL. DERSOIR",
+            "victoires": 11,
+            "places": 13,
+            "courses": 69,
+            "pourcentage": 35.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
             "victoires": 1,
             "places": 2,
             "courses": 7,
             "pourcentage": 43.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
           }
         },
         "performances_globales": {
-          "gains_eur": 25397,
-          "musique": "5p 1p 5p 3p (25) 3p 6p 4p",
-          "carriere": null
+          "gains_eur": 138760,
+          "musique": "4a 4a 11a (25) 4a 3a 5a 2a",
+          "carriere": {
+            "courses": 80,
+            "victoires": 11,
+            "places": 15,
+            "pourcentage": 33.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1093,270 +1138,126 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0823,
-        "gains": 0.9763,
-        "couple_je": 0.465,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "cote": 0.0052,
+        "gains": 0.6508,
+        "couple_je": 0.425,
+        "hippodrome": 0.43,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 24.63,
+      "score": 20.04,
       "enrichi": true,
       "rang_predit": 7
     },
     {
-      "numero": 7,
-      "nom": "Mister Black",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 54.5,
-      "jockey": "A. Pouchin",
-      "musique": "4p2p2p10p4p9p",
-      "vh": 34.0,
-      "gains_eur": 21446,
-      "entraineur": "Lerner (s)",
-      "cote_pmu": 7.4,
+      "numero": 13,
+      "nom": "Irish Nice Elgé",
+      "artifice": null,
+      "sexe": "M",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "Y. Lebourgeois",
+      "musique": "5Da3aDaDa9a9a",
+      "vh": null,
+      "gains_eur": 208900,
+      "entraineur": "L. Stael",
+      "cote_pmu": 52.0,
       "non_partant": false,
-      "musique_raw": "4p2p2p10p4p9p",
+      "musique_raw": "5Da3aDaDa9a9a",
       "nb_courses_recentes": 6,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.5,
-      "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Mister Black",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Pouchin",
-          "proprietaire": "Lerner (s)",
-          "eleveur": "O. Ghrghar",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Zoustar"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 34.0
-        },
-        "cote_live_fiche": 7.4,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. POUCHIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "LERNER (S)",
-            "victoires": 0,
-            "places": 2,
-            "courses": 6,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 21446,
-          "musique": "4p 2p 2p 10p 4p 9p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
+      "nb_places_recentes": 1,
+      "derniere_position": 5,
+      "position_moyenne": 6.5,
       "sous_scores": {
-        "cote": 0.1223,
-        "gains": 0.8244,
-        "couple_je": 0.33,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
+        "cote": 0.0174,
+        "gains": 0.9798,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 23.16,
-      "enrichi": true,
+      "score": 19.56,
+      "enrichi": false,
       "rang_predit": 8
     },
     {
-      "numero": 11,
-      "nom": "Stan Le Grand",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 52.5,
-      "jockey": "E. Hardouin",
-      "musique": "2p8p10p(25)10p",
-      "vh": 32.0,
-      "gains_eur": 3838,
-      "entraineur": "Prod'homme (s)",
-      "cote_pmu": 31.0,
-      "non_partant": false,
-      "musique_raw": "2p8p10p(25)10p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 2.5,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Stan Le Grand",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "E. Hardouin",
-          "proprietaire": "Prod'homme (s)",
-          "eleveur": "B. Giraudon",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "The Grey Gatsby"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 32.0
-        },
-        "cote_live_fiche": 31.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "E. HARDOUIN",
-            "victoires": 0,
-            "places": 0,
-            "courses": 2,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "PROD'HOMME (S)",
-            "victoires": 0,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 3838,
-          "musique": "2p 8p 10p (25) 10p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0292,
-        "gains": 0.1475,
-        "couple_je": 0.165,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.75,
-        "pref_distance": 0.75,
-        "recuperation": 0.5
-      },
-      "score": 23.03,
-      "enrichi": true,
-      "rang_predit": 9
-    },
-    {
-      "numero": 10,
-      "nom": "Bourbon Moon",
-      "artifice": "oui",
+      "numero": 9,
+      "nom": "In Race Lorraine",
+      "artifice": null,
       "sexe": "F",
-      "age": 3,
-      "poids": 53.5,
-      "jockey": "A. Hamelin",
-      "musique": "13p1p2p10p5p(25)",
-      "vh": 33.0,
-      "gains_eur": 15722,
-      "entraineur": "M. Delzangles",
-      "cote_pmu": 25.0,
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "GA. Pou Pou",
+      "musique": "1a1aDaDa7a8a",
+      "vh": null,
+      "gains_eur": 205130,
+      "entraineur": "GA. Pou Pou",
+      "cote_pmu": 14.0,
       "non_partant": false,
-      "musique_raw": "13p1p2p10p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 3,
-      "position_moyenne": 2.2,
+      "musique_raw": "1a1aDaDa7a8a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 1,
+      "position_moyenne": 4.25,
       "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Bourbon Moon",
+        "numero": 9,
+        "nom": "In Race Lorraine",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Hamelin",
-          "proprietaire": "M. Delzangles",
-          "eleveur": "M. Motschmann",
+          "entraineur": "GA. Pou Pou",
+          "proprietaire": "GA. Pou Pou",
+          "eleveur": "JJ. Guérin",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Sea The Moon"
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 33.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 25.0,
+        "cote_live_fiche": 14.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. HAMELIN",
-            "victoires": 1,
-            "places": 1,
-            "courses": 5,
-            "pourcentage": 40.0
+            "nom": "GA. POU POU",
+            "victoires": 7,
+            "places": 12,
+            "courses": 68,
+            "pourcentage": 28.0
           },
           "avec_entraineur": {
-            "nom": "M. DELZANGLES",
-            "victoires": 1,
-            "places": 1,
-            "courses": 6,
-            "pourcentage": 33.0
+            "nom": "GA. POU POU",
+            "victoires": 7,
+            "places": 14,
+            "courses": 79,
+            "pourcentage": 27.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "nom": "PARIS-VINCENNES",
+            "victoires": 2,
+            "places": 5,
+            "courses": 35,
+            "pourcentage": 20.0
           }
         },
         "performances_globales": {
-          "gains_eur": 15722,
-          "musique": "13p 1p 2p 10p 5p (25) 5p",
-          "carriere": null
+          "gains_eur": 205130,
+          "musique": "1a 1a Da Da 7a 8a 1a (25)",
+          "carriere": {
+            "courses": 79,
+            "victoires": 7,
+            "places": 14,
+            "pourcentage": 27.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1366,179 +1267,285 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0362,
-        "gains": 0.6044,
-        "couple_je": 0.365,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 22.98,
-      "enrichi": true,
-      "rang_predit": 10
-    },
-    {
-      "numero": 5,
-      "nom": "The Little Swan",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 56.0,
-      "jockey": "T. Trullier",
-      "musique": "4p2p6p",
-      "vh": 35.5,
-      "gains_eur": 6488,
-      "entraineur": "S. Wattel",
-      "cote_pmu": 23.0,
-      "non_partant": false,
-      "musique_raw": "4p2p6p",
-      "nb_courses_recentes": 3,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 4,
-      "position_moyenne": 4.0,
-      "fiche_enrichie": {
-        "numero": 5,
-        "nom": "The Little Swan",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "T. Trullier",
-          "proprietaire": "S. Wattel",
-          "eleveur": "PD. Savill",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Gleneagles"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 35.5
-        },
-        "cote_live_fiche": 23.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "T. TRULLIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "S. WATTEL",
-            "victoires": 0,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 6488,
-          "musique": "4p 2p 6p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0393,
-        "gains": 0.2494,
-        "couple_je": 0.165,
-        "hippodrome": 0.5,
+        "cote": 0.0645,
+        "gains": 0.9621,
+        "couple_je": 0.275,
+        "hippodrome": 0.2,
         "pref_terrain": 0.3333,
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 17.23,
+      "score": 19.07,
+      "enrichi": true,
+      "rang_predit": 9
+    },
+    {
+      "numero": 5,
+      "nom": "Hippocrate du Trio",
+      "artifice": null,
+      "sexe": "H",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "G. Gelormini",
+      "musique": "13a5a9a13a(25)8a",
+      "vh": null,
+      "gains_eur": 189430,
+      "entraineur": "B. Marie",
+      "cote_pmu": 104.0,
+      "non_partant": false,
+      "musique_raw": "13a5a9a13a(25)8a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 3,
+      "position_moyenne": 5.6,
+      "fiche_enrichie": {
+        "numero": 5,
+        "nom": "Hippocrate du Trio",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Gelormini",
+          "proprietaire": "B. Marie",
+          "eleveur": "T. Lejeune",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 104.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "G. GELORMINI",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "B. MARIE",
+            "victoires": 12,
+            "places": 12,
+            "courses": 55,
+            "pourcentage": 44.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 1,
+            "courses": 12,
+            "pourcentage": 17.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 189430,
+          "musique": "13a 5a 9a 13a (25) 8a 6a 10a",
+          "carriere": {
+            "courses": 60,
+            "victoires": 14,
+            "places": 12,
+            "pourcentage": 43.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0087,
+        "gains": 0.8884,
+        "couple_je": 0.44,
+        "hippodrome": 0.17,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 18.52,
+      "enrichi": true,
+      "rang_predit": 10
+    },
+    {
+      "numero": 7,
+      "nom": "Henzo de Carsi",
+      "artifice": null,
+      "sexe": "H",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "JF. Senet",
+      "musique": "9aDaDa3a2a9a",
+      "vh": null,
+      "gains_eur": 200310,
+      "entraineur": "JF. Senet",
+      "cote_pmu": 86.0,
+      "non_partant": false,
+      "musique_raw": "9aDaDa3a2a9a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 9,
+      "position_moyenne": 5.75,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Henzo de Carsi",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "JF. Senet",
+          "proprietaire": "JF. Senet",
+          "eleveur": "Ecurie J-François Senet",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 86.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "JF. SENET",
+            "victoires": 6,
+            "places": 15,
+            "courses": 47,
+            "pourcentage": 45.0
+          },
+          "avec_entraineur": {
+            "nom": "JF. SENET",
+            "victoires": 7,
+            "places": 23,
+            "courses": 87,
+            "pourcentage": 34.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 1,
+            "places": 3,
+            "courses": 14,
+            "pourcentage": 29.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 200310,
+          "musique": "9a Da Da 3a 2a 9a Dm (25)",
+          "carriere": {
+            "courses": 92,
+            "victoires": 7,
+            "places": 23,
+            "pourcentage": 33.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0105,
+        "gains": 0.9395,
+        "couple_je": 0.395,
+        "hippodrome": 0.29,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 18.37,
       "enrichi": true,
       "rang_predit": 11
     },
     {
-      "numero": 4,
-      "nom": "Studen Kladenets",
+      "numero": 14,
+      "nom": "Indocile",
       "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 56.0,
-      "jockey": "A. Lemaitre",
-      "musique": "6p7p(25)2p6p6p",
-      "vh": 35.5,
-      "gains_eur": 7674,
-      "entraineur": "Mme A. Karkosa",
-      "cote_pmu": 29.0,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "C. Terry",
+      "musique": "8a8aDa9a3a7a",
+      "vh": null,
+      "gains_eur": 210455,
+      "entraineur": "F. Terry",
+      "cote_pmu": 12.0,
       "non_partant": false,
-      "musique_raw": "6p7p(25)2p6p6p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "8a8aDa9a3a7a",
+      "nb_courses_recentes": 6,
       "nb_victoires_recentes": 0,
       "nb_places_recentes": 1,
-      "derniere_position": 6,
-      "position_moyenne": 5.4,
+      "derniere_position": 8,
+      "position_moyenne": 7.0,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Studen Kladenets",
+        "numero": 14,
+        "nom": "Indocile",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Lemaitre",
-          "proprietaire": "Mme A. Karkosa",
-          "eleveur": "F. Kahraman",
+          "entraineur": "C. Terry",
+          "proprietaire": "F. Terry",
+          "eleveur": "Ecurie Watch Buy Win",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Kircaali"
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 35.5
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 29.0,
+        "cote_live_fiche": 12.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. LEMAITRE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "C. TERRY",
+            "victoires": 7,
+            "places": 5,
+            "courses": 37,
+            "pourcentage": 32.0
           },
           "avec_entraineur": {
-            "nom": "MME A. KARKOSA",
-            "victoires": 0,
-            "places": 1,
-            "courses": 5,
-            "pourcentage": 20.0
+            "nom": "F. TERRY",
+            "victoires": 7,
+            "places": 5,
+            "courses": 41,
+            "pourcentage": 29.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "PARIS-VINCENNES",
+            "victoires": 2,
+            "places": 2,
+            "courses": 14,
+            "pourcentage": 29.0
           }
         },
         "performances_globales": {
-          "gains_eur": 7674,
-          "musique": "6p 7p (25) 2p 6p 6p",
-          "carriere": null
+          "gains_eur": 210455,
+          "musique": "8a 8a Da 9a 3a 7a 13a 14a",
+          "carriere": {
+            "courses": 72,
+            "victoires": 11,
+            "places": 9,
+            "pourcentage": 28.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1548,88 +1555,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0312,
-        "gains": 0.295,
-        "couple_je": 0.2,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
+        "cote": 0.0753,
+        "gains": 0.9871,
+        "couple_je": 0.305,
+        "hippodrome": 0.29,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 15.2,
+      "score": 18.33,
       "enrichi": true,
       "rang_predit": 12
     },
     {
-      "numero": 13,
-      "nom": "Zarababy",
+      "numero": 15,
+      "nom": "Full Cash de Padd",
       "artifice": null,
-      "sexe": "F",
-      "age": 3,
-      "poids": 52.0,
-      "jockey": "L. Boisseau",
-      "musique": "3p5p6p8p",
-      "vh": 31.0,
-      "gains_eur": 4167,
-      "entraineur": "D. Artu",
-      "cote_pmu": 34.0,
+      "sexe": "H",
+      "age": 11,
+      "poids": 2700.0,
+      "jockey": "B. Rochard",
+      "musique": "7a10a(25)11a7a6m",
+      "vh": null,
+      "gains_eur": 210815,
+      "entraineur": "M. Monaco",
+      "cote_pmu": 47.0,
       "non_partant": false,
-      "musique_raw": "3p5p6p8p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 3,
-      "position_moyenne": 5.5,
+      "musique_raw": "7a10a(25)11a7a6m",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 7,
+      "position_moyenne": 4.2,
       "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Zarababy",
+        "numero": 15,
+        "nom": "Full Cash de Padd",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "L. Boisseau",
-          "proprietaire": "D. Artu",
-          "eleveur": "Ecurie Artu",
+          "entraineur": "B. Rochard",
+          "proprietaire": "M. Monaco",
+          "eleveur": "Ecurie Philippe David",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Zarak"
+          "discipline": "Record",
+          "pere": "2015",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 31.0
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
-        "cote_live_fiche": 34.0,
+        "cote_live_fiche": 47.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "L. BOISSEAU",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "nom": "B. ROCHARD",
+            "victoires": 2,
+            "places": 1,
+            "courses": 8,
+            "pourcentage": 38.0
           },
           "avec_entraineur": {
-            "nom": "D. ARTU",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
+            "nom": "M. MONACO",
+            "victoires": 10,
+            "places": 18,
+            "courses": 87,
+            "pourcentage": 32.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "PARIS-VINCENNES",
             "victoires": 0,
             "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "courses": 9,
+            "pourcentage": 0.0
           }
         },
         "performances_globales": {
-          "gains_eur": 4167,
-          "musique": "3p 5p 6p 8p",
-          "carriere": null
+          "gains_eur": 210815,
+          "musique": "7a 10a (25) 11a 7a 6m 10a 5a",
+          "carriere": {
+            "courses": 92,
+            "victoires": 10,
+            "places": 18,
+            "pourcentage": 30.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1639,88 +1651,189 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0266,
-        "gains": 0.1602,
-        "couple_je": 0.125,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.25,
-        "pref_distance": 0.25,
+        "cote": 0.0192,
+        "gains": 0.9887,
+        "couple_je": 0.35,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 14.44,
+      "score": 16.62,
       "enrichi": true,
       "rang_predit": 13
     },
     {
-      "numero": 12,
-      "nom": "King Arthur",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 52.5,
-      "jockey": "C. Demuro",
-      "musique": "5p1p6p9p",
-      "vh": 31.5,
-      "gains_eur": 7078,
-      "entraineur": "D. Smaga",
-      "cote_pmu": 28.0,
+      "numero": 16,
+      "nom": "Image d'Atalante",
+      "artifice": null,
+      "sexe": "F",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "F. Nivard",
+      "musique": "2a8a4a12a4a6a",
+      "vh": null,
+      "gains_eur": 210995,
+      "entraineur": "D. Cherbonnel",
+      "cote_pmu": 43.0,
       "non_partant": false,
-      "musique_raw": "5p1p6p9p",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 5,
-      "position_moyenne": 5.25,
+      "musique_raw": "2a8a4a12a4a6a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 2,
+      "position_moyenne": 4.33,
       "fiche_enrichie": {
-        "numero": 12,
-        "nom": "King Arthur",
+        "numero": 16,
+        "nom": "Image d'Atalante",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "C. Demuro",
-          "proprietaire": "D. Smaga",
-          "eleveur": "Mme V. Coirre",
+          "entraineur": "F. Nivard",
+          "proprietaire": "D. Cherbonnel",
+          "eleveur": "Y. Faucheux",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Victor Ludorum"
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 14,
-          "allocation_eur": 52800,
-          "distance_m": 2200,
-          "vh": 31.5
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 43.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. NIVARD",
+            "victoires": 2,
+            "places": 3,
+            "courses": 18,
+            "pourcentage": 28.0
+          },
+          "avec_entraineur": {
+            "nom": "D. CHERBONNEL",
+            "victoires": 7,
+            "places": 7,
+            "courses": 74,
+            "pourcentage": 19.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 4,
+            "places": 2,
+            "courses": 45,
+            "pourcentage": 13.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 210995,
+          "musique": "2a 8a 4a 12a 4a 6a 4a 4a",
+          "carriere": {
+            "courses": 74,
+            "victoires": 7,
+            "places": 7,
+            "pourcentage": 19.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.021,
+        "gains": 0.9896,
+        "couple_je": 0.235,
+        "hippodrome": 0.13,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 15.58,
+      "enrichi": true,
+      "rang_predit": 14
+    },
+    {
+      "numero": 17,
+      "nom": "Intello de Chenu",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "D. Thomain",
+      "musique": "6a5a4a5a(25)12a",
+      "vh": null,
+      "gains_eur": 211350,
+      "entraineur": "P. Pellerot",
+      "cote_pmu": 28.0,
+      "non_partant": false,
+      "musique_raw": "6a5a4a5a(25)12a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 6,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 17,
+        "nom": "Intello de Chenu",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "D. Thomain",
+          "proprietaire": "P. Pellerot",
+          "eleveur": "Ecurie Pierre Pellerot",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
         },
         "cote_live_fiche": 28.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "C. DEMURO",
+            "nom": "D. THOMAIN",
             "victoires": 0,
             "places": 0,
             "courses": 1,
             "pourcentage": 0.0
           },
           "avec_entraineur": {
-            "nom": "D. SMAGA",
+            "nom": "P. PELLEROT",
             "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "places": 4,
+            "courses": 15,
+            "pourcentage": 27.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
+            "nom": "PARIS-VINCENNES",
+            "victoires": 4,
+            "places": 5,
+            "courses": 24,
+            "pourcentage": 38.0
           }
         },
         "performances_globales": {
-          "gains_eur": 7078,
-          "musique": "5p 1p 6p 9p",
-          "carriere": null
+          "gains_eur": 211350,
+          "musique": "6a 5a 4a 5a (25) 12a 11a 3a",
+          "carriere": {
+            "courses": 55,
+            "victoires": 8,
+            "places": 10,
+            "pourcentage": 33.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1731,19 +1844,307 @@
       },
       "sous_scores": {
         "cote": 0.0323,
-        "gains": 0.2721,
-        "couple_je": 0.0,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.25,
-        "pref_distance": 0.25,
+        "gains": 0.9913,
+        "couple_je": 0.135,
+        "hippodrome": 0.38,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 8.59,
+      "score": 15.37,
       "enrichi": true,
-      "rang_predit": 14
+      "rang_predit": 15
+    },
+    {
+      "numero": 18,
+      "nom": "Iggy Rock",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "P. Geray",
+      "musique": "4a6a7a4a6a3a",
+      "vh": null,
+      "gains_eur": 213215,
+      "entraineur": "S. Bouisson",
+      "cote_pmu": 104.0,
+      "non_partant": false,
+      "musique_raw": "4a6a7a4a6a3a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 5.0,
+      "fiche_enrichie": {
+        "numero": 18,
+        "nom": "Iggy Rock",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "P. Geray",
+          "proprietaire": "S. Bouisson",
+          "eleveur": "Mme N. Semeillon",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 104.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "P. GERAY",
+            "victoires": 2,
+            "places": 8,
+            "courses": 28,
+            "pourcentage": 36.0
+          },
+          "avec_entraineur": {
+            "nom": "S. BOUISSON",
+            "victoires": 9,
+            "places": 20,
+            "courses": 79,
+            "pourcentage": 37.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 213215,
+          "musique": "4a 6a 7a 4a 6a 3a 2a 2a",
+          "carriere": {
+            "courses": 79,
+            "victoires": 9,
+            "places": 20,
+            "pourcentage": 37.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0087,
+        "gains": 1.0,
+        "couple_je": 0.365,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
+        "recuperation": 0.5
+      },
+      "score": 12.52,
+      "enrichi": true,
+      "rang_predit": 16
+    },
+    {
+      "numero": 2,
+      "nom": "Iron Mijack",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 8,
+      "poids": 2700.0,
+      "jockey": "T. Rousselet",
+      "musique": "14aDa10a4a14aDa",
+      "vh": null,
+      "gains_eur": 144515,
+      "entraineur": "K. Busnel",
+      "cote_pmu": 130.0,
+      "non_partant": false,
+      "musique_raw": "14aDa10a4a14aDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Iron Mijack",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "T. Rousselet",
+          "proprietaire": "K. Busnel",
+          "eleveur": "K. Busnel",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 130.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "T. ROUSSELET",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "K. BUSNEL",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 2,
+            "places": 3,
+            "courses": 23,
+            "pourcentage": 22.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 144515,
+          "musique": "14a Da 10a 4a 14a Da 9a 5a",
+          "carriere": {
+            "courses": 76,
+            "victoires": 5,
+            "places": 16,
+            "pourcentage": 28.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0069,
+        "gains": 0.6778,
+        "couple_je": 0.0,
+        "hippodrome": 0.22,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
+        "recuperation": 0.5
+      },
+      "score": 9.28,
+      "enrichi": true,
+      "rang_predit": 17
+    },
+    {
+      "numero": 10,
+      "nom": "Hadrien",
+      "artifice": null,
+      "sexe": "H",
+      "age": 9,
+      "poids": 2700.0,
+      "jockey": "A. Collette",
+      "musique": "8a9a4a(25)9a4m",
+      "vh": null,
+      "gains_eur": 205610,
+      "entraineur": "M. Monaco",
+      "cote_pmu": 104.0,
+      "non_partant": false,
+      "musique_raw": "8a9a4a(25)9a4m",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 0,
+      "derniere_position": 8,
+      "position_moyenne": 6.8,
+      "fiche_enrichie": {
+        "numero": 10,
+        "nom": "Hadrien",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "M. Monaco",
+          "eleveur": "Scuderia Twister",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 18,
+          "allocation_eur": 59000,
+          "distance_m": 2700,
+          "vh": null
+        },
+        "cote_live_fiche": 104.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "M. MONACO",
+            "victoires": 0,
+            "places": 0,
+            "courses": 5,
+            "pourcentage": 0.0
+          },
+          "sur_hippodrome": {
+            "nom": "PARIS-VINCENNES",
+            "victoires": 0,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 205610,
+          "musique": "8a 9a 4a (25) 9a 4m 13a Da",
+          "carriere": {
+            "courses": 57,
+            "victoires": 13,
+            "places": 14,
+            "pourcentage": 47.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0087,
+        "gains": 0.9643,
+        "couple_je": 0.0,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.0,
+        "recuperation": 0.5
+      },
+      "score": 5.37,
+      "enrichi": true,
+      "rang_predit": 18
     }
   ],
-  "nb_enrichis": 13,
-  "nb_partants": 14,
-  "cotes_dispo": 14
+  "nb_enrichis": 16,
+  "nb_partants": 18,
+  "cotes_dispo": 18
 }
