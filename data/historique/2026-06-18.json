@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-18",
+  "course": {
+    "reunion": 1,
+    "course": 7,
+    "hippodrome": "ParisLongchamp",
+    "libelle": "PRIX DU NABOB"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 2
+    },
+    {
+      "rang": 2,
+      "numero": 7
+    },
+    {
+      "rang": 3,
+      "numero": 13
+    },
+    {
+      "rang": 4,
+      "numero": 1
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 6
+    },
+    {
+      "rang": 7,
+      "numero": 11
+    },
+    {
+      "rang": 8,
+      "numero": 14
+    },
+    {
+      "rang": 9,
+      "numero": 5
+    },
+    {
+      "rang": 10,
+      "numero": 4
+    },
+    {
+      "rang": 11,
+      "numero": 9
+    },
+    {
+      "rang": 12,
+      "numero": 12
+    },
+    {
+      "rang": 13,
+      "numero": 8
+    },
+    {
+      "rang": 14,
+      "numero": 10
+    }
+  ],
+  "predictions": {
+    "top5": [
+      3,
+      2,
+      1,
+      14,
+      8,
+      9
+    ],
+    "date_prediction": "2026-06-18"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 3,
+    "favori_arrive_rang": 5
+  }
+}
