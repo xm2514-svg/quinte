@@ -70,9 +70,27 @@
         },
         "cote_live_fiche": 4.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "M. GUYON",
+            "victoires": 2,
+            "places": 3,
+            "courses": 10,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 4,
+            "places": 5,
+            "courses": 20,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
           "gains_eur": 106326,
@@ -92,113 +110,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2258,
+        "cote": 0.2256,
         "gains": 0.6577,
-        "couple_je": 0.5,
+        "couple_je": 0.475,
         "hippodrome": 0.5,
         "pref_terrain": 1.0,
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 43.39,
+      "score": 43.08,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 3,
-      "nom": "Spanish Prince",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 58.5,
-      "jockey": "C. Demuro",
-      "musique": "2p3p1p3p(25)2p",
-      "vh": 38.5,
-      "gains_eur": 72221,
-      "entraineur": "J. Reynier",
-      "cote_pmu": 6.7,
-      "non_partant": false,
-      "musique_raw": "2p3p1p3p(25)2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 2.2,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Spanish Prince",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Demuro",
-          "proprietaire": "J. Reynier",
-          "eleveur": "Sangwin Bloodstock Ltd",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Zelzal"
-        },
-        "course_actuelle": {
-          "hippodrome": "Compiègne",
-          "nb_partants": 13,
-          "allocation_eur": 50900,
-          "distance_m": 2800,
-          "vh": 38.5
-        },
-        "cote_live_fiche": 6.7,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. DEMURO",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "J. REYNIER",
-            "victoires": 1,
-            "places": 3,
-            "courses": 4,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "COMPIÈGNE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 72221,
-          "musique": "2p 3p 1p 3p (25) 2p 3p 2p",
-          "carriere": {
-            "courses": 15,
-            "victoires": 2,
-            "places": 10,
-            "pourcentage": 80.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1348,
-        "gains": 0.4467,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 1.0,
-        "pref_distance": 1.0,
-        "recuperation": 0.5
-      },
-      "score": 37.75,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 8,
@@ -244,9 +166,27 @@
         },
         "cote_live_fiche": 6.4,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "R. THOMAS",
+            "victoires": 4,
+            "places": 8,
+            "courses": 18,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "N. CAULLERY",
+            "victoires": 6,
+            "places": 8,
+            "courses": 26,
+            "pourcentage": 54.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 67.0
+          }
         },
         "performances_globales": {
           "gains_eur": 119547,
@@ -266,15 +206,111 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1411,
+        "cote": 0.141,
         "gains": 0.7394,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
+        "couple_je": 0.605,
+        "hippodrome": 0.67,
         "pref_terrain": 0.8,
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.78,
+      "score": 38.73,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 3,
+      "nom": "Spanish Prince",
+      "artifice": null,
+      "sexe": "H",
+      "age": 4,
+      "poids": 58.5,
+      "jockey": "C. Demuro",
+      "musique": "2p3p1p3p(25)2p",
+      "vh": 38.5,
+      "gains_eur": 72221,
+      "entraineur": "J. Reynier",
+      "cote_pmu": 6.5,
+      "non_partant": false,
+      "musique_raw": "2p3p1p3p(25)2p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 2.2,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Spanish Prince",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Demuro",
+          "proprietaire": "J. Reynier",
+          "eleveur": "Sangwin Bloodstock Ltd",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Zelzal"
+        },
+        "course_actuelle": {
+          "hippodrome": "Compiègne",
+          "nb_partants": 13,
+          "allocation_eur": 50900,
+          "distance_m": 2800,
+          "vh": 38.5
+        },
+        "cote_live_fiche": 6.5,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "C. DEMURO",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "J. REYNIER",
+            "victoires": 1,
+            "places": 3,
+            "courses": 4,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 72221,
+          "musique": "2p 3p 1p 3p (25) 2p 3p 2p",
+          "carriere": {
+            "courses": 15,
+            "victoires": 2,
+            "places": 10,
+            "pourcentage": 80.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1388,
+        "gains": 0.4467,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 37.98,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -362,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0753,
+        "cote": 0.0752,
         "gains": 0.5207,
         "couple_je": 0.625,
         "hippodrome": 0.0,
@@ -386,7 +422,7 @@
       "vh": 34.5,
       "gains_eur": 91510,
       "entraineur": "P. De Chevigny",
-      "cote_pmu": 9.6,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "9p2p15p3p2p7p",
       "nb_courses_recentes": 6,
@@ -416,7 +452,7 @@
           "distance_m": 2800,
           "vh": 34.5
         },
-        "cote_live_fiche": 9.6,
+        "cote_live_fiche": 10.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. BARZALONA",
@@ -458,7 +494,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0941,
+        "cote": 0.0902,
         "gains": 0.566,
         "couple_je": 0.48,
         "hippodrome": 0.5,
@@ -466,7 +502,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.63,
+      "score": 27.42,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -482,7 +518,7 @@
       "vh": 38.0,
       "gains_eur": 127827,
       "entraineur": "RC. Montenegro",
-      "cote_pmu": 31.0,
+      "cote_pmu": 32.0,
       "non_partant": false,
       "musique_raw": "4p1p10p4p12p3p",
       "nb_courses_recentes": 6,
@@ -512,7 +548,7 @@
           "distance_m": 2800,
           "vh": 38.0
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 32.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LECOEUVRE",
@@ -554,7 +590,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0291,
+        "cote": 0.0282,
         "gains": 0.7906,
         "couple_je": 0.46,
         "hippodrome": 0.5,
@@ -562,7 +598,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.16,
+      "score": 27.11,
       "enrichi": true,
       "rang_predit": 6
     }
@@ -612,9 +648,27 @@
         },
         "cote_live_fiche": 4.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "M. GUYON",
+            "victoires": 2,
+            "places": 3,
+            "courses": 10,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "BRANDT (S)",
+            "victoires": 4,
+            "places": 5,
+            "courses": 20,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
           "gains_eur": 106326,
@@ -634,113 +688,17 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2258,
+        "cote": 0.2256,
         "gains": 0.6577,
-        "couple_je": 0.5,
+        "couple_je": 0.475,
         "hippodrome": 0.5,
         "pref_terrain": 1.0,
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 43.39,
+      "score": 43.08,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 3,
-      "nom": "Spanish Prince",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 58.5,
-      "jockey": "C. Demuro",
-      "musique": "2p3p1p3p(25)2p",
-      "vh": 38.5,
-      "gains_eur": 72221,
-      "entraineur": "J. Reynier",
-      "cote_pmu": 6.7,
-      "non_partant": false,
-      "musique_raw": "2p3p1p3p(25)2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 2.2,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Spanish Prince",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Demuro",
-          "proprietaire": "J. Reynier",
-          "eleveur": "Sangwin Bloodstock Ltd",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Zelzal"
-        },
-        "course_actuelle": {
-          "hippodrome": "Compiègne",
-          "nb_partants": 13,
-          "allocation_eur": 50900,
-          "distance_m": 2800,
-          "vh": 38.5
-        },
-        "cote_live_fiche": 6.7,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. DEMURO",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "J. REYNIER",
-            "victoires": 1,
-            "places": 3,
-            "courses": 4,
-            "pourcentage": 100.0
-          },
-          "sur_hippodrome": {
-            "nom": "COMPIÈGNE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 72221,
-          "musique": "2p 3p 1p 3p (25) 2p 3p 2p",
-          "carriere": {
-            "courses": 15,
-            "victoires": 2,
-            "places": 10,
-            "pourcentage": 80.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1348,
-        "gains": 0.4467,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 1.0,
-        "pref_distance": 1.0,
-        "recuperation": 0.5
-      },
-      "score": 37.75,
-      "enrichi": true,
-      "rang_predit": 2
     },
     {
       "numero": 8,
@@ -786,9 +744,27 @@
         },
         "cote_live_fiche": 6.4,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "R. THOMAS",
+            "victoires": 4,
+            "places": 8,
+            "courses": 18,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "N. CAULLERY",
+            "victoires": 6,
+            "places": 8,
+            "courses": 26,
+            "pourcentage": 54.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 2,
+            "courses": 3,
+            "pourcentage": 67.0
+          }
         },
         "performances_globales": {
           "gains_eur": 119547,
@@ -808,15 +784,111 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1411,
+        "cote": 0.141,
         "gains": 0.7394,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
+        "couple_je": 0.605,
+        "hippodrome": 0.67,
         "pref_terrain": 0.8,
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.78,
+      "score": 38.73,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 3,
+      "nom": "Spanish Prince",
+      "artifice": null,
+      "sexe": "H",
+      "age": 4,
+      "poids": 58.5,
+      "jockey": "C. Demuro",
+      "musique": "2p3p1p3p(25)2p",
+      "vh": 38.5,
+      "gains_eur": 72221,
+      "entraineur": "J. Reynier",
+      "cote_pmu": 6.5,
+      "non_partant": false,
+      "musique_raw": "2p3p1p3p(25)2p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 2.2,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Spanish Prince",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "C. Demuro",
+          "proprietaire": "J. Reynier",
+          "eleveur": "Sangwin Bloodstock Ltd",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Zelzal"
+        },
+        "course_actuelle": {
+          "hippodrome": "Compiègne",
+          "nb_partants": 13,
+          "allocation_eur": 50900,
+          "distance_m": 2800,
+          "vh": 38.5
+        },
+        "cote_live_fiche": 6.5,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "C. DEMURO",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "J. REYNIER",
+            "victoires": 1,
+            "places": 3,
+            "courses": 4,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 72221,
+          "musique": "2p 3p 1p 3p (25) 2p 3p 2p",
+          "carriere": {
+            "courses": 15,
+            "victoires": 2,
+            "places": 10,
+            "pourcentage": 80.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1388,
+        "gains": 0.4467,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 37.98,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -904,7 +976,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0753,
+        "cote": 0.0752,
         "gains": 0.5207,
         "couple_je": 0.625,
         "hippodrome": 0.0,
@@ -928,7 +1000,7 @@
       "vh": 34.5,
       "gains_eur": 91510,
       "entraineur": "P. De Chevigny",
-      "cote_pmu": 9.6,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "9p2p15p3p2p7p",
       "nb_courses_recentes": 6,
@@ -958,7 +1030,7 @@
           "distance_m": 2800,
           "vh": 34.5
         },
-        "cote_live_fiche": 9.6,
+        "cote_live_fiche": 10.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. BARZALONA",
@@ -1000,7 +1072,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0941,
+        "cote": 0.0902,
         "gains": 0.566,
         "couple_je": 0.48,
         "hippodrome": 0.5,
@@ -1008,7 +1080,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 27.63,
+      "score": 27.42,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1024,7 +1096,7 @@
       "vh": 38.0,
       "gains_eur": 127827,
       "entraineur": "RC. Montenegro",
-      "cote_pmu": 31.0,
+      "cote_pmu": 32.0,
       "non_partant": false,
       "musique_raw": "4p1p10p4p12p3p",
       "nb_courses_recentes": 6,
@@ -1054,7 +1126,7 @@
           "distance_m": 2800,
           "vh": 38.0
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 32.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LECOEUVRE",
@@ -1096,7 +1168,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0291,
+        "cote": 0.0282,
         "gains": 0.7906,
         "couple_je": 0.46,
         "hippodrome": 0.5,
@@ -1104,7 +1176,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.16,
+      "score": 27.11,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1288,7 +1360,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0695,
+        "cote": 0.0694,
         "gains": 0.5597,
         "couple_je": 0.415,
         "hippodrome": 0.25,
@@ -1296,7 +1368,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 25.65,
+      "score": 25.64,
       "enrichi": true,
       "rang_predit": 8
     },
@@ -1312,7 +1384,7 @@
       "vh": 36.5,
       "gains_eur": 66907,
       "entraineur": "M. Cesandri",
-      "cote_pmu": 25.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "16p6p10p6p(25)12p",
       "nb_courses_recentes": 5,
@@ -1342,11 +1414,29 @@
           "distance_m": 2800,
           "vh": 36.5
         },
-        "cote_live_fiche": 25.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "D. PROVOST",
+            "victoires": 2,
+            "places": 0,
+            "courses": 8,
+            "pourcentage": 25.0
+          },
+          "avec_entraineur": {
+            "nom": "M. CESANDRI",
+            "victoires": 3,
+            "places": 5,
+            "courses": 18,
+            "pourcentage": 44.0
+          },
+          "sur_hippodrome": {
+            "nom": "COMPIÈGNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
           "gains_eur": 66907,
@@ -1366,15 +1456,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0361,
+        "cote": 0.0347,
         "gains": 0.4138,
-        "couple_je": 0.5,
+        "couple_je": 0.345,
         "hippodrome": 0.5,
         "pref_terrain": 0.4,
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 22.63,
+      "score": 20.69,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1486,7 +1576,7 @@
       "vh": 32.0,
       "gains_eur": 50906,
       "entraineur": "N. Guilbert",
-      "cote_pmu": 35.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "1p6p2p8p(25)6p",
       "nb_courses_recentes": 5,
@@ -1516,7 +1606,7 @@
           "distance_m": 2800,
           "vh": 32.0
         },
-        "cote_live_fiche": 35.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE L. BAILS",
@@ -1558,7 +1648,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0258,
+        "cote": 0.0265,
         "gains": 0.3149,
         "couple_je": 0.19,
         "hippodrome": 0.5,
@@ -1566,7 +1656,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 18.04,
+      "score": 18.08,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1678,7 +1768,7 @@
       "vh": 37.0,
       "gains_eur": 54342,
       "entraineur": "Brandt (s)",
-      "cote_pmu": 22.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "7p12p7p6p(25)9p",
       "nb_courses_recentes": 5,
@@ -1708,7 +1798,7 @@
           "distance_m": 2800,
           "vh": 37.0
         },
-        "cote_live_fiche": 22.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. TRULLIER",
@@ -1750,7 +1840,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.041,
+        "cote": 0.043,
         "gains": 0.3361,
         "couple_je": 0.365,
         "hippodrome": 0.0,
@@ -1758,7 +1848,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 12.85,
+      "score": 12.95,
       "enrichi": true,
       "rang_predit": 13
     }
