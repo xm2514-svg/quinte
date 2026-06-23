@@ -12,8 +12,8 @@
     "allocation_eur": 50900,
     "distance_m": 1100,
     "corde": "droite",
-    "terrain": "-",
-    "meteo": "23°C Nuageux, vent 14km/h - SE"
+    "terrain": "Bon souple",
+    "meteo": "26°C Nuageux, vent 16km/h - SE"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -68,7 +68,7 @@
           "distance_m": 1100,
           "vh": 38.5
         },
-        "cote_live_fiche": 4.8,
+        "cote_live_fiche": 4.4,
         "stats_couples": {
           "avec_jockey": {
             "nom": "H. JOURNIAC",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2089,
+        "cote": 0.21,
         "gains": 0.3671,
         "couple_je": 0.65,
         "hippodrome": 0.0,
@@ -118,42 +118,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.19,
+      "score": 35.25,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 2,
-      "nom": "Profumo Di Iena (S)",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 4,
-      "poids": 61.0,
-      "jockey": "C. Demuro",
-      "musique": "4p6p3p1p2p6p",
-      "vh": 41.5,
-      "gains_eur": 80804,
-      "entraineur": "M. Guarnieri",
-      "cote_pmu": 4.4,
-      "non_partant": false,
-      "musique_raw": "4p6p3p1p2p6p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.67,
-      "sous_scores": {
-        "cote": 0.2089,
-        "gains": 0.3016,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 33.39,
-      "enrichi": false,
-      "rang_predit": 2
     },
     {
       "numero": 3,
@@ -167,7 +134,7 @@
       "vh": 39.0,
       "gains_eur": 217308,
       "entraineur": "C. Boutin (s)",
-      "cote_pmu": 8.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "3p3p4p12p5p3p",
       "nb_courses_recentes": 6,
@@ -197,7 +164,7 @@
           "distance_m": 1100,
           "vh": 39.0
         },
-        "cote_live_fiche": 6.8,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "H. BOUTIN",
@@ -239,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1149,
+        "cote": 0.084,
         "gains": 0.8111,
         "couple_je": 0.405,
         "hippodrome": 0.5,
@@ -247,9 +214,9 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 31.28,
+      "score": 29.58,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
       "numero": 1,
@@ -263,7 +230,7 @@
       "vh": 41.5,
       "gains_eur": 188250,
       "entraineur": "Mme C. Barande-Barbe",
-      "cote_pmu": 24.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "6p1p10p1p4p10p",
       "nb_courses_recentes": 6,
@@ -293,29 +260,11 @@
           "distance_m": 1100,
           "vh": 41.5
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 18.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "MLLE F. VALLE SKAR",
-            "victoires": 7,
-            "places": 4,
-            "courses": 31,
-            "pourcentage": 35.0
-          },
-          "avec_entraineur": {
-            "nom": "MME C. BARANDE-BARBE",
-            "victoires": 8,
-            "places": 7,
-            "courses": 51,
-            "pourcentage": 29.0
-          },
-          "sur_hippodrome": {
-            "nom": "DIEPPE",
-            "victoires": 2,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 67.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 188250,
@@ -335,16 +284,49 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0383,
+        "cote": 0.0513,
         "gains": 0.7027,
-        "couple_je": 0.32,
-        "hippodrome": 0.67,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
         "pref_terrain": 0.6667,
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.42,
+      "score": 28.6,
       "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 2,
+      "nom": "Profumo Di Iena (S)",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 4,
+      "poids": 61.0,
+      "jockey": "C. Demuro",
+      "musique": "4p6p3p1p2p6p",
+      "vh": 41.5,
+      "gains_eur": 80804,
+      "entraineur": "M. Guarnieri",
+      "cote_pmu": 8.7,
+      "non_partant": false,
+      "musique_raw": "4p6p3p1p2p6p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 4,
+      "position_moyenne": 3.67,
+      "sous_scores": {
+        "cote": 0.1062,
+        "gains": 0.3016,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 27.75,
+      "enrichi": false,
       "rang_predit": 4
     },
     {
@@ -359,7 +341,7 @@
       "vh": 36.5,
       "gains_eur": 44144,
       "entraineur": "S. Wattel",
-      "cote_pmu": 39.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "12p(25)15p10p3p1p",
       "nb_courses_recentes": 5,
@@ -389,7 +371,7 @@
           "distance_m": 1100,
           "vh": 36.5
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. BACHELOT",
@@ -431,7 +413,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0236,
+        "cote": 0.037,
         "gains": 0.1648,
         "couple_je": 0.43,
         "hippodrome": 0.5,
@@ -439,7 +421,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 26.75,
+      "score": 27.49,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -455,7 +437,7 @@
       "vh": 38.0,
       "gains_eur": 188340,
       "entraineur": "G. Doleuze",
-      "cote_pmu": 24.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "13p16p11p(25)14p9p",
       "nb_courses_recentes": 5,
@@ -485,7 +467,7 @@
           "distance_m": 1100,
           "vh": 38.0
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -527,7 +509,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0383,
+        "cote": 0.0544,
         "gains": 0.703,
         "couple_je": 0.205,
         "hippodrome": 1.0,
@@ -535,7 +517,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 25.08,
+      "score": 25.96,
       "enrichi": true,
       "rang_predit": 6
     }
@@ -583,7 +565,7 @@
           "distance_m": 1100,
           "vh": 38.5
         },
-        "cote_live_fiche": 4.8,
+        "cote_live_fiche": 4.4,
         "stats_couples": {
           "avec_jockey": {
             "nom": "H. JOURNIAC",
@@ -625,7 +607,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2089,
+        "cote": 0.21,
         "gains": 0.3671,
         "couple_je": 0.65,
         "hippodrome": 0.0,
@@ -633,42 +615,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.19,
+      "score": 35.25,
       "enrichi": true,
       "rang_predit": 1
-    },
-    {
-      "numero": 2,
-      "nom": "Profumo Di Iena (S)",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 4,
-      "poids": 61.0,
-      "jockey": "C. Demuro",
-      "musique": "4p6p3p1p2p6p",
-      "vh": 41.5,
-      "gains_eur": 80804,
-      "entraineur": "M. Guarnieri",
-      "cote_pmu": 4.4,
-      "non_partant": false,
-      "musique_raw": "4p6p3p1p2p6p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.67,
-      "sous_scores": {
-        "cote": 0.2089,
-        "gains": 0.3016,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 33.39,
-      "enrichi": false,
-      "rang_predit": 2
     },
     {
       "numero": 3,
@@ -682,7 +631,7 @@
       "vh": 39.0,
       "gains_eur": 217308,
       "entraineur": "C. Boutin (s)",
-      "cote_pmu": 8.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "3p3p4p12p5p3p",
       "nb_courses_recentes": 6,
@@ -712,7 +661,7 @@
           "distance_m": 1100,
           "vh": 39.0
         },
-        "cote_live_fiche": 6.8,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "H. BOUTIN",
@@ -754,7 +703,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1149,
+        "cote": 0.084,
         "gains": 0.8111,
         "couple_je": 0.405,
         "hippodrome": 0.5,
@@ -762,9 +711,9 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 31.28,
+      "score": 29.58,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 2
     },
     {
       "numero": 1,
@@ -778,7 +727,7 @@
       "vh": 41.5,
       "gains_eur": 188250,
       "entraineur": "Mme C. Barande-Barbe",
-      "cote_pmu": 24.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "6p1p10p1p4p10p",
       "nb_courses_recentes": 6,
@@ -808,29 +757,11 @@
           "distance_m": 1100,
           "vh": 41.5
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 18.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "MLLE F. VALLE SKAR",
-            "victoires": 7,
-            "places": 4,
-            "courses": 31,
-            "pourcentage": 35.0
-          },
-          "avec_entraineur": {
-            "nom": "MME C. BARANDE-BARBE",
-            "victoires": 8,
-            "places": 7,
-            "courses": 51,
-            "pourcentage": 29.0
-          },
-          "sur_hippodrome": {
-            "nom": "DIEPPE",
-            "victoires": 2,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 67.0
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 188250,
@@ -850,16 +781,49 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0383,
+        "cote": 0.0513,
         "gains": 0.7027,
-        "couple_je": 0.32,
-        "hippodrome": 0.67,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
         "pref_terrain": 0.6667,
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.42,
+      "score": 28.6,
       "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 2,
+      "nom": "Profumo Di Iena (S)",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 4,
+      "poids": 61.0,
+      "jockey": "C. Demuro",
+      "musique": "4p6p3p1p2p6p",
+      "vh": 41.5,
+      "gains_eur": 80804,
+      "entraineur": "M. Guarnieri",
+      "cote_pmu": 8.7,
+      "non_partant": false,
+      "musique_raw": "4p6p3p1p2p6p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 4,
+      "position_moyenne": 3.67,
+      "sous_scores": {
+        "cote": 0.1062,
+        "gains": 0.3016,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 27.75,
+      "enrichi": false,
       "rang_predit": 4
     },
     {
@@ -874,7 +838,7 @@
       "vh": 36.5,
       "gains_eur": 44144,
       "entraineur": "S. Wattel",
-      "cote_pmu": 39.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "12p(25)15p10p3p1p",
       "nb_courses_recentes": 5,
@@ -904,7 +868,7 @@
           "distance_m": 1100,
           "vh": 36.5
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 25.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. BACHELOT",
@@ -946,7 +910,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0236,
+        "cote": 0.037,
         "gains": 0.1648,
         "couple_je": 0.43,
         "hippodrome": 0.5,
@@ -954,7 +918,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 26.75,
+      "score": 27.49,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -970,7 +934,7 @@
       "vh": 38.0,
       "gains_eur": 188340,
       "entraineur": "G. Doleuze",
-      "cote_pmu": 24.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "13p16p11p(25)14p9p",
       "nb_courses_recentes": 5,
@@ -1000,7 +964,7 @@
           "distance_m": 1100,
           "vh": 38.0
         },
-        "cote_live_fiche": 28.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. LEMAITRE",
@@ -1042,7 +1006,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0383,
+        "cote": 0.0544,
         "gains": 0.703,
         "couple_je": 0.205,
         "hippodrome": 1.0,
@@ -1050,7 +1014,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 25.08,
+      "score": 25.96,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -1066,7 +1030,7 @@
       "vh": 35.0,
       "gains_eur": 107103,
       "entraineur": "M. Boutin",
-      "cote_pmu": 110.0,
+      "cote_pmu": 30.0,
       "non_partant": false,
       "musique_raw": "8p7p5p1p11p13p",
       "nb_courses_recentes": 6,
@@ -1096,7 +1060,7 @@
           "distance_m": 1100,
           "vh": 35.0
         },
-        "cote_live_fiche": 97.0,
+        "cote_live_fiche": 30.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MLLE L. GALLO",
@@ -1138,7 +1102,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0084,
+        "cote": 0.0308,
         "gains": 0.3998,
         "couple_je": 0.4,
         "hippodrome": 0.67,
@@ -1146,7 +1110,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.16,
+      "score": 24.39,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1162,7 +1126,7 @@
       "vh": 38.5,
       "gains_eur": 56133,
       "entraineur": "HA. Pantall",
-      "cote_pmu": 91.0,
+      "cote_pmu": 32.0,
       "non_partant": false,
       "musique_raw": "9p(25)1p1p3p9p",
       "nb_courses_recentes": 5,
@@ -1192,7 +1156,7 @@
           "distance_m": 1100,
           "vh": 38.5
         },
-        "cote_live_fiche": 52.0,
+        "cote_live_fiche": 32.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. PICCONE",
@@ -1234,7 +1198,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0101,
+        "cote": 0.0289,
         "gains": 0.2095,
         "couple_je": 0.44,
         "hippodrome": 0.5,
@@ -1242,105 +1206,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 23.06,
+      "score": 24.1,
       "enrichi": true,
       "rang_predit": 8
-    },
-    {
-      "numero": 7,
-      "nom": "Baileys Bachelor",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 5,
-      "poids": 57.5,
-      "jockey": "P. Bazire",
-      "musique": "4p11p14p7p(25)5p",
-      "vh": 38.0,
-      "gains_eur": 99014,
-      "entraineur": "JV. Toux",
-      "cote_pmu": 9.1,
-      "non_partant": false,
-      "musique_raw": "4p11p14p7p(25)5p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 4,
-      "position_moyenne": 4.2,
-      "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Baileys Bachelor",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "P. Bazire",
-          "proprietaire": "JV. Toux",
-          "eleveur": "C. Mouly",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Supplicant"
-        },
-        "course_actuelle": {
-          "hippodrome": "Dieppe",
-          "nb_partants": 16,
-          "allocation_eur": 50900,
-          "distance_m": 1100,
-          "vh": 38.0
-        },
-        "cote_live_fiche": 11.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "P. BAZIRE",
-            "victoires": 0,
-            "places": 2,
-            "courses": 8,
-            "pourcentage": 25.0
-          },
-          "avec_entraineur": {
-            "nom": "JV. TOUX",
-            "victoires": 4,
-            "places": 6,
-            "courses": 26,
-            "pourcentage": 38.0
-          },
-          "sur_hippodrome": {
-            "nom": "DIEPPE",
-            "victoires": 1,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 67.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 99014,
-          "musique": "4p 11p 14p 7p (25) 5p 9p 1p",
-          "carriere": {
-            "courses": 26,
-            "victoires": 4,
-            "places": 6,
-            "pourcentage": 38.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.101,
-        "gains": 0.3696,
-        "couple_je": 0.315,
-        "hippodrome": 0.67,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 22.34,
-      "enrichi": true,
-      "rang_predit": 9
     },
     {
       "numero": 4,
@@ -1354,7 +1222,7 @@
       "vh": 38.5,
       "gains_eur": 267903,
       "entraineur": "C. Plisson",
-      "cote_pmu": 69.0,
+      "cote_pmu": 30.0,
       "non_partant": false,
       "musique_raw": "8p7p1p7p14p12p",
       "nb_courses_recentes": 6,
@@ -1363,7 +1231,7 @@
       "derniere_position": 8,
       "position_moyenne": 4.83,
       "sous_scores": {
-        "cote": 0.0133,
+        "cote": 0.0308,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1371,9 +1239,9 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 22.07,
+      "score": 23.03,
       "enrichi": false,
-      "rang_predit": 10
+      "rang_predit": 9
     },
     {
       "numero": 14,
@@ -1387,7 +1255,7 @@
       "vh": 36.0,
       "gains_eur": 63281,
       "entraineur": "Mme S. Koyuncu",
-      "cote_pmu": 39.0,
+      "cote_pmu": 37.0,
       "non_partant": false,
       "musique_raw": "16p8p6p(25)10p2p",
       "nb_courses_recentes": 5,
@@ -1417,7 +1285,7 @@
           "distance_m": 1100,
           "vh": 36.0
         },
-        "cote_live_fiche": 45.0,
+        "cote_live_fiche": 37.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LECOEUVRE",
@@ -1459,7 +1327,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0236,
+        "cote": 0.025,
         "gains": 0.2362,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1467,7 +1335,103 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 21.4,
+      "score": 21.48,
+      "enrichi": true,
+      "rang_predit": 10
+    },
+    {
+      "numero": 7,
+      "nom": "Baileys Bachelor",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 5,
+      "poids": 57.5,
+      "jockey": "P. Bazire",
+      "musique": "4p11p14p7p(25)5p",
+      "vh": 38.0,
+      "gains_eur": 99014,
+      "entraineur": "JV. Toux",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "4p11p14p7p(25)5p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 4.2,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Baileys Bachelor",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "P. Bazire",
+          "proprietaire": "JV. Toux",
+          "eleveur": "C. Mouly",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Hongre",
+          "pere": "Galop",
+          "mere": "Supplicant"
+        },
+        "course_actuelle": {
+          "hippodrome": "Dieppe",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 1100,
+          "vh": 38.0
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "P. BAZIRE",
+            "victoires": 0,
+            "places": 2,
+            "courses": 8,
+            "pourcentage": 25.0
+          },
+          "avec_entraineur": {
+            "nom": "JV. TOUX",
+            "victoires": 4,
+            "places": 6,
+            "courses": 26,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "DIEPPE",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 99014,
+          "musique": "4p 11p 14p 7p (25) 5p 9p 1p",
+          "carriere": {
+            "courses": 26,
+            "victoires": 4,
+            "places": 6,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.066,
+        "gains": 0.3696,
+        "couple_je": 0.315,
+        "hippodrome": 0.67,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 20.42,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1483,7 +1447,7 @@
       "vh": 36.0,
       "gains_eur": 46974,
       "entraineur": "S. Wattel",
-      "cote_pmu": 55.0,
+      "cote_pmu": 63.0,
       "non_partant": false,
       "musique_raw": "12p(25)15p9p6p12p",
       "nb_courses_recentes": 5,
@@ -1513,7 +1477,7 @@
           "distance_m": 1100,
           "vh": 36.0
         },
-        "cote_live_fiche": 56.0,
+        "cote_live_fiche": 63.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. TRULLIER",
@@ -1555,7 +1519,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0167,
+        "cote": 0.0147,
         "gains": 0.1753,
         "couple_je": 0.38,
         "hippodrome": 0.5,
@@ -1563,105 +1527,9 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 19.41,
+      "score": 19.29,
       "enrichi": true,
       "rang_predit": 12
-    },
-    {
-      "numero": 8,
-      "nom": "Schuman",
-      "artifice": null,
-      "sexe": "M",
-      "age": 4,
-      "poids": 57.5,
-      "jockey": "A. Madamet",
-      "musique": "5p11p10p4p6p7p",
-      "vh": 38.0,
-      "gains_eur": 39008,
-      "entraineur": "F. Monnier (s)",
-      "cote_pmu": 18.0,
-      "non_partant": false,
-      "musique_raw": "5p11p10p4p6p7p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 5,
-      "position_moyenne": 3.83,
-      "fiche_enrichie": {
-        "numero": 8,
-        "nom": "Schuman",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Madamet",
-          "proprietaire": "F. Monnier (s)",
-          "eleveur": "Sarl Hyperion",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Zelzal"
-        },
-        "course_actuelle": {
-          "hippodrome": "Dieppe",
-          "nb_partants": 16,
-          "allocation_eur": 50900,
-          "distance_m": 1100,
-          "vh": 38.0
-        },
-        "cote_live_fiche": 22.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. MADAMET",
-            "victoires": 1,
-            "places": 1,
-            "courses": 8,
-            "pourcentage": 25.0
-          },
-          "avec_entraineur": {
-            "nom": "F. MONNIER (S)",
-            "victoires": 2,
-            "places": 2,
-            "courses": 15,
-            "pourcentage": 27.0
-          },
-          "sur_hippodrome": {
-            "nom": "DIEPPE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 39008,
-          "musique": "5p 11p 10p 4p 6p 7p (25) 1p",
-          "carriere": {
-            "courses": 15,
-            "victoires": 2,
-            "places": 2,
-            "pourcentage": 27.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0511,
-        "gains": 0.1456,
-        "couple_je": 0.26,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
-        "recuperation": 0.5
-      },
-      "score": 18.7,
-      "enrichi": true,
-      "rang_predit": 13
     },
     {
       "numero": 11,
@@ -1675,7 +1543,7 @@
       "vh": 37.0,
       "gains_eur": 55416,
       "entraineur": "N. Bellanger",
-      "cote_pmu": 17.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "6p16p10p15p3p4p",
       "nb_courses_recentes": 6,
@@ -1705,7 +1573,7 @@
           "distance_m": 1100,
           "vh": 37.0
         },
-        "cote_live_fiche": 17.0,
+        "cote_live_fiche": 14.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. BOISSEAU",
@@ -1747,7 +1615,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0541,
+        "cote": 0.066,
         "gains": 0.2069,
         "couple_je": 0.18,
         "hippodrome": 0.5,
@@ -1755,9 +1623,9 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 18.09,
+      "score": 18.74,
       "enrichi": true,
-      "rang_predit": 14
+      "rang_predit": 13
     },
     {
       "numero": 10,
@@ -1771,7 +1639,7 @@
       "vh": 37.5,
       "gains_eur": 52039,
       "entraineur": "G. Bietolini",
-      "cote_pmu": 50.0,
+      "cote_pmu": 28.0,
       "non_partant": false,
       "musique_raw": "13p6p9p(25)14p4p",
       "nb_courses_recentes": 5,
@@ -1801,29 +1669,11 @@
           "distance_m": 1100,
           "vh": 37.5
         },
-        "cote_live_fiche": 31.0,
+        "cote_live_fiche": 28.0,
         "stats_couples": {
-          "avec_jockey": {
-            "nom": "S. PASQUIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "G. BIETOLINI",
-            "victoires": 1,
-            "places": 3,
-            "courses": 15,
-            "pourcentage": 27.0
-          },
-          "sur_hippodrome": {
-            "nom": "DIEPPE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
         },
         "performances_globales": {
           "gains_eur": 52039,
@@ -1838,15 +1688,111 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0184,
+        "cote": 0.033,
         "gains": 0.1942,
-        "couple_je": 0.135,
+        "couple_je": 0.5,
         "hippodrome": 0.5,
         "pref_terrain": 0.2,
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 13.41,
+      "score": 18.6,
+      "enrichi": true,
+      "rang_predit": 14
+    },
+    {
+      "numero": 8,
+      "nom": "Schuman",
+      "artifice": null,
+      "sexe": "M",
+      "age": 4,
+      "poids": 57.5,
+      "jockey": "A. Madamet",
+      "musique": "5p11p10p4p6p7p",
+      "vh": 38.0,
+      "gains_eur": 39008,
+      "entraineur": "F. Monnier (s)",
+      "cote_pmu": 33.0,
+      "non_partant": false,
+      "musique_raw": "5p11p10p4p6p7p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 5,
+      "position_moyenne": 3.83,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Schuman",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Madamet",
+          "proprietaire": "F. Monnier (s)",
+          "eleveur": "Sarl Hyperion",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Mâle",
+          "pere": "Galop",
+          "mere": "Zelzal"
+        },
+        "course_actuelle": {
+          "hippodrome": "Dieppe",
+          "nb_partants": 16,
+          "allocation_eur": 50900,
+          "distance_m": 1100,
+          "vh": 38.0
+        },
+        "cote_live_fiche": 33.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. MADAMET",
+            "victoires": 1,
+            "places": 1,
+            "courses": 8,
+            "pourcentage": 25.0
+          },
+          "avec_entraineur": {
+            "nom": "F. MONNIER (S)",
+            "victoires": 2,
+            "places": 2,
+            "courses": 15,
+            "pourcentage": 27.0
+          },
+          "sur_hippodrome": {
+            "nom": "DIEPPE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 39008,
+          "musique": "5p 11p 10p 4p 6p 7p (25) 1p",
+          "carriere": {
+            "courses": 15,
+            "victoires": 2,
+            "places": 2,
+            "pourcentage": 27.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.028,
+        "gains": 0.1456,
+        "couple_je": 0.26,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 17.43,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1862,7 +1808,7 @@
       "vh": 37.0,
       "gains_eur": 75243,
       "entraineur": "G. Mossé",
-      "cote_pmu": 13.0,
+      "cote_pmu": 6.9,
       "non_partant": false,
       "musique_raw": "2p4p4p6p9p(25)",
       "nb_courses_recentes": 5,
@@ -1892,7 +1838,7 @@
           "distance_m": 1100,
           "vh": 37.0
         },
-        "cote_live_fiche": 10.0,
+        "cote_live_fiche": 6.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. POUCHIN",
@@ -1934,7 +1880,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0707,
+        "cote": 0.1339,
         "gains": 0.2809,
         "couple_je": 0.24,
         "hippodrome": 0.0,
@@ -1942,7 +1888,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 12.81,
+      "score": 16.29,
       "enrichi": true,
       "rang_predit": 16
     }
