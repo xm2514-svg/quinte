@@ -92,7 +92,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1957,
+        "cote": 0.1962,
         "gains": 0.7895,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -100,7 +100,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.53,
+      "score": 32.56,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -116,7 +116,7 @@
       "vh": 34.5,
       "gains_eur": 37586,
       "entraineur": "Mme D. Schoenherr",
-      "cote_pmu": 7.9,
+      "cote_pmu": 7.7,
       "non_partant": false,
       "musique_raw": "1p4p1p2p(25)1p",
       "nb_courses_recentes": 5,
@@ -170,7 +170,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1065,
+        "cote": 0.1096,
         "gains": 0.227,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -178,9 +178,42 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 32.34,
+      "score": 32.51,
       "enrichi": true,
       "rang_predit": 2
+    },
+    {
+      "numero": 7,
+      "nom": "Rêve de Vallarsa",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 57.5,
+      "jockey": "Mlle D. Santiago",
+      "musique": "6p11p2p1p13p(25)",
+      "vh": 37.0,
+      "gains_eur": 127143,
+      "entraineur": "Mme S. Gavilan",
+      "cote_pmu": 20.0,
+      "non_partant": false,
+      "musique_raw": "6p11p2p1p13p(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 6,
+      "position_moyenne": 2.6,
+      "sous_scores": {
+        "cote": 0.0422,
+        "gains": 0.7679,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 30.42,
+      "enrichi": false,
+      "rang_predit": 3
     },
     {
       "numero": 1,
@@ -194,7 +227,7 @@
       "vh": 39.5,
       "gains_eur": 42834,
       "entraineur": "C. Gourdain",
-      "cote_pmu": 12.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "1p3p3p(25)5p11p",
       "nb_courses_recentes": 5,
@@ -248,7 +281,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0649,
         "gains": 0.2587,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -256,41 +289,8 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 30.43,
+      "score": 30.15,
       "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 7,
-      "nom": "Rêve de Vallarsa",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "Mlle D. Santiago",
-      "musique": "6p11p2p1p13p(25)",
-      "vh": 37.0,
-      "gains_eur": 127143,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "6p11p2p1p13p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 6,
-      "position_moyenne": 2.6,
-      "sous_scores": {
-        "cote": 0.0421,
-        "gains": 0.7679,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.42,
-      "enrichi": false,
       "rang_predit": 4
     },
     {
@@ -359,7 +359,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0561,
+        "cote": 0.0562,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -383,7 +383,7 @@
       "vh": 34.5,
       "gains_eur": 32440,
       "entraineur": "Mme A. Tinchon",
-      "cote_pmu": 9.7,
+      "cote_pmu": 9.9,
       "non_partant": false,
       "musique_raw": "3p1p3p6p5p8p",
       "nb_courses_recentes": 6,
@@ -432,7 +432,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0868,
+        "cote": 0.0852,
         "gains": 0.1959,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -440,7 +440,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.36,
+      "score": 26.27,
       "enrichi": true,
       "rang_predit": 6
     }
@@ -512,7 +512,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1957,
+        "cote": 0.1962,
         "gains": 0.7895,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -520,7 +520,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.53,
+      "score": 32.56,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -536,7 +536,7 @@
       "vh": 34.5,
       "gains_eur": 37586,
       "entraineur": "Mme D. Schoenherr",
-      "cote_pmu": 7.9,
+      "cote_pmu": 7.7,
       "non_partant": false,
       "musique_raw": "1p4p1p2p(25)1p",
       "nb_courses_recentes": 5,
@@ -590,7 +590,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1065,
+        "cote": 0.1096,
         "gains": 0.227,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -598,9 +598,42 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 32.34,
+      "score": 32.51,
       "enrichi": true,
       "rang_predit": 2
+    },
+    {
+      "numero": 7,
+      "nom": "Rêve de Vallarsa",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 57.5,
+      "jockey": "Mlle D. Santiago",
+      "musique": "6p11p2p1p13p(25)",
+      "vh": 37.0,
+      "gains_eur": 127143,
+      "entraineur": "Mme S. Gavilan",
+      "cote_pmu": 20.0,
+      "non_partant": false,
+      "musique_raw": "6p11p2p1p13p(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 6,
+      "position_moyenne": 2.6,
+      "sous_scores": {
+        "cote": 0.0422,
+        "gains": 0.7679,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 30.42,
+      "enrichi": false,
+      "rang_predit": 3
     },
     {
       "numero": 1,
@@ -614,7 +647,7 @@
       "vh": 39.5,
       "gains_eur": 42834,
       "entraineur": "C. Gourdain",
-      "cote_pmu": 12.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "1p3p3p(25)5p11p",
       "nb_courses_recentes": 5,
@@ -668,7 +701,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0649,
         "gains": 0.2587,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -676,41 +709,8 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 30.43,
+      "score": 30.15,
       "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 7,
-      "nom": "Rêve de Vallarsa",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "Mlle D. Santiago",
-      "musique": "6p11p2p1p13p(25)",
-      "vh": 37.0,
-      "gains_eur": 127143,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "6p11p2p1p13p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 6,
-      "position_moyenne": 2.6,
-      "sous_scores": {
-        "cote": 0.0421,
-        "gains": 0.7679,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.42,
-      "enrichi": false,
       "rang_predit": 4
     },
     {
@@ -779,7 +779,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0561,
+        "cote": 0.0562,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -803,7 +803,7 @@
       "vh": 34.5,
       "gains_eur": 32440,
       "entraineur": "Mme A. Tinchon",
-      "cote_pmu": 9.7,
+      "cote_pmu": 9.9,
       "non_partant": false,
       "musique_raw": "3p1p3p6p5p8p",
       "nb_courses_recentes": 6,
@@ -852,7 +852,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0868,
+        "cote": 0.0852,
         "gains": 0.1959,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -860,7 +860,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.36,
+      "score": 26.27,
       "enrichi": true,
       "rang_predit": 6
     },
@@ -930,7 +930,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0601,
+        "cote": 0.0603,
         "gains": 0.563,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1086,7 +1086,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0647,
+        "cote": 0.0649,
         "gains": 0.4906,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1094,7 +1094,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 24.43,
+      "score": 24.44,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1110,7 +1110,7 @@
       "vh": 33.0,
       "gains_eur": 39212,
       "entraineur": "RC. Montenegro",
-      "cote_pmu": 9.2,
+      "cote_pmu": 9.0,
       "non_partant": false,
       "musique_raw": "8p11p5p11p8p8p",
       "nb_courses_recentes": 6,
@@ -1164,7 +1164,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0915,
+        "cote": 0.0937,
         "gains": 0.2368,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1172,7 +1172,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 24.08,
+      "score": 24.2,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1392,7 +1392,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.029,
+        "cote": 0.0291,
         "gains": 0.2053,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1400,7 +1400,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.21,
+      "score": 23.22,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1470,7 +1470,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0255,
+        "cote": 0.0256,
         "gains": 0.5464,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1478,7 +1478,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 22.44,
+      "score": 22.45,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1626,7 +1626,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0703,
         "gains": 0.2222,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1634,7 +1634,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 20.72,
+      "score": 20.73,
       "enrichi": true,
       "rang_predit": 16
     }
