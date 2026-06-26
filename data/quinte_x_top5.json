@@ -1,19 +1,19 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "course": {
     "reunion": "R1",
-    "course_num": null,
-    "hippodrome": "La Teste",
+    "course_num": "C3",
+    "hippodrome": "Enghien",
     "nom": null,
-    "heure": "20h45",
+    "heure": "20h15",
     "type": null,
     "categorie": null,
-    "nb_partants": 15,
-    "allocation_eur": 50900,
-    "distance_m": 1800,
-    "corde": "droite",
+    "nb_partants": 13,
+    "allocation_eur": 53000,
+    "distance_m": 2150,
+    "corde": "gauche",
     "terrain": "-",
-    "meteo": "29°C Ciel clair, vent 10km/h - SO"
+    "meteo": "26°C Nuageux, vent 6km/h - SE"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -28,60 +28,78 @@
   "top5": [
     {
       "numero": 3,
-      "nom": "Presa Diretta",
-      "artifice": "oui",
+      "nom": "Florida Bi",
+      "artifice": null,
       "sexe": "F",
-      "age": 7,
-      "poids": 59.0,
-      "jockey": "A. Lemaitre",
-      "musique": "4p3p(25)12p15p8p",
-      "vh": 38.5,
-      "gains_eur": 130726,
-      "entraineur": "A. Carrasco-Sanchez",
-      "cote_pmu": 4.3,
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "E. Raffin",
+      "musique": "1a3a1a(25)1a1a",
+      "vh": null,
+      "gains_eur": 102574,
+      "entraineur": "HE. Bondo",
+      "cote_pmu": 2.6,
       "non_partant": false,
-      "musique_raw": "4p3p(25)12p15p8p",
+      "musique_raw": "1a3a1a(25)1a1a",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 4.4,
+      "nb_victoires_recentes": 4,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 1.4,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 3,
+        "nom": "Florida Bi",
         "carte_identite": {
-          "jockey": "A. Carrasco-Sanchez",
-          "entraineur": "Cuadra Mazantinni",
-          "proprietaire": "Haras du Grand Lys",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Femelle",
-          "naissance": "Bai",
-          "discipline": "2019",
-          "pere": "Ghada Amer",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "E. Raffin",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Scud.Union Perfect Srl",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 130726,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 2.6,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "E. RAFFIN",
+            "victoires": 3,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "HE. BONDO",
+            "victoires": 13,
+            "places": 1,
+            "courses": 16,
+            "pourcentage": 88.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
         },
         "performances_globales": {
-          "gains_eur": 130726,
-          "musique": "4p 3p (25) 12p 15p 8p 1p 1p",
+          "gains_eur": 102574,
+          "musique": "1a 3a 1a (25) 1a 1a 1a 1a",
           "carriere": {
-            "courses": 45,
-            "victoires": 6,
-            "places": 11,
-            "pourcentage": 38.0
+            "courses": 18,
+            "victoires": 15,
+            "places": 1,
+            "pourcentage": 89.0
           }
         },
         "dernieres_courses": [],
@@ -92,834 +110,92 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1962,
-        "gains": 0.7895,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "cote": 0.3544,
+        "gains": 1.0,
+        "couple_je": 0.94,
+        "hippodrome": 1.0,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 32.56,
+      "score": 61.77,
       "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 13,
-      "nom": "Tornilla",
+      "numero": 5,
+      "nom": "Marinella Vrie",
       "artifice": null,
       "sexe": "F",
-      "age": 5,
-      "poids": 55.0,
-      "jockey": "G. Trolley de Prevaux",
-      "musique": "1p4p1p2p(25)1p",
-      "vh": 34.5,
-      "gains_eur": 37586,
-      "entraineur": "Mme D. Schoenherr",
-      "cote_pmu": 7.7,
+      "age": 4,
+      "poids": 2150.0,
+      "jockey": "M. Mottier",
+      "musique": "1a3a(25)1a4a1a",
+      "vh": null,
+      "gains_eur": 100995,
+      "entraineur": "M. Mottier",
+      "cote_pmu": 6.5,
       "non_partant": false,
-      "musique_raw": "1p4p1p2p(25)1p",
+      "musique_raw": "1a3a(25)1a4a1a",
       "nb_courses_recentes": 5,
       "nb_victoires_recentes": 3,
       "nb_places_recentes": 4,
       "derniere_position": 1,
-      "position_moyenne": 1.8,
+      "position_moyenne": 2.0,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 5,
+        "nom": "Marinella Vrie",
         "carte_identite": {
-          "jockey": "Mme D. Schoenherr",
-          "entraineur": "Mme D. Schoenherr",
-          "proprietaire": "Scuderia Micolo Snc",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Femelle",
-          "naissance": "Bai",
-          "discipline": "2021",
-          "pere": "Elusive Pernilla",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "M. Mottier",
+          "proprietaire": "M. Mottier",
+          "eleveur": "M. Courant",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 37586,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 6.5,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 37586,
-          "musique": "1p 4p 1p 2p (25) 1p 10p 13p",
-          "carriere": {
-            "courses": 18,
-            "victoires": 3,
-            "places": 3,
-            "pourcentage": 33.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1096,
-        "gains": 0.227,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 32.51,
-      "enrichi": true,
-      "rang_predit": 2
-    },
-    {
-      "numero": 7,
-      "nom": "Rêve de Vallarsa",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "Mlle D. Santiago",
-      "musique": "6p11p2p1p13p(25)",
-      "vh": 37.0,
-      "gains_eur": 127143,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "6p11p2p1p13p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 6,
-      "position_moyenne": 2.6,
-      "sous_scores": {
-        "cote": 0.0422,
-        "gains": 0.7679,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.42,
-      "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 1,
-      "nom": "Roman Forum",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 4,
-      "poids": 60.0,
-      "jockey": "I. Mendizabal",
-      "musique": "1p3p3p(25)5p11p",
-      "vh": 39.5,
-      "gains_eur": 42834,
-      "entraineur": "C. Gourdain",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "1p3p3p(25)5p11p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 2.6,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "C. Gourdain",
-          "entraineur": "R. Ng",
-          "proprietaire": "R. Ng",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Alezan",
-          "discipline": "2022",
-          "pere": "Wondrous Scene",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 42834,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 42834,
-          "musique": "1p 3p 3p (25) 5p 11p 2p 5p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 5,
-            "pourcentage": 70.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0649,
-        "gains": 0.2587,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.15,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 8,
-      "nom": "Nolito",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "G. Guedj-Gay",
-      "musique": "1p5p2p13p5p(25)",
-      "vh": 37.0,
-      "gains_eur": 165576,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 15.0,
-      "non_partant": false,
-      "musique_raw": "1p5p2p13p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 3.2,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme S. Gavilan",
-          "entraineur": "Mlle V. Violanes",
-          "proprietaire": "Mme Y. Pantall",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2020",
-          "pere": "Dubai Empress",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 165576,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 165576,
-          "musique": "1p 5p 2p 13p 5p (25) 4p 10p",
-          "carriere": {
-            "courses": 54,
-            "victoires": 6,
-            "places": 15,
-            "pourcentage": 39.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0562,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 28.69,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 14,
-      "nom": "Storia Di Roma",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 55.0,
-      "jockey": "A. Gavilan",
-      "musique": "3p1p3p6p5p8p",
-      "vh": 34.5,
-      "gains_eur": 32440,
-      "entraineur": "Mme A. Tinchon",
-      "cote_pmu": 9.9,
-      "non_partant": false,
-      "musique_raw": "3p1p3p6p5p8p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 4.33,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme A. Tinchon",
-          "entraineur": "D. Grech",
-          "proprietaire": "Mme G. Neveux",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2022",
-          "pere": "Storia Dell'Isola",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 32440,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 32440,
-          "musique": "3p 1p 3p 6p 5p 8p (25) 4p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0852,
-        "gains": 0.1959,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 26.27,
-      "enrichi": true,
-      "rang_predit": 6
-    }
-  ],
-  "tous_chevaux": [
-    {
-      "numero": 3,
-      "nom": "Presa Diretta",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 7,
-      "poids": 59.0,
-      "jockey": "A. Lemaitre",
-      "musique": "4p3p(25)12p15p8p",
-      "vh": 38.5,
-      "gains_eur": 130726,
-      "entraineur": "A. Carrasco-Sanchez",
-      "cote_pmu": 4.3,
-      "non_partant": false,
-      "musique_raw": "4p3p(25)12p15p8p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 4.4,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "A. Carrasco-Sanchez",
-          "entraineur": "Cuadra Mazantinni",
-          "proprietaire": "Haras du Grand Lys",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Femelle",
-          "naissance": "Bai",
-          "discipline": "2019",
-          "pere": "Ghada Amer",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 130726,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 130726,
-          "musique": "4p 3p (25) 12p 15p 8p 1p 1p",
-          "carriere": {
-            "courses": 45,
-            "victoires": 6,
-            "places": 11,
-            "pourcentage": 38.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1962,
-        "gains": 0.7895,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 32.56,
-      "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 13,
-      "nom": "Tornilla",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 55.0,
-      "jockey": "G. Trolley de Prevaux",
-      "musique": "1p4p1p2p(25)1p",
-      "vh": 34.5,
-      "gains_eur": 37586,
-      "entraineur": "Mme D. Schoenherr",
-      "cote_pmu": 7.7,
-      "non_partant": false,
-      "musique_raw": "1p4p1p2p(25)1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 1.8,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme D. Schoenherr",
-          "entraineur": "Mme D. Schoenherr",
-          "proprietaire": "Scuderia Micolo Snc",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Femelle",
-          "naissance": "Bai",
-          "discipline": "2021",
-          "pere": "Elusive Pernilla",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 37586,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 37586,
-          "musique": "1p 4p 1p 2p (25) 1p 10p 13p",
-          "carriere": {
-            "courses": 18,
-            "victoires": 3,
-            "places": 3,
-            "pourcentage": 33.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1096,
-        "gains": 0.227,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 32.51,
-      "enrichi": true,
-      "rang_predit": 2
-    },
-    {
-      "numero": 7,
-      "nom": "Rêve de Vallarsa",
-      "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "Mlle D. Santiago",
-      "musique": "6p11p2p1p13p(25)",
-      "vh": 37.0,
-      "gains_eur": 127143,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "6p11p2p1p13p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 6,
-      "position_moyenne": 2.6,
-      "sous_scores": {
-        "cote": 0.0422,
-        "gains": 0.7679,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.42,
-      "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 1,
-      "nom": "Roman Forum",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 4,
-      "poids": 60.0,
-      "jockey": "I. Mendizabal",
-      "musique": "1p3p3p(25)5p11p",
-      "vh": 39.5,
-      "gains_eur": 42834,
-      "entraineur": "C. Gourdain",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "1p3p3p(25)5p11p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 2.6,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "C. Gourdain",
-          "entraineur": "R. Ng",
-          "proprietaire": "R. Ng",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Alezan",
-          "discipline": "2022",
-          "pere": "Wondrous Scene",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 42834,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 42834,
-          "musique": "1p 3p 3p (25) 5p 11p 2p 5p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 5,
-            "pourcentage": 70.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0649,
-        "gains": 0.2587,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 30.15,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 8,
-      "nom": "Nolito",
-      "artifice": null,
-      "sexe": "H",
-      "age": 6,
-      "poids": 57.5,
-      "jockey": "G. Guedj-Gay",
-      "musique": "1p5p2p13p5p(25)",
-      "vh": 37.0,
-      "gains_eur": 165576,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 15.0,
-      "non_partant": false,
-      "musique_raw": "1p5p2p13p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 3.2,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme S. Gavilan",
-          "entraineur": "Mlle V. Violanes",
-          "proprietaire": "Mme Y. Pantall",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2020",
-          "pere": "Dubai Empress",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 165576,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 165576,
-          "musique": "1p 5p 2p 13p 5p (25) 4p 10p",
-          "carriere": {
-            "courses": 54,
-            "victoires": 6,
-            "places": 15,
-            "pourcentage": 39.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0562,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 28.69,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 14,
-      "nom": "Storia Di Roma",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 55.0,
-      "jockey": "A. Gavilan",
-      "musique": "3p1p3p6p5p8p",
-      "vh": 34.5,
-      "gains_eur": 32440,
-      "entraineur": "Mme A. Tinchon",
-      "cote_pmu": 9.9,
-      "non_partant": false,
-      "musique_raw": "3p1p3p6p5p8p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 4.33,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme A. Tinchon",
-          "entraineur": "D. Grech",
-          "proprietaire": "Mme G. Neveux",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2022",
-          "pere": "Storia Dell'Isola",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 32440,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 32440,
-          "musique": "3p 1p 3p 6p 5p 8p (25) 4p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0852,
-        "gains": 0.1959,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 26.27,
-      "enrichi": true,
-      "rang_predit": 6
-    },
-    {
-      "numero": 15,
-      "nom": "Saint Aquilin",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 5,
-      "poids": 54.0,
-      "jockey": "Mlle M. Vélon",
-      "musique": "4p1p1p3p5p6p",
-      "vh": 33.5,
-      "gains_eur": 93225,
-      "entraineur": "G. Braem",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "4p1p1p3p5p6p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.33,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "G. Braem",
-          "entraineur": "Repro Zaman Bvba",
-          "proprietaire": "Scea Le Haras d'Haspel",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Alezan",
-          "discipline": "2021",
-          "pere": "Sary Arqa",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 93225,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 93225,
-          "musique": "4p 1p 1p 3p 5p 6p 7p (25)",
-          "carriere": {
-            "courses": 30,
+          "avec_jockey": {
+            "nom": "M. MOTTIER",
             "victoires": 5,
-            "places": 7,
-            "pourcentage": 40.0
+            "places": 2,
+            "courses": 9,
+            "pourcentage": 78.0
+          },
+          "avec_entraineur": {
+            "nom": "M. MOTTIER",
+            "victoires": 6,
+            "places": 2,
+            "courses": 10,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 100995,
+          "musique": "1a 3a (25) 1a 4a 1a 3a 4a",
+          "carriere": {
+            "courses": 10,
+            "victoires": 6,
+            "places": 2,
+            "pourcentage": 80.0
           }
         },
         "dernieres_courses": [],
@@ -930,151 +206,91 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0603,
-        "gains": 0.563,
-        "couple_je": 0.5,
+        "cote": 0.1418,
+        "gains": 0.9846,
+        "couple_je": 0.79,
         "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 26.0,
+      "score": 40.03,
       "enrichi": true,
-      "rang_predit": 7
+      "rang_predit": 2
     },
     {
       "numero": 11,
-      "nom": "Swiss Money",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 6,
-      "poids": 56.5,
-      "jockey": "A. Werlé",
-      "musique": "3p1p5p3p5p(25)",
-      "vh": 36.0,
-      "gains_eur": 95181,
-      "entraineur": "Mme AL. Guildoux",
-      "cote_pmu": 31.0,
+      "nom": "Lovely Wilma",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "F. Ouvrie",
+      "musique": "1a3a1a(25)8a3a",
+      "vh": null,
+      "gains_eur": 82903,
+      "entraineur": "V. Ciotola",
+      "cote_pmu": 19.0,
       "non_partant": false,
-      "musique_raw": "3p1p5p3p5p(25)",
+      "musique_raw": "1a3a1a(25)8a3a",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.4,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 1,
+      "position_moyenne": 3.2,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 11,
+        "nom": "Lovely Wilma",
         "carte_identite": {
-          "jockey": "Mme AL. Guildoux",
-          "entraineur": "J. Markarian",
-          "proprietaire": "Y. Barberot",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Alezan",
-          "discipline": "2020",
-          "pere": "Love Money",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "F. Ouvrie",
+          "proprietaire": "V. Ciotola",
+          "eleveur": "Scuderia Santese",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 95181,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 95181,
-          "musique": "3p 1p 5p 3p 5p (25) 14p 1p",
-          "carriere": {
-            "courses": 38,
-            "victoires": 6,
-            "places": 13,
-            "pourcentage": 50.0
+          "avec_jockey": {
+            "nom": "F. OUVRIE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "V. CIOTOLA",
+            "victoires": 2,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 75.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
           }
         },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0272,
-        "gains": 0.5748,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 25.82,
-      "enrichi": true,
-      "rang_predit": 8
-    },
-    {
-      "numero": 2,
-      "nom": "Dschingis Dream",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 5,
-      "poids": 60.0,
-      "jockey": "R. Sousa Ferreira",
-      "musique": "1p4p12p(25)6p4p",
-      "vh": 39.5,
-      "gains_eur": 81237,
-      "entraineur": "OA. Anaya",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "1p4p12p(25)6p4p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 1,
-      "position_moyenne": 3.4,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "OA. Anaya",
-          "entraineur": "OA. Anaya",
-          "proprietaire": "Avatara S.A.",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Mâle",
-          "naissance": "Bai",
-          "discipline": "2021",
-          "pere": "Neckara",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 81237,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
         "performances_globales": {
-          "gains_eur": 81237,
-          "musique": "1p 4p 12p (25) 6p 4p 6p 3p",
+          "gains_eur": 83037,
+          "musique": "1a 3a 1a (25) 8a 3a 7a 1a",
           "carriere": {
-            "courses": 27,
-            "victoires": 3,
-            "places": 10,
+            "courses": 29,
+            "victoires": 6,
+            "places": 8,
             "pourcentage": 48.0
           }
         },
@@ -1086,74 +302,125 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0649,
-        "gains": 0.4906,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "cote": 0.0485,
+        "gains": 0.8082,
+        "couple_je": 0.75,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 24.44,
+      "score": 38.89,
       "enrichi": true,
-      "rang_predit": 9
+      "rang_predit": 3
     },
     {
-      "numero": 16,
-      "nom": "Abacur",
+      "numero": 7,
+      "nom": "Léa d'Atout",
       "artifice": null,
-      "sexe": "H",
+      "sexe": "F",
       "age": 5,
-      "poids": 53.5,
-      "jockey": "M. Foulon",
-      "musique": "8p11p5p11p8p8p",
-      "vh": 33.0,
-      "gains_eur": 39212,
-      "entraineur": "RC. Montenegro",
-      "cote_pmu": 9.0,
+      "poids": 2150.0,
+      "jockey": "M. Abrivard",
+      "musique": "3a1a10a10a10a(25)",
+      "vh": null,
+      "gains_eur": 99560,
+      "entraineur": "M. Abrivard",
+      "cote_pmu": 14.0,
       "non_partant": false,
-      "musique_raw": "8p11p5p11p8p8p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 2,
-      "derniere_position": 8,
-      "position_moyenne": 5.17,
+      "musique_raw": "3a1a10a10a10a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 0.8,
+      "sous_scores": {
+        "cote": 0.0658,
+        "gains": 0.9706,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 35.53,
+      "enrichi": false,
+      "rang_predit": 4
+    },
+    {
+      "numero": 4,
+      "nom": "La Formidable",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "G. Gelormini",
+      "musique": "2a9a2a3a(25)1a",
+      "vh": null,
+      "gains_eur": 85409,
+      "entraineur": "L. Ferro",
+      "cote_pmu": 21.0,
+      "non_partant": false,
+      "musique_raw": "2a9a2a3a(25)1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 3.4,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 4,
+        "nom": "La Formidable",
         "carte_identite": {
-          "jockey": "RC. Montenegro",
-          "entraineur": "A. Urbano-Roldan",
-          "proprietaire": "Haras de Gratte Panche",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2021",
-          "pere": "Sea Life",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "G. Gelormini",
+          "proprietaire": "L. Ferro",
+          "eleveur": "Stall Allegra Racing Club",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 39212,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "G. GELORMINI",
+            "victoires": 0,
+            "places": 3,
+            "courses": 6,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "L. FERRO",
+            "victoires": 8,
+            "places": 8,
+            "courses": 21,
+            "pourcentage": 76.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          }
         },
         "performances_globales": {
-          "gains_eur": 39212,
-          "musique": "8p 11p 5p 11p 8p 8p 3p (25)",
+          "gains_eur": 85409,
+          "musique": "2a 9a 2a 3a (25) 1a 4a 1a",
           "carriere": {
-            "courses": 15,
-            "victoires": 4,
-            "places": 3,
-            "pourcentage": 47.0
+            "courses": 21,
+            "victoires": 8,
+            "places": 8,
+            "pourcentage": 76.0
           }
         },
         "dernieres_courses": [],
@@ -1164,73 +431,1086 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0937,
-        "gains": 0.2368,
+        "cote": 0.0439,
+        "gains": 0.8327,
+        "couple_je": 0.63,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 32.27,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 2,
+      "nom": "Panerai",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "B. Rochard",
+      "musique": "8a3m5a3a3aDa",
+      "vh": null,
+      "gains_eur": 82754,
+      "entraineur": "J. Westholm",
+      "cote_pmu": 17.0,
+      "non_partant": false,
+      "musique_raw": "8a3m5a3a3aDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 8,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Panerai",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "B. Rochard",
+          "proprietaire": "J. Westholm",
+          "eleveur": "M Eriksson Trading AB",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 17.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "B. ROCHARD",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "J. WESTHOLM",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 83428,
+          "musique": "8a 3m 5a 3a 3a Da 7a (25)",
+          "carriere": {
+            "courses": 39,
+            "victoires": 9,
+            "places": 6,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0542,
+        "gains": 0.8068,
         "couple_je": 0.5,
         "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 26.4,
+      "enrichi": true,
+      "rang_predit": 6
+    }
+  ],
+  "tous_chevaux": [
+    {
+      "numero": 3,
+      "nom": "Florida Bi",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "E. Raffin",
+      "musique": "1a3a1a(25)1a1a",
+      "vh": null,
+      "gains_eur": 102574,
+      "entraineur": "HE. Bondo",
+      "cote_pmu": 2.6,
+      "non_partant": false,
+      "musique_raw": "1a3a1a(25)1a1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 4,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 1.4,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Florida Bi",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "E. Raffin",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Scud.Union Perfect Srl",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 2.6,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "E. RAFFIN",
+            "victoires": 3,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "HE. BONDO",
+            "victoires": 13,
+            "places": 1,
+            "courses": 16,
+            "pourcentage": 88.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 102574,
+          "musique": "1a 3a 1a (25) 1a 1a 1a 1a",
+          "carriere": {
+            "courses": 18,
+            "victoires": 15,
+            "places": 1,
+            "pourcentage": 89.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.3544,
+        "gains": 1.0,
+        "couple_je": 0.94,
+        "hippodrome": 1.0,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 61.77,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
+      "numero": 5,
+      "nom": "Marinella Vrie",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 2150.0,
+      "jockey": "M. Mottier",
+      "musique": "1a3a(25)1a4a1a",
+      "vh": null,
+      "gains_eur": 100995,
+      "entraineur": "M. Mottier",
+      "cote_pmu": 6.5,
+      "non_partant": false,
+      "musique_raw": "1a3a(25)1a4a1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 4,
+      "derniere_position": 1,
+      "position_moyenne": 2.0,
+      "fiche_enrichie": {
+        "numero": 5,
+        "nom": "Marinella Vrie",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Mottier",
+          "proprietaire": "M. Mottier",
+          "eleveur": "M. Courant",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 6.5,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. MOTTIER",
+            "victoires": 5,
+            "places": 2,
+            "courses": 9,
+            "pourcentage": 78.0
+          },
+          "avec_entraineur": {
+            "nom": "M. MOTTIER",
+            "victoires": 6,
+            "places": 2,
+            "courses": 10,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 100995,
+          "musique": "1a 3a (25) 1a 4a 1a 3a 4a",
+          "carriere": {
+            "courses": 10,
+            "victoires": 6,
+            "places": 2,
+            "pourcentage": 80.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1418,
+        "gains": 0.9846,
+        "couple_je": 0.79,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 40.03,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 11,
+      "nom": "Lovely Wilma",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "F. Ouvrie",
+      "musique": "1a3a1a(25)8a3a",
+      "vh": null,
+      "gains_eur": 82903,
+      "entraineur": "V. Ciotola",
+      "cote_pmu": 19.0,
+      "non_partant": false,
+      "musique_raw": "1a3a1a(25)8a3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 1,
+      "position_moyenne": 3.2,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Lovely Wilma",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Ouvrie",
+          "proprietaire": "V. Ciotola",
+          "eleveur": "Scuderia Santese",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 19.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. OUVRIE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "V. CIOTOLA",
+            "victoires": 2,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 75.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 83037,
+          "musique": "1a 3a 1a (25) 8a 3a 7a 1a",
+          "carriere": {
+            "courses": 29,
+            "victoires": 6,
+            "places": 8,
+            "pourcentage": 48.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0485,
+        "gains": 0.8082,
+        "couple_je": 0.75,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 38.89,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 7,
+      "nom": "Léa d'Atout",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "M. Abrivard",
+      "musique": "3a1a10a10a10a(25)",
+      "vh": null,
+      "gains_eur": 99560,
+      "entraineur": "M. Abrivard",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "3a1a10a10a10a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 0.8,
+      "sous_scores": {
+        "cote": 0.0658,
+        "gains": 0.9706,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 35.53,
+      "enrichi": false,
+      "rang_predit": 4
+    },
+    {
+      "numero": 4,
+      "nom": "La Formidable",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "G. Gelormini",
+      "musique": "2a9a2a3a(25)1a",
+      "vh": null,
+      "gains_eur": 85409,
+      "entraineur": "L. Ferro",
+      "cote_pmu": 21.0,
+      "non_partant": false,
+      "musique_raw": "2a9a2a3a(25)1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 3.4,
+      "fiche_enrichie": {
+        "numero": 4,
+        "nom": "La Formidable",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Gelormini",
+          "proprietaire": "L. Ferro",
+          "eleveur": "Stall Allegra Racing Club",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 21.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "G. GELORMINI",
+            "victoires": 0,
+            "places": 3,
+            "courses": 6,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "L. FERRO",
+            "victoires": 8,
+            "places": 8,
+            "courses": 21,
+            "pourcentage": 76.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 2,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 85409,
+          "musique": "2a 9a 2a 3a (25) 1a 4a 1a",
+          "carriere": {
+            "courses": 21,
+            "victoires": 8,
+            "places": 8,
+            "pourcentage": 76.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0439,
+        "gains": 0.8327,
+        "couple_je": 0.63,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 32.27,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 2,
+      "nom": "Panerai",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "B. Rochard",
+      "musique": "8a3m5a3a3aDa",
+      "vh": null,
+      "gains_eur": 82754,
+      "entraineur": "J. Westholm",
+      "cote_pmu": 17.0,
+      "non_partant": false,
+      "musique_raw": "8a3m5a3a3aDa",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 8,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Panerai",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "B. Rochard",
+          "proprietaire": "J. Westholm",
+          "eleveur": "M Eriksson Trading AB",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 17.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "B. ROCHARD",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "J. WESTHOLM",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 83428,
+          "musique": "8a 3m 5a 3a 3a Da 7a (25)",
+          "carriere": {
+            "courses": 39,
+            "victoires": 9,
+            "places": 6,
+            "pourcentage": 38.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0542,
+        "gains": 0.8068,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 26.4,
+      "enrichi": true,
+      "rang_predit": 6
+    },
+    {
+      "numero": 1,
+      "nom": "Marilou",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 2150.0,
+      "jockey": "T. Duvaldestin",
+      "musique": "7a2a3a(25)7a5a",
+      "vh": null,
+      "gains_eur": 97715,
+      "entraineur": "T. Duvaldestin",
+      "cote_pmu": 13.0,
+      "non_partant": false,
+      "musique_raw": "7a2a3a(25)7a5a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 7,
+      "position_moyenne": 4.8,
+      "fiche_enrichie": {
+        "numero": 1,
+        "nom": "Marilou",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "T. Duvaldestin",
+          "proprietaire": "T. Duvaldestin",
+          "eleveur": "Ecurie Jean-Pierre Barjon",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 13.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "T. DUVALDESTIN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 25.0
+          },
+          "avec_entraineur": {
+            "nom": "T. DUVALDESTIN",
+            "victoires": 3,
+            "places": 4,
+            "courses": 16,
+            "pourcentage": 44.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 97715,
+          "musique": "7a 2a 3a (25) 7a 5a 6a 6a",
+          "carriere": {
+            "courses": 16,
+            "victoires": 3,
+            "places": 4,
+            "pourcentage": 44.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0709,
+        "gains": 0.9526,
+        "couple_je": 0.345,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 19.3,
+      "enrichi": true,
+      "rang_predit": 7
+    },
+    {
+      "numero": 8,
+      "nom": "Linna de Vandel",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "A. Abrivard",
+      "musique": "DaDa4a1aDa2a",
+      "vh": null,
+      "gains_eur": 94425,
+      "entraineur": "LC. Abrivard",
+      "cote_pmu": 56.0,
+      "non_partant": false,
+      "musique_raw": "DaDa4a1aDa2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 2.33,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Linna de Vandel",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "LC. Abrivard",
+          "eleveur": "Ecurie La Tour de Vandel",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 56.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 4,
+            "places": 0,
+            "courses": 15,
+            "pourcentage": 27.0
+          },
+          "avec_entraineur": {
+            "nom": "LC. ABRIVARD",
+            "victoires": 5,
+            "places": 4,
+            "courses": 29,
+            "pourcentage": 31.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 2,
+            "courses": 6,
+            "pourcentage": 33.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 94425,
+          "musique": "Da Da 4a 1a Da 2a (25) 5m",
+          "carriere": {
+            "courses": 30,
+            "victoires": 5,
+            "places": 4,
+            "pourcentage": 30.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0165,
+        "gains": 0.9206,
+        "couple_je": 0.29,
+        "hippodrome": 0.33,
         "pref_terrain": 0.3333,
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 24.2,
+      "score": 17.78,
+      "enrichi": true,
+      "rang_predit": 8
+    },
+    {
+      "numero": 12,
+      "nom": "Goggia",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 2150.0,
+      "jockey": "PP. Ploquin",
+      "musique": "1a4a5aDa5a(25)",
+      "vh": null,
+      "gains_eur": 76518,
+      "entraineur": "HE. Bondo",
+      "cote_pmu": 8.0,
+      "non_partant": false,
+      "musique_raw": "1a4a5aDa5a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 1,
+      "position_moyenne": 3.75,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Goggia",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "PP. Ploquin",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Ecurie Jean-Pierre Barjon",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 8.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "PP. PLOQUIN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 33.0
+          },
+          "avec_entraineur": {
+            "nom": "HE. BONDO",
+            "victoires": 2,
+            "places": 0,
+            "courses": 12,
+            "pourcentage": 17.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 76518,
+          "musique": "1a 4a 5a Da 5a (25) Da Da",
+          "carriere": {
+            "courses": 23,
+            "victoires": 7,
+            "places": 2,
+            "pourcentage": 39.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1152,
+        "gains": 0.746,
+        "couple_je": 0.25,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 16.77,
+      "enrichi": true,
+      "rang_predit": 9
+    },
+    {
+      "numero": 10,
+      "nom": "My Qualita Piya",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 2150.0,
+      "jockey": "A. Barrier",
+      "musique": "4a5a9a(25)6a2a",
+      "vh": null,
+      "gains_eur": 69565,
+      "entraineur": "Fabrice Souloy (S)",
+      "cote_pmu": 27.0,
+      "non_partant": false,
+      "musique_raw": "4a5a9a(25)6a2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 1,
+      "derniere_position": 4,
+      "position_moyenne": 5.2,
+      "fiche_enrichie": {
+        "numero": 10,
+        "nom": "My Qualita Piya",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Barrier",
+          "proprietaire": "Fabrice Souloy (S)",
+          "eleveur": "Mme N. Viel-Pierre",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 27.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. BARRIER",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "FABRICE SOULOY (S)",
+            "victoires": 2,
+            "places": 1,
+            "courses": 12,
+            "pourcentage": 25.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 2,
+            "places": 0,
+            "courses": 4,
+            "pourcentage": 50.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 69565,
+          "musique": "4a 5a 9a (25) 6a 2a Da Da",
+          "carriere": {
+            "courses": 19,
+            "victoires": 3,
+            "places": 1,
+            "pourcentage": 21.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0341,
+        "gains": 0.6782,
+        "couple_je": 0.125,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 15.61,
       "enrichi": true,
       "rang_predit": 10
     },
     {
       "numero": 6,
-      "nom": "Grey Tornado",
+      "nom": "Laredo Bay",
       "artifice": null,
-      "sexe": "M",
-      "age": 6,
-      "poids": 58.5,
-      "jockey": "F. Veron",
-      "musique": "3p3p(25)4p14p14p",
-      "vh": 38.0,
-      "gains_eur": 158114,
-      "entraineur": "G. Arizkorreta Elosegui",
-      "cote_pmu": 30.0,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "D. Locqueneux",
+      "musique": "Da7aDa2a(25)2a",
+      "vh": null,
+      "gains_eur": 95915,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 42.0,
       "non_partant": false,
-      "musique_raw": "3p3p(25)4p14p14p",
+      "musique_raw": "Da7aDa2a(25)2a",
       "nb_courses_recentes": 5,
       "nb_victoires_recentes": 0,
       "nb_places_recentes": 2,
-      "derniere_position": 3,
-      "position_moyenne": 3.6,
+      "derniere_position": 7,
+      "position_moyenne": 3.67,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 6,
+        "nom": "Laredo Bay",
         "carte_identite": {
-          "jockey": "G. Arizkorreta Elosegui",
-          "entraineur": "Yeguada Rocio",
-          "proprietaire": "P. Chedeville",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Mâle",
-          "naissance": "Gris",
-          "discipline": "2020",
-          "pere": "Veldargent",
-          "mere": "CONSULTER AUSSI"
+          "jockey": "Éleveur",
+          "entraineur": "D. Locqueneux",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "Ecurie M-Stables",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 158114,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 42.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "D. LOCQUENEUX",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "D. LOCQUENEUX",
+            "victoires": 5,
+            "places": 4,
+            "courses": 21,
+            "pourcentage": 43.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 0.0
+          }
         },
         "performances_globales": {
-          "gains_eur": 158114,
-          "musique": "3p 3p (25) 4p 14p 14p 6p 15p",
+          "gains_eur": 95915,
+          "musique": "Da 7a Da 2a (25) 2a 9a 10a",
           "carriere": {
-            "courses": 30,
+            "courses": 21,
             "victoires": 5,
-            "places": 8,
+            "places": 4,
             "pourcentage": 43.0
           }
         },
@@ -1242,69 +1522,88 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0281,
-        "gains": 0.9549,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
+        "cote": 0.0219,
+        "gains": 0.9351,
+        "couple_je": 0.215,
+        "hippodrome": 0.0,
         "pref_terrain": 0.4,
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 23.81,
+      "score": 14.99,
       "enrichi": true,
       "rang_predit": 11
     },
     {
       "numero": 9,
-      "nom": "Dubalaa",
-      "artifice": "oui",
-      "sexe": "H",
+      "nom": "Mosaic Life",
+      "artifice": null,
+      "sexe": "F",
       "age": 4,
-      "poids": 57.5,
-      "jockey": "6p11p2p2p4p(25)\t37\t46 509 €\tJ. Reynier",
-      "musique": null,
+      "poids": 2150.0,
+      "jockey": "D. Thomain",
+      "musique": "Da8mDaDa(25)Da",
       "vh": null,
-      "gains_eur": null,
-      "entraineur": null,
-      "cote_pmu": 46.0,
+      "gains_eur": 80880,
+      "entraineur": "P. Allaire",
+      "cote_pmu": 56.0,
       "non_partant": false,
+      "musique_raw": "Da8mDaDa(25)Da",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 0,
+      "derniere_position": 8,
+      "position_moyenne": 8.0,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 9,
+        "nom": "Mosaic Life",
         "carte_identite": {
-          "jockey": "J. Reynier",
-          "entraineur": "LG Bloodstock",
-          "proprietaire": "LG Bloodstock",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai",
-          "discipline": "2022",
-          "pere": "Mrs Dubawi",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "D. Thomain",
+          "proprietaire": "P. Allaire",
+          "eleveur": "P. Allaire",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2022",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 46509,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 56.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "D. THOMAIN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "P. ALLAIRE",
+            "victoires": 1,
+            "places": 5,
+            "courses": 19,
+            "pourcentage": 32.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 33.0
+          }
         },
         "performances_globales": {
-          "gains_eur": 46509,
-          "musique": "6p 11p 2p 2p 4p (25) 1p 1p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 4,
-            "pourcentage": 67.0
-          }
+          "gains_eur": 80880,
+          "musique": "Da 8m Da Da (25) Da Da Da",
+          "carriere": null
         },
         "dernieres_courses": [],
         "derives": {
@@ -1314,230 +1613,92 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0183,
-        "gains": 0.5,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
+        "cote": 0.0165,
+        "gains": 0.7885,
+        "couple_je": 0.16,
+        "hippodrome": 0.33,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 23.51,
+      "score": 10.49,
       "enrichi": true,
       "rang_predit": 12
     },
     {
-      "numero": 10,
-      "nom": "Aquitain",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 4,
-      "poids": 57.5,
-      "jockey": "T. Blanchouin",
-      "musique": "14p11p1p2p16p9p",
-      "vh": 37.0,
-      "gains_eur": 33996,
-      "entraineur": "Mme S. Gavilan",
-      "cote_pmu": 29.0,
-      "non_partant": false,
-      "musique_raw": "14p11p1p2p16p9p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.83,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "Mme S. Gavilan",
-          "entraineur": "E. Harivel",
-          "proprietaire": "A. Klodawski",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Bai Foncé",
-          "discipline": "2022",
-          "pere": "Tarap",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 33996,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 33996,
-          "musique": "14p 11p 1p 2p 16p 9p (25) 3p",
-          "carriere": {
-            "courses": 10,
-            "victoires": 2,
-            "places": 3,
-            "pourcentage": 50.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0291,
-        "gains": 0.2053,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 23.22,
-      "enrichi": true,
-      "rang_predit": 13
-    },
-    {
-      "numero": 12,
-      "nom": "Belle Anse",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 6,
-      "poids": 56.5,
-      "jockey": "JB. Eyquem",
-      "musique": "11p9p9p(25)7p3p",
-      "vh": 36.0,
-      "gains_eur": 90478,
-      "entraineur": "D. De Watrigant",
-      "cote_pmu": 33.0,
-      "non_partant": false,
-      "musique_raw": "11p9p9p(25)7p3p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 1,
-      "position_moyenne": 5.8,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "D. De Watrigant",
-          "entraineur": "Mme A. Nègre de Watrigant",
-          "proprietaire": "Mme A. Nègre de Watrigant",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Femelle",
-          "naissance": "Bai",
-          "discipline": "2020",
-          "pere": "Belle Lagune",
-          "mere": "CONSULTER AUSSI"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 90478,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 90478,
-          "musique": "11p 9p 9p (25) 7p 3p 4p 1p",
-          "carriere": {
-            "courses": 32,
-            "victoires": 5,
-            "places": 8,
-            "pourcentage": 41.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0256,
-        "gains": 0.5464,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 22.45,
-      "enrichi": true,
-      "rang_predit": 14
-    },
-    {
-      "numero": 5,
-      "nom": "Gentleman Beauty",
+      "numero": 13,
+      "nom": "Love Bites",
       "artifice": null,
-      "sexe": "H",
+      "sexe": "F",
       "age": 5,
-      "poids": 58.5,
-      "jockey": "H. Mouesan",
-      "musique": "5p3p8p6p6p13p",
-      "vh": 38.0,
-      "gains_eur": 79535,
-      "entraineur": "JC. Rouget",
-      "cote_pmu": 30.0,
+      "poids": 2150.0,
+      "jockey": "A. Collette",
+      "musique": "DaDaDaDaDm7a",
+      "vh": null,
+      "gains_eur": 69628,
+      "entraineur": "Mme S. Kagebrant",
+      "cote_pmu": 56.0,
       "non_partant": false,
-      "musique_raw": "5p3p8p6p6p13p",
+      "musique_raw": "DaDaDaDaDm7a",
       "nb_courses_recentes": 6,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 5,
-      "position_moyenne": 5.17,
+      "nb_places_recentes": 0,
+      "derniere_position": 7,
+      "position_moyenne": 7.0,
       "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
+        "numero": 13,
+        "nom": "Love Bites",
         "carte_identite": {
-          "jockey": "JC. Rouget",
-          "entraineur": "E. Fernandez de Vega",
-          "proprietaire": "JP. Dubois",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "Alezan",
-          "discipline": "2021",
-          "pere": "Lady's Beauty",
-          "mere": "Abonnement"
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "Mme S. Kagebrant",
+          "eleveur": "Stall Courant AB",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 79535,
-          "distance_m": null,
+          "hippodrome": "Enghien",
+          "nb_partants": 13,
+          "allocation_eur": 53000,
+          "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": null,
+        "cote_live_fiche": 56.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "MME S. KAGEBRANT",
+            "victoires": 0,
+            "places": 0,
+            "courses": 4,
+            "pourcentage": 0.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
-          "gains_eur": 79535,
-          "musique": "5p 3p 8p 6p 6p 13p (25) 4p",
+          "gains_eur": 69628,
+          "musique": "Da Da Da Da Dm 7a (25) 3a",
           "carriere": {
-            "courses": 33,
-            "victoires": 4,
-            "places": 2,
-            "pourcentage": 18.0
+            "courses": 27,
+            "victoires": 6,
+            "places": 7,
+            "pourcentage": 48.0
           }
         },
         "dernieres_courses": [],
@@ -1548,98 +1709,20 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0281,
-        "gains": 0.4804,
-        "couple_je": 0.5,
+        "cote": 0.0165,
+        "gains": 0.6788,
+        "couple_je": 0.0,
         "hippodrome": 0.5,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 21.32,
+      "score": 9.94,
       "enrichi": true,
-      "rang_predit": 15
-    },
-    {
-      "numero": 4,
-      "nom": "Rakhim",
-      "artifice": null,
-      "sexe": "H",
-      "age": 4,
-      "poids": 59.0,
-      "jockey": "C. Demuro",
-      "musique": "5p7p8p1p4p(25)",
-      "vh": 38.5,
-      "gains_eur": 36787,
-      "entraineur": "J. Reynier",
-      "cote_pmu": 12.0,
-      "non_partant": false,
-      "musique_raw": "5p7p8p1p4p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 5,
-      "position_moyenne": 5.0,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": "J. Reynier",
-          "entraineur": "N. Bizakov",
-          "proprietaire": "A. Sumbe",
-          "eleveur": "Sexe",
-          "sexe": "Mère",
-          "robe": "Hongre",
-          "naissance": "horse-coat-GRFO",
-          "discipline": "2022",
-          "pere": "Rasima",
-          "mere": "Abonnement"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": 36787,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 36787,
-          "musique": "5p 7p 8p 1p 4p (25) 7p 5p",
-          "carriere": {
-            "courses": 11,
-            "victoires": 2,
-            "places": 2,
-            "pourcentage": 36.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0703,
-        "gains": 0.2222,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
-        "recuperation": 0.5
-      },
-      "score": 20.73,
-      "enrichi": true,
-      "rang_predit": 16
+      "rang_predit": 13
     }
   ],
-  "nb_enrichis": 15,
-  "nb_partants": 16,
-  "cotes_dispo": 16
+  "nb_enrichis": 12,
+  "nb_partants": 13,
+  "cotes_dispo": 13
 }
