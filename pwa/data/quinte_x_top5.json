@@ -13,7 +13,7 @@
     "distance_m": 2150,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "37°C Nuageux, vent 13km/h - NO"
+    "meteo": "38°C Nuageux, vent 13km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3505,
+        "cote": 0.3515,
         "gains": 1.0,
         "couple_je": 0.94,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 61.56,
+      "score": 61.61,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 100995,
       "entraineur": "M. Mottier",
-      "cote_pmu": 4.5,
+      "cote_pmu": 4.6,
       "non_partant": false,
       "musique_raw": "1a3a(25)1a4a1a",
       "nb_courses_recentes": 5,
@@ -164,7 +164,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 4.5,
+        "cote_live_fiche": 4.6,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. MOTTIER",
@@ -206,7 +206,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2025,
+        "cote": 0.1987,
         "gains": 0.9846,
         "couple_je": 0.79,
         "hippodrome": 0.5,
@@ -214,7 +214,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 43.37,
+      "score": 43.16,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -230,7 +230,7 @@
       "vh": null,
       "gains_eur": 82903,
       "entraineur": "V. Ciotola",
-      "cote_pmu": 21.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "1a3a1a(25)8a3a",
       "nb_courses_recentes": 5,
@@ -260,7 +260,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 22.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. OUVRIE",
@@ -302,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0434,
+        "cote": 0.0415,
         "gains": 0.8082,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -310,7 +310,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 38.61,
+      "score": 38.51,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -326,7 +326,7 @@
       "vh": null,
       "gains_eur": 99560,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 19.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "3a1a10a10a10a(25)",
       "nb_courses_recentes": 5,
@@ -335,7 +335,7 @@
       "derniere_position": 3,
       "position_moyenne": 0.8,
       "sous_scores": {
-        "cote": 0.048,
+        "cote": 0.0508,
         "gains": 0.9706,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -343,7 +343,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 34.55,
+      "score": 34.7,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -431,7 +431,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0434,
+        "cote": 0.0435,
         "gains": 0.8327,
         "couple_je": 0.63,
         "hippodrome": 0.5,
@@ -439,7 +439,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 32.24,
+      "score": 32.25,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -625,7 +625,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3505,
+        "cote": 0.3515,
         "gains": 1.0,
         "couple_je": 0.94,
         "hippodrome": 1.0,
@@ -633,7 +633,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 61.56,
+      "score": 61.61,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -649,7 +649,7 @@
       "vh": null,
       "gains_eur": 100995,
       "entraineur": "M. Mottier",
-      "cote_pmu": 4.5,
+      "cote_pmu": 4.6,
       "non_partant": false,
       "musique_raw": "1a3a(25)1a4a1a",
       "nb_courses_recentes": 5,
@@ -679,7 +679,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 4.5,
+        "cote_live_fiche": 4.6,
         "stats_couples": {
           "avec_jockey": {
             "nom": "M. MOTTIER",
@@ -721,7 +721,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2025,
+        "cote": 0.1987,
         "gains": 0.9846,
         "couple_je": 0.79,
         "hippodrome": 0.5,
@@ -729,7 +729,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 43.37,
+      "score": 43.16,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -745,7 +745,7 @@
       "vh": null,
       "gains_eur": 82903,
       "entraineur": "V. Ciotola",
-      "cote_pmu": 21.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "1a3a1a(25)8a3a",
       "nb_courses_recentes": 5,
@@ -775,7 +775,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 21.0,
+        "cote_live_fiche": 22.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. OUVRIE",
@@ -817,7 +817,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0434,
+        "cote": 0.0415,
         "gains": 0.8082,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -825,7 +825,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 38.61,
+      "score": 38.51,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -841,7 +841,7 @@
       "vh": null,
       "gains_eur": 99560,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 19.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "3a1a10a10a10a(25)",
       "nb_courses_recentes": 5,
@@ -850,7 +850,7 @@
       "derniere_position": 3,
       "position_moyenne": 0.8,
       "sous_scores": {
-        "cote": 0.048,
+        "cote": 0.0508,
         "gains": 0.9706,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -858,7 +858,7 @@
         "pref_distance": 1.0,
         "recuperation": 0.5
       },
-      "score": 34.55,
+      "score": 34.7,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -946,7 +946,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0434,
+        "cote": 0.0435,
         "gains": 0.8327,
         "couple_je": 0.63,
         "hippodrome": 0.5,
@@ -954,7 +954,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 32.24,
+      "score": 32.25,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1138,7 +1138,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0828,
+        "cote": 0.0831,
         "gains": 0.9526,
         "couple_je": 0.345,
         "hippodrome": 0.0,
@@ -1146,7 +1146,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 19.95,
+      "score": 19.97,
       "enrichi": true,
       "rang_predit": 7
     },
@@ -1234,7 +1234,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0268,
+        "cote": 0.0269,
         "gains": 0.9206,
         "couple_je": 0.29,
         "hippodrome": 0.33,
@@ -1258,7 +1258,7 @@
       "vh": null,
       "gains_eur": 69565,
       "entraineur": "Fabrice Souloy (S)",
-      "cote_pmu": 33.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "4a5a9a(25)6a2a",
       "nb_courses_recentes": 5,
@@ -1288,7 +1288,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 33.0,
+        "cote_live_fiche": 31.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. BARRIER",
@@ -1330,7 +1330,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0276,
+        "cote": 0.0295,
         "gains": 0.6782,
         "couple_je": 0.125,
         "hippodrome": 0.5,
@@ -1338,7 +1338,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 15.25,
+      "score": 15.36,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1354,7 +1354,7 @@
       "vh": null,
       "gains_eur": 95915,
       "entraineur": "D. Locqueneux",
-      "cote_pmu": 40.0,
+      "cote_pmu": 41.0,
       "non_partant": false,
       "musique_raw": "Da7aDa2a(25)2a",
       "nb_courses_recentes": 5,
@@ -1384,7 +1384,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 41.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. LOCQUENEUX",
@@ -1426,7 +1426,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0228,
+        "cote": 0.0223,
         "gains": 0.9351,
         "couple_je": 0.215,
         "hippodrome": 0.0,
@@ -1434,7 +1434,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 15.04,
+      "score": 15.01,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1522,7 +1522,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0828,
+        "cote": 0.0831,
         "gains": 0.746,
         "couple_je": 0.25,
         "hippodrome": 0.0,
@@ -1530,7 +1530,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 14.99,
+      "score": 15.01,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1546,7 +1546,7 @@
       "vh": null,
       "gains_eur": 80880,
       "entraineur": "P. Allaire",
-      "cote_pmu": 55.0,
+      "cote_pmu": 56.0,
       "non_partant": false,
       "musique_raw": "Da8mDaDa(25)Da",
       "nb_courses_recentes": 5,
@@ -1576,7 +1576,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 55.0,
+        "cote_live_fiche": 56.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -1613,7 +1613,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0166,
+        "cote": 0.0163,
         "gains": 0.7885,
         "couple_je": 0.16,
         "hippodrome": 0.33,
@@ -1621,7 +1621,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 10.5,
+      "score": 10.48,
       "enrichi": true,
       "rang_predit": 12
     },
