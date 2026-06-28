@@ -1,0 +1,88 @@
+{
+  "date": "2026-06-27",
+  "course": {
+    "reunion": 1,
+    "course": 2,
+    "hippodrome": "ENGHIEN",
+    "libelle": "PRIX DE NEUILLY-LEVALLOIS"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 15
+    },
+    {
+      "rang": 2,
+      "numero": 13
+    },
+    {
+      "rang": 3,
+      "numero": 9
+    },
+    {
+      "rang": 4,
+      "numero": 14
+    },
+    {
+      "rang": 5,
+      "numero": 5
+    },
+    {
+      "rang": 6,
+      "numero": 3
+    },
+    {
+      "rang": 7,
+      "numero": 6
+    },
+    {
+      "rang": 8,
+      "numero": 4
+    },
+    {
+      "rang": 9,
+      "numero": 16
+    },
+    {
+      "rang": 10,
+      "numero": 8
+    },
+    {
+      "rang": 11,
+      "numero": 10
+    },
+    {
+      "rang": 12,
+      "numero": 11
+    },
+    {
+      "rang": 13,
+      "numero": 2
+    },
+    {
+      "rang": 14,
+      "numero": 7
+    },
+    {
+      "rang": 15,
+      "numero": 1
+    }
+  ],
+  "predictions": {
+    "top5": [
+      14,
+      12,
+      5,
+      9,
+      8,
+      13
+    ],
+    "date_prediction": "2026-06-27"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 14,
+    "favori_arrive_rang": 4
+  }
+}
