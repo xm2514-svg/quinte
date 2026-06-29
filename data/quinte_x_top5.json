@@ -13,7 +13,7 @@
     "distance_m": 3600,
     "corde": "droite",
     "terrain": "-",
-    "meteo": "16°C Ciel clair, vent 21km/h - NO"
+    "meteo": "18°C Nuageux, vent 14km/h - NO"
   },
   "fiabilite_globale": 0.8,
   "ponderations": {
@@ -27,6 +27,97 @@
   },
   "top5": [
     {
+      "numero": 9,
+      "nom": "Philadelphie",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 67.5,
+      "jockey": "K. Nabet",
+      "musique": "2h4h1h(25)3h4h",
+      "vh": 58.5,
+      "gains_eur": 50140,
+      "entraineur": "M. Pitart",
+      "cote_pmu": 4.3,
+      "non_partant": false,
+      "musique_raw": "2h4h1h(25)3h4h",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 9,
+        "nom": "Philadelphie",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "K. Nabet",
+          "proprietaire": "M. Pitart",
+          "eleveur": "JP. Dubois",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Kapgarde"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 58.5
+        },
+        "cote_live_fiche": 4.3,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "K. NABET",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "M. PITART",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 50140,
+          "musique": "2h 4h 1h (25) 3h 4h 3h",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2138,
+        "gains": 0.3397,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 41.38,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
       "numero": 10,
       "nom": "Hamilton Air",
       "artifice": null,
@@ -38,7 +129,7 @@
       "vh": 58.0,
       "gains_eur": 75360,
       "entraineur": "G. Leenders",
-      "cote_pmu": 14.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "9h(25)2h2h2h2h",
       "nb_courses_recentes": 5,
@@ -68,7 +159,7 @@
           "distance_m": 3600,
           "vh": 58.0
         },
-        "cote_live_fiche": 17.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ZULIANI",
@@ -105,7 +196,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0657,
+        "cote": 0.0836,
         "gains": 0.5106,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -113,229 +204,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 38.95,
+      "score": 39.93,
       "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 9,
-      "nom": "Philadelphie",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 67.5,
-      "jockey": "K. Nabet",
-      "musique": "2h4h1h(25)3h4h",
-      "vh": 58.5,
-      "gains_eur": 50140,
-      "entraineur": "M. Pitart",
-      "cote_pmu": 4.0,
-      "non_partant": false,
-      "musique_raw": "2h4h1h(25)3h4h",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 2.8,
-      "sous_scores": {
-        "cote": 0.2299,
-        "gains": 0.3397,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 36.27,
-      "enrichi": false,
       "rang_predit": 2
-    },
-    {
-      "numero": 2,
-      "nom": "Mary Shelley",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 71.0,
-      "jockey": "L. Zuliani",
-      "musique": "5s4s1h(25)2s3s",
-      "vh": 62.0,
-      "gains_eur": 147585,
-      "entraineur": "Lageneste & Macaire (s)",
-      "cote_pmu": 8.7,
-      "non_partant": false,
-      "musique_raw": "5s4s1h(25)2s3s",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 5,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Mary Shelley",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "L. Zuliani",
-          "proprietaire": "Lageneste & Macaire (s)",
-          "eleveur": "Ecurie H.et P.Pilarski",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Goliath du Berlais"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 62.0
-        },
-        "cote_live_fiche": 8.7,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "L. ZULIANI",
-            "victoires": 1,
-            "places": 5,
-            "courses": 10,
-            "pourcentage": 60.0
-          },
-          "avec_entraineur": {
-            "nom": "LAGENESTE & MACAIRE (S)",
-            "victoires": 2,
-            "places": 6,
-            "courses": 13,
-            "pourcentage": 62.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 147585,
-          "musique": "5s 4s 1h (25) 2s 3s 2s 2s",
-          "carriere": {
-            "courses": 13,
-            "victoires": 2,
-            "places": 6,
-            "pourcentage": 62.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1057,
-        "gains": 1.0,
-        "couple_je": 0.61,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 32.73,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 16,
-      "nom": "Ciel Mon Castor",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 62.5,
-      "jockey": "LP. Bréchet",
-      "musique": "2h2h10h13h",
-      "vh": 53.5,
-      "gains_eur": 13660,
-      "entraineur": "M. Rolland (s)",
-      "cote_pmu": 22.0,
-      "non_partant": false,
-      "musique_raw": "2h2h10h13h",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 1.75,
-      "fiche_enrichie": {
-        "numero": 16,
-        "nom": "Ciel Mon Castor",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "LP. Bréchet",
-          "proprietaire": "M. Rolland (s)",
-          "eleveur": "Ecurie Louis Fagalde",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Pastorius"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 53.5
-        },
-        "cote_live_fiche": 30.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "LP. BRÉCHET",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "M. ROLLAND (S)",
-            "victoires": 0,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 13660,
-          "musique": "2h 2h 10h 13h",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0418,
-        "gains": 0.0926,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 1.0,
-        "pref_distance": 1.0,
-        "recuperation": 0.5
-      },
-      "score": 31.58,
-      "enrichi": true,
-      "rang_predit": 4
     },
     {
       "numero": 3,
@@ -349,7 +220,7 @@
       "vh": 62.0,
       "gains_eur": 30400,
       "entraineur": "D. Sourdeau de Beauregard",
-      "cote_pmu": 15.0,
+      "cote_pmu": 8.5,
       "non_partant": false,
       "musique_raw": "3h1h1hTh",
       "nb_courses_recentes": 4,
@@ -379,7 +250,7 @@
           "distance_m": 3600,
           "vh": 62.0
         },
-        "cote_live_fiche": 15.0,
+        "cote_live_fiche": 8.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LEFEBVRE",
@@ -421,7 +292,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0613,
+        "cote": 0.1081,
         "gains": 0.206,
         "couple_je": 0.71,
         "hippodrome": 0.5,
@@ -429,7 +300,194 @@
         "pref_distance": 0.75,
         "recuperation": 0.5
       },
-      "score": 31.51,
+      "score": 34.09,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 16,
+      "nom": "Ciel Mon Castor",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 62.5,
+      "jockey": "LP. Bréchet",
+      "musique": "2h2h10h13h",
+      "vh": 53.5,
+      "gains_eur": 13660,
+      "entraineur": "M. Rolland (s)",
+      "cote_pmu": 23.0,
+      "non_partant": false,
+      "musique_raw": "2h2h10h13h",
+      "nb_courses_recentes": 4,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 1.75,
+      "fiche_enrichie": {
+        "numero": 16,
+        "nom": "Ciel Mon Castor",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "LP. Bréchet",
+          "proprietaire": "M. Rolland (s)",
+          "eleveur": "Ecurie Louis Fagalde",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Pastorius"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 53.5
+        },
+        "cote_live_fiche": 23.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "LP. BRÉCHET",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "M. ROLLAND (S)",
+            "victoires": 0,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 13660,
+          "musique": "2h 2h 10h 13h",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.04,
+        "gains": 0.0926,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 31.48,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 2,
+      "nom": "Mary Shelley",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 71.0,
+      "jockey": "L. Zuliani",
+      "musique": "5s4s1h(25)2s3s",
+      "vh": 62.0,
+      "gains_eur": 147585,
+      "entraineur": "Lageneste & Macaire (s)",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "5s4s1h(25)2s3s",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 5,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Mary Shelley",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "L. Zuliani",
+          "proprietaire": "Lageneste & Macaire (s)",
+          "eleveur": "Ecurie H.et P.Pilarski",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Goliath du Berlais"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 62.0
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "L. ZULIANI",
+            "victoires": 1,
+            "places": 5,
+            "courses": 10,
+            "pourcentage": 60.0
+          },
+          "avec_entraineur": {
+            "nom": "LAGENESTE & MACAIRE (S)",
+            "victoires": 2,
+            "places": 6,
+            "courses": 13,
+            "pourcentage": 62.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 147585,
+          "musique": "5s 4s 1h (25) 2s 3s 2s 2s",
+          "carriere": {
+            "courses": 13,
+            "victoires": 2,
+            "places": 6,
+            "pourcentage": 62.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0657,
+        "gains": 1.0,
+        "couple_je": 0.61,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 30.53,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -445,7 +503,7 @@
       "vh": 59.5,
       "gains_eur": 79535,
       "entraineur": "M. Rolland (s)",
-      "cote_pmu": 9.2,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "1h2h6h5h(25)3p",
       "nb_courses_recentes": 5,
@@ -475,7 +533,7 @@
           "distance_m": 3600,
           "vh": 59.5
         },
-        "cote_live_fiche": 6.7,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. PHILIPPERON",
@@ -517,7 +575,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1,
+        "cote": 0.0836,
         "gains": 0.5389,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -525,13 +583,104 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 29.72,
+      "score": 28.81,
       "enrichi": true,
       "rang_predit": 6
     }
   ],
   "tous_chevaux": [
     {
+      "numero": 9,
+      "nom": "Philadelphie",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 67.5,
+      "jockey": "K. Nabet",
+      "musique": "2h4h1h(25)3h4h",
+      "vh": 58.5,
+      "gains_eur": 50140,
+      "entraineur": "M. Pitart",
+      "cote_pmu": 4.3,
+      "non_partant": false,
+      "musique_raw": "2h4h1h(25)3h4h",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 2,
+      "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": 9,
+        "nom": "Philadelphie",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "K. Nabet",
+          "proprietaire": "M. Pitart",
+          "eleveur": "JP. Dubois",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Kapgarde"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 58.5
+        },
+        "cote_live_fiche": 4.3,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "K. NABET",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "avec_entraineur": {
+            "nom": "M. PITART",
+            "victoires": 0,
+            "places": 1,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 50140,
+          "musique": "2h 4h 1h (25) 3h 4h 3h",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2138,
+        "gains": 0.3397,
+        "couple_je": 1.0,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 41.38,
+      "enrichi": true,
+      "rang_predit": 1
+    },
+    {
       "numero": 10,
       "nom": "Hamilton Air",
       "artifice": null,
@@ -543,7 +692,7 @@
       "vh": 58.0,
       "gains_eur": 75360,
       "entraineur": "G. Leenders",
-      "cote_pmu": 14.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "9h(25)2h2h2h2h",
       "nb_courses_recentes": 5,
@@ -573,7 +722,7 @@
           "distance_m": 3600,
           "vh": 58.0
         },
-        "cote_live_fiche": 17.0,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. ZULIANI",
@@ -610,7 +759,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0657,
+        "cote": 0.0836,
         "gains": 0.5106,
         "couple_je": 0.75,
         "hippodrome": 1.0,
@@ -618,229 +767,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 38.95,
+      "score": 39.93,
       "enrichi": true,
-      "rang_predit": 1
-    },
-    {
-      "numero": 9,
-      "nom": "Philadelphie",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 67.5,
-      "jockey": "K. Nabet",
-      "musique": "2h4h1h(25)3h4h",
-      "vh": 58.5,
-      "gains_eur": 50140,
-      "entraineur": "M. Pitart",
-      "cote_pmu": 4.0,
-      "non_partant": false,
-      "musique_raw": "2h4h1h(25)3h4h",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 2.8,
-      "sous_scores": {
-        "cote": 0.2299,
-        "gains": 0.3397,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 36.27,
-      "enrichi": false,
       "rang_predit": 2
-    },
-    {
-      "numero": 2,
-      "nom": "Mary Shelley",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 71.0,
-      "jockey": "L. Zuliani",
-      "musique": "5s4s1h(25)2s3s",
-      "vh": 62.0,
-      "gains_eur": 147585,
-      "entraineur": "Lageneste & Macaire (s)",
-      "cote_pmu": 8.7,
-      "non_partant": false,
-      "musique_raw": "5s4s1h(25)2s3s",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 5,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Mary Shelley",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "L. Zuliani",
-          "proprietaire": "Lageneste & Macaire (s)",
-          "eleveur": "Ecurie H.et P.Pilarski",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Goliath du Berlais"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 62.0
-        },
-        "cote_live_fiche": 8.7,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "L. ZULIANI",
-            "victoires": 1,
-            "places": 5,
-            "courses": 10,
-            "pourcentage": 60.0
-          },
-          "avec_entraineur": {
-            "nom": "LAGENESTE & MACAIRE (S)",
-            "victoires": 2,
-            "places": 6,
-            "courses": 13,
-            "pourcentage": 62.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 147585,
-          "musique": "5s 4s 1h (25) 2s 3s 2s 2s",
-          "carriere": {
-            "courses": 13,
-            "victoires": 2,
-            "places": 6,
-            "pourcentage": 62.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.1057,
-        "gains": 1.0,
-        "couple_je": 0.61,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 32.73,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 16,
-      "nom": "Ciel Mon Castor",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 62.5,
-      "jockey": "LP. Bréchet",
-      "musique": "2h2h10h13h",
-      "vh": 53.5,
-      "gains_eur": 13660,
-      "entraineur": "M. Rolland (s)",
-      "cote_pmu": 22.0,
-      "non_partant": false,
-      "musique_raw": "2h2h10h13h",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 1.75,
-      "fiche_enrichie": {
-        "numero": 16,
-        "nom": "Ciel Mon Castor",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "LP. Bréchet",
-          "proprietaire": "M. Rolland (s)",
-          "eleveur": "Ecurie Louis Fagalde",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Pastorius"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 53.5
-        },
-        "cote_live_fiche": 30.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "LP. BRÉCHET",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "M. ROLLAND (S)",
-            "victoires": 0,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 13660,
-          "musique": "2h 2h 10h 13h",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0418,
-        "gains": 0.0926,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 1.0,
-        "pref_distance": 1.0,
-        "recuperation": 0.5
-      },
-      "score": 31.58,
-      "enrichi": true,
-      "rang_predit": 4
     },
     {
       "numero": 3,
@@ -854,7 +783,7 @@
       "vh": 62.0,
       "gains_eur": 30400,
       "entraineur": "D. Sourdeau de Beauregard",
-      "cote_pmu": 15.0,
+      "cote_pmu": 8.5,
       "non_partant": false,
       "musique_raw": "3h1h1hTh",
       "nb_courses_recentes": 4,
@@ -884,7 +813,7 @@
           "distance_m": 3600,
           "vh": 62.0
         },
-        "cote_live_fiche": 15.0,
+        "cote_live_fiche": 8.5,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. LEFEBVRE",
@@ -926,7 +855,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0613,
+        "cote": 0.1081,
         "gains": 0.206,
         "couple_je": 0.71,
         "hippodrome": 0.5,
@@ -934,7 +863,194 @@
         "pref_distance": 0.75,
         "recuperation": 0.5
       },
-      "score": 31.51,
+      "score": 34.09,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 16,
+      "nom": "Ciel Mon Castor",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 62.5,
+      "jockey": "LP. Bréchet",
+      "musique": "2h2h10h13h",
+      "vh": 53.5,
+      "gains_eur": 13660,
+      "entraineur": "M. Rolland (s)",
+      "cote_pmu": 23.0,
+      "non_partant": false,
+      "musique_raw": "2h2h10h13h",
+      "nb_courses_recentes": 4,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 1.75,
+      "fiche_enrichie": {
+        "numero": 16,
+        "nom": "Ciel Mon Castor",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "LP. Bréchet",
+          "proprietaire": "M. Rolland (s)",
+          "eleveur": "Ecurie Louis Fagalde",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Pastorius"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 53.5
+        },
+        "cote_live_fiche": 23.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "LP. BRÉCHET",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "M. ROLLAND (S)",
+            "victoires": 0,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 13660,
+          "musique": "2h 2h 10h 13h",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.04,
+        "gains": 0.0926,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 1.0,
+        "pref_distance": 1.0,
+        "recuperation": 0.5
+      },
+      "score": 31.48,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 2,
+      "nom": "Mary Shelley",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 71.0,
+      "jockey": "L. Zuliani",
+      "musique": "5s4s1h(25)2s3s",
+      "vh": 62.0,
+      "gains_eur": 147585,
+      "entraineur": "Lageneste & Macaire (s)",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "5s4s1h(25)2s3s",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 5,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 2,
+        "nom": "Mary Shelley",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "L. Zuliani",
+          "proprietaire": "Lageneste & Macaire (s)",
+          "eleveur": "Ecurie H.et P.Pilarski",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Goliath du Berlais"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 62.0
+        },
+        "cote_live_fiche": 14.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "L. ZULIANI",
+            "victoires": 1,
+            "places": 5,
+            "courses": 10,
+            "pourcentage": 60.0
+          },
+          "avec_entraineur": {
+            "nom": "LAGENESTE & MACAIRE (S)",
+            "victoires": 2,
+            "places": 6,
+            "courses": 13,
+            "pourcentage": 62.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 147585,
+          "musique": "5s 4s 1h (25) 2s 3s 2s 2s",
+          "carriere": {
+            "courses": 13,
+            "victoires": 2,
+            "places": 6,
+            "pourcentage": 62.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0657,
+        "gains": 1.0,
+        "couple_je": 0.61,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 30.53,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -950,7 +1066,7 @@
       "vh": 59.5,
       "gains_eur": 79535,
       "entraineur": "M. Rolland (s)",
-      "cote_pmu": 9.2,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "1h2h6h5h(25)3p",
       "nb_courses_recentes": 5,
@@ -980,7 +1096,7 @@
           "distance_m": 3600,
           "vh": 59.5
         },
-        "cote_live_fiche": 6.7,
+        "cote_live_fiche": 11.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "L. PHILIPPERON",
@@ -1022,7 +1138,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1,
+        "cote": 0.0836,
         "gains": 0.5389,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1030,9 +1146,196 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 29.72,
+      "score": 28.81,
       "enrichi": true,
       "rang_predit": 6
+    },
+    {
+      "numero": 7,
+      "nom": "Carisha",
+      "artifice": "oui",
+      "sexe": "F",
+      "age": 4,
+      "poids": 69.0,
+      "jockey": "J. Reveley",
+      "musique": "1hAh2h(25)15p5p",
+      "vh": 60.0,
+      "gains_eur": 62807,
+      "entraineur": "N.George & A.Zetterholm",
+      "cote_pmu": 18.0,
+      "non_partant": false,
+      "musique_raw": "1hAh2h(25)15p5p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 1,
+      "position_moyenne": 3.25,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Carisha",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "J. Reveley",
+          "proprietaire": "N.George & A.Zetterholm",
+          "eleveur": "C. Biedermann",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Reliable Man"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 60.0
+        },
+        "cote_live_fiche": 18.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "J. REVELEY",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "N.GEORGE & A.ZETTERHOLM",
+            "victoires": 1,
+            "places": 1,
+            "courses": 3,
+            "pourcentage": 67.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 62807,
+          "musique": "1h Ah 2h (25) 15p 5p 13p 7p",
+          "carriere": {
+            "courses": 14,
+            "victoires": 3,
+            "places": 3,
+            "pourcentage": 43.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0511,
+        "gains": 0.4256,
+        "couple_je": 0.67,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 25.53,
+      "enrichi": true,
+      "rang_predit": 7
+    },
+    {
+      "numero": 4,
+      "nom": "Bellina du Berlais",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 70.0,
+      "jockey": "G. Meunier",
+      "musique": "2s6s5s7sTs2h",
+      "vh": 61.0,
+      "gains_eur": 92840,
+      "entraineur": "D. Cottin (s)",
+      "cote_pmu": 11.0,
+      "non_partant": false,
+      "musique_raw": "2s6s5s7sTs2h",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 2,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 4,
+        "nom": "Bellina du Berlais",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Meunier",
+          "proprietaire": "D. Cottin (s)",
+          "eleveur": "Equi Dreams",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Nathaniel"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 61.0
+        },
+        "cote_live_fiche": 11.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "G. MEUNIER",
+            "victoires": 0,
+            "places": 3,
+            "courses": 8,
+            "pourcentage": 38.0
+          },
+          "avec_entraineur": {
+            "nom": "D. COTTIN (S)",
+            "victoires": 0,
+            "places": 6,
+            "courses": 13,
+            "pourcentage": 46.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 92840,
+          "musique": "2s 6s 5s 7s Ts 2h (25) 2s",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0836,
+        "gains": 0.6291,
+        "couple_je": 0.42,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 23.86,
+      "enrichi": true,
+      "rang_predit": 8
     },
     {
       "numero": 12,
@@ -1046,7 +1349,7 @@
       "vh": 56.0,
       "gains_eur": 23180,
       "entraineur": "M. Seror (s)",
-      "cote_pmu": 32.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "5h2p(25)3h4h2h",
       "nb_courses_recentes": 5,
@@ -1076,7 +1379,7 @@
           "distance_m": 3600,
           "vh": 56.0
         },
-        "cote_live_fiche": 43.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. LESTRADE",
@@ -1113,7 +1416,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0287,
+        "cote": 0.0354,
         "gains": 0.1571,
         "couple_je": 0.4,
         "hippodrome": 0.5,
@@ -1121,42 +1424,191 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 23.45,
+      "score": 23.82,
       "enrichi": true,
-      "rang_predit": 7
+      "rang_predit": 9
     },
     {
-      "numero": 7,
-      "nom": "Carisha",
-      "artifice": "oui",
+      "numero": 13,
+      "nom": "Dehadame",
+      "artifice": null,
       "sexe": "F",
       "age": 4,
-      "poids": 69.0,
-      "jockey": "J. Reveley",
-      "musique": "1hAh2h(25)15p5p",
-      "vh": 60.0,
-      "gains_eur": 62807,
-      "entraineur": "N.George & A.Zetterholm",
-      "cote_pmu": 19.0,
+      "poids": 65.0,
+      "jockey": "G. Masure",
+      "musique": "6h(25)3h1hTh",
+      "vh": 56.0,
+      "gains_eur": 16440,
+      "entraineur": "Chaillé-Chaillé & Pamart (s)",
+      "cote_pmu": 12.0,
       "non_partant": false,
-      "musique_raw": "1hAh2h(25)15p5p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "6h(25)3h1hTh",
+      "nb_courses_recentes": 4,
       "nb_victoires_recentes": 1,
       "nb_places_recentes": 2,
-      "derniere_position": 1,
-      "position_moyenne": 3.25,
+      "derniere_position": 6,
+      "position_moyenne": 3.33,
+      "fiche_enrichie": {
+        "numero": 13,
+        "nom": "Dehadame",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Masure",
+          "proprietaire": "Chaillé-Chaillé & Pamart (s)",
+          "eleveur": "R. Corveller",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Doctor Dino"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 56.0
+        },
+        "cote_live_fiche": 12.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "G. MASURE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 2,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "CHAILLÉ-CHAILLÉ & PAMART (S)",
+            "victoires": 1,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 16440,
+          "musique": "6h (25) 3h 1h Th",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0484,
-        "gains": 0.4256,
-        "couple_je": 0.5,
+        "cote": 0.0766,
+        "gains": 0.1114,
+        "couple_je": 0.25,
         "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.34,
-      "enrichi": false,
-      "rang_predit": 8
+      "score": 22.55,
+      "enrichi": true,
+      "rang_predit": 10
+    },
+    {
+      "numero": 11,
+      "nom": "Lunarosa",
+      "artifice": null,
+      "sexe": "F",
+      "age": 4,
+      "poids": 67.0,
+      "jockey": "F. De Giles",
+      "musique": "1h6h(25)Ah",
+      "vh": 58.0,
+      "gains_eur": 11670,
+      "entraineur": "N.George & A.Zetterholm",
+      "cote_pmu": 26.0,
+      "non_partant": false,
+      "musique_raw": "1h6h(25)Ah",
+      "nb_courses_recentes": 3,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 1,
+      "position_moyenne": 3.5,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Lunarosa",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. De Giles",
+          "proprietaire": "N.George & A.Zetterholm",
+          "eleveur": "Ecurie des Charmes",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Femelle",
+          "pere": "Galop",
+          "mere": "Galiway"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 16,
+          "allocation_eur": 83000,
+          "distance_m": 3600,
+          "vh": 58.0
+        },
+        "cote_live_fiche": 26.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. DE GILES",
+            "victoires": 1,
+            "places": 0,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "N.GEORGE & A.ZETTERHOLM",
+            "victoires": 1,
+            "places": 0,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CLAIREFONTAINE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 11670,
+          "musique": "1h 6h (25) Ah",
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0354,
+        "gains": 0.0791,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 20.52,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 5,
@@ -1170,7 +1622,7 @@
       "vh": 60.0,
       "gains_eur": 65605,
       "entraineur": "M. Seror (s)",
-      "cote_pmu": 11.0,
+      "cote_pmu": 42.0,
       "non_partant": false,
       "musique_raw": "Ah7hTh9p2h2h",
       "nb_courses_recentes": 6,
@@ -1200,7 +1652,7 @@
           "distance_m": 3600,
           "vh": 60.0
         },
-        "cote_live_fiche": 11.0,
+        "cote_live_fiche": 42.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. LE CLERC",
@@ -1242,7 +1694,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0836,
+        "cote": 0.0219,
         "gains": 0.4445,
         "couple_je": 0.42,
         "hippodrome": 0.5,
@@ -1250,191 +1702,9 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 23.31,
+      "score": 19.91,
       "enrichi": true,
-      "rang_predit": 9
-    },
-    {
-      "numero": 13,
-      "nom": "Dehadame",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 65.0,
-      "jockey": "G. Masure",
-      "musique": "6h(25)3h1hTh",
-      "vh": 56.0,
-      "gains_eur": 16440,
-      "entraineur": "Chaillé-Chaillé & Pamart (s)",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "6h(25)3h1hTh",
-      "nb_courses_recentes": 4,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 6,
-      "position_moyenne": 3.33,
-      "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Dehadame",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "G. Masure",
-          "proprietaire": "Chaillé-Chaillé & Pamart (s)",
-          "eleveur": "R. Corveller",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Doctor Dino"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 56.0
-        },
-        "cote_live_fiche": 13.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "G. MASURE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 2,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "CHAILLÉ-CHAILLÉ & PAMART (S)",
-            "victoires": 1,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 16440,
-          "musique": "6h (25) 3h 1h Th",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0657,
-        "gains": 0.1114,
-        "couple_je": 0.25,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
-        "recuperation": 0.5
-      },
-      "score": 21.95,
-      "enrichi": true,
-      "rang_predit": 10
-    },
-    {
-      "numero": 4,
-      "nom": "Bellina du Berlais",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 70.0,
-      "jockey": "G. Meunier",
-      "musique": "2s6s5s7sTs2h",
-      "vh": 61.0,
-      "gains_eur": 92840,
-      "entraineur": "D. Cottin (s)",
-      "cote_pmu": 25.0,
-      "non_partant": false,
-      "musique_raw": "2s6s5s7sTs2h",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 4.4,
-      "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Bellina du Berlais",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "G. Meunier",
-          "proprietaire": "D. Cottin (s)",
-          "eleveur": "Equi Dreams",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Nathaniel"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 61.0
-        },
-        "cote_live_fiche": 25.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "G. MEUNIER",
-            "victoires": 0,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 38.0
-          },
-          "avec_entraineur": {
-            "nom": "D. COTTIN (S)",
-            "victoires": 0,
-            "places": 6,
-            "courses": 13,
-            "pourcentage": 46.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 92840,
-          "musique": "2s 6s 5s 7s Ts 2h (25) 2s",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0368,
-        "gains": 0.6291,
-        "couple_je": 0.42,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
-        "recuperation": 0.5
-      },
-      "score": 21.28,
-      "enrichi": true,
-      "rang_predit": 11
+      "rang_predit": 12
     },
     {
       "numero": 15,
@@ -1448,7 +1718,7 @@
       "vh": 54.0,
       "gains_eur": 21055,
       "entraineur": "T. Viel",
-      "cote_pmu": 34.0,
+      "cote_pmu": 51.0,
       "non_partant": false,
       "musique_raw": "2h2s7h6h(25)7s",
       "nb_courses_recentes": 5,
@@ -1478,7 +1748,7 @@
           "distance_m": 3600,
           "vh": 54.0
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 51.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. CHEVILLARD",
@@ -1515,7 +1785,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0271,
+        "cote": 0.018,
         "gains": 0.1427,
         "couple_je": 0.415,
         "hippodrome": 0.5,
@@ -1523,98 +1793,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 20.3,
-      "enrichi": true,
-      "rang_predit": 12
-    },
-    {
-      "numero": 14,
-      "nom": "Limoncelou",
-      "artifice": null,
-      "sexe": "F",
-      "age": 4,
-      "poids": 63.5,
-      "jockey": "C. Smeulders",
-      "musique": "1h9hAh5h(25)10p",
-      "vh": 54.5,
-      "gains_eur": 17730,
-      "entraineur": "Mlle J. Le Stang",
-      "cote_pmu": 21.0,
-      "non_partant": false,
-      "musique_raw": "1h9hAh5h(25)10p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 1,
-      "position_moyenne": 3.75,
-      "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Limoncelou",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "C. Smeulders",
-          "proprietaire": "Mlle J. Le Stang",
-          "eleveur": "B. Alleaume",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Magneticjim"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 16,
-          "allocation_eur": 83000,
-          "distance_m": 3600,
-          "vh": 54.5
-        },
-        "cote_live_fiche": 28.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "C. SMEULDERS",
-            "victoires": 1,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 33.0
-          },
-          "avec_entraineur": {
-            "nom": "MLLE J. LE STANG",
-            "victoires": 1,
-            "places": 0,
-            "courses": 4,
-            "pourcentage": 25.0
-          },
-          "sur_hippodrome": {
-            "nom": "CLAIREFONTAINE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 17730,
-          "musique": "1h 9h Ah 5h (25) 10p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0438,
-        "gains": 0.1201,
-        "couple_je": 0.29,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 19.65,
+      "score": 19.8,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1630,7 +1809,7 @@
       "vh": 60.0,
       "gains_eur": 47170,
       "entraineur": "Y. Fouin",
-      "cote_pmu": 56.0,
+      "cote_pmu": 49.0,
       "non_partant": false,
       "musique_raw": "9h1h8h1hAh6h",
       "nb_courses_recentes": 6,
@@ -1660,7 +1839,7 @@
           "distance_m": 3600,
           "vh": 60.0
         },
-        "cote_live_fiche": 43.0,
+        "cote_live_fiche": 49.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "MME B. FROST",
@@ -1702,7 +1881,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0164,
+        "cote": 0.0188,
         "gains": 0.3196,
         "couple_je": 0.44,
         "hippodrome": 0.5,
@@ -1710,67 +1889,67 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 19.48,
+      "score": 19.6,
       "enrichi": true,
       "rang_predit": 14
     },
     {
-      "numero": 11,
-      "nom": "Lunarosa",
+      "numero": 14,
+      "nom": "Limoncelou",
       "artifice": null,
       "sexe": "F",
       "age": 4,
-      "poids": 67.0,
-      "jockey": "F. De Giles",
-      "musique": "1h6h(25)Ah",
-      "vh": 58.0,
-      "gains_eur": 11670,
-      "entraineur": "N.George & A.Zetterholm",
-      "cote_pmu": 64.0,
+      "poids": 63.5,
+      "jockey": "C. Smeulders",
+      "musique": "1h9hAh5h(25)10p",
+      "vh": 54.5,
+      "gains_eur": 17730,
+      "entraineur": "Mlle J. Le Stang",
+      "cote_pmu": 44.0,
       "non_partant": false,
-      "musique_raw": "1h6h(25)Ah",
-      "nb_courses_recentes": 3,
+      "musique_raw": "1h9hAh5h(25)10p",
+      "nb_courses_recentes": 5,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
+      "nb_places_recentes": 2,
       "derniere_position": 1,
-      "position_moyenne": 3.5,
+      "position_moyenne": 3.75,
       "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Lunarosa",
+        "numero": 14,
+        "nom": "Limoncelou",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "F. De Giles",
-          "proprietaire": "N.George & A.Zetterholm",
-          "eleveur": "Ecurie des Charmes",
+          "entraineur": "C. Smeulders",
+          "proprietaire": "Mlle J. Le Stang",
+          "eleveur": "B. Alleaume",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
           "discipline": "Femelle",
           "pere": "Galop",
-          "mere": "Galiway"
+          "mere": "Magneticjim"
         },
         "course_actuelle": {
           "hippodrome": null,
           "nb_partants": 16,
           "allocation_eur": 83000,
           "distance_m": 3600,
-          "vh": 58.0
+          "vh": 54.5
         },
-        "cote_live_fiche": 40.0,
+        "cote_live_fiche": 44.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "F. DE GILES",
+            "nom": "C. SMEULDERS",
             "victoires": 1,
             "places": 0,
-            "courses": 2,
-            "pourcentage": 50.0
+            "courses": 3,
+            "pourcentage": 33.0
           },
           "avec_entraineur": {
-            "nom": "N.GEORGE & A.ZETTERHOLM",
+            "nom": "MLLE J. LE STANG",
             "victoires": 1,
             "places": 0,
-            "courses": 2,
-            "pourcentage": 50.0
+            "courses": 4,
+            "pourcentage": 25.0
           },
           "sur_hippodrome": {
             "nom": "CLAIREFONTAINE",
@@ -1781,8 +1960,8 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 11670,
-          "musique": "1h 6h (25) Ah",
+          "gains_eur": 17730,
+          "musique": "1h 9h Ah 5h (25) 10p",
           "carriere": null
         },
         "dernieres_courses": [],
@@ -1793,15 +1972,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0144,
-        "gains": 0.0791,
-        "couple_je": 0.5,
+        "cote": 0.0209,
+        "gains": 0.1201,
+        "couple_je": 0.29,
         "hippodrome": 0.5,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 19.36,
+      "score": 18.39,
       "enrichi": true,
       "rang_predit": 15
     },
@@ -1817,7 +1996,7 @@
       "vh": 62.0,
       "gains_eur": 109925,
       "entraineur": "M. Seror (s)",
-      "cote_pmu": 30.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "8hAh4h3p7h8h",
       "nb_courses_recentes": 6,
@@ -1847,7 +2026,7 @@
           "distance_m": 3600,
           "vh": 62.0
         },
-        "cote_live_fiche": 30.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "J. PHELIPPE",
@@ -1889,7 +2068,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0307,
+        "cote": 0.0438,
         "gains": 0.7448,
         "couple_je": 0.235,
         "hippodrome": 0.5,
@@ -1897,12 +2076,12 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 16.41,
+      "score": 17.13,
       "enrichi": true,
       "rang_predit": 16
     }
   ],
-  "nb_enrichis": 14,
+  "nb_enrichis": 16,
   "nb_partants": 16,
   "cotes_dispo": 16
 }
