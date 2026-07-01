@@ -13,7 +13,7 @@
     "distance_m": 2150,
     "corde": "gauche",
     "terrain": "-",
-    "meteo": "23°C Ciel clair, vent 12km/h - NO"
+    "meteo": "24°C Ciel clair, vent 13km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 124815,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 2.7,
+      "cote_pmu": 2.9,
       "non_partant": false,
       "musique_raw": "Da1a1a2a5aDa",
       "nb_courses_recentes": 6,
@@ -68,7 +68,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 2.7,
+        "cote_live_fiche": 2.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. DUVALDESTIN",
@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3367,
+        "cote": 0.3168,
         "gains": 0.9207,
         "couple_je": 0.555,
         "hippodrome": 0.67,
@@ -118,9 +118,105 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.64,
+      "score": 43.54,
       "enrichi": true,
       "rang_predit": 1
+    },
+    {
+      "numero": 12,
+      "nom": "Lariflette",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "A. Collette",
+      "musique": "1a4a1a5a(25)2a",
+      "vh": null,
+      "gains_eur": 114755,
+      "entraineur": "D. Kumpen",
+      "cote_pmu": 28.0,
+      "non_partant": false,
+      "musique_raw": "1a4a1a5a(25)2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 2.6,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Lariflette",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "D. Kumpen",
+          "eleveur": "D. Kumpen",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 15,
+          "allocation_eur": 46000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 28.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "D. KUMPEN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 2,
+            "places": 3,
+            "courses": 9,
+            "pourcentage": 56.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 114755,
+          "musique": "1a 4a 1a 5a (25) 2a Da 4a",
+          "carriere": {
+            "courses": 39,
+            "victoires": 8,
+            "places": 10,
+            "pourcentage": 46.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0328,
+        "gains": 0.8465,
+        "couple_je": 1.0,
+        "hippodrome": 0.56,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 33.54,
+      "enrichi": true,
+      "rang_predit": 2
     },
     {
       "numero": 8,
@@ -134,7 +230,7 @@
       "vh": null,
       "gains_eur": 128060,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 6.3,
+      "cote_pmu": 6.6,
       "non_partant": false,
       "musique_raw": "1a2a3aDa(25)3a",
       "nb_courses_recentes": 5,
@@ -164,7 +260,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 6.3,
+        "cote_live_fiche": 6.6,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -206,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1443,
+        "cote": 0.1392,
         "gains": 0.9447,
         "couple_je": 0.635,
         "hippodrome": 0.0,
@@ -214,9 +310,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 33.19,
+      "score": 32.91,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 3
     },
     {
       "numero": 4,
@@ -230,7 +326,7 @@
       "vh": null,
       "gains_eur": 135560,
       "entraineur": "JL. Dersoir",
-      "cote_pmu": 8.3,
+      "cote_pmu": 7.7,
       "non_partant": false,
       "musique_raw": "3a5a9aDa7a1a",
       "nb_courses_recentes": 6,
@@ -260,7 +356,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 8.3,
+        "cote_live_fiche": 7.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -302,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1095,
+        "cote": 0.1193,
         "gains": 1.0,
         "couple_je": 0.72,
         "hippodrome": 0.5,
@@ -310,85 +406,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 30.0,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 12,
-      "nom": "Lariflette",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "A. Collette",
-      "musique": "1a4a1a5a(25)2a",
-      "vh": null,
-      "gains_eur": 114755,
-      "entraineur": "D. Kumpen",
-      "cote_pmu": 27.0,
-      "non_partant": false,
-      "musique_raw": "1a4a1a5a(25)2a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 2.6,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Lariflette",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Collette",
-          "proprietaire": "D. Kumpen",
-          "eleveur": "D. Kumpen",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 15,
-          "allocation_eur": 46000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 27.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 114755,
-          "musique": "1a 4a 1a 5a (25) 2a Da 4a",
-          "carriere": {
-            "courses": 39,
-            "victoires": 8,
-            "places": 10,
-            "pourcentage": 46.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0337,
-        "gains": 0.8465,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 26.99,
+      "score": 30.53,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -476,7 +494,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0535,
+        "cote": 0.054,
         "gains": 0.9554,
         "couple_je": 0.335,
         "hippodrome": 0.17,
@@ -484,7 +502,7 @@
         "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 26.86,
+      "score": 26.89,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -500,7 +518,7 @@
       "vh": null,
       "gains_eur": 106020,
       "entraineur": "JP. Dubois",
-      "cote_pmu": 23.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "3a4aDa5a5a(25)",
       "nb_courses_recentes": 5,
@@ -530,7 +548,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 23.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. BONNE",
@@ -572,7 +590,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0395,
+        "cote": 0.0437,
         "gains": 0.7821,
         "couple_je": 0.38,
         "hippodrome": 1.0,
@@ -580,7 +598,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 24.28,
+      "score": 24.51,
       "enrichi": true,
       "rang_predit": 6
     }
@@ -598,7 +616,7 @@
       "vh": null,
       "gains_eur": 124815,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 2.7,
+      "cote_pmu": 2.9,
       "non_partant": false,
       "musique_raw": "Da1a1a2a5aDa",
       "nb_courses_recentes": 6,
@@ -628,7 +646,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 2.7,
+        "cote_live_fiche": 2.9,
         "stats_couples": {
           "avec_jockey": {
             "nom": "C. DUVALDESTIN",
@@ -670,7 +688,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.3367,
+        "cote": 0.3168,
         "gains": 0.9207,
         "couple_je": 0.555,
         "hippodrome": 0.67,
@@ -678,9 +696,105 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 44.64,
+      "score": 43.54,
       "enrichi": true,
       "rang_predit": 1
+    },
+    {
+      "numero": 12,
+      "nom": "Lariflette",
+      "artifice": null,
+      "sexe": "F",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "A. Collette",
+      "musique": "1a4a1a5a(25)2a",
+      "vh": null,
+      "gains_eur": 114755,
+      "entraineur": "D. Kumpen",
+      "cote_pmu": 28.0,
+      "non_partant": false,
+      "musique_raw": "1a4a1a5a(25)2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 2.6,
+      "fiche_enrichie": {
+        "numero": 12,
+        "nom": "Lariflette",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "D. Kumpen",
+          "eleveur": "D. Kumpen",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 15,
+          "allocation_eur": 46000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 28.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "D. KUMPEN",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 2,
+            "places": 3,
+            "courses": 9,
+            "pourcentage": 56.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 114755,
+          "musique": "1a 4a 1a 5a (25) 2a Da 4a",
+          "carriere": {
+            "courses": 39,
+            "victoires": 8,
+            "places": 10,
+            "pourcentage": 46.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0328,
+        "gains": 0.8465,
+        "couple_je": 1.0,
+        "hippodrome": 0.56,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 33.54,
+      "enrichi": true,
+      "rang_predit": 2
     },
     {
       "numero": 8,
@@ -694,7 +808,7 @@
       "vh": null,
       "gains_eur": 128060,
       "entraineur": "T. Duvaldestin",
-      "cote_pmu": 6.3,
+      "cote_pmu": 6.6,
       "non_partant": false,
       "musique_raw": "1a2a3aDa(25)3a",
       "nb_courses_recentes": 5,
@@ -724,7 +838,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 6.3,
+        "cote_live_fiche": 6.6,
         "stats_couples": {
           "avec_jockey": {
             "nom": "T. DUVALDESTIN",
@@ -766,7 +880,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1443,
+        "cote": 0.1392,
         "gains": 0.9447,
         "couple_je": 0.635,
         "hippodrome": 0.0,
@@ -774,9 +888,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 33.19,
+      "score": 32.91,
       "enrichi": true,
-      "rang_predit": 2
+      "rang_predit": 3
     },
     {
       "numero": 4,
@@ -790,7 +904,7 @@
       "vh": null,
       "gains_eur": 135560,
       "entraineur": "JL. Dersoir",
-      "cote_pmu": 8.3,
+      "cote_pmu": 7.7,
       "non_partant": false,
       "musique_raw": "3a5a9aDa7a1a",
       "nb_courses_recentes": 6,
@@ -820,7 +934,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 8.3,
+        "cote_live_fiche": 7.7,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. THOMAIN",
@@ -862,7 +976,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1095,
+        "cote": 0.1193,
         "gains": 1.0,
         "couple_je": 0.72,
         "hippodrome": 0.5,
@@ -870,85 +984,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 30.0,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 12,
-      "nom": "Lariflette",
-      "artifice": null,
-      "sexe": "F",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "A. Collette",
-      "musique": "1a4a1a5a(25)2a",
-      "vh": null,
-      "gains_eur": 114755,
-      "entraineur": "D. Kumpen",
-      "cote_pmu": 27.0,
-      "non_partant": false,
-      "musique_raw": "1a4a1a5a(25)2a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 2.6,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Lariflette",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Collette",
-          "proprietaire": "D. Kumpen",
-          "eleveur": "D. Kumpen",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 15,
-          "allocation_eur": 46000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 27.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 114755,
-          "musique": "1a 4a 1a 5a (25) 2a Da 4a",
-          "carriere": {
-            "courses": 39,
-            "victoires": 8,
-            "places": 10,
-            "pourcentage": 46.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0337,
-        "gains": 0.8465,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 26.99,
+      "score": 30.53,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -1036,7 +1072,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0535,
+        "cote": 0.054,
         "gains": 0.9554,
         "couple_je": 0.335,
         "hippodrome": 0.17,
@@ -1044,7 +1080,7 @@
         "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 26.86,
+      "score": 26.89,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1060,7 +1096,7 @@
       "vh": null,
       "gains_eur": 106020,
       "entraineur": "JP. Dubois",
-      "cote_pmu": 23.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "3a4aDa5a5a(25)",
       "nb_courses_recentes": 5,
@@ -1090,7 +1126,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 23.0,
+        "cote_live_fiche": 21.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. BONNE",
@@ -1132,7 +1168,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0395,
+        "cote": 0.0437,
         "gains": 0.7821,
         "couple_je": 0.38,
         "hippodrome": 1.0,
@@ -1140,201 +1176,9 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 24.28,
+      "score": 24.51,
       "enrichi": true,
       "rang_predit": 6
-    },
-    {
-      "numero": 11,
-      "nom": "Lariano",
-      "artifice": null,
-      "sexe": "M",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "M. Mottier",
-      "musique": "1a6aDa9a8a7a",
-      "vh": null,
-      "gains_eur": 112895,
-      "entraineur": "Etienne Dubois (s)",
-      "cote_pmu": 9.9,
-      "non_partant": false,
-      "musique_raw": "1a6aDa9a8a7a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 1,
-      "derniere_position": 1,
-      "position_moyenne": 6.2,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Lariano",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Mottier",
-          "proprietaire": "Etienne Dubois (s)",
-          "eleveur": "Mme E. Dubois",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 15,
-          "allocation_eur": 46000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 9.9,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. MOTTIER",
-            "victoires": 1,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 33.0
-          },
-          "avec_entraineur": {
-            "nom": "ETIENNE DUBOIS (S)",
-            "victoires": 1,
-            "places": 0,
-            "courses": 6,
-            "pourcentage": 17.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 1,
-            "places": 2,
-            "courses": 5,
-            "pourcentage": 60.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 112895,
-          "musique": "1a 6a Da 9a 8a 7a (25) 2a",
-          "carriere": {
-            "courses": 19,
-            "victoires": 4,
-            "places": 4,
-            "pourcentage": 42.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0918,
-        "gains": 0.8328,
-        "couple_je": 0.25,
-        "hippodrome": 0.6,
-        "pref_terrain": 0.1667,
-        "pref_distance": 0.1667,
-        "recuperation": 0.5
-      },
-      "score": 21.22,
-      "enrichi": true,
-      "rang_predit": 7
-    },
-    {
-      "numero": 13,
-      "nom": "Loving Dream",
-      "artifice": null,
-      "sexe": "H",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "LM. David",
-      "musique": "4a4a3a7a(25)1a",
-      "vh": null,
-      "gains_eur": 112985,
-      "entraineur": "LM. David",
-      "cote_pmu": 42.0,
-      "non_partant": false,
-      "musique_raw": "4a4a3a7a(25)1a",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 3.8,
-      "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Loving Dream",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "LM. David",
-          "proprietaire": "LM. David",
-          "eleveur": "Ecurie L.M.David",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 15,
-          "allocation_eur": 46000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 42.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "LM. DAVID",
-            "victoires": 5,
-            "places": 2,
-            "courses": 24,
-            "pourcentage": 29.0
-          },
-          "avec_entraineur": {
-            "nom": "LM. DAVID",
-            "victoires": 5,
-            "places": 2,
-            "courses": 31,
-            "pourcentage": 23.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 2,
-            "places": 1,
-            "courses": 5,
-            "pourcentage": 60.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 112985,
-          "musique": "4a 4a 3a 7a (25) 1a 1a 1a",
-          "carriere": {
-            "courses": 31,
-            "victoires": 5,
-            "places": 2,
-            "pourcentage": 23.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0216,
-        "gains": 0.8335,
-        "couple_je": 0.26,
-        "hippodrome": 0.6,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 21.21,
-      "enrichi": true,
-      "rang_predit": 8
     },
     {
       "numero": 1,
@@ -1380,9 +1224,27 @@
         },
         "cote_live_fiche": 20.0,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "A. ABRIVARD",
+            "victoires": 6,
+            "places": 3,
+            "courses": 25,
+            "pourcentage": 36.0
+          },
+          "avec_entraineur": {
+            "nom": "LC. ABRIVARD",
+            "victoires": 7,
+            "places": 6,
+            "courses": 36,
+            "pourcentage": 36.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 1,
+            "places": 2,
+            "courses": 4,
+            "pourcentage": 75.0
+          }
         },
         "performances_globales": {
           "gains_eur": 131990,
@@ -1402,15 +1264,207 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0454,
+        "cote": 0.0459,
         "gains": 0.9737,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
+        "couple_je": 0.36,
+        "hippodrome": 0.75,
         "pref_terrain": 0.1667,
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 21.09,
+      "score": 21.93,
+      "enrichi": true,
+      "rang_predit": 7
+    },
+    {
+      "numero": 13,
+      "nom": "Loving Dream",
+      "artifice": null,
+      "sexe": "H",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "LM. David",
+      "musique": "4a4a3a7a(25)1a",
+      "vh": null,
+      "gains_eur": 112985,
+      "entraineur": "LM. David",
+      "cote_pmu": 41.0,
+      "non_partant": false,
+      "musique_raw": "4a4a3a7a(25)1a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 3.8,
+      "fiche_enrichie": {
+        "numero": 13,
+        "nom": "Loving Dream",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "LM. David",
+          "proprietaire": "LM. David",
+          "eleveur": "Ecurie L.M.David",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 15,
+          "allocation_eur": 46000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 41.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "LM. DAVID",
+            "victoires": 5,
+            "places": 2,
+            "courses": 24,
+            "pourcentage": 29.0
+          },
+          "avec_entraineur": {
+            "nom": "LM. DAVID",
+            "victoires": 5,
+            "places": 2,
+            "courses": 31,
+            "pourcentage": 23.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 2,
+            "places": 1,
+            "courses": 5,
+            "pourcentage": 60.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 112985,
+          "musique": "4a 4a 3a 7a (25) 1a 1a 1a",
+          "carriere": {
+            "courses": 31,
+            "victoires": 5,
+            "places": 2,
+            "pourcentage": 23.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0224,
+        "gains": 0.8335,
+        "couple_je": 0.26,
+        "hippodrome": 0.6,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 21.25,
+      "enrichi": true,
+      "rang_predit": 8
+    },
+    {
+      "numero": 11,
+      "nom": "Lariano",
+      "artifice": null,
+      "sexe": "M",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "M. Mottier",
+      "musique": "1a6aDa9a8a7a",
+      "vh": null,
+      "gains_eur": 112895,
+      "entraineur": "Etienne Dubois (s)",
+      "cote_pmu": 10.0,
+      "non_partant": false,
+      "musique_raw": "1a6aDa9a8a7a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 1,
+      "derniere_position": 1,
+      "position_moyenne": 6.2,
+      "fiche_enrichie": {
+        "numero": 11,
+        "nom": "Lariano",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "M. Mottier",
+          "proprietaire": "Etienne Dubois (s)",
+          "eleveur": "Mme E. Dubois",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 15,
+          "allocation_eur": 46000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 10.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "M. MOTTIER",
+            "victoires": 1,
+            "places": 0,
+            "courses": 3,
+            "pourcentage": 33.0
+          },
+          "avec_entraineur": {
+            "nom": "ETIENNE DUBOIS (S)",
+            "victoires": 1,
+            "places": 0,
+            "courses": 6,
+            "pourcentage": 17.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 1,
+            "places": 2,
+            "courses": 5,
+            "pourcentage": 60.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 112895,
+          "musique": "1a 6a Da 9a 8a 7a (25) 2a",
+          "carriere": {
+            "courses": 19,
+            "victoires": 4,
+            "places": 4,
+            "pourcentage": 42.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0919,
+        "gains": 0.8328,
+        "couple_je": 0.25,
+        "hippodrome": 0.6,
+        "pref_terrain": 0.1667,
+        "pref_distance": 0.1667,
+        "recuperation": 0.5
+      },
+      "score": 21.22,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1426,7 +1480,7 @@
       "vh": null,
       "gains_eur": 124515,
       "entraineur": "F. Nivard",
-      "cote_pmu": 54.0,
+      "cote_pmu": 51.0,
       "non_partant": false,
       "musique_raw": "Aa6a5a3a8a(25)",
       "nb_courses_recentes": 5,
@@ -1456,7 +1510,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 54.0,
+        "cote_live_fiche": 51.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. NIVARD",
@@ -1498,7 +1552,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0168,
+        "cote": 0.018,
         "gains": 0.9185,
         "couple_je": 0.455,
         "hippodrome": 0.67,
@@ -1506,9 +1560,105 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 21.04,
+      "score": 21.11,
       "enrichi": true,
       "rang_predit": 10
+    },
+    {
+      "numero": 15,
+      "nom": "Le Cashmaker",
+      "artifice": null,
+      "sexe": "M",
+      "age": 5,
+      "poids": 2150.0,
+      "jockey": "PP. Ploquin",
+      "musique": "5a1aDa8a2a(25)",
+      "vh": null,
+      "gains_eur": 124680,
+      "entraineur": "S. Guarato",
+      "cote_pmu": 28.0,
+      "non_partant": false,
+      "musique_raw": "5a1aDa8a2a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 5,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": 15,
+        "nom": "Le Cashmaker",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "PP. Ploquin",
+          "proprietaire": "S. Guarato",
+          "eleveur": "J. De Brabander",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2021",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Enghien",
+          "nb_partants": 15,
+          "allocation_eur": 46000,
+          "distance_m": 2150,
+          "vh": null
+        },
+        "cote_live_fiche": 28.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "PP. PLOQUIN",
+            "victoires": 2,
+            "places": 2,
+            "courses": 8,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "S. GUARATO",
+            "victoires": 6,
+            "places": 6,
+            "courses": 27,
+            "pourcentage": 44.0
+          },
+          "sur_hippodrome": {
+            "nom": "ENGHIEN",
+            "victoires": 0,
+            "places": 1,
+            "courses": 4,
+            "pourcentage": 25.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 124680,
+          "musique": "5a 1a Da 8a 2a (25) 7a 7a",
+          "carriere": {
+            "courses": 27,
+            "victoires": 6,
+            "places": 6,
+            "pourcentage": 44.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0328,
+        "gains": 0.9197,
+        "couple_je": 0.47,
+        "hippodrome": 0.25,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 21.1,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 14,
@@ -1522,7 +1672,7 @@
       "vh": null,
       "gains_eur": 118510,
       "entraineur": "N. Bridault",
-      "cote_pmu": 89.0,
+      "cote_pmu": 90.0,
       "non_partant": false,
       "musique_raw": "7m7a7aDa3a2a",
       "nb_courses_recentes": 6,
@@ -1552,7 +1702,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 89.0,
+        "cote_live_fiche": 90.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. LAGADEUC",
@@ -1603,102 +1753,6 @@
         "recuperation": 0.5
       },
       "score": 20.8,
-      "enrichi": true,
-      "rang_predit": 11
-    },
-    {
-      "numero": 15,
-      "nom": "Le Cashmaker",
-      "artifice": null,
-      "sexe": "M",
-      "age": 5,
-      "poids": 2150.0,
-      "jockey": "PP. Ploquin",
-      "musique": "5a1aDa8a2a(25)",
-      "vh": null,
-      "gains_eur": 124680,
-      "entraineur": "S. Guarato",
-      "cote_pmu": 34.0,
-      "non_partant": false,
-      "musique_raw": "5a1aDa8a2a(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 5,
-      "position_moyenne": 4.0,
-      "fiche_enrichie": {
-        "numero": 15,
-        "nom": "Le Cashmaker",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "PP. Ploquin",
-          "proprietaire": "S. Guarato",
-          "eleveur": "J. De Brabander",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2021",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": "Enghien",
-          "nb_partants": 15,
-          "allocation_eur": 46000,
-          "distance_m": 2150,
-          "vh": null
-        },
-        "cote_live_fiche": 34.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "PP. PLOQUIN",
-            "victoires": 2,
-            "places": 2,
-            "courses": 8,
-            "pourcentage": 50.0
-          },
-          "avec_entraineur": {
-            "nom": "S. GUARATO",
-            "victoires": 6,
-            "places": 6,
-            "courses": 27,
-            "pourcentage": 44.0
-          },
-          "sur_hippodrome": {
-            "nom": "ENGHIEN",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 124680,
-          "musique": "5a 1a Da 8a 2a (25) 7a 7a",
-          "carriere": {
-            "courses": 27,
-            "victoires": 6,
-            "places": 6,
-            "pourcentage": 44.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0267,
-        "gains": 0.9197,
-        "couple_je": 0.47,
-        "hippodrome": 0.25,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 20.77,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1786,7 +1840,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0207,
+        "cote": 0.0209,
         "gains": 0.9816,
         "couple_je": 0.225,
         "hippodrome": 0.43,
@@ -1794,7 +1848,7 @@
         "pref_distance": 0.1667,
         "recuperation": 0.5
       },
-      "score": 15.75,
+      "score": 15.76,
       "enrichi": true,
       "rang_predit": 13
     },
@@ -1882,7 +1936,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0313,
+        "cote": 0.0317,
         "gains": 0.9516,
         "couple_je": 0.235,
         "hippodrome": 0.1,
@@ -1890,7 +1944,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 15.73,
+      "score": 15.75,
       "enrichi": true,
       "rang_predit": 14
     },
@@ -1906,7 +1960,7 @@
       "vh": null,
       "gains_eur": 131035,
       "entraineur": "A. De Jésus",
-      "cote_pmu": 50.0,
+      "cote_pmu": 45.0,
       "non_partant": false,
       "musique_raw": "6a1a11a(25)DaDa",
       "nb_courses_recentes": 5,
@@ -1936,7 +1990,7 @@
           "distance_m": 2150,
           "vh": null
         },
-        "cote_live_fiche": 50.0,
+        "cote_live_fiche": 45.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "E. DE JÉSUS",
@@ -1978,7 +2032,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0182,
+        "cote": 0.0204,
         "gains": 0.9666,
         "couple_je": 0.165,
         "hippodrome": 0.0,
@@ -1986,7 +2040,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 14.28,
+      "score": 14.4,
       "enrichi": true,
       "rang_predit": 15
     }
