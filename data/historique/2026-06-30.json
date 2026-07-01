@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-30",
+  "course": {
+    "reunion": 1,
+    "course": 5,
+    "hippodrome": "VICHY",
+    "libelle": "GRAND PRIX DU CONSEIL MUNICIPAL"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 3
+    },
+    {
+      "rang": 2,
+      "numero": 1
+    },
+    {
+      "rang": 3,
+      "numero": 6
+    },
+    {
+      "rang": 4,
+      "numero": 11
+    },
+    {
+      "rang": 5,
+      "numero": 13
+    },
+    {
+      "rang": 6,
+      "numero": 10
+    },
+    {
+      "rang": 7,
+      "numero": 2
+    },
+    {
+      "rang": 8,
+      "numero": 9
+    },
+    {
+      "rang": 9,
+      "numero": 12
+    }
+  ],
+  "predictions": {
+    "top5": [
+      1,
+      11,
+      13,
+      10,
+      2,
+      6
+    ],
+    "date_prediction": "2026-06-30"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 1,
+    "favori_arrive_rang": 2
+  }
+}
