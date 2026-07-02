@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-01",
+  "course": {
+    "reunion": 1,
+    "course": 8,
+    "hippodrome": "ENGHIEN",
+    "libelle": "PRIX DE LA TOUR EIFFEL"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 7
+    },
+    {
+      "rang": 2,
+      "numero": 1
+    },
+    {
+      "rang": 3,
+      "numero": 6
+    },
+    {
+      "rang": 4,
+      "numero": 9
+    },
+    {
+      "rang": 5,
+      "numero": 14
+    },
+    {
+      "rang": 6,
+      "numero": 8
+    },
+    {
+      "rang": 7,
+      "numero": 11
+    },
+    {
+      "rang": 8,
+      "numero": 4
+    },
+    {
+      "rang": 9,
+      "numero": 15
+    },
+    {
+      "rang": 10,
+      "numero": 2
+    },
+    {
+      "rang": 11,
+      "numero": 3
+    },
+    {
+      "rang": 12,
+      "numero": 13
+    }
+  ],
+  "predictions": {
+    "top5": [
+      7,
+      12,
+      8,
+      4,
+      6,
+      9
+    ],
+    "date_prediction": "2026-07-01"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 7,
+    "favori_arrive_rang": 1
+  }
+}
