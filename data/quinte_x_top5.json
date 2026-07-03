@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "course": {
     "reunion": "R1",
-    "course_num": "C7",
-    "hippodrome": "ParisLongchamp",
+    "course_num": "C4",
+    "hippodrome": "Cabourg",
     "nom": null,
     "heure": "20h15",
     "type": null,
     "categorie": null,
     "nb_partants": 15,
-    "allocation_eur": 52800,
-    "distance_m": 1600,
+    "allocation_eur": 37000,
+    "distance_m": 2750,
     "corde": "droite",
     "terrain": "-",
-    "meteo": "23°C Ciel clair, vent 13km/h - N"
+    "meteo": "15°C 02n, vent 5km/h - NO"
   },
   "fiabilite_globale": 1.0,
   "ponderations": {
@@ -27,65 +27,65 @@
   },
   "top5": [
     {
-      "numero": 16,
-      "nom": "Gariga",
-      "artifice": "oui",
+      "numero": 2,
+      "nom": "Look of Love",
+      "artifice": null,
       "sexe": "F",
-      "age": 3,
-      "poids": 53.0,
-      "jockey": "G. Sias",
-      "musique": "4p8p(25)1p3p2p",
-      "vh": 34.0,
-      "gains_eur": 15690,
-      "entraineur": "M. Guarnieri",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "J. Van Den Putte Jr",
+      "musique": "13a4a1a2a3a5a",
+      "vh": null,
+      "gains_eur": 167578,
+      "entraineur": "Mme C. Corty",
       "cote_pmu": null,
       "non_partant": false,
-      "musique_raw": "4p8p(25)1p3p2p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "13a4a1a2a3a5a",
+      "nb_courses_recentes": 6,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.6,
+      "nb_places_recentes": 4,
+      "derniere_position": 3,
+      "position_moyenne": 3.0,
       "fiche_enrichie": {
-        "numero": 16,
-        "nom": "Gariga",
+        "numero": 2,
+        "nom": "Look of Love",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "G. Sias",
-          "proprietaire": "M. Guarnieri",
-          "eleveur": "Scud.Visconti di Modrone",
+          "entraineur": "J. Van Den Putte Jr",
+          "proprietaire": "Mme C. Corty",
+          "eleveur": "Union Stable",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Al Wukair"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 34.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
         "cote_live_fiche": null,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "G. SIAS",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "J. VAN DEN PUTTE JR",
+            "victoires": 3,
+            "places": 3,
+            "courses": 13,
+            "pourcentage": 46.0
           },
           "avec_entraineur": {
-            "nom": "M. GUARNIERI",
-            "victoires": 1,
-            "places": 2,
-            "courses": 5,
-            "pourcentage": 60.0
+            "nom": "MME C. CORTY",
+            "victoires": 7,
+            "places": 7,
+            "courses": 21,
+            "pourcentage": 67.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
             "victoires": 0,
             "places": 0,
             "courses": 0,
@@ -93,9 +93,14 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 15690,
-          "musique": "4p 8p (25) 1p 3p 2p",
-          "carriere": null
+          "gains_eur": 168016,
+          "musique": "13a 4a 1a 2a 3a 5a (25) 5a",
+          "carriere": {
+            "courses": 52,
+            "victoires": 13,
+            "places": 13,
+            "pourcentage": 50.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -106,120 +111,380 @@
       },
       "sous_scores": {
         "cote": 0.5,
-        "gains": 0.3248,
-        "couple_je": 0.6,
+        "gains": 0.86,
+        "couple_je": 0.565,
         "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 52.27,
+      "score": 54.53,
       "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 8,
-      "nom": "Mélusine du Houley",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 56.5,
-      "jockey": "C. Demuro",
-      "musique": "2p8p3p2p2p(25)",
-      "vh": 37.5,
-      "gains_eur": 36950,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 4.0,
+      "numero": 6,
+      "nom": "Max Occagnes",
+      "artifice": null,
+      "sexe": "H",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "D. Locqueneux",
+      "musique": "1a1aDa9a6a(25)",
+      "vh": null,
+      "gains_eur": 175412,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 3.3,
       "non_partant": false,
-      "musique_raw": "2p8p3p2p2p(25)",
+      "musique_raw": "1a1aDa9a6a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 3.4,
-      "sous_scores": {
-        "cote": 0.2295,
-        "gains": 0.7649,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 40.72,
-      "enrichi": false,
-      "rang_predit": 2
-    },
-    {
-      "numero": 13,
-      "nom": "Westminster Coyote",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 54.0,
-      "jockey": "A. Crastus",
-      "musique": "2p2p3p14p5p(25)",
-      "vh": 35.0,
-      "gains_eur": 28916,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "2p2p3p14p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.2,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 1,
+      "position_moyenne": 4.25,
       "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Westminster Coyote",
+        "numero": 6,
+        "nom": "Max Occagnes",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Crastus",
-          "proprietaire": "Y. Barberot",
-          "eleveur": "Mlle S. Feret",
+          "entraineur": "D. Locqueneux",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "NH. Dekker",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Tamayuz"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 35.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 3.3,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. CRASTUS",
+            "nom": "D. LOCQUENEUX",
+            "victoires": 1,
+            "places": 0,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "D. LOCQUENEUX",
+            "victoires": 3,
+            "places": 0,
+            "courses": 8,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 175412,
+          "musique": "1a 1a Da 9a 6a (25) 5a 1a",
+          "carriere": {
+            "courses": 29,
+            "victoires": 12,
+            "places": 5,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2781,
+        "gains": 0.9002,
+        "couple_je": 0.44,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 41.67,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 8,
+      "nom": "Niagara River",
+      "artifice": null,
+      "sexe": "F",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "Y. Lebourgeois",
+      "musique": "1a1a1a6a6a(25)",
+      "vh": null,
+      "gains_eur": 183217,
+      "entraineur": "D. Brouwer",
+      "cote_pmu": 5.6,
+      "non_partant": false,
+      "musique_raw": "1a1a1a6a6a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Niagara River",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "Y. Lebourgeois",
+          "proprietaire": "D. Brouwer",
+          "eleveur": "K. De Poorter",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 5.6,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "Y. LEBOURGEOIS",
             "victoires": 0,
             "places": 0,
             "courses": 0,
             "pourcentage": null
           },
           "avec_entraineur": {
-            "nom": "Y. BARBEROT",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
+            "nom": "D. BROUWER",
+            "victoires": 11,
+            "places": 19,
+            "courses": 47,
+            "pourcentage": 64.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 183217,
+          "musique": "1a 1a 1a 6a 6a (25) 3a 9a",
+          "carriere": {
+            "courses": 47,
+            "victoires": 11,
+            "places": 19,
+            "pourcentage": 64.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1639,
+        "gains": 0.9403,
+        "couple_je": 0.64,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 36.11,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 3,
+      "nom": "Nelson Greenwood",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "F. Lagadeuc",
+      "musique": "9a3a3a13a(25)3a",
+      "vh": null,
+      "gains_eur": 171119,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 7.0,
+      "non_partant": false,
+      "musique_raw": "9a3a3a13a(25)3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 9,
+      "position_moyenne": 4.2,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Nelson Greenwood",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Lagadeuc",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "Gerrits Recycling Group",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 7.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. LAGADEUC",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "D. LOCQUENEUX",
             "victoires": 0,
             "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 172189,
+          "musique": "9a 3a 3a 13a (25) 3a Da 4a",
+          "carriere": {
+            "courses": 48,
+            "victoires": 4,
+            "places": 16,
+            "pourcentage": 42.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1311,
+        "gains": 0.8782,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 35.64,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 7,
+      "nom": "Kaiser",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "F. Nivard",
+      "musique": "7a1aDa3a2a5a",
+      "vh": null,
+      "gains_eur": 182050,
+      "entraineur": "F. Nivard",
+      "cote_pmu": 8.6,
+      "non_partant": false,
+      "musique_raw": "7a1aDa3a2a5a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 7,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Kaiser",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Nivard",
+          "proprietaire": "F. Nivard",
+          "eleveur": "Ecurie des Charmes",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 8.6,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. NIVARD",
+            "victoires": 4,
+            "places": 8,
+            "courses": 24,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "F. NIVARD",
+            "victoires": 5,
+            "places": 10,
+            "courses": 33,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 1,
+            "places": 1,
             "courses": 2,
             "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 28916,
-          "musique": "2p 2p 3p 14p 5p (25) 5p 1p",
-          "carriere": null
+          "gains_eur": 182050,
+          "musique": "7a 1a Da 3a 2a 5a (25) 4a",
+          "carriere": {
+            "courses": 33,
+            "victoires": 5,
+            "places": 10,
+            "pourcentage": 45.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -229,179 +494,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0656,
-        "gains": 0.5986,
-        "couple_je": 1.0,
+        "cote": 0.1067,
+        "gains": 0.9343,
+        "couple_je": 0.475,
         "hippodrome": 1.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.0,
+      "score": 34.37,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 5
     },
     {
-      "numero": 2,
-      "nom": "Bon Viveur",
+      "numero": 9,
+      "nom": "Koala Blue",
       "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.5,
-      "jockey": "S. Pasquier",
-      "musique": "6p3p3p1p2p3p",
-      "vh": 39.5,
-      "gains_eur": 27896,
-      "entraineur": "M. Pitart",
-      "cote_pmu": 9.5,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "A. Abrivard",
+      "musique": "2a2a10a7a1a2a",
+      "vh": null,
+      "gains_eur": 184045,
+      "entraineur": "L. Baudron",
+      "cote_pmu": 13.0,
       "non_partant": false,
-      "musique_raw": "6p3p3p1p2p3p",
+      "musique_raw": "2a2a10a7a1a2a",
       "nb_courses_recentes": 6,
       "nb_victoires_recentes": 1,
       "nb_places_recentes": 5,
-      "derniere_position": 6,
-      "position_moyenne": 3.0,
+      "derniere_position": 2,
+      "position_moyenne": 2.33,
       "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Bon Viveur",
+        "numero": 9,
+        "nom": "Koala Blue",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "S. Pasquier",
-          "proprietaire": "M. Pitart",
-          "eleveur": "B. Giraudon",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "L. Baudron",
+          "eleveur": "M. Guyon",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Victor Ludorum"
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 39.5
-        },
-        "cote_live_fiche": 9.5,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "S. PASQUIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "M. PITART",
-            "victoires": 1,
-            "places": 5,
-            "courses": 7,
-            "pourcentage": 86.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 27896,
-          "musique": "6p 3p 3p 1p 2p 3p 2p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0966,
-        "gains": 0.5775,
-        "couple_je": 0.43,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.8333,
-        "pref_distance": 0.8333,
-        "recuperation": 0.5
-      },
-      "score": 37.54,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 3,
-      "nom": "Saint Saens",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Guyon",
-      "musique": "7p3p3p1p2p(25)",
-      "vh": 39.0,
-      "gains_eur": 48306,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "7p3p3p1p2p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 7,
-      "position_moyenne": 3.2,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Saint Saens",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "Y. Barberot",
-          "eleveur": "Mlle MJ. Goetschy",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Hello Youmzain"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 39.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
         "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 1,
+            "nom": "A. ABRIVARD",
+            "victoires": 4,
             "places": 1,
-            "courses": 4,
-            "pourcentage": 50.0
+            "courses": 9,
+            "pourcentage": 56.0
           },
           "avec_entraineur": {
-            "nom": "Y. BARBEROT",
-            "victoires": 1,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 50.0
+            "nom": "L. BAUDRON",
+            "victoires": 6,
+            "places": 8,
+            "courses": 35,
+            "pourcentage": 40.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
             "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
           }
         },
         "performances_globales": {
-          "gains_eur": 48306,
-          "musique": "7p 3p 3p 1p 2p (25) 4p 5p",
-          "carriere": null
+          "gains_eur": 184045,
+          "musique": "2a 2a 10a 7a 1a 2a 6a 4a",
+          "carriere": {
+            "courses": 39,
+            "victoires": 6,
+            "places": 10,
+            "pourcentage": 41.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -412,170 +591,79 @@
       },
       "sous_scores": {
         "cote": 0.0706,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.67,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 34.38,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 10,
-      "nom": "Lever de Rideau",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 56.0,
-      "jockey": "M. Grandin",
-      "musique": "1p2p2p2p(25)8p",
-      "vh": 37.0,
-      "gains_eur": 21228,
-      "entraineur": "J. Andreu",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "1p2p2p2p(25)8p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Lever de Rideau",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Grandin",
-          "proprietaire": "J. Andreu",
-          "eleveur": "JC. Seroul",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Galiway"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 37.0
-        },
-        "cote_live_fiche": 20.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. GRANDIN",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "J. ANDREU",
-            "victoires": 1,
-            "places": 3,
-            "courses": 6,
-            "pourcentage": 67.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 21228,
-          "musique": "1p 2p 2p 2p (25) 8p 9p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0459,
-        "gains": 0.4394,
-        "couple_je": 0.835,
+        "gains": 0.9445,
+        "couple_je": 0.48,
         "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 33.66,
+      "score": 32.81,
       "enrichi": true,
       "rang_predit": 6
     }
   ],
   "tous_chevaux": [
     {
-      "numero": 16,
-      "nom": "Gariga",
-      "artifice": "oui",
+      "numero": 2,
+      "nom": "Look of Love",
+      "artifice": null,
       "sexe": "F",
-      "age": 3,
-      "poids": 53.0,
-      "jockey": "G. Sias",
-      "musique": "4p8p(25)1p3p2p",
-      "vh": 34.0,
-      "gains_eur": 15690,
-      "entraineur": "M. Guarnieri",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "J. Van Den Putte Jr",
+      "musique": "13a4a1a2a3a5a",
+      "vh": null,
+      "gains_eur": 167578,
+      "entraineur": "Mme C. Corty",
       "cote_pmu": null,
       "non_partant": false,
-      "musique_raw": "4p8p(25)1p3p2p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "13a4a1a2a3a5a",
+      "nb_courses_recentes": 6,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 4,
-      "position_moyenne": 3.6,
+      "nb_places_recentes": 4,
+      "derniere_position": 3,
+      "position_moyenne": 3.0,
       "fiche_enrichie": {
-        "numero": 16,
-        "nom": "Gariga",
+        "numero": 2,
+        "nom": "Look of Love",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "G. Sias",
-          "proprietaire": "M. Guarnieri",
-          "eleveur": "Scud.Visconti di Modrone",
+          "entraineur": "J. Van Den Putte Jr",
+          "proprietaire": "Mme C. Corty",
+          "eleveur": "Union Stable",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Al Wukair"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 34.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
         "cote_live_fiche": null,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "G. SIAS",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "nom": "J. VAN DEN PUTTE JR",
+            "victoires": 3,
+            "places": 3,
+            "courses": 13,
+            "pourcentage": 46.0
           },
           "avec_entraineur": {
-            "nom": "M. GUARNIERI",
-            "victoires": 1,
-            "places": 2,
-            "courses": 5,
-            "pourcentage": 60.0
+            "nom": "MME C. CORTY",
+            "victoires": 7,
+            "places": 7,
+            "courses": 21,
+            "pourcentage": 67.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
             "victoires": 0,
             "places": 0,
             "courses": 0,
@@ -583,9 +671,14 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 15690,
-          "musique": "4p 8p (25) 1p 3p 2p",
-          "carriere": null
+          "gains_eur": 168016,
+          "musique": "13a 4a 1a 2a 3a 5a (25) 5a",
+          "carriere": {
+            "courses": 52,
+            "victoires": 13,
+            "places": 13,
+            "pourcentage": 50.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -596,120 +689,380 @@
       },
       "sous_scores": {
         "cote": 0.5,
-        "gains": 0.3248,
-        "couple_je": 0.6,
+        "gains": 0.86,
+        "couple_je": 0.565,
         "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 52.27,
+      "score": 54.53,
       "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 8,
-      "nom": "Mélusine du Houley",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 56.5,
-      "jockey": "C. Demuro",
-      "musique": "2p8p3p2p2p(25)",
-      "vh": 37.5,
-      "gains_eur": 36950,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 4.0,
+      "numero": 6,
+      "nom": "Max Occagnes",
+      "artifice": null,
+      "sexe": "H",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "D. Locqueneux",
+      "musique": "1a1aDa9a6a(25)",
+      "vh": null,
+      "gains_eur": 175412,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 3.3,
       "non_partant": false,
-      "musique_raw": "2p8p3p2p2p(25)",
+      "musique_raw": "1a1aDa9a6a(25)",
       "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 3.4,
-      "sous_scores": {
-        "cote": 0.2295,
-        "gains": 0.7649,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 40.72,
-      "enrichi": false,
-      "rang_predit": 2
-    },
-    {
-      "numero": 13,
-      "nom": "Westminster Coyote",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 54.0,
-      "jockey": "A. Crastus",
-      "musique": "2p2p3p14p5p(25)",
-      "vh": 35.0,
-      "gains_eur": 28916,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "2p2p3p14p5p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 3,
-      "derniere_position": 2,
-      "position_moyenne": 3.2,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 2,
+      "derniere_position": 1,
+      "position_moyenne": 4.25,
       "fiche_enrichie": {
-        "numero": 13,
-        "nom": "Westminster Coyote",
+        "numero": 6,
+        "nom": "Max Occagnes",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Crastus",
-          "proprietaire": "Y. Barberot",
-          "eleveur": "Mlle S. Feret",
+          "entraineur": "D. Locqueneux",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "NH. Dekker",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Tamayuz"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 35.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 14.0,
+        "cote_live_fiche": 3.3,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. CRASTUS",
+            "nom": "D. LOCQUENEUX",
+            "victoires": 1,
+            "places": 0,
+            "courses": 2,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "D. LOCQUENEUX",
+            "victoires": 3,
+            "places": 0,
+            "courses": 8,
+            "pourcentage": 38.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 175412,
+          "musique": "1a 1a Da 9a 6a (25) 5a 1a",
+          "carriere": {
+            "courses": 29,
+            "victoires": 12,
+            "places": 5,
+            "pourcentage": 59.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.2781,
+        "gains": 0.9002,
+        "couple_je": 0.44,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 41.67,
+      "enrichi": true,
+      "rang_predit": 2
+    },
+    {
+      "numero": 8,
+      "nom": "Niagara River",
+      "artifice": null,
+      "sexe": "F",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "Y. Lebourgeois",
+      "musique": "1a1a1a6a6a(25)",
+      "vh": null,
+      "gains_eur": 183217,
+      "entraineur": "D. Brouwer",
+      "cote_pmu": 5.6,
+      "non_partant": false,
+      "musique_raw": "1a1a1a6a6a(25)",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 3,
+      "derniere_position": 1,
+      "position_moyenne": 3.0,
+      "fiche_enrichie": {
+        "numero": 8,
+        "nom": "Niagara River",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "Y. Lebourgeois",
+          "proprietaire": "D. Brouwer",
+          "eleveur": "K. De Poorter",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 5.6,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "Y. LEBOURGEOIS",
             "victoires": 0,
             "places": 0,
             "courses": 0,
             "pourcentage": null
           },
           "avec_entraineur": {
-            "nom": "Y. BARBEROT",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
+            "nom": "D. BROUWER",
+            "victoires": 11,
+            "places": 19,
+            "courses": 47,
+            "pourcentage": 64.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 183217,
+          "musique": "1a 1a 1a 6a 6a (25) 3a 9a",
+          "carriere": {
+            "courses": 47,
+            "victoires": 11,
+            "places": 19,
+            "pourcentage": 64.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1639,
+        "gains": 0.9403,
+        "couple_je": 0.64,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 36.11,
+      "enrichi": true,
+      "rang_predit": 3
+    },
+    {
+      "numero": 3,
+      "nom": "Nelson Greenwood",
+      "artifice": null,
+      "sexe": "M",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "F. Lagadeuc",
+      "musique": "9a3a3a13a(25)3a",
+      "vh": null,
+      "gains_eur": 171119,
+      "entraineur": "D. Locqueneux",
+      "cote_pmu": 7.0,
+      "non_partant": false,
+      "musique_raw": "9a3a3a13a(25)3a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 9,
+      "position_moyenne": 4.2,
+      "fiche_enrichie": {
+        "numero": 3,
+        "nom": "Nelson Greenwood",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Lagadeuc",
+          "proprietaire": "D. Locqueneux",
+          "eleveur": "Gerrits Recycling Group",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 7.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. LAGADEUC",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "D. LOCQUENEUX",
             "victoires": 0,
             "places": 2,
+            "courses": 4,
+            "pourcentage": 50.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 172189,
+          "musique": "9a 3a 3a 13a (25) 3a Da 4a",
+          "carriere": {
+            "courses": 48,
+            "victoires": 4,
+            "places": 16,
+            "pourcentage": 42.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.1311,
+        "gains": 0.8782,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.8,
+        "pref_distance": 0.8,
+        "recuperation": 0.5
+      },
+      "score": 35.64,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 7,
+      "nom": "Kaiser",
+      "artifice": null,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "F. Nivard",
+      "musique": "7a1aDa3a2a5a",
+      "vh": null,
+      "gains_eur": 182050,
+      "entraineur": "F. Nivard",
+      "cote_pmu": 8.6,
+      "non_partant": false,
+      "musique_raw": "7a1aDa3a2a5a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 7,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": 7,
+        "nom": "Kaiser",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "F. Nivard",
+          "proprietaire": "F. Nivard",
+          "eleveur": "Ecurie des Charmes",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 8.6,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "F. NIVARD",
+            "victoires": 4,
+            "places": 8,
+            "courses": 24,
+            "pourcentage": 50.0
+          },
+          "avec_entraineur": {
+            "nom": "F. NIVARD",
+            "victoires": 5,
+            "places": 10,
+            "courses": 33,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 1,
+            "places": 1,
             "courses": 2,
             "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 28916,
-          "musique": "2p 2p 3p 14p 5p (25) 5p 1p",
-          "carriere": null
+          "gains_eur": 182050,
+          "musique": "7a 1a Da 3a 2a 5a (25) 4a",
+          "carriere": {
+            "courses": 33,
+            "victoires": 5,
+            "places": 10,
+            "pourcentage": 45.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -719,179 +1072,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0656,
-        "gains": 0.5986,
-        "couple_je": 1.0,
+        "cote": 0.1067,
+        "gains": 0.9343,
+        "couple_je": 0.475,
         "hippodrome": 1.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 39.0,
+      "score": 34.37,
       "enrichi": true,
-      "rang_predit": 3
+      "rang_predit": 5
     },
     {
-      "numero": 2,
-      "nom": "Bon Viveur",
+      "numero": 9,
+      "nom": "Koala Blue",
       "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.5,
-      "jockey": "S. Pasquier",
-      "musique": "6p3p3p1p2p3p",
-      "vh": 39.5,
-      "gains_eur": 27896,
-      "entraineur": "M. Pitart",
-      "cote_pmu": 9.5,
+      "sexe": "H",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "A. Abrivard",
+      "musique": "2a2a10a7a1a2a",
+      "vh": null,
+      "gains_eur": 184045,
+      "entraineur": "L. Baudron",
+      "cote_pmu": 13.0,
       "non_partant": false,
-      "musique_raw": "6p3p3p1p2p3p",
+      "musique_raw": "2a2a10a7a1a2a",
       "nb_courses_recentes": 6,
       "nb_victoires_recentes": 1,
       "nb_places_recentes": 5,
-      "derniere_position": 6,
-      "position_moyenne": 3.0,
+      "derniere_position": 2,
+      "position_moyenne": 2.33,
       "fiche_enrichie": {
-        "numero": 2,
-        "nom": "Bon Viveur",
+        "numero": 9,
+        "nom": "Koala Blue",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "S. Pasquier",
-          "proprietaire": "M. Pitart",
-          "eleveur": "B. Giraudon",
+          "entraineur": "A. Abrivard",
+          "proprietaire": "L. Baudron",
+          "eleveur": "M. Guyon",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Victor Ludorum"
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 39.5
-        },
-        "cote_live_fiche": 9.5,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "S. PASQUIER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "M. PITART",
-            "victoires": 1,
-            "places": 5,
-            "courses": 7,
-            "pourcentage": 86.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 1,
-            "pourcentage": 100.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 27896,
-          "musique": "6p 3p 3p 1p 2p 3p 2p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0966,
-        "gains": 0.5775,
-        "couple_je": 0.43,
-        "hippodrome": 1.0,
-        "pref_terrain": 0.8333,
-        "pref_distance": 0.8333,
-        "recuperation": 0.5
-      },
-      "score": 37.54,
-      "enrichi": true,
-      "rang_predit": 4
-    },
-    {
-      "numero": 3,
-      "nom": "Saint Saens",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "M. Guyon",
-      "musique": "7p3p3p1p2p(25)",
-      "vh": 39.0,
-      "gains_eur": 48306,
-      "entraineur": "Y. Barberot",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "7p3p3p1p2p(25)",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 7,
-      "position_moyenne": 3.2,
-      "fiche_enrichie": {
-        "numero": 3,
-        "nom": "Saint Saens",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Guyon",
-          "proprietaire": "Y. Barberot",
-          "eleveur": "Mlle MJ. Goetschy",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Hello Youmzain"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 39.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
         "cote_live_fiche": 13.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. GUYON",
-            "victoires": 1,
+            "nom": "A. ABRIVARD",
+            "victoires": 4,
             "places": 1,
-            "courses": 4,
-            "pourcentage": 50.0
+            "courses": 9,
+            "pourcentage": 56.0
           },
           "avec_entraineur": {
-            "nom": "Y. BARBEROT",
-            "victoires": 1,
-            "places": 3,
-            "courses": 8,
-            "pourcentage": 50.0
+            "nom": "L. BAUDRON",
+            "victoires": 6,
+            "places": 8,
+            "courses": 35,
+            "pourcentage": 40.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
             "victoires": 0,
-            "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
           }
         },
         "performances_globales": {
-          "gains_eur": 48306,
-          "musique": "7p 3p 3p 1p 2p (25) 4p 5p",
-          "carriere": null
+          "gains_eur": 184045,
+          "musique": "2a 2a 10a 7a 1a 2a 6a 4a",
+          "carriere": {
+            "courses": 39,
+            "victoires": 6,
+            "places": 10,
+            "pourcentage": 41.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -902,211 +1169,92 @@
       },
       "sous_scores": {
         "cote": 0.0706,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.67,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
-        "recuperation": 0.5
-      },
-      "score": 34.38,
-      "enrichi": true,
-      "rang_predit": 5
-    },
-    {
-      "numero": 10,
-      "nom": "Lever de Rideau",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 56.0,
-      "jockey": "M. Grandin",
-      "musique": "1p2p2p2p(25)8p",
-      "vh": 37.0,
-      "gains_eur": 21228,
-      "entraineur": "J. Andreu",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "1p2p2p2p(25)8p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Lever de Rideau",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Grandin",
-          "proprietaire": "J. Andreu",
-          "eleveur": "JC. Seroul",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Galiway"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 37.0
-        },
-        "cote_live_fiche": 20.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. GRANDIN",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "J. ANDREU",
-            "victoires": 1,
-            "places": 3,
-            "courses": 6,
-            "pourcentage": 67.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 21228,
-          "musique": "1p 2p 2p 2p (25) 8p 9p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0459,
-        "gains": 0.4394,
-        "couple_je": 0.835,
+        "gains": 0.9445,
+        "couple_je": 0.48,
         "hippodrome": 0.5,
-        "pref_terrain": 0.8,
-        "pref_distance": 0.8,
+        "pref_terrain": 0.8333,
+        "pref_distance": 0.8333,
         "recuperation": 0.5
       },
-      "score": 33.66,
+      "score": 32.81,
       "enrichi": true,
       "rang_predit": 6
     },
     {
-      "numero": 5,
-      "nom": "Menaçant",
+      "numero": 4,
+      "nom": "Korona Deladou",
       "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 57.5,
-      "jockey": "C. Lecoeuvre",
-      "musique": "11p1p10p1p(25)2p",
-      "vh": 38.5,
-      "gains_eur": 25470,
-      "entraineur": "N. Le Roch",
-      "cote_pmu": 27.0,
+      "sexe": "F",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "S. Baude",
+      "musique": "Da3a4aDa5a1a",
+      "vh": null,
+      "gains_eur": 174360,
+      "entraineur": "E. Letouzé",
+      "cote_pmu": 34.0,
       "non_partant": false,
-      "musique_raw": "11p1p10p1p(25)2p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 5,
-      "derniere_position": 1,
-      "position_moyenne": 1.0,
-      "sous_scores": {
-        "cote": 0.034,
-        "gains": 0.5273,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 1.0,
-        "pref_distance": 1.0,
-        "recuperation": 0.5
-      },
-      "score": 32.45,
-      "enrichi": false,
-      "rang_predit": 7
-    },
-    {
-      "numero": 9,
-      "nom": "Komet Chop",
-      "artifice": null,
-      "sexe": "M",
-      "age": 3,
-      "poids": 56.5,
-      "jockey": "M. Barzalona",
-      "musique": "2p6p4p4Disqp5p1p",
-      "vh": 37.5,
-      "gains_eur": 23326,
-      "entraineur": "K. Tavares",
-      "cote_pmu": 8.3,
-      "non_partant": false,
-      "musique_raw": "2p6p4p4Disqp5p1p",
+      "musique_raw": "Da3a4aDa5a1a",
       "nb_courses_recentes": 6,
       "nb_victoires_recentes": 1,
       "nb_places_recentes": 2,
-      "derniere_position": 2,
-      "position_moyenne": 3.67,
+      "derniere_position": 3,
+      "position_moyenne": 3.25,
       "fiche_enrichie": {
-        "numero": 9,
-        "nom": "Komet Chop",
+        "numero": 4,
+        "nom": "Korona Deladou",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "M. Barzalona",
-          "proprietaire": "K. Tavares",
-          "eleveur": "Ecurie du Gave",
+          "entraineur": "S. Baude",
+          "proprietaire": "E. Letouzé",
+          "eleveur": "E. Dufour",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Muhaarar"
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 37.5
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 8.3,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "M. BARZALONA",
+            "nom": "S. BAUDE",
             "victoires": 0,
             "places": 0,
             "courses": 0,
             "pourcentage": null
           },
           "avec_entraineur": {
-            "nom": "K. TAVARES",
-            "victoires": 1,
-            "places": 2,
-            "courses": 7,
-            "pourcentage": 43.0
+            "nom": "E. LETOUZÉ",
+            "victoires": 7,
+            "places": 6,
+            "courses": 37,
+            "pourcentage": 35.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
+            "nom": "CABOURG",
+            "victoires": 1,
             "places": 0,
-            "courses": 0,
-            "pourcentage": null
+            "courses": 1,
+            "pourcentage": 100.0
           }
         },
         "performances_globales": {
-          "gains_eur": 23326,
-          "musique": "2p 6p 4p 4Disqp 5p 1p (25) 3p",
-          "carriere": null
+          "gains_eur": 174360,
+          "musique": "Da 3a 4a Da 5a 1a (25) 2a",
+          "carriere": {
+            "courses": 37,
+            "victoires": 7,
+            "places": 6,
+            "pourcentage": 35.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1116,270 +1264,318 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1106,
-        "gains": 0.4829,
-        "couple_je": 0.43,
+        "cote": 0.027,
+        "gains": 0.8948,
+        "couple_je": 0.35,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 25.7,
+      "enrichi": true,
+      "rang_predit": 7
+    },
+    {
+      "numero": 15,
+      "nom": "Invictus One",
+      "artifice": null,
+      "sexe": "H",
+      "age": 8,
+      "poids": 2750.0,
+      "jockey": "A. Collette",
+      "musique": "3a4a6a6a(25)10a",
+      "vh": null,
+      "gains_eur": 191090,
+      "entraineur": "Y. Desmet",
+      "cote_pmu": 39.0,
+      "non_partant": false,
+      "musique_raw": "3a4a6a6a(25)10a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 3,
+      "position_moyenne": 3.8,
+      "fiche_enrichie": {
+        "numero": 15,
+        "nom": "Invictus One",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "A. Collette",
+          "proprietaire": "Y. Desmet",
+          "eleveur": "P. Bauffe",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2018",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 39.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "A. COLLETTE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "Y. DESMET",
+            "victoires": 0,
+            "places": 1,
+            "courses": 5,
+            "pourcentage": 20.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 1,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 100.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 191090,
+          "musique": "3a 4a 6a 6a (25) 10a Da 1a",
+          "carriere": {
+            "courses": 44,
+            "victoires": 19,
+            "places": 5,
+            "pourcentage": 55.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0235,
+        "gains": 0.9807,
+        "couple_je": 0.2,
+        "hippodrome": 1.0,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 25.04,
+      "enrichi": true,
+      "rang_predit": 8
+    },
+    {
+      "numero": 13,
+      "nom": "Key Lady",
+      "artifice": null,
+      "sexe": "F",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "L. Baudron",
+      "musique": "Da6a2a13aDa4a",
+      "vh": null,
+      "gains_eur": 190460,
+      "entraineur": "L. Baudron",
+      "cote_pmu": 32.0,
+      "non_partant": false,
+      "musique_raw": "Da6a2a13aDa4a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 6,
+      "position_moyenne": 3.75,
+      "fiche_enrichie": {
+        "numero": 13,
+        "nom": "Key Lady",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "L. Baudron",
+          "proprietaire": "L. Baudron",
+          "eleveur": "Louis Baudron (s)",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 32.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "L. BAUDRON",
+            "victoires": 2,
+            "places": 2,
+            "courses": 6,
+            "pourcentage": 67.0
+          },
+          "avec_entraineur": {
+            "nom": "L. BAUDRON",
+            "victoires": 7,
+            "places": 10,
+            "courses": 35,
+            "pourcentage": 49.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 190460,
+          "musique": "6a 2a 13a Da 4a (25) 3a 5a",
+          "carriere": {
+            "courses": 35,
+            "victoires": 7,
+            "places": 10,
+            "pourcentage": 49.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0287,
+        "gains": 0.9774,
+        "couple_je": 0.58,
         "hippodrome": 0.5,
         "pref_terrain": 0.3333,
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 25.02,
+      "score": 23.8,
       "enrichi": true,
-      "rang_predit": 8
+      "rang_predit": 9
     },
     {
-      "numero": 7,
-      "nom": "Freeze The Moment",
-      "artifice": "oui",
-      "sexe": "M",
-      "age": 3,
-      "poids": 57.0,
-      "jockey": "G. Trolley de Prevaux",
-      "musique": "14p1p(25)4p3p7p",
-      "vh": 38.0,
-      "gains_eur": 16450,
-      "entraineur": "T. Donworth",
-      "cote_pmu": 55.0,
+      "numero": 10,
+      "nom": "Kalita d'Héninel",
+      "artifice": null,
+      "sexe": "F",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "JG. Van Eeckhaute",
+      "musique": "3a2aDa9a6a5a",
+      "vh": null,
+      "gains_eur": 184115,
+      "entraineur": "JG. Van Eeckhaute",
+      "cote_pmu": 39.0,
       "non_partant": false,
-      "musique_raw": "14p1p(25)4p3p7p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
+      "musique_raw": "3a2aDa9a6a5a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 3.8,
+      "derniere_position": 3,
+      "position_moyenne": 5.0,
+      "sous_scores": {
+        "cote": 0.0235,
+        "gains": 0.9449,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 22.46,
+      "enrichi": false,
+      "rang_predit": 10
+    },
+    {
+      "numero": 16,
+      "nom": "Judy Matidy",
+      "artifice": null,
+      "sexe": "F",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "A. André",
+      "musique": "5a5a4a1a3a3a",
+      "vh": null,
+      "gains_eur": 194855,
+      "entraineur": "D. Lecroq",
+      "cote_pmu": 57.0,
+      "non_partant": false,
+      "musique_raw": "5a5a4a1a3a3a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 5,
+      "position_moyenne": 3.5,
       "fiche_enrichie": {
-        "numero": 7,
-        "nom": "Freeze The Moment",
+        "numero": 16,
+        "nom": "Judy Matidy",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "G. Trolley de Prevaux",
-          "proprietaire": "T. Donworth",
-          "eleveur": "C. Stedman",
+          "entraineur": "A. André",
+          "proprietaire": "D. Lecroq",
+          "eleveur": "Mme C. Lefebvre",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Mâle",
-          "pere": "Galop",
-          "mere": "Persian King"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 38.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 55.0,
+        "cote_live_fiche": 57.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "G. TROLLEY DE PREVAUX",
-            "victoires": 1,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 100.0
-          },
-          "avec_entraineur": {
-            "nom": "T. DONWORTH",
+            "nom": "A. ANDRÉ",
             "victoires": 1,
             "places": 1,
             "courses": 6,
             "pourcentage": 33.0
           },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 16450,
-          "musique": "14p 1p (25) 4p 3p 7p 6p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0167,
-        "gains": 0.3405,
-        "couple_je": 0.665,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 23.32,
-      "enrichi": true,
-      "rang_predit": 9
-    },
-    {
-      "numero": 15,
-      "nom": "Red Scotch",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 53.0,
-      "jockey": "M. Protti",
-      "musique": "1p4p12p3p3p5p",
-      "vh": 34.0,
-      "gains_eur": 27637,
-      "entraineur": "HA. Pantall",
-      "cote_pmu": 46.0,
-      "non_partant": false,
-      "musique_raw": "1p4p12p3p3p5p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 3.0,
-      "fiche_enrichie": {
-        "numero": 15,
-        "nom": "Red Scotch",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "M. Protti",
-          "proprietaire": "HA. Pantall",
-          "eleveur": "SV. Gianella",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "The Grey Gatsby"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 34.0
-        },
-        "cote_live_fiche": 46.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "M. PROTTI",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
           "avec_entraineur": {
-            "nom": "HA. PANTALL",
-            "victoires": 1,
-            "places": 4,
-            "courses": 11,
-            "pourcentage": 45.0
+            "nom": "D. LECROQ",
+            "victoires": 9,
+            "places": 16,
+            "courses": 58,
+            "pourcentage": 43.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 27637,
-          "musique": "1p 4p 12p 3p 3p 5p 2p (25)",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.02,
-        "gains": 0.5721,
-        "couple_je": 0.225,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 23.18,
-      "enrichi": true,
-      "rang_predit": 10
-    },
-    {
-      "numero": 1,
-      "nom": "Valdorcia",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 60.0,
-      "jockey": "T. Piccone",
-      "musique": "3p8p5p2p(25)1p",
-      "vh": 41.0,
-      "gains_eur": 13899,
-      "entraineur": "HA. Pantall",
-      "cote_pmu": 19.0,
-      "non_partant": false,
-      "musique_raw": "3p8p5p2p(25)1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.8,
-      "fiche_enrichie": {
-        "numero": 1,
-        "nom": "Valdorcia",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "T. Piccone",
-          "proprietaire": "HA. Pantall",
-          "eleveur": "Godolphin S.N.C.",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Oasis Dream"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 41.0
-        },
-        "cote_live_fiche": 19.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "T. PICCONE",
+            "nom": "CABOURG",
             "victoires": 0,
             "places": 2,
-            "courses": 3,
-            "pourcentage": 67.0
-          },
-          "avec_entraineur": {
-            "nom": "HA. PANTALL",
-            "victoires": 0,
-            "places": 2,
-            "courses": 4,
-            "pourcentage": 50.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 2,
-            "pourcentage": 0.0
+            "courses": 6,
+            "pourcentage": 33.0
           }
         },
         "performances_globales": {
-          "gains_eur": 13899,
-          "musique": "3p 8p 5p 2p (25) 1p 3p 3p",
-          "carriere": null
+          "gains_eur": 194855,
+          "musique": "5a 5a 4a 1a 3a 3a 2a (25)",
+          "carriere": {
+            "courses": 58,
+            "victoires": 9,
+            "places": 16,
+            "pourcentage": 43.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1389,88 +1585,93 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0483,
-        "gains": 0.2877,
-        "couple_je": 0.585,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "cote": 0.0161,
+        "gains": 1.0,
+        "couple_je": 0.38,
+        "hippodrome": 0.33,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 22.14,
+      "score": 21.75,
       "enrichi": true,
       "rang_predit": 11
     },
     {
-      "numero": 4,
-      "nom": "Basanti",
-      "artifice": "oui",
-      "sexe": "F",
-      "age": 3,
-      "poids": 58.0,
-      "jockey": "A. Pouchin",
-      "musique": "4p3p4p8p6p1p",
-      "vh": 39.0,
-      "gains_eur": 32529,
-      "entraineur": "Fabre (s)",
-      "cote_pmu": 9.8,
+      "numero": 1,
+      "nom": "Cameron",
+      "artifice": null,
+      "sexe": "H",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "R. Lamy",
+      "musique": "2a2mAmDa5m4a",
+      "vh": null,
+      "gains_eur": 163328,
+      "entraineur": "J. Westholm",
+      "cote_pmu": 57.0,
       "non_partant": false,
-      "musique_raw": "4p3p4p8p6p1p",
+      "musique_raw": "2a2mAmDa5m4a",
       "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
+      "nb_victoires_recentes": 0,
       "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 4.33,
+      "derniere_position": 2,
+      "position_moyenne": 3.25,
       "fiche_enrichie": {
-        "numero": 4,
-        "nom": "Basanti",
+        "numero": 1,
+        "nom": "Cameron",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Pouchin",
-          "proprietaire": "Fabre (s)",
-          "eleveur": "Mme A. Fabre",
+          "entraineur": "R. Lamy",
+          "proprietaire": "J. Westholm",
+          "eleveur": "JAS Fastigheter AB",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Zelzal"
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 39.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 9.8,
+        "cote_live_fiche": 57.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. POUCHIN",
-            "victoires": 0,
-            "places": 1,
-            "courses": 4,
-            "pourcentage": 25.0
-          },
-          "avec_entraineur": {
-            "nom": "FABRE (S)",
+            "nom": "R. LAMY",
             "victoires": 0,
             "places": 0,
             "courses": 0,
             "pourcentage": null
           },
+          "avec_entraineur": {
+            "nom": "J. WESTHOLM",
+            "victoires": 11,
+            "places": 10,
+            "courses": 45,
+            "pourcentage": 47.0
+          },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
             "victoires": 0,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 33.0
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
           }
         },
         "performances_globales": {
-          "gains_eur": 32529,
-          "musique": "4p 3p 4p 8p 6p 1p (25) 3p",
-          "carriere": null
+          "gains_eur": 163328,
+          "musique": "2a 2m Am Da 5m 4a 4a 11a",
+          "carriere": {
+            "courses": 49,
+            "victoires": 11,
+            "places": 11,
+            "pourcentage": 45.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1480,78 +1681,174 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0937,
-        "gains": 0.6734,
-        "couple_je": 0.25,
-        "hippodrome": 0.33,
+        "cote": 0.0161,
+        "gains": 0.8382,
+        "couple_je": 0.47,
+        "hippodrome": 0.5,
         "pref_terrain": 0.3333,
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 20.8,
+      "score": 21.37,
       "enrichi": true,
       "rang_predit": 12
     },
     {
-      "numero": 6,
-      "nom": "Hello Avenue",
+      "numero": 11,
+      "nom": "Express d'Arc",
       "artifice": null,
-      "sexe": "F",
-      "age": 3,
-      "poids": 57.0,
-      "jockey": "A. Madamet",
-      "musique": "6p1p3p4p7p(25)",
-      "vh": 38.0,
-      "gains_eur": 37085,
-      "entraineur": "JP. Dubois",
+      "sexe": "H",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "PP. Ploquin",
+      "musique": "8a5a6a1a6a(25)",
+      "vh": null,
+      "gains_eur": 185252,
+      "entraineur": "HE. Bondo",
       "cote_pmu": 16.0,
       "non_partant": false,
-      "musique_raw": "6p1p3p4p7p(25)",
+      "musique_raw": "8a5a6a1a6a(25)",
       "nb_courses_recentes": 5,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 6,
-      "position_moyenne": 4.2,
+      "nb_places_recentes": 1,
+      "derniere_position": 8,
+      "position_moyenne": 5.2,
       "fiche_enrichie": {
-        "numero": 6,
-        "nom": "Hello Avenue",
+        "numero": 11,
+        "nom": "Express d'Arc",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "A. Madamet",
-          "proprietaire": "JP. Dubois",
-          "eleveur": "Ecurie Victoria Dreams",
+          "entraineur": "PP. Ploquin",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Scuderia Chelsea Srl",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Hello Youmzain"
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 38.0
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
         "cote_live_fiche": 16.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "A. MADAMET",
-            "victoires": 1,
+            "nom": "PP. PLOQUIN",
+            "victoires": 0,
             "places": 0,
-            "courses": 2,
-            "pourcentage": 50.0
+            "courses": 0,
+            "pourcentage": null
           },
           "avec_entraineur": {
-            "nom": "JP. DUBOIS",
-            "victoires": 1,
+            "nom": "HE. BONDO",
+            "victoires": 7,
             "places": 5,
-            "courses": 10,
-            "pourcentage": 60.0
+            "courses": 29,
+            "pourcentage": 41.0
           },
           "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 185252,
+          "musique": "8a 5a 6a 1a 6a (25) 5a 5a",
+          "carriere": {
+            "courses": 43,
+            "victoires": 13,
+            "places": 7,
+            "pourcentage": 47.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0573,
+        "gains": 0.9507,
+        "couple_je": 0.41,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2,
+        "pref_distance": 0.2,
+        "recuperation": 0.5
+      },
+      "score": 21.13,
+      "enrichi": true,
+      "rang_predit": 13
+    },
+    {
+      "numero": 14,
+      "nom": "Joyce des Granges",
+      "artifice": null,
+      "sexe": "F",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "PY. Verva",
+      "musique": "4a1a2a4a4a2a",
+      "vh": null,
+      "gains_eur": 190470,
+      "entraineur": "C. Nicole",
+      "cote_pmu": 32.0,
+      "non_partant": false,
+      "musique_raw": "4a1a2a4a4a2a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 4,
+      "position_moyenne": 2.83,
+      "fiche_enrichie": {
+        "numero": 14,
+        "nom": "Joyce des Granges",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "PY. Verva",
+          "proprietaire": "C. Nicole",
+          "eleveur": "P. Dequeker",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 32.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "PY. VERVA",
+            "victoires": 4,
+            "places": 8,
+            "courses": 35,
+            "pourcentage": 34.0
+          },
+          "avec_entraineur": {
+            "nom": "C. NICOLE",
+            "victoires": 5,
+            "places": 17,
+            "courses": 64,
+            "pourcentage": 34.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
             "victoires": 0,
             "places": 0,
             "courses": 1,
@@ -1559,9 +1856,14 @@
           }
         },
         "performances_globales": {
-          "gains_eur": 37085,
-          "musique": "6p 1p 3p 4p 7p (25) 9p 2p",
-          "carriere": null
+          "gains_eur": 190470,
+          "musique": "4a 1a 2a 4a 4a 2a 2a 4a",
+          "carriere": {
+            "courses": 64,
+            "victoires": 5,
+            "places": 17,
+            "pourcentage": 34.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1571,270 +1873,189 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0574,
-        "gains": 0.7677,
-        "couple_je": 0.55,
+        "cote": 0.0287,
+        "gains": 0.9775,
+        "couple_je": 0.34,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
+        "recuperation": 0.5
+      },
+      "score": 18.59,
+      "enrichi": true,
+      "rang_predit": 14
+    },
+    {
+      "numero": 5,
+      "nom": "Dada del Ronco",
+      "artifice": null,
+      "sexe": "F",
+      "age": 7,
+      "poids": 2750.0,
+      "jockey": "S. Ernault",
+      "musique": "4a10a8a8a(25)2a",
+      "vh": null,
+      "gains_eur": 175288,
+      "entraineur": "HE. Bondo",
+      "cote_pmu": 85.0,
+      "non_partant": false,
+      "musique_raw": "4a10a8a8a(25)2a",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 4.4,
+      "fiche_enrichie": {
+        "numero": 5,
+        "nom": "Dada del Ronco",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "S. Ernault",
+          "proprietaire": "HE. Bondo",
+          "eleveur": "Scuderia Munacone",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2019",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": "Cabourg",
+          "nb_partants": 15,
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
+        },
+        "cote_live_fiche": 85.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "S. ERNAULT",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          },
+          "avec_entraineur": {
+            "nom": "HE. BONDO",
+            "victoires": 3,
+            "places": 4,
+            "courses": 19,
+            "pourcentage": 37.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
+            "victoires": 0,
+            "places": 0,
+            "courses": 1,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 175288,
+          "musique": "4a 10a 8a 8a (25) 2a 10a 7a",
+          "carriere": {
+            "courses": 58,
+            "victoires": 11,
+            "places": 16,
+            "pourcentage": 47.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0108,
+        "gains": 0.8996,
+        "couple_je": 0.37,
         "hippodrome": 0.0,
         "pref_terrain": 0.4,
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 20.46,
-      "enrichi": true,
-      "rang_predit": 13
-    },
-    {
-      "numero": 11,
-      "nom": "Muenchen",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 55.0,
-      "jockey": "A. Orani",
-      "musique": "7p(25)1p2p2p5p",
-      "vh": 36.0,
-      "gains_eur": 21812,
-      "entraineur": "C. Escuder",
-      "cote_pmu": 36.0,
-      "non_partant": false,
-      "musique_raw": "7p(25)1p2p2p5p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 7,
-      "position_moyenne": 3.4,
-      "fiche_enrichie": {
-        "numero": 11,
-        "nom": "Muenchen",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Orani",
-          "proprietaire": "C. Escuder",
-          "eleveur": "B. Giraudon",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Pinatubo"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 36.0
-        },
-        "cote_live_fiche": 36.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. ORANI",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "C. ESCUDER",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 0,
-            "pourcentage": null
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 21812,
-          "musique": "7p (25) 1p 2p 2p 5p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0255,
-        "gains": 0.4515,
-        "couple_je": 0.0,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 19.36,
-      "enrichi": true,
-      "rang_predit": 14
-    },
-    {
-      "numero": 12,
-      "nom": "Sono Io",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 3,
-      "poids": 54.5,
-      "jockey": "A. Lemaitre",
-      "musique": "1p4p11p2p9p",
-      "vh": 35.5,
-      "gains_eur": 14948,
-      "entraineur": "T. Donworth",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "1p4p11p2p9p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 3,
-      "derniere_position": 1,
-      "position_moyenne": 3.4,
-      "fiche_enrichie": {
-        "numero": 12,
-        "nom": "Sono Io",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "A. Lemaitre",
-          "proprietaire": "T. Donworth",
-          "eleveur": "Sangwin Bloodstock Ltd",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Hongre",
-          "pere": "Galop",
-          "mere": "Elarqam"
-        },
-        "course_actuelle": {
-          "hippodrome": "Parislongchamp",
-          "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 35.5
-        },
-        "cote_live_fiche": 20.0,
-        "stats_couples": {
-          "avec_jockey": {
-            "nom": "A. LEMAITRE",
-            "victoires": 0,
-            "places": 0,
-            "courses": 2,
-            "pourcentage": 0.0
-          },
-          "avec_entraineur": {
-            "nom": "T. DONWORTH",
-            "victoires": 1,
-            "places": 0,
-            "courses": 3,
-            "pourcentage": 33.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 0,
-            "courses": 1,
-            "pourcentage": 0.0
-          }
-        },
-        "performances_globales": {
-          "gains_eur": 14948,
-          "musique": "1p 4p 11p 2p 9p",
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0459,
-        "gains": 0.3094,
-        "couple_je": 0.165,
-        "hippodrome": 0.0,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 17.03,
+      "score": 16.13,
       "enrichi": true,
       "rang_predit": 15
     },
     {
-      "numero": 14,
-      "nom": "Honey Pearl",
+      "numero": 12,
+      "nom": "Knockonwood",
       "artifice": null,
-      "sexe": "F",
-      "age": 3,
-      "poids": 53.5,
-      "jockey": "Mlle M. Vélon",
-      "musique": "3p5p9p6p(25)8p",
-      "vh": 34.5,
-      "gains_eur": 29441,
-      "entraineur": "J. Boisnard",
-      "cote_pmu": 23.0,
+      "sexe": "M",
+      "age": 6,
+      "poids": 2750.0,
+      "jockey": "RC. Larue",
+      "musique": "6aDa8aDa5a9a",
+      "vh": null,
+      "gains_eur": 189560,
+      "entraineur": "RC. Larue",
+      "cote_pmu": 51.0,
       "non_partant": false,
-      "musique_raw": "3p5p9p6p(25)8p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "6aDa8aDa5a9a",
+      "nb_courses_recentes": 6,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 1,
-      "derniere_position": 3,
-      "position_moyenne": 6.2,
+      "nb_places_recentes": 0,
+      "derniere_position": 6,
+      "position_moyenne": 7.0,
       "fiche_enrichie": {
-        "numero": 14,
-        "nom": "Honey Pearl",
+        "numero": 12,
+        "nom": "Knockonwood",
         "carte_identite": {
           "jockey": "Éleveur",
-          "entraineur": "Mlle M. Vélon",
-          "proprietaire": "J. Boisnard",
-          "eleveur": "Mme S. Boulin-Redouly",
+          "entraineur": "RC. Larue",
+          "proprietaire": "RC. Larue",
+          "eleveur": "Ecurie de Windcut",
           "sexe": "Discipline",
           "robe": "Père",
           "naissance": "Mère",
-          "discipline": "Femelle",
-          "pere": "Galop",
-          "mere": "Lucky Team"
+          "discipline": "Record",
+          "pere": "2020",
+          "mere": "Trot"
         },
         "course_actuelle": {
-          "hippodrome": "Parislongchamp",
+          "hippodrome": "Cabourg",
           "nb_partants": 15,
-          "allocation_eur": 52800,
-          "distance_m": 1600,
-          "vh": 34.5
+          "allocation_eur": 37000,
+          "distance_m": 2750,
+          "vh": null
         },
-        "cote_live_fiche": 23.0,
+        "cote_live_fiche": 51.0,
         "stats_couples": {
           "avec_jockey": {
-            "nom": "MLLE M. VÉLON",
+            "nom": "RC. LARUE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 12,
+            "pourcentage": 0.0
+          },
+          "avec_entraineur": {
+            "nom": "RC. LARUE",
+            "victoires": 1,
+            "places": 1,
+            "courses": 33,
+            "pourcentage": 6.0
+          },
+          "sur_hippodrome": {
+            "nom": "CABOURG",
             "victoires": 0,
             "places": 0,
             "courses": 0,
             "pourcentage": null
-          },
-          "avec_entraineur": {
-            "nom": "J. BOISNARD",
-            "victoires": 1,
-            "places": 4,
-            "courses": 14,
-            "pourcentage": 36.0
-          },
-          "sur_hippodrome": {
-            "nom": "PARISLONGCHAMP",
-            "victoires": 0,
-            "places": 1,
-            "courses": 3,
-            "pourcentage": 33.0
           }
         },
         "performances_globales": {
-          "gains_eur": 29441,
-          "musique": "3p 5p 9p 6p (25) 8p 4p 2p",
-          "carriere": null
+          "gains_eur": 189560,
+          "musique": "6a Da 8a Da 5a 9a 12a Da",
+          "carriere": {
+            "courses": 49,
+            "victoires": 4,
+            "places": 5,
+            "pourcentage": 18.0
+          }
         },
         "dernieres_courses": [],
         "derives": {
@@ -1844,20 +2065,20 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0399,
-        "gains": 0.6095,
-        "couple_je": 0.36,
-        "hippodrome": 0.33,
-        "pref_terrain": 0.2,
-        "pref_distance": 0.2,
+        "cote": 0.018,
+        "gains": 0.9728,
+        "couple_je": 0.03,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.0,
+        "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 16.84,
+      "score": 11.27,
       "enrichi": true,
       "rang_predit": 16
     }
   ],
-  "nb_enrichis": 14,
+  "nb_enrichis": 15,
   "nb_partants": 16,
   "cotes_dispo": 15
 }
