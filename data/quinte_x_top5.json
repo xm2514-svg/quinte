@@ -110,7 +110,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2861,
+        "cote": 0.2872,
         "gains": 0.9665,
         "couple_je": 0.695,
         "hippodrome": 1.0,
@@ -118,7 +118,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 48.58,
+      "score": 48.64,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -134,7 +134,7 @@
       "vh": null,
       "gains_eur": 149543,
       "entraineur": "Mme M. Törnqvist",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.2,
       "non_partant": false,
       "musique_raw": "8a1a1a1a(25)9a",
       "nb_courses_recentes": 5,
@@ -164,11 +164,29 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 4.1,
+        "cote_live_fiche": 4.2,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "D. PIETERS",
+            "victoires": 10,
+            "places": 2,
+            "courses": 16,
+            "pourcentage": 75.0
+          },
+          "avec_entraineur": {
+            "nom": "MME M. TÖRNQVIST",
+            "victoires": 13,
+            "places": 3,
+            "courses": 20,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "LES SABLES-D'OLONNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
           "gains_eur": 149543,
@@ -188,15 +206,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2233,
+        "cote": 0.2188,
         "gains": 0.9975,
-        "couple_je": 0.5,
+        "couple_je": 0.775,
         "hippodrome": 0.5,
         "pref_terrain": 0.6,
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 37.87,
+      "score": 40.93,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -212,7 +230,7 @@
       "vh": null,
       "gains_eur": 132528,
       "entraineur": "E. Lindegren",
-      "cote_pmu": 33.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "Da11a9a10a(25)2a",
       "nb_courses_recentes": 5,
@@ -242,7 +260,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 33.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "N. PACHA",
@@ -284,7 +302,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0277,
+        "cote": 0.027,
         "gains": 0.884,
         "couple_je": 0.73,
         "hippodrome": 0.5,
@@ -292,7 +310,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 29.54,
+      "score": 29.5,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -308,7 +326,7 @@
       "vh": null,
       "gains_eur": 137421,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 6.1,
+      "cote_pmu": 6.2,
       "non_partant": false,
       "musique_raw": "7a1a5aDa2a(25)",
       "nb_courses_recentes": 5,
@@ -338,7 +356,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 6.1,
+        "cote_live_fiche": 6.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -380,7 +398,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1501,
+        "cote": 0.1482,
         "gains": 0.9167,
         "couple_je": 0.4,
         "hippodrome": 0.5,
@@ -388,7 +406,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 29.21,
+      "score": 29.1,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -404,7 +422,7 @@
       "vh": null,
       "gains_eur": 108555,
       "entraineur": "GV. Gundersen",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "3a(25)3a7a5a2a",
       "nb_courses_recentes": 5,
@@ -434,7 +452,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 19.0,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. BONNE",
@@ -476,7 +494,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0482,
+        "cote": 0.046,
         "gains": 0.7241,
         "couple_je": 0.62,
         "hippodrome": 0.5,
@@ -484,7 +502,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 28.86,
+      "score": 28.74,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -509,7 +527,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.0,
       "sous_scores": {
-        "cote": 0.0572,
+        "cote": 0.0574,
         "gains": 0.8848,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -517,7 +535,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 28.4,
+      "score": 28.41,
       "enrichi": false,
       "rang_predit": 6
     }
@@ -607,7 +625,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2861,
+        "cote": 0.2872,
         "gains": 0.9665,
         "couple_je": 0.695,
         "hippodrome": 1.0,
@@ -615,7 +633,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 48.58,
+      "score": 48.64,
       "enrichi": true,
       "rang_predit": 1
     },
@@ -631,7 +649,7 @@
       "vh": null,
       "gains_eur": 149543,
       "entraineur": "Mme M. Törnqvist",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.2,
       "non_partant": false,
       "musique_raw": "8a1a1a1a(25)9a",
       "nb_courses_recentes": 5,
@@ -661,11 +679,29 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 4.1,
+        "cote_live_fiche": 4.2,
         "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
+          "avec_jockey": {
+            "nom": "D. PIETERS",
+            "victoires": 10,
+            "places": 2,
+            "courses": 16,
+            "pourcentage": 75.0
+          },
+          "avec_entraineur": {
+            "nom": "MME M. TÖRNQVIST",
+            "victoires": 13,
+            "places": 3,
+            "courses": 20,
+            "pourcentage": 80.0
+          },
+          "sur_hippodrome": {
+            "nom": "LES SABLES-D'OLONNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 0,
+            "pourcentage": null
+          }
         },
         "performances_globales": {
           "gains_eur": 149543,
@@ -685,15 +721,15 @@
         }
       },
       "sous_scores": {
-        "cote": 0.2233,
+        "cote": 0.2188,
         "gains": 0.9975,
-        "couple_je": 0.5,
+        "couple_je": 0.775,
         "hippodrome": 0.5,
         "pref_terrain": 0.6,
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 37.87,
+      "score": 40.93,
       "enrichi": true,
       "rang_predit": 2
     },
@@ -709,7 +745,7 @@
       "vh": null,
       "gains_eur": 132528,
       "entraineur": "E. Lindegren",
-      "cote_pmu": 33.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "Da11a9a10a(25)2a",
       "nb_courses_recentes": 5,
@@ -739,7 +775,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 33.0,
+        "cote_live_fiche": 34.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "N. PACHA",
@@ -781,7 +817,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0277,
+        "cote": 0.027,
         "gains": 0.884,
         "couple_je": 0.73,
         "hippodrome": 0.5,
@@ -789,7 +825,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 29.54,
+      "score": 29.5,
       "enrichi": true,
       "rang_predit": 3
     },
@@ -805,7 +841,7 @@
       "vh": null,
       "gains_eur": 137421,
       "entraineur": "HE. Bondo",
-      "cote_pmu": 6.1,
+      "cote_pmu": 6.2,
       "non_partant": false,
       "musique_raw": "7a1a5aDa2a(25)",
       "nb_courses_recentes": 5,
@@ -835,7 +871,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 6.1,
+        "cote_live_fiche": 6.2,
         "stats_couples": {
           "avec_jockey": {
             "nom": "B. ROCHARD",
@@ -877,7 +913,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.1501,
+        "cote": 0.1482,
         "gains": 0.9167,
         "couple_je": 0.4,
         "hippodrome": 0.5,
@@ -885,7 +921,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 29.21,
+      "score": 29.1,
       "enrichi": true,
       "rang_predit": 4
     },
@@ -901,7 +937,7 @@
       "vh": null,
       "gains_eur": 108555,
       "entraineur": "GV. Gundersen",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "3a(25)3a7a5a2a",
       "nb_courses_recentes": 5,
@@ -931,7 +967,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 19.0,
+        "cote_live_fiche": 20.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "D. BONNE",
@@ -973,7 +1009,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0482,
+        "cote": 0.046,
         "gains": 0.7241,
         "couple_je": 0.62,
         "hippodrome": 0.5,
@@ -981,7 +1017,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 28.86,
+      "score": 28.74,
       "enrichi": true,
       "rang_predit": 5
     },
@@ -1006,7 +1042,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.0,
       "sous_scores": {
-        "cote": 0.0572,
+        "cote": 0.0574,
         "gains": 0.8848,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -1014,7 +1050,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 28.4,
+      "score": 28.41,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -1030,7 +1066,7 @@
       "vh": null,
       "gains_eur": 112814,
       "entraineur": "J. Merer",
-      "cote_pmu": 20.0,
+      "cote_pmu": 19.0,
       "non_partant": false,
       "musique_raw": "3a7a(25)2a9a1a",
       "nb_courses_recentes": 5,
@@ -1060,7 +1096,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 20.0,
+        "cote_live_fiche": 19.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. DESMIGNEUX",
@@ -1102,7 +1138,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0458,
+        "cote": 0.0484,
         "gains": 0.7525,
         "couple_je": 0.55,
         "hippodrome": 0.5,
@@ -1110,87 +1146,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 27.98,
+      "score": 28.12,
       "enrichi": true,
       "rang_predit": 7
-    },
-    {
-      "numero": 10,
-      "nom": "Hendrix Wind",
-      "artifice": "oui",
-      "sexe": "H",
-      "age": 9,
-      "poids": 2650.0,
-      "jockey": "G. Prat",
-      "musique": "1m2a5a4a2a1a",
-      "vh": null,
-      "gains_eur": 119560,
-      "entraineur": "G. Prat",
-      "cote_pmu": 58.0,
-      "non_partant": false,
-      "musique_raw": "1m2a5a4a2a1a",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 4,
-      "derniere_position": 1,
-      "position_moyenne": 2.5,
-      "fiche_enrichie": {
-        "numero": 10,
-        "nom": "Hendrix Wind",
-        "carte_identite": {
-          "jockey": "Éleveur",
-          "entraineur": "G. Prat",
-          "proprietaire": "G. Prat",
-          "eleveur": "G. Prat",
-          "sexe": "Discipline",
-          "robe": "Père",
-          "naissance": "Mère",
-          "discipline": "Record",
-          "pere": "2017",
-          "mere": "Trot"
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": 13,
-          "allocation_eur": 32000,
-          "distance_m": 2650,
-          "vh": null
-        },
-        "cote_live_fiche": 58.0,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": 119560,
-          "musique": "1m 2a 5a 4a 2a 1a 13a (25)",
-          "carriere": {
-            "courses": 59,
-            "victoires": 15,
-            "places": 12,
-            "pourcentage": 46.0
-          }
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.0158,
-        "gains": 0.7975,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 26.93,
-      "enrichi": true,
-      "rang_predit": 8
     },
     {
       "numero": 8,
@@ -1204,7 +1162,7 @@
       "vh": null,
       "gains_eur": 149915,
       "entraineur": "A. Hubert",
-      "cote_pmu": 34.0,
+      "cote_pmu": 26.0,
       "non_partant": false,
       "musique_raw": "8a5m5a3a7a11a",
       "nb_courses_recentes": 6,
@@ -1234,7 +1192,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 34.0,
+        "cote_live_fiche": 26.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "A. HUBERT",
@@ -1276,7 +1234,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0269,
+        "cote": 0.0354,
         "gains": 1.0,
         "couple_je": 0.57,
         "hippodrome": 0.5,
@@ -1284,7 +1242,103 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 23.65,
+      "score": 24.12,
+      "enrichi": true,
+      "rang_predit": 8
+    },
+    {
+      "numero": 10,
+      "nom": "Hendrix Wind",
+      "artifice": "oui",
+      "sexe": "H",
+      "age": 9,
+      "poids": 2650.0,
+      "jockey": "G. Prat",
+      "musique": "1m2a5a4a2a1a",
+      "vh": null,
+      "gains_eur": 119560,
+      "entraineur": "G. Prat",
+      "cote_pmu": 59.0,
+      "non_partant": false,
+      "musique_raw": "1m2a5a4a2a1a",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 4,
+      "derniere_position": 1,
+      "position_moyenne": 2.5,
+      "fiche_enrichie": {
+        "numero": 10,
+        "nom": "Hendrix Wind",
+        "carte_identite": {
+          "jockey": "Éleveur",
+          "entraineur": "G. Prat",
+          "proprietaire": "G. Prat",
+          "eleveur": "G. Prat",
+          "sexe": "Discipline",
+          "robe": "Père",
+          "naissance": "Mère",
+          "discipline": "Record",
+          "pere": "2017",
+          "mere": "Trot"
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": 13,
+          "allocation_eur": 32000,
+          "distance_m": 2650,
+          "vh": null
+        },
+        "cote_live_fiche": 59.0,
+        "stats_couples": {
+          "avec_jockey": {
+            "nom": "G. PRAT",
+            "victoires": 6,
+            "places": 6,
+            "courses": 38,
+            "pourcentage": 32.0
+          },
+          "avec_entraineur": {
+            "nom": "G. PRAT",
+            "victoires": 14,
+            "places": 12,
+            "courses": 58,
+            "pourcentage": 45.0
+          },
+          "sur_hippodrome": {
+            "nom": "LES SABLES-D'OLONNE",
+            "victoires": 0,
+            "places": 0,
+            "courses": 4,
+            "pourcentage": 0.0
+          }
+        },
+        "performances_globales": {
+          "gains_eur": 119560,
+          "musique": "1m 2a 5a 4a 2a 1a 13a (25)",
+          "carriere": {
+            "courses": 59,
+            "victoires": 15,
+            "places": 12,
+            "pourcentage": 46.0
+          }
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0156,
+        "gains": 0.7975,
+        "couple_je": 0.385,
+        "hippodrome": 0.0,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
+        "recuperation": 0.5
+      },
+      "score": 20.54,
       "enrichi": true,
       "rang_predit": 9
     },
@@ -1300,7 +1354,7 @@
       "vh": null,
       "gains_eur": 142485,
       "entraineur": "J. Untersteiner",
-      "cote_pmu": 16.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "10a8a4a2a7a7a",
       "nb_courses_recentes": 6,
@@ -1330,7 +1384,7 @@
           "distance_m": 2650,
           "vh": null
         },
-        "cote_live_fiche": 16.0,
+        "cote_live_fiche": 17.0,
         "stats_couples": {
           "avec_jockey": {
             "nom": "F. NIVARD",
@@ -1372,7 +1426,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0572,
+        "cote": 0.0541,
         "gains": 0.9504,
         "couple_je": 0.185,
         "hippodrome": 0.5,
@@ -1380,7 +1434,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 20.55,
+      "score": 20.38,
       "enrichi": true,
       "rang_predit": 10
     },
@@ -1468,7 +1522,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0145,
+        "cote": 0.0146,
         "gains": 0.8685,
         "couple_je": 0.0,
         "hippodrome": 1.0,
@@ -1476,7 +1530,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 18.6,
+      "score": 18.61,
       "enrichi": true,
       "rang_predit": 11
     },
@@ -1564,7 +1618,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0316,
+        "cote": 0.0317,
         "gains": 0.8983,
         "couple_je": 0.19,
         "hippodrome": 0.5,
@@ -1572,7 +1626,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 13.71,
+      "score": 13.72,
       "enrichi": true,
       "rang_predit": 12
     },
@@ -1660,7 +1714,7 @@
         }
       },
       "sous_scores": {
-        "cote": 0.0155,
+        "cote": 0.0156,
         "gains": 0.6994,
         "couple_je": 0.0,
         "hippodrome": 0.5,
