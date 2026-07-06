@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-05",
+  "course": {
+    "reunion": 1,
+    "course": 3,
+    "hippodrome": "SAINT-CLOUD",
+    "libelle": "HANDICAP DES HAUTS-DE-SEINE"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 6
+    },
+    {
+      "rang": 2,
+      "numero": 2
+    },
+    {
+      "rang": 3,
+      "numero": 4
+    },
+    {
+      "rang": 4,
+      "numero": 1
+    },
+    {
+      "rang": 5,
+      "numero": 5
+    },
+    {
+      "rang": 6,
+      "numero": 8
+    },
+    {
+      "rang": 7,
+      "numero": 9
+    },
+    {
+      "rang": 8,
+      "numero": 7
+    },
+    {
+      "rang": 9,
+      "numero": 3
+    },
+    {
+      "rang": 10,
+      "numero": 11
+    },
+    {
+      "rang": 11,
+      "numero": 15
+    },
+    {
+      "rang": 12,
+      "numero": 16
+    },
+    {
+      "rang": 13,
+      "numero": 13
+    },
+    {
+      "rang": 14,
+      "numero": 10
+    },
+    {
+      "rang": 15,
+      "numero": 12
+    },
+    {
+      "rang": 16,
+      "numero": 14
+    }
+  ],
+  "predictions": {
+    "top5": [
+      8,
+      4,
+      16,
+      1,
+      6,
+      3
+    ],
+    "date_prediction": "2026-07-05"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 8,
+    "favori_arrive_rang": 6
+  }
+}
