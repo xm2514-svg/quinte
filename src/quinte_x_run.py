@@ -148,6 +148,32 @@ def slug_and_hash(href: str) -> tuple[str, str]:
 
 # ----- main -------------------------------------------------------------------
 
+
+def _cross_check_non_partants_pmu(base, date_str, logger):
+    """Croise avec l'API PMU pour flagger les non-partants ratés par paris-turf."""
+    import urllib.request, json as _json
+    c = base.get("course", {})
+    reunion = str(c.get("reunion", "")).replace("R", "")
+    course_num = str(c.get("course_num", "")).replace("C", "")
+    if not reunion or not course_num:
+        return
+    y, m, d = date_str.split("-")
+    date_pmu = f"{d}{m}{y}"
+    url = f"https://offline.turfinfo.api.pmu.fr/rest/client/61/programme/{date_pmu}/R{reunion}/C{course_num}/participants"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    data = _json.loads(urllib.request.urlopen(req, timeout=10).read())
+    np_nums = set()
+    for p in data.get("participants", []):
+        if "NON_PARTANT" in str(p.get("statut", "")):
+            np_nums.add(p.get("numPmu"))
+    if np_nums:
+        logger.info(f"  → API PMU signale non-partants : {sorted(np_nums)}")
+        for ch in base.get("partants", []):
+            if ch.get("numero") in np_nums and not ch.get("non_partant"):
+                ch["non_partant"] = True
+                logger.info(f"    → Fix PMU : #{ch['numero']} {ch.get('nom')} flagge non_partant")
+
+
 def run(demain: bool, logger: logging.Logger) -> dict:
     target_date = date.today() + (timedelta(days=1) if demain else timedelta(days=0))
     date_str = str(target_date)
@@ -222,6 +248,12 @@ def run(demain: bool, logger: logging.Logger) -> dict:
                         logger.error(f"Parse fiche {slug} : {e}")
                 break
 
+    # Cross-check API PMU pour flagger les non-partants ratés par paris-turf (fallback fiable)
+    try:
+        _cross_check_non_partants_pmu(base, date_str, logger)
+    except Exception as e:
+        logger.warning(f"  → Cross-check PMU non-partants echec (non bloquant): {e}")
+
     # Filtre NP (non-partants)
     partants_actifs = [c for c in base["partants"] if not c.get("non_partant")]
     enriched = score_chevaux(partants_actifs)
@@ -239,6 +271,11 @@ def run(demain: bool, logger: logging.Logger) -> dict:
         "cotes_dispo": sum(1 for c in enriched if c.get("cote_pmu")),
     }
     out_path = CACHE / "quinte_x_top5.json"
+    # Anti-écrasement renforcé : ne pas écraser si scraping partiel (< 80 % des partants attendus)
+    nb_expected = base["course"].get("nb_partants") or 0
+    if nb_expected and len(enriched) < nb_expected * 0.8:
+        logger.warning(f"  → Scraping partiel ({len(enriched)}/{nb_expected}), JSON precedent conserve")
+        return result
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info(f"  → Top 5 écrit : {out_path.name}")
     logger.info(f"  → Enrichis : {result['nb_enrichis']}/{result['nb_partants']} | Cotes : {result['cotes_dispo']}/{result['nb_partants']}")
