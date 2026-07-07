@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-06",
+  "course": {
+    "reunion": 1,
+    "course": 8,
+    "hippodrome": "LES SABLES D OLONNE",
+    "libelle": "PRIX DES SABLES D'OLONNE AGGLOMERATION"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 7
+    },
+    {
+      "rang": 2,
+      "numero": 4
+    },
+    {
+      "rang": 3,
+      "numero": 2
+    },
+    {
+      "rang": 4,
+      "numero": 8
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 13
+    },
+    {
+      "rang": 7,
+      "numero": 12
+    },
+    {
+      "rang": 8,
+      "numero": 10
+    },
+    {
+      "rang": 9,
+      "numero": 11
+    },
+    {
+      "rang": 10,
+      "numero": 6
+    }
+  ],
+  "predictions": {
+    "top5": [
+      2,
+      7,
+      4,
+      1,
+      13,
+      5
+    ],
+    "date_prediction": "2026-07-06"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 3,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 2,
+    "favori_arrive_rang": 3
+  }
+}
