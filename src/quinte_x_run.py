@@ -271,8 +271,11 @@ def run(demain: bool, logger: logging.Logger) -> dict:
         "cotes_dispo": sum(1 for c in enriched if c.get("cote_pmu")),
     }
     out_path = CACHE / "quinte_x_top5.json"
-    # Anti-écrasement renforcé : ne pas écraser si scraping partiel (< 80 % des partants attendus)
+    # Anti-écrasement renforcé : ne pas écraser si scraping vide ou partiel (< 80 % des partants attendus)
     nb_expected = base["course"].get("nb_partants") or 0
+    if not enriched:
+        logger.warning(f"  → Scraping vide (0 chevaux), JSON precedent conserve")
+        return result
     if nb_expected and len(enriched) < nb_expected * 0.8:
         logger.warning(f"  → Scraping partiel ({len(enriched)}/{nb_expected}), JSON precedent conserve")
         return result
