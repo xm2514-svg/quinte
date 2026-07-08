@@ -149,6 +149,110 @@ def slug_and_hash(href: str) -> tuple[str, str]:
 # ----- main -------------------------------------------------------------------
 
 
+
+def fetch_quinte_pmu(target_date, logger):
+    """Récupère la course Quinté+ + partants directement via l'API PMU (source primaire).
+    Retourne le dict `base` au format attendu par le pipeline (compatible parse_paris_turf)."""
+    import urllib.request, json as _json, re as _re
+    date_pmu = target_date.strftime("%d%m%Y")
+    url = f"https://offline.turfinfo.api.pmu.fr/rest/client/61/programme/{date_pmu}"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    data = _json.loads(urllib.request.urlopen(req, timeout=15).read())
+
+    # Trouve la course Quinté+
+    quinte_c = None
+    reunion_info = None
+    for r in data.get("programme", {}).get("reunions", []):
+        for c in r.get("courses", []):
+            for p in (c.get("paris") or []):
+                if "QUINTE_PLUS" in str(p.get("typePari", "")):
+                    quinte_c = c
+                    reunion_info = r
+                    break
+            if quinte_c: break
+        if quinte_c: break
+
+    if not quinte_c:
+        logger.warning("Aucun Quinté+ trouvé dans le programme PMU")
+        return {"date": str(target_date), "course": {}, "partants": []}
+
+    reunion_num = reunion_info["numOfficiel"]
+    course_num = quinte_c["numOrdre"]
+    hippo = reunion_info["hippodrome"]["libelleCourt"].title()
+
+    # Récupère les participants
+    url_p = f"https://offline.turfinfo.api.pmu.fr/rest/client/61/programme/{date_pmu}/R{reunion_num}/C{course_num}/participants"
+    parts_data = _json.loads(urllib.request.urlopen(urllib.request.Request(url_p, headers={"User-Agent": "Mozilla/5.0"}), timeout=15).read())
+
+    def _parse_mus(m):
+        if not m: return {}
+        perfs = _re.findall(r"(\d|[ATDJ])[a-zA-Z]", m)
+        positions = [int(p) for p in perfs if p.isdigit()]
+        return {
+            "musique_raw": m,
+            "nb_courses_recentes": len(perfs),
+            "nb_victoires_recentes": positions.count(1),
+            "nb_places_recentes": sum(1 for p in positions if p <= 3),
+            "derniere_position": positions[0] if positions else None,
+            "position_moyenne": round(sum(positions)/len(positions), 2) if positions else None,
+        }
+
+    partants = []
+    for p in parts_data.get("participants", []):
+        np = "NON_PARTANT" in str(p.get("statut", ""))
+        cote = None
+        for k in ("dernierRapportDirect", "dernierRapportReference"):
+            if p.get(k) and p[k].get("rapport"):
+                cote = p[k]["rapport"]; break
+        gains = p.get("gainsParticipant", {}).get("gainsCarriere", 0) or 0
+        gains = gains // 100 if gains else 0  # PMU renvoie en centimes
+        musique = p.get("musique") or ""
+        cheval = {
+            "numero": p.get("numPmu"),
+            "nom": (p.get("nom") or "").title() or None,
+            "artifice": None,
+            "sexe": p.get("sexe"),
+            "age": p.get("age"),
+            "poids": None,
+            "jockey": (p.get("driver") or p.get("nomJockey") or "").title() or None,
+            "musique": musique,
+            "vh": None,
+            "gains_eur": gains,
+            "entraineur": (p.get("entraineur") or "").title() or None,
+            "cote_pmu": cote,
+            "non_partant": np,
+        }
+        cheval.update(_parse_mus(musique))
+        partants.append(cheval)
+
+    # Info course
+    heure_ts = quinte_c.get("heureDepart", 0)
+    heure_str = None
+    if heure_ts:
+        import datetime as _dt
+        h = _dt.datetime.fromtimestamp(heure_ts/1000, _dt.timezone.utc).astimezone(_dt.timezone(_dt.timedelta(hours=2)))
+        heure_str = h.strftime("%Hh%M")
+
+    course = {
+        "reunion": f"R{reunion_num}",
+        "course_num": f"C{course_num}",
+        "hippodrome": hippo,
+        "nom": quinte_c.get("libelle"),
+        "heure": heure_str,
+        "type": quinte_c.get("discipline"),
+        "categorie": quinte_c.get("categorieParticularite"),
+        "nb_partants": quinte_c.get("nombreDeclaresPartants") or len(partants),
+        "allocation_eur": quinte_c.get("montantPrix"),
+        "distance_m": quinte_c.get("distance"),
+        "corde": quinte_c.get("corde"),
+        "terrain": quinte_c.get("penetrometre") or "-",
+        "meteo": None,
+    }
+
+    logger.info(f"  → API PMU : {len(partants)} partants récupérés ({sum(1 for c in partants if c['non_partant'])} NP)")
+    return {"date": str(target_date), "course": course, "partants": partants}
+
+
 def _cross_check_non_partants_pmu(base, date_str, logger):
     """Croise avec l'API PMU pour flagger les non-partants ratés par paris-turf."""
     import urllib.request, json as _json
@@ -197,10 +301,9 @@ def run(demain: bool, logger: logging.Logger) -> dict:
         (CACHE / f"raw_paristurf_{date_str}.txt").write_text(quinte_text, encoding="utf-8")
         logger.info(f"  → {len(fiches_urls)} URLs fiches détectées")
 
-        # 2. Parse Quinté+
-        logger.info("[2/4] Parsing Quinté+...")
-        base = parse_paris_turf(quinte_text)
-        base["date"] = date_str
+        # 2. Récupération partants + course via API PMU (source primaire - fiable)
+        logger.info("[2/4] Récupération partants via API PMU...")
+        base = fetch_quinte_pmu(target_date, logger)
         nb_partants = len(base["partants"])
         logger.info(f"  → {nb_partants} chevaux, course : {base['course'].get('reunion')}{base['course'].get('course_num')} "
                     f"{base['course'].get('hippodrome')} — {base['course'].get('nom')}")
