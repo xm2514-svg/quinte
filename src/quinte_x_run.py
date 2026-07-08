@@ -362,12 +362,18 @@ def run(demain: bool, logger: logging.Logger) -> dict:
     enriched = score_chevaux(partants_actifs)
     fiab = fiabilite_globale(base["course"].get("type"))
 
+    # Mélange l'ordre d'affichage des 6 chevaux (masque le tri par cote)
+    # Seed déterministe = date du jour → ordre stable toute la journée
+    import random as _rnd
+    _top6 = list(enriched[:6])
+    _rnd.Random(int(date_str.replace("-", ""))).shuffle(_top6)
+
     result = {
         "date": date_str,
         "course": base["course"],
         "fiabilite_globale": fiab,
         "ponderations": W,
-        "top5": enriched[:6],  # 6 chevaux champ réduit Xavier
+        "top5": _top6,  # 6 chevaux dans ordre mélangé (rang_predit inchangé)
         "tous_chevaux": enriched,
         "nb_enrichis": sum(1 for c in enriched if c.get("fiche_enrichie")),
         "nb_partants": len(partants_actifs),
