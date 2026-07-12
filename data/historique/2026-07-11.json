@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-11",
+  "course": {
+    "reunion": 1,
+    "course": 7,
+    "hippodrome": "ENGHIEN",
+    "libelle": "PRIX DE ROMAINVILLE"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 11
+    },
+    {
+      "rang": 2,
+      "numero": 6
+    },
+    {
+      "rang": 3,
+      "numero": 9
+    },
+    {
+      "rang": 4,
+      "numero": 4
+    },
+    {
+      "rang": 5,
+      "numero": 7
+    },
+    {
+      "rang": 6,
+      "numero": 8
+    },
+    {
+      "rang": 7,
+      "numero": 12
+    },
+    {
+      "rang": 8,
+      "numero": 13
+    },
+    {
+      "rang": 9,
+      "numero": 5
+    },
+    {
+      "rang": 10,
+      "numero": 3
+    }
+  ],
+  "predictions": {
+    "top5": [
+      1,
+      9,
+      11,
+      14,
+      13,
+      8
+    ],
+    "date_prediction": "2026-07-11"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 2,
+    "favori_predit": 1,
+    "favori_arrive_rang": null
+  }
+}
