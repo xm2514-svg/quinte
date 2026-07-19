@@ -47,7 +47,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0697,
         "gains": 0.7967,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -55,7 +55,7 @@
         "pref_distance": 0.75,
         "recuperation": 0.5
       },
-      "score": 31.25,
+      "score": 31.23,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -71,7 +71,7 @@
       "vh": null,
       "gains_eur": 53227,
       "entraineur": "P.Decouz (S)",
-      "cote_pmu": 6.8,
+      "cote_pmu": 6.7,
       "non_partant": false,
       "musique_raw": "2p1p1p4p(25)2p2p2p3p3p",
       "nb_courses_recentes": 9,
@@ -80,7 +80,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.22,
       "sous_scores": {
-        "cote": 0.1237,
+        "cote": 0.1249,
         "gains": 0.3966,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -88,7 +88,7 @@
         "pref_distance": 0.8889,
         "recuperation": 0.5
       },
-      "score": 35.22,
+      "score": 35.28,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -104,7 +104,7 @@
       "vh": null,
       "gains_eur": 23722,
       "entraineur": "Fh.Graffard (S)",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.2,
       "non_partant": false,
       "musique_raw": "2p0p1p(25)2p4p",
       "nb_courses_recentes": 5,
@@ -113,7 +113,7 @@
       "derniere_position": 2,
       "position_moyenne": 1.8,
       "sous_scores": {
-        "cote": 0.2052,
+        "cote": 0.1992,
         "gains": 0.1767,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -121,7 +121,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 37.62,
+      "score": 37.29,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -146,7 +146,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.44,
       "sous_scores": {
-        "cote": 0.0647,
+        "cote": 0.0644,
         "gains": 0.726,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -154,7 +154,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.4,
+      "score": 29.38,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -170,7 +170,7 @@
       "vh": null,
       "gains_eur": 72892,
       "entraineur": "Mme C.Barande Barbe",
-      "cote_pmu": 19.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "6p0p0p0p0p6p1p0p0p",
       "nb_courses_recentes": 9,
@@ -179,7 +179,7 @@
       "derniere_position": 6,
       "position_moyenne": 1.44,
       "sous_scores": {
-        "cote": 0.0443,
+        "cote": 0.0465,
         "gains": 0.5431,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -187,7 +187,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 29.51,
+      "score": 29.63,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -212,7 +212,7 @@
       "derniere_position": 4,
       "position_moyenne": 2.22,
       "sous_scores": {
-        "cote": 0.0841,
+        "cote": 0.0837,
         "gains": 0.4629,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -220,7 +220,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 31.46,
+      "score": 31.43,
       "enrichi": false,
       "rang_predit": 3
     }
@@ -238,7 +238,7 @@
       "vh": null,
       "gains_eur": 23722,
       "entraineur": "Fh.Graffard (S)",
-      "cote_pmu": 4.1,
+      "cote_pmu": 4.2,
       "non_partant": false,
       "musique_raw": "2p0p1p(25)2p4p",
       "nb_courses_recentes": 5,
@@ -247,7 +247,7 @@
       "derniere_position": 2,
       "position_moyenne": 1.8,
       "sous_scores": {
-        "cote": 0.2052,
+        "cote": 0.1992,
         "gains": 0.1767,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -255,7 +255,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 37.62,
+      "score": 37.29,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -271,7 +271,7 @@
       "vh": null,
       "gains_eur": 53227,
       "entraineur": "P.Decouz (S)",
-      "cote_pmu": 6.8,
+      "cote_pmu": 6.7,
       "non_partant": false,
       "musique_raw": "2p1p1p4p(25)2p2p2p3p3p",
       "nb_courses_recentes": 9,
@@ -280,7 +280,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.22,
       "sous_scores": {
-        "cote": 0.1237,
+        "cote": 0.1249,
         "gains": 0.3966,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -288,7 +288,7 @@
         "pref_distance": 0.8889,
         "recuperation": 0.5
       },
-      "score": 35.22,
+      "score": 35.28,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -313,7 +313,7 @@
       "derniere_position": 4,
       "position_moyenne": 2.22,
       "sous_scores": {
-        "cote": 0.0841,
+        "cote": 0.0837,
         "gains": 0.4629,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -321,7 +321,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 31.46,
+      "score": 31.43,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -346,7 +346,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0697,
         "gains": 0.7967,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -354,7 +354,7 @@
         "pref_distance": 0.75,
         "recuperation": 0.5
       },
-      "score": 31.25,
+      "score": 31.23,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -370,7 +370,7 @@
       "vh": null,
       "gains_eur": 72892,
       "entraineur": "Mme C.Barande Barbe",
-      "cote_pmu": 19.0,
+      "cote_pmu": 18.0,
       "non_partant": false,
       "musique_raw": "6p0p0p0p0p6p1p0p0p",
       "nb_courses_recentes": 9,
@@ -379,7 +379,7 @@
       "derniere_position": 6,
       "position_moyenne": 1.44,
       "sous_scores": {
-        "cote": 0.0443,
+        "cote": 0.0465,
         "gains": 0.5431,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -387,7 +387,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 29.51,
+      "score": 29.63,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -412,7 +412,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.44,
       "sous_scores": {
-        "cote": 0.0647,
+        "cote": 0.0644,
         "gains": 0.726,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -420,7 +420,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.4,
+      "score": 29.38,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -445,7 +445,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0841,
+        "cote": 0.0837,
         "gains": 0.7203,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -453,7 +453,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 26.9,
+      "score": 26.87,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -478,7 +478,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0312,
+        "cote": 0.031,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -486,9 +486,42 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 26.6,
+      "score": 26.59,
       "enrichi": false,
       "rang_predit": 8
+    },
+    {
+      "numero": 9,
+      "nom": "Marinaleda",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 4,
+      "poids": null,
+      "jockey": "C.Demuro",
+      "musique": "7p9p2p2p2p(25)3p7p5p5p",
+      "vh": null,
+      "gains_eur": 46907,
+      "entraineur": "M.Baratti (S)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "7p9p2p2p2p(25)3p7p5p5p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 7,
+      "position_moyenne": 4.67,
+      "sous_scores": {
+        "cote": 0.0697,
+        "gains": 0.3495,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4444,
+        "pref_distance": 0.4444,
+        "recuperation": 0.5
+      },
+      "score": 24.99,
+      "enrichi": false,
+      "rang_predit": 9
     },
     {
       "numero": 10,
@@ -511,7 +544,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.78,
       "sous_scores": {
-        "cote": 0.0701,
+        "cote": 0.0697,
         "gains": 0.2852,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -519,40 +552,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 24.82,
-      "enrichi": false,
-      "rang_predit": 9
-    },
-    {
-      "numero": 9,
-      "nom": "Marinaleda",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 4,
-      "poids": null,
-      "jockey": "C.Demuro",
-      "musique": "7p9p2p2p2p(25)3p7p5p5p",
-      "vh": null,
-      "gains_eur": 46907,
-      "entraineur": "M.Baratti (S)",
-      "cote_pmu": 13.0,
-      "non_partant": false,
-      "musique_raw": "7p9p2p2p2p(25)3p7p5p5p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 7,
-      "position_moyenne": 4.67,
-      "sous_scores": {
-        "cote": 0.0647,
-        "gains": 0.3495,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4444,
-        "pref_distance": 0.4444,
-        "recuperation": 0.5
-      },
-      "score": 24.72,
+      "score": 24.8,
       "enrichi": false,
       "rang_predit": 10
     },
@@ -577,7 +577,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.56,
       "sous_scores": {
-        "cote": 0.0255,
+        "cote": 0.0254,
         "gains": 0.4472,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -610,7 +610,7 @@
       "derniere_position": 6,
       "position_moyenne": 4.0,
       "sous_scores": {
-        "cote": 0.0601,
+        "cote": 0.0598,
         "gains": 0.1873,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -618,7 +618,7 @@
         "pref_distance": 0.4286,
         "recuperation": 0.5
       },
-      "score": 23.72,
+      "score": 23.71,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -634,7 +634,7 @@
       "vh": null,
       "gains_eur": 23476,
       "entraineur": "A.Couetil (S)",
-      "cote_pmu": 37.0,
+      "cote_pmu": 36.0,
       "non_partant": false,
       "musique_raw": "5p5p(25)0p1p1p8p",
       "nb_courses_recentes": 6,
@@ -643,7 +643,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0227,
+        "cote": 0.0232,
         "gains": 0.1749,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -651,7 +651,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 22.78,
+      "score": 22.8,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -676,7 +676,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.67,
       "sous_scores": {
-        "cote": 0.0495,
+        "cote": 0.0492,
         "gains": 0.4058,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -684,7 +684,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 22.27,
+      "score": 22.26,
       "enrichi": false,
       "rang_predit": 14
     }
