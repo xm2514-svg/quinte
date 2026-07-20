@@ -43,7 +43,7 @@
       "vh": null,
       "gains_eur": 203652,
       "entraineur": "P.Cottier",
-      "cote_pmu": 7.3,
+      "cote_pmu": 7.4,
       "non_partant": false,
       "musique_raw": "2p5p0p3p2p2p4p(25)2p2p",
       "nb_courses_recentes": 9,
@@ -52,7 +52,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.44,
       "sous_scores": {
-        "cote": 0.1146,
+        "cote": 0.1131,
         "gains": 0.5123,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -60,7 +60,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 33.29,
+      "score": 33.2,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -98,39 +98,6 @@
       "rang_predit": 4
     },
     {
-      "numero": 6,
-      "nom": "Maximilien",
-      "artifice": null,
-      "sexe": "MALES",
-      "age": 3,
-      "poids": null,
-      "jockey": "M.Grandin",
-      "musique": "4p1p6p4p1p(25)1p2p2p5p",
-      "vh": null,
-      "gains_eur": 53739,
-      "entraineur": "C.Escuder",
-      "cote_pmu": 10.0,
-      "non_partant": false,
-      "musique_raw": "4p1p6p4p1p(25)1p2p2p5p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 5,
-      "derniere_position": 4,
-      "position_moyenne": 2.89,
-      "sous_scores": {
-        "cote": 0.0837,
-        "gains": 0.1352,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5556,
-        "pref_distance": 0.5556,
-        "recuperation": 0.5
-      },
-      "score": 26.9,
-      "enrichi": false,
-      "rang_predit": 6
-    },
-    {
       "numero": 9,
       "nom": "Nova Hope",
       "artifice": null,
@@ -142,7 +109,7 @@
       "vh": null,
       "gains_eur": 79803,
       "entraineur": "F.Foresi",
-      "cote_pmu": 17.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "1p1p2p6p0p2p8p(25)7p1p",
       "nb_courses_recentes": 9,
@@ -151,7 +118,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0492,
+        "cote": 0.0523,
         "gains": 0.2007,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -159,7 +126,40 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 26.98,
+      "score": 27.14,
+      "enrichi": false,
+      "rang_predit": 6
+    },
+    {
+      "numero": 2,
+      "nom": "Breizh Sky",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 6,
+      "poids": null,
+      "jockey": "M.Guyon",
+      "musique": "4p8p4p9p4p(25)2p9p6p1p",
+      "vh": null,
+      "gains_eur": 397533,
+      "entraineur": "L.Baudron (S)",
+      "cote_pmu": 6.0,
+      "non_partant": false,
+      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 5.22,
+      "sous_scores": {
+        "cote": 0.1394,
+        "gains": 1.0,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2222,
+        "pref_distance": 0.2222,
+        "recuperation": 0.5
+      },
+      "score": 27.22,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -243,7 +243,7 @@
       "vh": null,
       "gains_eur": 203652,
       "entraineur": "P.Cottier",
-      "cote_pmu": 7.3,
+      "cote_pmu": 7.4,
       "non_partant": false,
       "musique_raw": "2p5p0p3p2p2p4p(25)2p2p",
       "nb_courses_recentes": 9,
@@ -252,7 +252,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.44,
       "sous_scores": {
-        "cote": 0.1146,
+        "cote": 0.1131,
         "gains": 0.5123,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -260,7 +260,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 33.29,
+      "score": 33.2,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -364,6 +364,39 @@
       "rang_predit": 4
     },
     {
+      "numero": 2,
+      "nom": "Breizh Sky",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 6,
+      "poids": null,
+      "jockey": "M.Guyon",
+      "musique": "4p8p4p9p4p(25)2p9p6p1p",
+      "vh": null,
+      "gains_eur": 397533,
+      "entraineur": "L.Baudron (S)",
+      "cote_pmu": 6.0,
+      "non_partant": false,
+      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 5.22,
+      "sous_scores": {
+        "cote": 0.1394,
+        "gains": 1.0,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2222,
+        "pref_distance": 0.2222,
+        "recuperation": 0.5
+      },
+      "score": 27.22,
+      "enrichi": false,
+      "rang_predit": 5
+    },
+    {
       "numero": 9,
       "nom": "Nova Hope",
       "artifice": null,
@@ -375,7 +408,7 @@
       "vh": null,
       "gains_eur": 79803,
       "entraineur": "F.Foresi",
-      "cote_pmu": 17.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "1p1p2p6p0p2p8p(25)7p1p",
       "nb_courses_recentes": 9,
@@ -384,7 +417,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0492,
+        "cote": 0.0523,
         "gains": 0.2007,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -392,9 +425,9 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 26.98,
+      "score": 27.14,
       "enrichi": false,
-      "rang_predit": 5
+      "rang_predit": 6
     },
     {
       "numero": 6,
@@ -408,7 +441,7 @@
       "vh": null,
       "gains_eur": 53739,
       "entraineur": "C.Escuder",
-      "cote_pmu": 10.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "4p1p6p4p1p(25)1p2p2p5p",
       "nb_courses_recentes": 9,
@@ -417,7 +450,7 @@
       "derniere_position": 4,
       "position_moyenne": 2.89,
       "sous_scores": {
-        "cote": 0.0837,
+        "cote": 0.0761,
         "gains": 0.1352,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -425,40 +458,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 26.9,
-      "enrichi": false,
-      "rang_predit": 6
-    },
-    {
-      "numero": 2,
-      "nom": "Breizh Sky",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 6,
-      "poids": null,
-      "jockey": "M.Guyon",
-      "musique": "4p8p4p9p4p(25)2p9p6p1p",
-      "vh": null,
-      "gains_eur": 397533,
-      "entraineur": "L.Baudron (S)",
-      "cote_pmu": 6.8,
-      "non_partant": false,
-      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 5.22,
-      "sous_scores": {
-        "cote": 0.1231,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2222,
-        "pref_distance": 0.2222,
-        "recuperation": 0.5
-      },
-      "score": 26.32,
+      "score": 26.48,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -474,7 +474,7 @@
       "vh": null,
       "gains_eur": 55073,
       "entraineur": "F.Foresi",
-      "cote_pmu": 21.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "0p2p5p5p7p2p3p(25)0p1p",
       "nb_courses_recentes": 9,
@@ -483,7 +483,7 @@
       "derniere_position": 0,
       "position_moyenne": 2.78,
       "sous_scores": {
-        "cote": 0.0398,
+        "cote": 0.0418,
         "gains": 0.1385,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -491,7 +491,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 26.27,
+      "score": 26.38,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -507,7 +507,7 @@
       "vh": null,
       "gains_eur": 229808,
       "entraineur": "C.Boutin (S)",
-      "cote_pmu": 28.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "1p0p3p3p4p0p5p3p5p7p",
       "nb_courses_recentes": 10,
@@ -516,7 +516,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.1,
       "sous_scores": {
-        "cote": 0.0299,
+        "cote": 0.0335,
         "gains": 0.5781,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -524,42 +524,9 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 25.98,
+      "score": 26.17,
       "enrichi": false,
       "rang_predit": 9
-    },
-    {
-      "numero": 3,
-      "nom": "Divide And Rule",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 5,
-      "poids": null,
-      "jockey": "Pc.Boudot",
-      "musique": "5p6p0p1p(25)0p7p4p2p5p",
-      "vh": null,
-      "gains_eur": 114100,
-      "entraineur": "Jp.Gauvin (S)",
-      "cote_pmu": 10.0,
-      "non_partant": false,
-      "musique_raw": "5p6p0p1p(25)0p7p4p2p5p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 4,
-      "derniere_position": 5,
-      "position_moyenne": 3.33,
-      "sous_scores": {
-        "cote": 0.0837,
-        "gains": 0.287,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4444,
-        "pref_distance": 0.4444,
-        "recuperation": 0.5
-      },
-      "score": 25.57,
-      "enrichi": false,
-      "rang_predit": 10
     },
     {
       "numero": 4,
@@ -573,7 +540,7 @@
       "vh": null,
       "gains_eur": 68705,
       "entraineur": "P.Sigaud",
-      "cote_pmu": 15.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "2p7p1p1p5p5p(25)1p7p1p",
       "nb_courses_recentes": 9,
@@ -582,7 +549,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0558,
+        "cote": 0.0598,
         "gains": 0.1728,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -590,9 +557,9 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 25.48,
+      "score": 25.69,
       "enrichi": false,
-      "rang_predit": 11
+      "rang_predit": 10
     },
     {
       "numero": 11,
@@ -606,7 +573,7 @@
       "vh": null,
       "gains_eur": 116873,
       "entraineur": "J.Andreu (S)",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "2p8p4p4p3p0p(25)0p9p3p",
       "nb_courses_recentes": 9,
@@ -615,7 +582,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.67,
       "sous_scores": {
-        "cote": 0.044,
+        "cote": 0.0418,
         "gains": 0.294,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -623,9 +590,9 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 25.19,
+      "score": 25.07,
       "enrichi": false,
-      "rang_predit": 12
+      "rang_predit": 11
     },
     {
       "numero": 14,
@@ -639,7 +606,7 @@
       "vh": null,
       "gains_eur": 39214,
       "entraineur": "M.Pitart",
-      "cote_pmu": 24.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "7p0p0p0p(25)6p1p4p8p1p",
       "nb_courses_recentes": 9,
@@ -648,7 +615,7 @@
       "derniere_position": 7,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0349,
+        "cote": 0.038,
         "gains": 0.0986,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -656,7 +623,40 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 24.1,
+      "score": 24.28,
+      "enrichi": false,
+      "rang_predit": 12
+    },
+    {
+      "numero": 3,
+      "nom": "Divide And Rule",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 5,
+      "poids": null,
+      "jockey": "Pc.Boudot",
+      "musique": "5p6p0p1p(25)0p7p4p2p5p",
+      "vh": null,
+      "gains_eur": 114100,
+      "entraineur": "Jp.Gauvin (S)",
+      "cote_pmu": 14.0,
+      "non_partant": false,
+      "musique_raw": "5p6p0p1p(25)0p7p4p2p5p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 4,
+      "derniere_position": 5,
+      "position_moyenne": 3.33,
+      "sous_scores": {
+        "cote": 0.0598,
+        "gains": 0.287,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4444,
+        "pref_distance": 0.4444,
+        "recuperation": 0.5
+      },
+      "score": 24.26,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -672,7 +672,7 @@
       "vh": null,
       "gains_eur": 27635,
       "entraineur": "M.Pitart",
-      "cote_pmu": 14.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "0p1p1p1p5p5p(25)AhAh8p",
       "nb_courses_recentes": 9,
@@ -681,7 +681,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0598,
+        "cote": 0.0644,
         "gains": 0.0695,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -689,7 +689,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 23.61,
+      "score": 23.86,
       "enrichi": false,
       "rang_predit": 14
     },
@@ -738,7 +738,7 @@
       "vh": null,
       "gains_eur": 87963,
       "entraineur": "P.Cottier",
-      "cote_pmu": 24.0,
+      "cote_pmu": 25.0,
       "non_partant": false,
       "musique_raw": "4p8p4p6p3p2p1p9p1p",
       "nb_courses_recentes": 9,
@@ -747,7 +747,7 @@
       "derniere_position": 4,
       "position_moyenne": 4.22,
       "sous_scores": {
-        "cote": 0.0349,
+        "cote": 0.0335,
         "gains": 0.2213,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -755,7 +755,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 22.69,
+      "score": 22.62,
       "enrichi": false,
       "rang_predit": 16
     }
