@@ -52,7 +52,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.44,
       "sous_scores": {
-        "cote": 0.1131,
+        "cote": 0.1129,
         "gains": 0.5123,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -60,7 +60,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 33.2,
+      "score": 33.19,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -93,9 +93,42 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 28.43,
+      "score": 28.42,
       "enrichi": false,
       "rang_predit": 4
+    },
+    {
+      "numero": 2,
+      "nom": "Breizh Sky",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 6,
+      "poids": null,
+      "jockey": "M.Guyon",
+      "musique": "4p8p4p9p4p(25)2p9p6p1p",
+      "vh": null,
+      "gains_eur": 397533,
+      "entraineur": "L.Baudron (S)",
+      "cote_pmu": 6.1,
+      "non_partant": false,
+      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 5.22,
+      "sous_scores": {
+        "cote": 0.1369,
+        "gains": 1.0,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2222,
+        "pref_distance": 0.2222,
+        "recuperation": 0.5
+      },
+      "score": 27.09,
+      "enrichi": false,
+      "rang_predit": 6
     },
     {
       "numero": 9,
@@ -118,7 +151,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0523,
+        "cote": 0.0522,
         "gains": 0.2007,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -127,39 +160,6 @@
         "recuperation": 0.5
       },
       "score": 27.14,
-      "enrichi": false,
-      "rang_predit": 6
-    },
-    {
-      "numero": 2,
-      "nom": "Breizh Sky",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 6,
-      "poids": null,
-      "jockey": "M.Guyon",
-      "musique": "4p8p4p9p4p(25)2p9p6p1p",
-      "vh": null,
-      "gains_eur": 397533,
-      "entraineur": "L.Baudron (S)",
-      "cote_pmu": 6.0,
-      "non_partant": false,
-      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 5.22,
-      "sous_scores": {
-        "cote": 0.1394,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2222,
-        "pref_distance": 0.2222,
-        "recuperation": 0.5
-      },
-      "score": 27.22,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -184,7 +184,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0837,
+        "cote": 0.0835,
         "gains": 0.3341,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -192,7 +192,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.27,
+      "score": 29.26,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -217,7 +217,7 @@
       "derniere_position": 0,
       "position_moyenne": 1.67,
       "sous_scores": {
-        "cote": 0.0697,
+        "cote": 0.0696,
         "gains": 0.3198,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -225,7 +225,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.24,
+      "score": 30.23,
       "enrichi": false,
       "rang_predit": 2
     }
@@ -252,7 +252,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.44,
       "sous_scores": {
-        "cote": 0.1131,
+        "cote": 0.1129,
         "gains": 0.5123,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -260,7 +260,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 33.2,
+      "score": 33.19,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -285,7 +285,7 @@
       "derniere_position": 0,
       "position_moyenne": 1.67,
       "sous_scores": {
-        "cote": 0.0697,
+        "cote": 0.0696,
         "gains": 0.3198,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -293,7 +293,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.24,
+      "score": 30.23,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -318,7 +318,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0837,
+        "cote": 0.0835,
         "gains": 0.3341,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -326,7 +326,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.27,
+      "score": 29.26,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -359,42 +359,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 28.43,
+      "score": 28.42,
       "enrichi": false,
       "rang_predit": 4
-    },
-    {
-      "numero": 2,
-      "nom": "Breizh Sky",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 6,
-      "poids": null,
-      "jockey": "M.Guyon",
-      "musique": "4p8p4p9p4p(25)2p9p6p1p",
-      "vh": null,
-      "gains_eur": 397533,
-      "entraineur": "L.Baudron (S)",
-      "cote_pmu": 6.0,
-      "non_partant": false,
-      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 2,
-      "derniere_position": 4,
-      "position_moyenne": 5.22,
-      "sous_scores": {
-        "cote": 0.1394,
-        "gains": 1.0,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.2222,
-        "pref_distance": 0.2222,
-        "recuperation": 0.5
-      },
-      "score": 27.22,
-      "enrichi": false,
-      "rang_predit": 5
     },
     {
       "numero": 9,
@@ -417,7 +384,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0523,
+        "cote": 0.0522,
         "gains": 0.2007,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -427,7 +394,73 @@
       },
       "score": 27.14,
       "enrichi": false,
+      "rang_predit": 5
+    },
+    {
+      "numero": 2,
+      "nom": "Breizh Sky",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 6,
+      "poids": null,
+      "jockey": "M.Guyon",
+      "musique": "4p8p4p9p4p(25)2p9p6p1p",
+      "vh": null,
+      "gains_eur": 397533,
+      "entraineur": "L.Baudron (S)",
+      "cote_pmu": 6.1,
+      "non_partant": false,
+      "musique_raw": "4p8p4p9p4p(25)2p9p6p1p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 2,
+      "derniere_position": 4,
+      "position_moyenne": 5.22,
+      "sous_scores": {
+        "cote": 0.1369,
+        "gains": 1.0,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.2222,
+        "pref_distance": 0.2222,
+        "recuperation": 0.5
+      },
+      "score": 27.09,
+      "enrichi": false,
       "rang_predit": 6
+    },
+    {
+      "numero": 13,
+      "nom": "The Doctor",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 4,
+      "poids": null,
+      "jockey": "A.Crastus",
+      "musique": "0p2p5p5p7p2p3p(25)0p1p",
+      "vh": null,
+      "gains_eur": 55073,
+      "entraineur": "F.Foresi",
+      "cote_pmu": 19.0,
+      "non_partant": false,
+      "musique_raw": "0p2p5p5p7p2p3p(25)0p1p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 6,
+      "derniere_position": 0,
+      "position_moyenne": 2.78,
+      "sous_scores": {
+        "cote": 0.044,
+        "gains": 0.1385,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
+        "recuperation": 0.5
+      },
+      "score": 26.5,
+      "enrichi": false,
+      "rang_predit": 7
     },
     {
       "numero": 6,
@@ -450,7 +483,7 @@
       "derniere_position": 4,
       "position_moyenne": 2.89,
       "sous_scores": {
-        "cote": 0.0761,
+        "cote": 0.0759,
         "gains": 0.1352,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -458,40 +491,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 26.48,
-      "enrichi": false,
-      "rang_predit": 7
-    },
-    {
-      "numero": 13,
-      "nom": "The Doctor",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 4,
-      "poids": null,
-      "jockey": "A.Crastus",
-      "musique": "0p2p5p5p7p2p3p(25)0p1p",
-      "vh": null,
-      "gains_eur": 55073,
-      "entraineur": "F.Foresi",
-      "cote_pmu": 20.0,
-      "non_partant": false,
-      "musique_raw": "0p2p5p5p7p2p3p(25)0p1p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 6,
-      "derniere_position": 0,
-      "position_moyenne": 2.78,
-      "sous_scores": {
-        "cote": 0.0418,
-        "gains": 0.1385,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 26.38,
+      "score": 26.47,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -516,7 +516,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.1,
       "sous_scores": {
-        "cote": 0.0335,
+        "cote": 0.0334,
         "gains": 0.5781,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -549,7 +549,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0598,
+        "cote": 0.0597,
         "gains": 0.1728,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -606,7 +606,7 @@
       "vh": null,
       "gains_eur": 39214,
       "entraineur": "M.Pitart",
-      "cote_pmu": 22.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "7p0p0p0p(25)6p1p4p8p1p",
       "nb_courses_recentes": 9,
@@ -615,7 +615,7 @@
       "derniere_position": 7,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.038,
+        "cote": 0.0398,
         "gains": 0.0986,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -623,7 +623,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 24.28,
+      "score": 24.37,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -648,7 +648,7 @@
       "derniere_position": 5,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0598,
+        "cote": 0.0597,
         "gains": 0.287,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -656,7 +656,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 24.26,
+      "score": 24.25,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -681,7 +681,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0644,
+        "cote": 0.0642,
         "gains": 0.0695,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -689,7 +689,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 23.86,
+      "score": 23.85,
       "enrichi": false,
       "rang_predit": 14
     },
@@ -714,7 +714,7 @@
       "derniere_position": 9,
       "position_moyenne": 4.67,
       "sous_scores": {
-        "cote": 0.0492,
+        "cote": 0.0491,
         "gains": 0.1788,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -747,7 +747,7 @@
       "derniere_position": 4,
       "position_moyenne": 4.22,
       "sous_scores": {
-        "cote": 0.0335,
+        "cote": 0.0334,
         "gains": 0.2213,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -755,7 +755,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 22.62,
+      "score": 22.61,
       "enrichi": false,
       "rang_predit": 16
     }
