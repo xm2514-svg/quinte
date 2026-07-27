@@ -27,35 +27,35 @@
   },
   "top5": [
     {
-      "numero": 5,
-      "nom": "Earl Of Shannon",
+      "numero": 8,
+      "nom": "Kako",
       "artifice": null,
       "sexe": "HONGRES",
       "age": 6,
       "poids": null,
-      "jockey": "T.Lemagnen",
-      "musique": "2s3s2s4s3s(25)0s2h0hJh",
+      "jockey": "L.Zuliani",
+      "musique": "1s1s4sAh(25)2s3s1h(24)8h",
       "vh": null,
-      "gains_eur": 207980,
-      "entraineur": "F.Nicolle",
-      "cote_pmu": 21.0,
+      "gains_eur": 107125,
+      "entraineur": "M.Seror (S)",
+      "cote_pmu": 8.3,
       "non_partant": false,
-      "musique_raw": "2s3s2s4s3s(25)0s2h0hJh",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 7,
-      "derniere_position": 2,
-      "position_moyenne": 2.0,
+      "musique_raw": "1s1s4sAh(25)2s3s1h(24)8h",
+      "nb_courses_recentes": 8,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 2.86,
       "sous_scores": {
-        "cote": 0.0402,
-        "gains": 0.5464,
+        "cote": 0.1015,
+        "gains": 0.2814,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.7778,
-        "pref_distance": 0.7778,
+        "pref_terrain": 0.625,
+        "pref_distance": 0.625,
         "recuperation": 0.5
       },
-      "score": 29.29,
+      "score": 29.42,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -80,7 +80,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.62,
       "sous_scores": {
-        "cote": 0.0422,
+        "cote": 0.0421,
         "gains": 0.7659,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -88,7 +88,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 28.29,
+      "score": 28.28,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -113,7 +113,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.75,
       "sous_scores": {
-        "cote": 0.0938,
+        "cote": 0.0936,
         "gains": 0.1974,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -121,40 +121,40 @@
         "pref_distance": 0.875,
         "recuperation": 0.5
       },
-      "score": 32.75,
+      "score": 32.74,
       "enrichi": false,
       "rang_predit": 2
     },
     {
-      "numero": 8,
-      "nom": "Kako",
+      "numero": 5,
+      "nom": "Earl Of Shannon",
       "artifice": null,
       "sexe": "HONGRES",
       "age": 6,
       "poids": null,
-      "jockey": "L.Zuliani",
-      "musique": "1s1s4sAh(25)2s3s1h(24)8h",
+      "jockey": "T.Lemagnen",
+      "musique": "2s3s2s4s3s(25)0s2h0hJh",
       "vh": null,
-      "gains_eur": 107125,
-      "entraineur": "M.Seror (S)",
-      "cote_pmu": 8.6,
+      "gains_eur": 207980,
+      "entraineur": "F.Nicolle",
+      "cote_pmu": 21.0,
       "non_partant": false,
-      "musique_raw": "1s1s4sAh(25)2s3s1h(24)8h",
-      "nb_courses_recentes": 8,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 5,
-      "derniere_position": 1,
-      "position_moyenne": 2.86,
+      "musique_raw": "2s3s2s4s3s(25)0s2h0hJh",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 7,
+      "derniere_position": 2,
+      "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.0981,
-        "gains": 0.2814,
+        "cote": 0.0401,
+        "gains": 0.5464,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.625,
-        "pref_distance": 0.625,
+        "pref_terrain": 0.7778,
+        "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 29.24,
+      "score": 29.29,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -179,7 +179,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.1241,
+        "cote": 0.1238,
         "gains": 0.7117,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -187,7 +187,7 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 33.16,
+      "score": 33.15,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -212,7 +212,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.38,
       "sous_scores": {
-        "cote": 0.0649,
+        "cote": 0.0648,
         "gains": 0.3726,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -220,7 +220,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.13,
+      "score": 30.12,
       "enrichi": false,
       "rang_predit": 3
     }
@@ -247,7 +247,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.1241,
+        "cote": 0.1238,
         "gains": 0.7117,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -255,7 +255,7 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 33.16,
+      "score": 33.15,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -280,7 +280,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.75,
       "sous_scores": {
-        "cote": 0.0938,
+        "cote": 0.0936,
         "gains": 0.1974,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -288,7 +288,7 @@
         "pref_distance": 0.875,
         "recuperation": 0.5
       },
-      "score": 32.75,
+      "score": 32.74,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -313,7 +313,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.38,
       "sous_scores": {
-        "cote": 0.0649,
+        "cote": 0.0648,
         "gains": 0.3726,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -321,9 +321,42 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.13,
+      "score": 30.12,
       "enrichi": false,
       "rang_predit": 3
+    },
+    {
+      "numero": 8,
+      "nom": "Kako",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 6,
+      "poids": null,
+      "jockey": "L.Zuliani",
+      "musique": "1s1s4sAh(25)2s3s1h(24)8h",
+      "vh": null,
+      "gains_eur": 107125,
+      "entraineur": "M.Seror (S)",
+      "cote_pmu": 8.3,
+      "non_partant": false,
+      "musique_raw": "1s1s4sAh(25)2s3s1h(24)8h",
+      "nb_courses_recentes": 8,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 2.86,
+      "sous_scores": {
+        "cote": 0.1015,
+        "gains": 0.2814,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.625,
+        "pref_distance": 0.625,
+        "recuperation": 0.5
+      },
+      "score": 29.42,
+      "enrichi": false,
+      "rang_predit": 4
     },
     {
       "numero": 5,
@@ -346,7 +379,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.0402,
+        "cote": 0.0401,
         "gains": 0.5464,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -355,39 +388,6 @@
         "recuperation": 0.5
       },
       "score": 29.29,
-      "enrichi": false,
-      "rang_predit": 4
-    },
-    {
-      "numero": 8,
-      "nom": "Kako",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 6,
-      "poids": null,
-      "jockey": "L.Zuliani",
-      "musique": "1s1s4sAh(25)2s3s1h(24)8h",
-      "vh": null,
-      "gains_eur": 107125,
-      "entraineur": "M.Seror (S)",
-      "cote_pmu": 8.6,
-      "non_partant": false,
-      "musique_raw": "1s1s4sAh(25)2s3s1h(24)8h",
-      "nb_courses_recentes": 8,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 5,
-      "derniere_position": 1,
-      "position_moyenne": 2.86,
-      "sous_scores": {
-        "cote": 0.0981,
-        "gains": 0.2814,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.625,
-        "pref_distance": 0.625,
-        "recuperation": 0.5
-      },
-      "score": 29.24,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -412,7 +412,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.62,
       "sous_scores": {
-        "cote": 0.0422,
+        "cote": 0.0421,
         "gains": 0.7659,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -420,7 +420,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 28.29,
+      "score": 28.28,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -436,7 +436,7 @@
       "vh": null,
       "gains_eur": 192835,
       "entraineur": "M.Seror (S)",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "1s2s0h9h1h6h1h(25)8h2h",
       "nb_courses_recentes": 9,
@@ -445,7 +445,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0444,
+        "cote": 0.0421,
         "gains": 0.5066,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -453,7 +453,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.63,
+      "score": 27.5,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -478,7 +478,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0495,
         "gains": 0.347,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -486,7 +486,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 27.44,
+      "score": 27.43,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -511,7 +511,7 @@
       "derniere_position": 6,
       "position_moyenne": 2.57,
       "sous_scores": {
-        "cote": 0.0563,
+        "cote": 0.0561,
         "gains": 0.223,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -544,7 +544,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.88,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0495,
         "gains": 0.6124,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -552,7 +552,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 26.46,
+      "score": 26.45,
       "enrichi": false,
       "rang_predit": 10
     },
@@ -568,7 +568,7 @@
       "vh": null,
       "gains_eur": 105750,
       "entraineur": "M.Seror (S)",
-      "cote_pmu": 9.6,
+      "cote_pmu": 9.4,
       "non_partant": false,
       "musique_raw": "4s1s1s6h(25)Th2h4h5h2h",
       "nb_courses_recentes": 9,
@@ -577,7 +577,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.12,
       "sous_scores": {
-        "cote": 0.0879,
+        "cote": 0.0896,
         "gains": 0.2778,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -585,7 +585,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 25.78,
+      "score": 25.87,
       "enrichi": false,
       "rang_predit": 11
     },
@@ -610,7 +610,7 @@
       "derniere_position": 1,
       "position_moyenne": 4.62,
       "sous_scores": {
-        "cote": 0.0444,
+        "cote": 0.0443,
         "gains": 0.4213,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -618,7 +618,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 24.71,
+      "score": 24.7,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -643,7 +643,7 @@
       "derniere_position": 2,
       "position_moyenne": 4.33,
       "sous_scores": {
-        "cote": 0.0767,
+        "cote": 0.0766,
         "gains": 0.5294,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -651,7 +651,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 24.14,
+      "score": 24.13,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -676,7 +676,7 @@
       "derniere_position": 3,
       "position_moyenne": 4.67,
       "sous_scores": {
-        "cote": 0.0703,
+        "cote": 0.0702,
         "gains": 0.5001,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -684,7 +684,7 @@
         "pref_distance": 0.25,
         "recuperation": 0.5
       },
-      "score": 22.37,
+      "score": 22.36,
       "enrichi": false,
       "rang_predit": 14
     },
@@ -709,7 +709,7 @@
       "derniere_position": 1,
       "position_moyenne": 5.0,
       "sous_scores": {
-        "cote": 0.0291,
+        "cote": 0.029,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -717,7 +717,7 @@
         "pref_distance": 0.2222,
         "recuperation": 0.5
       },
-      "score": 21.16,
+      "score": 21.15,
       "enrichi": false,
       "rang_predit": 15
     },
@@ -733,7 +733,7 @@
       "vh": null,
       "gains_eur": 108045,
       "entraineur": "Gab.Leenders (S)",
-      "cote_pmu": 30.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "7h2sTs(25)Ah6s3s7s1sTs",
       "nb_courses_recentes": 9,
@@ -742,7 +742,7 @@
       "derniere_position": 7,
       "position_moyenne": 4.33,
       "sous_scores": {
-        "cote": 0.0281,
+        "cote": 0.0272,
         "gains": 0.2839,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -750,7 +750,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 20.73,
+      "score": 20.68,
       "enrichi": false,
       "rang_predit": 16
     }
