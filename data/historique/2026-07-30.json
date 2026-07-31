@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-30",
+  "course": {
+    "reunion": 1,
+    "course": 7,
+    "hippodrome": "DIEPPE",
+    "libelle": "PRIX TOYOTA TOYS MOTORS (PRIX REGION NORMANDIE)"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 10
+    },
+    {
+      "rang": 2,
+      "numero": 14
+    },
+    {
+      "rang": 3,
+      "numero": 12
+    },
+    {
+      "rang": 4,
+      "numero": 3
+    },
+    {
+      "rang": 5,
+      "numero": 16
+    },
+    {
+      "rang": 6,
+      "numero": 1
+    },
+    {
+      "rang": 7,
+      "numero": 7
+    },
+    {
+      "rang": 8,
+      "numero": 9
+    },
+    {
+      "rang": 9,
+      "numero": 2
+    },
+    {
+      "rang": 10,
+      "numero": 4
+    },
+    {
+      "rang": 11,
+      "numero": 6
+    },
+    {
+      "rang": 12,
+      "numero": 5
+    },
+    {
+      "rang": 13,
+      "numero": 13
+    },
+    {
+      "rang": 14,
+      "numero": 15
+    },
+    {
+      "rang": 15,
+      "numero": 11
+    },
+    {
+      "rang": 16,
+      "numero": 8
+    }
+  ],
+  "predictions": {
+    "top5": [
+      10,
+      2,
+      7,
+      16,
+      11,
+      14
+    ],
+    "date_prediction": "2026-07-30"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 10,
+    "favori_arrive_rang": 1
+  }
+}
