@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-05",
+  "course": {
+    "reunion": 1,
+    "course": 5,
+    "hippodrome": "SAINT MALO",
+    "libelle": "GRAND NATIONAL DU TROT-VILLE DE ST-MALO"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 5
+    },
+    {
+      "rang": 2,
+      "numero": 3
+    },
+    {
+      "rang": 3,
+      "numero": 12
+    },
+    {
+      "rang": 4,
+      "numero": 4
+    },
+    {
+      "rang": 5,
+      "numero": 8
+    }
+  ],
+  "predictions": {
+    "top5": [
+      6,
+      3,
+      5,
+      8,
+      12,
+      4
+    ],
+    "date_prediction": "2026-08-05"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 3,
+    "nb_top5_pred_dans_top5_reel": 5,
+    "favori_predit": 6,
+    "favori_arrive_rang": null
+  }
+}
