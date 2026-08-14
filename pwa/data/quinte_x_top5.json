@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 71310,
       "entraineur": "J.Ph. Dubois",
-      "cote_pmu": 12.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "DaDa2a2aDaDa4a2aDa7a",
       "nb_courses_recentes": 10,
@@ -47,7 +47,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.4,
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0411,
         "gains": 0.9655,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -55,7 +55,7 @@
         "pref_distance": 0.3,
         "recuperation": 0.5
       },
-      "score": 24.54,
+      "score": 22.96,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -71,7 +71,7 @@
       "vh": null,
       "gains_eur": 48090,
       "entraineur": "St. Provoost",
-      "cote_pmu": 14.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "2a6a2a1a9a4a4a3a7a0a",
       "nb_courses_recentes": 10,
@@ -80,7 +80,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.8,
       "sous_scores": {
-        "cote": 0.06,
+        "cote": 0.0358,
         "gains": 0.6511,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -88,7 +88,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.25,
+      "score": 24.92,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -104,7 +104,7 @@
       "vh": null,
       "gains_eur": 69650,
       "entraineur": "F. Lamare",
-      "cote_pmu": 12.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "0a9a(25)7a2a1a4a1a3a1a",
       "nb_courses_recentes": 9,
@@ -113,7 +113,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0411,
         "gains": 0.943,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -121,7 +121,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 30.34,
+      "score": 28.76,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -137,7 +137,7 @@
       "vh": null,
       "gains_eur": 70265,
       "entraineur": "Th. Duvaldestin",
-      "cote_pmu": 2.9,
+      "cote_pmu": 1.4,
       "non_partant": false,
       "musique_raw": "7a1a1a1a7a2a9aDa(25)1a",
       "nb_courses_recentes": 9,
@@ -146,7 +146,7 @@
       "derniere_position": 7,
       "position_moyenne": 3.62,
       "sous_scores": {
-        "cote": 0.2895,
+        "cote": 0.5875,
         "gains": 0.9513,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -154,7 +154,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 40.66,
+      "score": 57.05,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -170,7 +170,7 @@
       "vh": null,
       "gains_eur": 73860,
       "entraineur": "R. Pojasek",
-      "cote_pmu": 8.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "4a2a6a6aDa2a2a(25)4a1a",
       "nb_courses_recentes": 9,
@@ -179,7 +179,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.38,
       "sous_scores": {
-        "cote": 0.1049,
+        "cote": 0.0633,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -187,7 +187,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 28.88,
+      "score": 26.59,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -203,7 +203,7 @@
       "vh": null,
       "gains_eur": 70879,
       "entraineur": "Mme Sabine Kagebrant",
-      "cote_pmu": 10.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "4a5aDa6aDa(25)8a1a2a6a",
       "nb_courses_recentes": 9,
@@ -212,7 +212,7 @@
       "derniere_position": 4,
       "position_moyenne": 4.57,
       "sous_scores": {
-        "cote": 0.0839,
+        "cote": 0.0484,
         "gains": 0.9596,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -220,7 +220,7 @@
         "pref_distance": 0.2222,
         "recuperation": 0.5
       },
-      "score": 24.05,
+      "score": 22.1,
       "enrichi": false,
       "rang_predit": 6
     }
@@ -238,7 +238,7 @@
       "vh": null,
       "gains_eur": 70265,
       "entraineur": "Th. Duvaldestin",
-      "cote_pmu": 2.9,
+      "cote_pmu": 1.4,
       "non_partant": false,
       "musique_raw": "7a1a1a1a7a2a9aDa(25)1a",
       "nb_courses_recentes": 9,
@@ -247,7 +247,7 @@
       "derniere_position": 7,
       "position_moyenne": 3.62,
       "sous_scores": {
-        "cote": 0.2895,
+        "cote": 0.5875,
         "gains": 0.9513,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -255,7 +255,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 40.66,
+      "score": 57.05,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -271,7 +271,7 @@
       "vh": null,
       "gains_eur": 69650,
       "entraineur": "F. Lamare",
-      "cote_pmu": 12.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "0a9a(25)7a2a1a4a1a3a1a",
       "nb_courses_recentes": 9,
@@ -280,7 +280,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0411,
         "gains": 0.943,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -288,7 +288,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 30.34,
+      "score": 28.76,
       "enrichi": false,
       "rang_predit": 2
     },
@@ -304,7 +304,7 @@
       "vh": null,
       "gains_eur": 73860,
       "entraineur": "R. Pojasek",
-      "cote_pmu": 8.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "4a2a6a6aDa2a2a(25)4a1a",
       "nb_courses_recentes": 9,
@@ -313,7 +313,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.38,
       "sous_scores": {
-        "cote": 0.1049,
+        "cote": 0.0633,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -321,7 +321,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 28.88,
+      "score": 26.59,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -337,7 +337,7 @@
       "vh": null,
       "gains_eur": 48090,
       "entraineur": "St. Provoost",
-      "cote_pmu": 14.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "2a6a2a1a9a4a4a3a7a0a",
       "nb_courses_recentes": 10,
@@ -346,7 +346,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.8,
       "sous_scores": {
-        "cote": 0.06,
+        "cote": 0.0358,
         "gains": 0.6511,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -354,7 +354,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.25,
+      "score": 24.92,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -370,7 +370,7 @@
       "vh": null,
       "gains_eur": 71310,
       "entraineur": "J.Ph. Dubois",
-      "cote_pmu": 12.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "DaDa2a2aDaDa4a2aDa7a",
       "nb_courses_recentes": 10,
@@ -379,7 +379,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.4,
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0411,
         "gains": 0.9655,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -387,7 +387,7 @@
         "pref_distance": 0.3,
         "recuperation": 0.5
       },
-      "score": 24.54,
+      "score": 22.96,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -403,7 +403,7 @@
       "vh": null,
       "gains_eur": 70879,
       "entraineur": "Mme Sabine Kagebrant",
-      "cote_pmu": 10.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "4a5aDa6aDa(25)8a1a2a6a",
       "nb_courses_recentes": 9,
@@ -412,7 +412,7 @@
       "derniere_position": 4,
       "position_moyenne": 4.57,
       "sous_scores": {
-        "cote": 0.0839,
+        "cote": 0.0484,
         "gains": 0.9596,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -420,7 +420,7 @@
         "pref_distance": 0.2222,
         "recuperation": 0.5
       },
-      "score": 24.05,
+      "score": 22.1,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -436,7 +436,7 @@
       "vh": null,
       "gains_eur": 39030,
       "entraineur": "Mme N. Viel-Pierre",
-      "cote_pmu": 12.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "5a2aDa1a2aDa(25)DaDa4a",
       "nb_courses_recentes": 9,
@@ -445,7 +445,7 @@
       "derniere_position": 5,
       "position_moyenne": 2.8,
       "sous_scores": {
-        "cote": 0.07,
+        "cote": 0.0392,
         "gains": 0.5284,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -453,7 +453,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 23.77,
+      "score": 22.07,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -469,7 +469,7 @@
       "vh": null,
       "gains_eur": 71215,
       "entraineur": "Nicolas Devigne",
-      "cote_pmu": 42.0,
+      "cote_pmu": 76.0,
       "non_partant": false,
       "musique_raw": "2a5aDa8a8a9m(25)0a0mDa",
       "nb_courses_recentes": 9,
@@ -478,7 +478,7 @@
       "derniere_position": 2,
       "position_moyenne": 4.57,
       "sous_scores": {
-        "cote": 0.02,
+        "cote": 0.0108,
         "gains": 0.9642,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -486,7 +486,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 22.33,
+      "score": 21.82,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -502,7 +502,7 @@
       "vh": null,
       "gains_eur": 73105,
       "entraineur": "F. Terry",
-      "cote_pmu": 59.0,
+      "cote_pmu": 92.0,
       "non_partant": false,
       "musique_raw": "DaDaDa0a0a9a(25)9a3a9m",
       "nb_courses_recentes": 9,
@@ -511,7 +511,7 @@
       "derniere_position": 0,
       "position_moyenne": 5.0,
       "sous_scores": {
-        "cote": 0.0142,
+        "cote": 0.0089,
         "gains": 0.9898,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -519,7 +519,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 22.09,
+      "score": 21.79,
       "enrichi": false,
       "rang_predit": 9
     },
@@ -535,7 +535,7 @@
       "vh": null,
       "gains_eur": 73720,
       "entraineur": "Ch. Dagnicourt",
-      "cote_pmu": 23.0,
+      "cote_pmu": 40.0,
       "non_partant": false,
       "musique_raw": "Da1a0a(25)DaDa8aDa7aDa",
       "nb_courses_recentes": 9,
@@ -544,7 +544,7 @@
       "derniere_position": 1,
       "position_moyenne": 4.0,
       "sous_scores": {
-        "cote": 0.0365,
+        "cote": 0.0206,
         "gains": 0.9981,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -552,7 +552,7 @@
         "pref_distance": 0.2222,
         "recuperation": 0.5
       },
-      "score": 21.56,
+      "score": 20.68,
       "enrichi": false,
       "rang_predit": 10
     },
@@ -568,7 +568,7 @@
       "vh": null,
       "gains_eur": 71655,
       "entraineur": "Tanguy Devouassoux",
-      "cote_pmu": 13.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "5m5a0a7aDa7a5a5a9a(25)",
       "nb_courses_recentes": 9,
@@ -577,7 +577,7 @@
       "derniere_position": 5,
       "position_moyenne": 5.38,
       "sous_scores": {
-        "cote": 0.0646,
+        "cote": 0.0358,
         "gains": 0.9701,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -585,7 +585,7 @@
         "pref_distance": 0.1111,
         "recuperation": 0.5
       },
-      "score": 21.24,
+      "score": 19.65,
       "enrichi": false,
       "rang_predit": 11
     },
@@ -601,7 +601,7 @@
       "vh": null,
       "gains_eur": 71545,
       "entraineur": "N. Bridault",
-      "cote_pmu": 10.0,
+      "cote_pmu": 17.0,
       "non_partant": false,
       "musique_raw": "5aDa9a4a7a6a(25)8aDa4a",
       "nb_courses_recentes": 9,
@@ -610,7 +610,7 @@
       "derniere_position": 5,
       "position_moyenne": 6.14,
       "sous_scores": {
-        "cote": 0.0839,
+        "cote": 0.0484,
         "gains": 0.9687,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -618,7 +618,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 20.52,
+      "score": 18.57,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -634,7 +634,7 @@
       "vh": null,
       "gains_eur": 0,
       "entraineur": "St. Provoost",
-      "cote_pmu": 43.0,
+      "cote_pmu": 71.0,
       "non_partant": false,
       "musique_raw": "8a",
       "nb_courses_recentes": 1,
@@ -643,7 +643,7 @@
       "derniere_position": 8,
       "position_moyenne": 8.0,
       "sous_scores": {
-        "cote": 0.0195,
+        "cote": 0.0116,
         "gains": 0.5,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -651,7 +651,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 15.57,
+      "score": 15.14,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -667,7 +667,7 @@
       "vh": null,
       "gains_eur": 20255,
       "entraineur": "M. Lebrec",
-      "cote_pmu": 64.0,
+      "cote_pmu": 107.0,
       "non_partant": false,
       "musique_raw": "4aDaDa7aDaDaDaDa(25)Da",
       "nb_courses_recentes": 9,
@@ -676,7 +676,7 @@
       "derniere_position": 4,
       "position_moyenne": 5.5,
       "sous_scores": {
-        "cote": 0.0131,
+        "cote": 0.0077,
         "gains": 0.2742,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -684,7 +684,7 @@
         "pref_distance": 0.0,
         "recuperation": 0.5
       },
-      "score": 14.54,
+      "score": 14.25,
       "enrichi": false,
       "rang_predit": 14
     }
