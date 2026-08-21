@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-20",
+  "course": {
+    "reunion": 1,
+    "course": 8,
+    "hippodrome": "DEAUVILLE",
+    "libelle": "PRIX DU HAVRE"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 11
+    },
+    {
+      "rang": 2,
+      "numero": 15
+    },
+    {
+      "rang": 3,
+      "numero": 6
+    },
+    {
+      "rang": 4,
+      "numero": 9
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 8
+    },
+    {
+      "rang": 7,
+      "numero": 7
+    },
+    {
+      "rang": 8,
+      "numero": 1
+    },
+    {
+      "rang": 9,
+      "numero": 14
+    },
+    {
+      "rang": 10,
+      "numero": 2
+    },
+    {
+      "rang": 11,
+      "numero": 10
+    },
+    {
+      "rang": 12,
+      "numero": 12
+    },
+    {
+      "rang": 13,
+      "numero": 5
+    },
+    {
+      "rang": 14,
+      "numero": 4
+    },
+    {
+      "rang": 15,
+      "numero": 13
+    }
+  ],
+  "predictions": {
+    "top5": [
+      8,
+      7,
+      12,
+      2,
+      10,
+      11
+    ],
+    "date_prediction": "2026-08-20"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 1,
+    "favori_predit": 8,
+    "favori_arrive_rang": 6
+  }
+}
