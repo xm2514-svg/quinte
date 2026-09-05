@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-04",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "VINCENNES",
+    "libelle": "PRIX BRUNA"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 8
+    },
+    {
+      "rang": 2,
+      "numero": 11
+    },
+    {
+      "rang": 3,
+      "numero": 12
+    },
+    {
+      "rang": 4,
+      "numero": 6
+    },
+    {
+      "rang": 5,
+      "numero": 2
+    }
+  ],
+  "predictions": {
+    "top5": [
+      2,
+      14,
+      10,
+      6,
+      11,
+      15
+    ],
+    "date_prediction": "2026-09-04"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 2,
+    "favori_arrive_rang": 5
+  }
+}
