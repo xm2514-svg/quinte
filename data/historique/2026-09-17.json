@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-17",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "VINCENNES",
+    "libelle": "PRIX DE MEHUN SUR YEVRE"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 7
+    },
+    {
+      "rang": 2,
+      "numero": 6
+    },
+    {
+      "rang": 3,
+      "numero": 3
+    },
+    {
+      "rang": 4,
+      "numero": 10
+    },
+    {
+      "rang": 5,
+      "numero": 11
+    },
+    {
+      "rang": 6,
+      "numero": 15
+    },
+    {
+      "rang": 7,
+      "numero": 9
+    },
+    {
+      "rang": 8,
+      "numero": 12
+    },
+    {
+      "rang": 9,
+      "numero": 4
+    },
+    {
+      "rang": 10,
+      "numero": 13
+    }
+  ],
+  "predictions": {
+    "top5": [
+      13,
+      1,
+      14,
+      5,
+      7,
+      8
+    ],
+    "date_prediction": "2026-09-17"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 1,
+    "favori_predit": 13,
+    "favori_arrive_rang": 10
+  }
+}
