@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-23",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "ARGENTAN",
+    "libelle": "GRAND NATIONAL DU TROT"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 13
+    },
+    {
+      "rang": 2,
+      "numero": 6
+    },
+    {
+      "rang": 3,
+      "numero": 5
+    },
+    {
+      "rang": 4,
+      "numero": 12
+    },
+    {
+      "rang": 5,
+      "numero": 18
+    },
+    {
+      "rang": 6,
+      "numero": 15
+    },
+    {
+      "rang": 7,
+      "numero": 10
+    },
+    {
+      "rang": 8,
+      "numero": 14
+    },
+    {
+      "rang": 9,
+      "numero": 3
+    },
+    {
+      "rang": 10,
+      "numero": 11
+    }
+  ],
+  "predictions": {
+    "top5": [
+      11,
+      13,
+      4,
+      12,
+      8,
+      15
+    ],
+    "date_prediction": "2026-09-23"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 2,
+    "favori_predit": 11,
+    "favori_arrive_rang": 10
+  }
+}
