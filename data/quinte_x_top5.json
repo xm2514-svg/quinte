@@ -47,7 +47,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.5,
       "sous_scores": {
-        "cote": 0.124,
+        "cote": 0.1245,
         "gains": 0.9985,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -55,7 +55,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.61,
+      "score": 35.65,
       "enrichi": false,
       "rang_predit": 1
     },
@@ -71,7 +71,7 @@
       "vh": null,
       "gains_eur": 174765,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 6.2,
+      "cote_pmu": 6.1,
       "non_partant": false,
       "musique_raw": "1a3a3m7aDa5a5a2a3a0a",
       "nb_courses_recentes": 10,
@@ -80,7 +80,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.22,
       "sous_scores": {
-        "cote": 0.136,
+        "cote": 0.1388,
         "gains": 0.9577,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -88,7 +88,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 32.95,
+      "score": 33.11,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -113,7 +113,7 @@
       "derniere_position": 6,
       "position_moyenne": 2.7,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0498,
         "gains": 0.9983,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -121,75 +121,9 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 29.92,
+      "score": 29.93,
       "enrichi": false,
       "rang_predit": 5
-    },
-    {
-      "numero": 4,
-      "nom": "Jaifa De L'Iton",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 7,
-      "poids": null,
-      "jockey": "Y. Lebourgeois",
-      "musique": "0a1a1a4a0a5a0a6a1a(25)",
-      "vh": null,
-      "gains_eur": 170075,
-      "entraineur": "Hughes Levesque",
-      "cote_pmu": 6.2,
-      "non_partant": false,
-      "musique_raw": "0a1a1a4a0a5a0a6a1a(25)",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 6,
-      "derniere_position": 0,
-      "position_moyenne": 2.0,
-      "sous_scores": {
-        "cote": 0.136,
-        "gains": 0.932,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 33.94,
-      "enrichi": false,
-      "rang_predit": 3
-    },
-    {
-      "numero": 3,
-      "nom": "Jytrace De Houelle",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 7,
-      "poids": null,
-      "jockey": "A. Collette",
-      "musique": "4a0aDa0a2a1a2a(25)1aDa",
-      "vh": null,
-      "gains_eur": 162960,
-      "entraineur": "K. Leblanc",
-      "cote_pmu": 15.0,
-      "non_partant": false,
-      "musique_raw": "4a0aDa0a2a1a2a(25)1aDa",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 6,
-      "derniere_position": 4,
-      "position_moyenne": 1.43,
-      "sous_scores": {
-        "cote": 0.0562,
-        "gains": 0.893,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 29.44,
-      "enrichi": false,
-      "rang_predit": 6
     },
     {
       "numero": 9,
@@ -212,7 +146,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0969,
+        "cote": 0.0973,
         "gains": 0.9702,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -220,7 +154,73 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 34.04,
+      "score": 34.06,
+      "enrichi": false,
+      "rang_predit": 3
+    },
+    {
+      "numero": 3,
+      "nom": "Jytrace De Houelle",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 7,
+      "poids": null,
+      "jockey": "A. Collette",
+      "musique": "4a0aDa0a2a1a2a(25)1aDa",
+      "vh": null,
+      "gains_eur": 162960,
+      "entraineur": "K. Leblanc",
+      "cote_pmu": 16.0,
+      "non_partant": false,
+      "musique_raw": "4a0aDa0a2a1a2a(25)1aDa",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 2,
+      "nb_places_recentes": 6,
+      "derniere_position": 4,
+      "position_moyenne": 1.43,
+      "sous_scores": {
+        "cote": 0.0529,
+        "gains": 0.893,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
+        "recuperation": 0.5
+      },
+      "score": 29.26,
+      "enrichi": false,
+      "rang_predit": 6
+    },
+    {
+      "numero": 4,
+      "nom": "Jaifa De L'Iton",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 7,
+      "poids": null,
+      "jockey": "Y. Lebourgeois",
+      "musique": "0a1a1a4a0a5a0a6a1a(25)",
+      "vh": null,
+      "gains_eur": 170075,
+      "entraineur": "Hughes Levesque",
+      "cote_pmu": 6.1,
+      "non_partant": false,
+      "musique_raw": "0a1a1a4a0a5a0a6a1a(25)",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 6,
+      "derniere_position": 0,
+      "position_moyenne": 2.0,
+      "sous_scores": {
+        "cote": 0.1388,
+        "gains": 0.932,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
+        "recuperation": 0.5
+      },
+      "score": 34.1,
       "enrichi": false,
       "rang_predit": 2
     }
@@ -247,7 +247,7 @@
       "derniere_position": 1,
       "position_moyenne": 1.5,
       "sous_scores": {
-        "cote": 0.124,
+        "cote": 0.1245,
         "gains": 0.9985,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -255,9 +255,42 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 35.61,
+      "score": 35.65,
       "enrichi": false,
       "rang_predit": 1
+    },
+    {
+      "numero": 4,
+      "nom": "Jaifa De L'Iton",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 7,
+      "poids": null,
+      "jockey": "Y. Lebourgeois",
+      "musique": "0a1a1a4a0a5a0a6a1a(25)",
+      "vh": null,
+      "gains_eur": 170075,
+      "entraineur": "Hughes Levesque",
+      "cote_pmu": 6.1,
+      "non_partant": false,
+      "musique_raw": "0a1a1a4a0a5a0a6a1a(25)",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 6,
+      "derniere_position": 0,
+      "position_moyenne": 2.0,
+      "sous_scores": {
+        "cote": 0.1388,
+        "gains": 0.932,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6667,
+        "pref_distance": 0.6667,
+        "recuperation": 0.5
+      },
+      "score": 34.1,
+      "enrichi": false,
+      "rang_predit": 2
     },
     {
       "numero": 9,
@@ -280,7 +313,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0969,
+        "cote": 0.0973,
         "gains": 0.9702,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -288,40 +321,7 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 34.04,
-      "enrichi": false,
-      "rang_predit": 2
-    },
-    {
-      "numero": 4,
-      "nom": "Jaifa De L'Iton",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 7,
-      "poids": null,
-      "jockey": "Y. Lebourgeois",
-      "musique": "0a1a1a4a0a5a0a6a1a(25)",
-      "vh": null,
-      "gains_eur": 170075,
-      "entraineur": "Hughes Levesque",
-      "cote_pmu": 6.2,
-      "non_partant": false,
-      "musique_raw": "0a1a1a4a0a5a0a6a1a(25)",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 6,
-      "derniere_position": 0,
-      "position_moyenne": 2.0,
-      "sous_scores": {
-        "cote": 0.136,
-        "gains": 0.932,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6667,
-        "pref_distance": 0.6667,
-        "recuperation": 0.5
-      },
-      "score": 33.94,
+      "score": 34.06,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -337,7 +337,7 @@
       "vh": null,
       "gains_eur": 174765,
       "entraineur": "M. Abrivard",
-      "cote_pmu": 6.2,
+      "cote_pmu": 6.1,
       "non_partant": false,
       "musique_raw": "1a3a3m7aDa5a5a2a3a0a",
       "nb_courses_recentes": 10,
@@ -346,7 +346,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.22,
       "sous_scores": {
-        "cote": 0.136,
+        "cote": 0.1388,
         "gains": 0.9577,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -354,7 +354,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 32.95,
+      "score": 33.11,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -379,7 +379,7 @@
       "derniere_position": 6,
       "position_moyenne": 2.7,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0498,
         "gains": 0.9983,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -387,7 +387,7 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 29.92,
+      "score": 29.93,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -403,7 +403,7 @@
       "vh": null,
       "gains_eur": 162960,
       "entraineur": "K. Leblanc",
-      "cote_pmu": 15.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "4a0aDa0a2a1a2a(25)1aDa",
       "nb_courses_recentes": 9,
@@ -412,7 +412,7 @@
       "derniere_position": 4,
       "position_moyenne": 1.43,
       "sous_scores": {
-        "cote": 0.0562,
+        "cote": 0.0529,
         "gains": 0.893,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -420,7 +420,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.44,
+      "score": 29.26,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -436,7 +436,7 @@
       "vh": null,
       "gains_eur": 181690,
       "entraineur": "A. Chavatte",
-      "cote_pmu": 6.0,
+      "cote_pmu": 6.1,
       "non_partant": false,
       "musique_raw": "9a6a(25)Da4mDa0a0a3aDa",
       "nb_courses_recentes": 9,
@@ -445,7 +445,7 @@
       "derniere_position": 9,
       "position_moyenne": 3.67,
       "sous_scores": {
-        "cote": 0.1405,
+        "cote": 0.1388,
         "gains": 0.9956,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -453,7 +453,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 29.05,
+      "score": 28.96,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -478,7 +478,7 @@
       "derniere_position": 0,
       "position_moyenne": 2.0,
       "sous_scores": {
-        "cote": 0.0602,
+        "cote": 0.0605,
         "gains": 0.9485,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -486,7 +486,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 28.05,
+      "score": 28.06,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -502,7 +502,7 @@
       "vh": null,
       "gains_eur": 179135,
       "entraineur": "Sté. Ent. Christophe Martens",
-      "cote_pmu": 24.0,
+      "cote_pmu": 23.0,
       "non_partant": false,
       "musique_raw": "4a2a3a2a1a2a2a5aDa8a",
       "nb_courses_recentes": 10,
@@ -511,7 +511,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.22,
       "sous_scores": {
-        "cote": 0.0351,
+        "cote": 0.0368,
         "gains": 0.9816,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -519,7 +519,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 27.48,
+      "score": 27.57,
       "enrichi": false,
       "rang_predit": 9
     },
@@ -535,7 +535,7 @@
       "vh": null,
       "gains_eur": 156540,
       "entraineur": "F. Blandin",
-      "cote_pmu": 35.0,
+      "cote_pmu": 34.0,
       "non_partant": false,
       "musique_raw": "6a1a0a2a2a6a4a0a2a4a",
       "nb_courses_recentes": 10,
@@ -544,7 +544,7 @@
       "derniere_position": 6,
       "position_moyenne": 2.7,
       "sous_scores": {
-        "cote": 0.0241,
+        "cote": 0.0249,
         "gains": 0.8578,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -552,7 +552,7 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 26.5,
+      "score": 26.54,
       "enrichi": false,
       "rang_predit": 10
     },
@@ -577,7 +577,7 @@
       "derniere_position": 3,
       "position_moyenne": 2.88,
       "sous_scores": {
-        "cote": 0.0422,
+        "cote": 0.0423,
         "gains": 0.9615,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -585,7 +585,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 26.2,
+      "score": 26.21,
       "enrichi": false,
       "rang_predit": 11
     },
@@ -601,7 +601,7 @@
       "vh": null,
       "gains_eur": 176800,
       "entraineur": "Pierrick Le Moel",
-      "cote_pmu": 42.0,
+      "cote_pmu": 43.0,
       "non_partant": false,
       "musique_raw": "4a4a3a1a5a2a3a9a2a(25)",
       "nb_courses_recentes": 9,
@@ -610,7 +610,7 @@
       "derniere_position": 4,
       "position_moyenne": 3.67,
       "sous_scores": {
-        "cote": 0.0201,
+        "cote": 0.0197,
         "gains": 0.9688,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -618,7 +618,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 25.9,
+      "score": 25.88,
       "enrichi": false,
       "rang_predit": 12
     },
@@ -634,7 +634,7 @@
       "vh": null,
       "gains_eur": 182490,
       "entraineur": "J. Corbanie",
-      "cote_pmu": 13.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "5a5a9a2a4a2a6a2aDa(25)",
       "nb_courses_recentes": 9,
@@ -643,7 +643,7 @@
       "derniere_position": 5,
       "position_moyenne": 4.38,
       "sous_scores": {
-        "cote": 0.0649,
+        "cote": 0.0605,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -651,7 +651,7 @@
         "pref_distance": 0.3333,
         "recuperation": 0.5
       },
-      "score": 24.9,
+      "score": 24.66,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -667,7 +667,7 @@
       "vh": null,
       "gains_eur": 151670,
       "entraineur": "P. Hachin",
-      "cote_pmu": 59.0,
+      "cote_pmu": 60.0,
       "non_partant": false,
       "musique_raw": "0aDa8a8a2a2a0a5a(25)Da",
       "nb_courses_recentes": 9,
@@ -676,7 +676,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.57,
       "sous_scores": {
-        "cote": 0.0143,
+        "cote": 0.0141,
         "gains": 0.8311,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -684,7 +684,7 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 23.39,
+      "score": 23.38,
       "enrichi": false,
       "rang_predit": 14
     }
