@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-03",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "ParisLongchamp",
+    "libelle": "QATAR PRIX DE LA PLACE DES VOSGES"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 4
+    },
+    {
+      "rang": 2,
+      "numero": 5
+    },
+    {
+      "rang": 3,
+      "numero": 8
+    },
+    {
+      "rang": 4,
+      "numero": 17
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 9
+    },
+    {
+      "rang": 7,
+      "numero": 11
+    },
+    {
+      "rang": 8,
+      "numero": 1
+    },
+    {
+      "rang": 9,
+      "numero": 12
+    },
+    {
+      "rang": 10,
+      "numero": 18
+    },
+    {
+      "rang": 11,
+      "numero": 13
+    },
+    {
+      "rang": 12,
+      "numero": 7
+    },
+    {
+      "rang": 13,
+      "numero": 15
+    },
+    {
+      "rang": 14,
+      "numero": 10
+    },
+    {
+      "rang": 15,
+      "numero": 6
+    },
+    {
+      "rang": 16,
+      "numero": 14
+    },
+    {
+      "rang": 17,
+      "numero": 2
+    },
+    {
+      "rang": 18,
+      "numero": 16
+    }
+  ],
+  "predictions": {
+    "top5": [
+      11,
+      5,
+      7,
+      8,
+      9,
+      4
+    ],
+    "date_prediction": "2026-10-03"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 3,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 11,
+    "favori_arrive_rang": 7
+  }
+}
