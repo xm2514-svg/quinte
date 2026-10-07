@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-06",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "AUTEUIL",
+    "libelle": "PRIX GUILLAUME DE PRACOMTAL"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 8
+    },
+    {
+      "rang": 2,
+      "numero": 2
+    },
+    {
+      "rang": 3,
+      "numero": 7
+    },
+    {
+      "rang": 4,
+      "numero": 3
+    },
+    {
+      "rang": 5,
+      "numero": 15
+    },
+    {
+      "rang": 6,
+      "numero": 12
+    },
+    {
+      "rang": 7,
+      "numero": 9
+    },
+    {
+      "rang": 8,
+      "numero": 11
+    },
+    {
+      "rang": 9,
+      "numero": 10
+    },
+    {
+      "rang": 10,
+      "numero": 14
+    },
+    {
+      "rang": 11,
+      "numero": 4
+    }
+  ],
+  "predictions": {
+    "top5": [
+      12,
+      2,
+      3,
+      15,
+      9,
+      7
+    ],
+    "date_prediction": "2026-10-06"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 12,
+    "favori_arrive_rang": 6
+  }
+}
