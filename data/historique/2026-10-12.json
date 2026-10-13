@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-12",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "BORELY",
+    "libelle": "PRIX JACQUES ROSSI (PRIX JULES MORGAN)"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 2
+    },
+    {
+      "rang": 2,
+      "numero": 10
+    },
+    {
+      "rang": 3,
+      "numero": 14
+    },
+    {
+      "rang": 4,
+      "numero": 11
+    },
+    {
+      "rang": 5,
+      "numero": 12
+    },
+    {
+      "rang": 6,
+      "numero": 6
+    },
+    {
+      "rang": 7,
+      "numero": 1
+    },
+    {
+      "rang": 8,
+      "numero": 4
+    },
+    {
+      "rang": 9,
+      "numero": 7
+    },
+    {
+      "rang": 10,
+      "numero": 16
+    },
+    {
+      "rang": 11,
+      "numero": 8
+    },
+    {
+      "rang": 12,
+      "numero": 5
+    },
+    {
+      "rang": 13,
+      "numero": 3
+    },
+    {
+      "rang": 14,
+      "numero": 13
+    },
+    {
+      "rang": 15,
+      "numero": 9
+    },
+    {
+      "rang": 16,
+      "numero": 15
+    }
+  ],
+  "predictions": {
+    "top5": [
+      11,
+      2,
+      1,
+      4,
+      3,
+      15
+    ],
+    "date_prediction": "2026-10-12"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 2,
+    "favori_predit": 11,
+    "favori_arrive_rang": 4
+  }
+}
