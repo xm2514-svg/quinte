@@ -32,36 +32,76 @@
   },
   "top5": [
     {
-      "numero": 15,
-      "nom": "Zarababy",
+      "numero": 9,
+      "nom": "Takerya",
       "artifice": null,
       "sexe": "FEMELLES",
       "age": 3,
       "poids": null,
-      "jockey": "P.Remoue",
-      "musique": "3p1p4p3p3p3p5p6p8p",
+      "jockey": "A.Pouchin",
+      "musique": "3p5p6p3p(25)1p",
       "vh": null,
-      "gains_eur": 38182,
-      "entraineur": "D.Artu (S)",
+      "gains_eur": 21028,
+      "entraineur": "E.Libaud (S)",
       "cote_pmu": 11.0,
       "non_partant": false,
-      "musique_raw": "3p1p4p3p3p3p5p6p8p",
-      "nb_courses_recentes": 9,
+      "musique_raw": "3p5p6p3p(25)1p",
+      "nb_courses_recentes": 5,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
+      "nb_places_recentes": 3,
       "derniere_position": 3,
-      "position_moyenne": 4.0,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.077,
-        "gains": 0.7729,
+        "cote": 0.0762,
+        "gains": 0.4257,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.5556,
-        "pref_distance": 0.5556,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 28.44,
-      "enrichi": false,
+      "score": 28.07,
+      "enrichi": true,
       "rang_predit": 5
     },
     {
@@ -76,7 +116,7 @@
       "vh": null,
       "gains_eur": 49398,
       "entraineur": "H.Ghabri",
-      "cote_pmu": 4.9,
+      "cote_pmu": 4.6,
       "non_partant": false,
       "musique_raw": "6p3p2p4p2p7p2p1p",
       "nb_courses_recentes": 8,
@@ -84,8 +124,48 @@
       "nb_places_recentes": 5,
       "derniere_position": 6,
       "position_moyenne": 3.38,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.1728,
+        "cote": 0.1823,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -93,41 +173,81 @@
         "pref_distance": 0.625,
         "recuperation": 0.5
       },
-      "score": 35.5,
-      "enrichi": false,
+      "score": 36.02,
+      "enrichi": true,
       "rang_predit": 1
     },
     {
-      "numero": 4,
-      "nom": "Zarland",
+      "numero": 15,
+      "nom": "Zarababy",
       "artifice": null,
-      "sexe": "HONGRES",
+      "sexe": "FEMELLES",
       "age": 3,
       "poids": null,
-      "jockey": "T.Bachelot",
-      "musique": "2p0p7p6p5p3p(25)3p",
+      "jockey": "P.Remoue",
+      "musique": "3p1p4p3p3p3p5p6p8p",
       "vh": null,
-      "gains_eur": 12655,
-      "entraineur": "S.Wattel (S)",
-      "cote_pmu": 9.3,
+      "gains_eur": 38182,
+      "entraineur": "D.Artu (S)",
+      "cote_pmu": 12.0,
       "non_partant": false,
-      "musique_raw": "2p0p7p6p5p3p(25)3p",
-      "nb_courses_recentes": 7,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 3.71,
+      "musique_raw": "3p1p4p3p3p3p5p6p8p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.091,
-        "gains": 0.2562,
+        "cote": 0.0699,
+        "gains": 0.7729,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.5714,
-        "pref_distance": 0.5714,
+        "pref_terrain": 0.5556,
+        "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 27.92,
-      "enrichi": false,
+      "score": 28.05,
+      "enrichi": true,
       "rang_predit": 6
     },
     {
@@ -142,7 +262,7 @@
       "vh": null,
       "gains_eur": 18024,
       "entraineur": "M.Delcher Sanchez",
-      "cote_pmu": 9.8,
+      "cote_pmu": 5.9,
       "non_partant": false,
       "musique_raw": "1p3p2p5p3p",
       "nb_courses_recentes": 5,
@@ -150,8 +270,48 @@
       "nb_places_recentes": 4,
       "derniere_position": 1,
       "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0864,
+        "cote": 0.1421,
         "gains": 0.3649,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -159,8 +319,8 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 31.65,
-      "enrichi": false,
+      "score": 34.71,
+      "enrichi": true,
       "rang_predit": 2
     },
     {
@@ -175,7 +335,7 @@
       "vh": null,
       "gains_eur": 40046,
       "entraineur": "J.Andreu (S)",
-      "cote_pmu": 17.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "1p2p1p1p7p2p2p(25)0p8p",
       "nb_courses_recentes": 9,
@@ -183,8 +343,48 @@
       "nb_places_recentes": 7,
       "derniere_position": 1,
       "position_moyenne": 2.67,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0498,
+        "cote": 0.0399,
         "gains": 0.8107,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -192,41 +392,81 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.62,
-      "enrichi": false,
+      "score": 30.07,
+      "enrichi": true,
       "rang_predit": 3
     },
     {
-      "numero": 9,
-      "nom": "Takerya",
+      "numero": 13,
+      "nom": "Adicta",
       "artifice": null,
       "sexe": "FEMELLES",
       "age": 3,
       "poids": null,
-      "jockey": "A.Pouchin",
-      "musique": "3p5p6p3p(25)1p",
+      "jockey": "C.Demuro",
+      "musique": "4p1p3p2p7p(25)2p2p4p",
       "vh": null,
-      "gains_eur": 21028,
-      "entraineur": "E.Libaud (S)",
-      "cote_pmu": 9.5,
+      "gains_eur": 28342,
+      "entraineur": "Vh.Mendes Dos Santos",
+      "cote_pmu": 12.0,
       "non_partant": false,
-      "musique_raw": "3p5p6p3p(25)1p",
-      "nb_courses_recentes": 5,
+      "musique_raw": "4p1p3p2p7p(25)2p2p4p",
+      "nb_courses_recentes": 8,
       "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.6,
+      "nb_places_recentes": 5,
+      "derniere_position": 4,
+      "position_moyenne": 3.12,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0891,
-        "gains": 0.4257,
+        "cote": 0.0699,
+        "gains": 0.5737,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.625,
+        "pref_distance": 0.625,
         "recuperation": 0.5
       },
-      "score": 28.78,
-      "enrichi": false,
+      "score": 28.56,
+      "enrichi": true,
       "rang_predit": 4
     }
   ],
@@ -243,7 +483,7 @@
       "vh": null,
       "gains_eur": 49398,
       "entraineur": "H.Ghabri",
-      "cote_pmu": 4.9,
+      "cote_pmu": 4.6,
       "non_partant": false,
       "musique_raw": "6p3p2p4p2p7p2p1p",
       "nb_courses_recentes": 8,
@@ -251,8 +491,48 @@
       "nb_places_recentes": 5,
       "derniere_position": 6,
       "position_moyenne": 3.38,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.1728,
+        "cote": 0.1823,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -260,8 +540,8 @@
         "pref_distance": 0.625,
         "recuperation": 0.5
       },
-      "score": 35.5,
-      "enrichi": false,
+      "score": 36.02,
+      "enrichi": true,
       "rang_predit": 1
     },
     {
@@ -276,7 +556,7 @@
       "vh": null,
       "gains_eur": 18024,
       "entraineur": "M.Delcher Sanchez",
-      "cote_pmu": 9.8,
+      "cote_pmu": 5.9,
       "non_partant": false,
       "musique_raw": "1p3p2p5p3p",
       "nb_courses_recentes": 5,
@@ -284,8 +564,48 @@
       "nb_places_recentes": 4,
       "derniere_position": 1,
       "position_moyenne": 2.8,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0864,
+        "cote": 0.1421,
         "gains": 0.3649,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -293,8 +613,8 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 31.65,
-      "enrichi": false,
+      "score": 34.71,
+      "enrichi": true,
       "rang_predit": 2
     },
     {
@@ -309,7 +629,7 @@
       "vh": null,
       "gains_eur": 40046,
       "entraineur": "J.Andreu (S)",
-      "cote_pmu": 17.0,
+      "cote_pmu": 21.0,
       "non_partant": false,
       "musique_raw": "1p2p1p1p7p2p2p(25)0p8p",
       "nb_courses_recentes": 9,
@@ -317,8 +637,48 @@
       "nb_places_recentes": 7,
       "derniere_position": 1,
       "position_moyenne": 2.67,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0498,
+        "cote": 0.0399,
         "gains": 0.8107,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -326,108 +686,9 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 30.62,
-      "enrichi": false,
+      "score": 30.07,
+      "enrichi": true,
       "rang_predit": 3
-    },
-    {
-      "numero": 9,
-      "nom": "Takerya",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 3,
-      "poids": null,
-      "jockey": "A.Pouchin",
-      "musique": "3p5p6p3p(25)1p",
-      "vh": null,
-      "gains_eur": 21028,
-      "entraineur": "E.Libaud (S)",
-      "cote_pmu": 9.5,
-      "non_partant": false,
-      "musique_raw": "3p5p6p3p(25)1p",
-      "nb_courses_recentes": 5,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.6,
-      "sous_scores": {
-        "cote": 0.0891,
-        "gains": 0.4257,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 28.78,
-      "enrichi": false,
-      "rang_predit": 4
-    },
-    {
-      "numero": 15,
-      "nom": "Zarababy",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 3,
-      "poids": null,
-      "jockey": "P.Remoue",
-      "musique": "3p1p4p3p3p3p5p6p8p",
-      "vh": null,
-      "gains_eur": 38182,
-      "entraineur": "D.Artu (S)",
-      "cote_pmu": 11.0,
-      "non_partant": false,
-      "musique_raw": "3p1p4p3p3p3p5p6p8p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
-      "derniere_position": 3,
-      "position_moyenne": 4.0,
-      "sous_scores": {
-        "cote": 0.077,
-        "gains": 0.7729,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5556,
-        "pref_distance": 0.5556,
-        "recuperation": 0.5
-      },
-      "score": 28.44,
-      "enrichi": false,
-      "rang_predit": 5
-    },
-    {
-      "numero": 4,
-      "nom": "Zarland",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 3,
-      "poids": null,
-      "jockey": "T.Bachelot",
-      "musique": "2p0p7p6p5p3p(25)3p",
-      "vh": null,
-      "gains_eur": 12655,
-      "entraineur": "S.Wattel (S)",
-      "cote_pmu": 9.3,
-      "non_partant": false,
-      "musique_raw": "2p0p7p6p5p3p(25)3p",
-      "nb_courses_recentes": 7,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 2,
-      "position_moyenne": 3.71,
-      "sous_scores": {
-        "cote": 0.091,
-        "gains": 0.2562,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5714,
-        "pref_distance": 0.5714,
-        "recuperation": 0.5
-      },
-      "score": 27.92,
-      "enrichi": false,
-      "rang_predit": 6
     },
     {
       "numero": 13,
@@ -441,7 +702,7 @@
       "vh": null,
       "gains_eur": 28342,
       "entraineur": "Vh.Mendes Dos Santos",
-      "cote_pmu": 15.0,
+      "cote_pmu": 12.0,
       "non_partant": false,
       "musique_raw": "4p1p3p2p7p(25)2p2p4p",
       "nb_courses_recentes": 8,
@@ -449,8 +710,48 @@
       "nb_places_recentes": 5,
       "derniere_position": 4,
       "position_moyenne": 3.12,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0564,
+        "cote": 0.0699,
         "gains": 0.5737,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -458,8 +759,227 @@
         "pref_distance": 0.625,
         "recuperation": 0.5
       },
-      "score": 27.83,
-      "enrichi": false,
+      "score": 28.56,
+      "enrichi": true,
+      "rang_predit": 4
+    },
+    {
+      "numero": 9,
+      "nom": "Takerya",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 3,
+      "poids": null,
+      "jockey": "A.Pouchin",
+      "musique": "3p5p6p3p(25)1p",
+      "vh": null,
+      "gains_eur": 21028,
+      "entraineur": "E.Libaud (S)",
+      "cote_pmu": 11.0,
+      "non_partant": false,
+      "musique_raw": "3p5p6p3p(25)1p",
+      "nb_courses_recentes": 5,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 3,
+      "derniere_position": 3,
+      "position_moyenne": 3.6,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0762,
+        "gains": 0.4257,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 28.07,
+      "enrichi": true,
+      "rang_predit": 5
+    },
+    {
+      "numero": 15,
+      "nom": "Zarababy",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 3,
+      "poids": null,
+      "jockey": "P.Remoue",
+      "musique": "3p1p4p3p3p3p5p6p8p",
+      "vh": null,
+      "gains_eur": 38182,
+      "entraineur": "D.Artu (S)",
+      "cote_pmu": 12.0,
+      "non_partant": false,
+      "musique_raw": "3p1p4p3p3p3p5p6p8p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 3,
+      "position_moyenne": 4.0,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0699,
+        "gains": 0.7729,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5556,
+        "pref_distance": 0.5556,
+        "recuperation": 0.5
+      },
+      "score": 28.05,
+      "enrichi": true,
+      "rang_predit": 6
+    },
+    {
+      "numero": 4,
+      "nom": "Zarland",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 3,
+      "poids": null,
+      "jockey": "T.Bachelot",
+      "musique": "2p0p7p6p5p3p(25)3p",
+      "vh": null,
+      "gains_eur": 12655,
+      "entraineur": "S.Wattel (S)",
+      "cote_pmu": 9.8,
+      "non_partant": false,
+      "musique_raw": "2p0p7p6p5p3p(25)3p",
+      "nb_courses_recentes": 7,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 2,
+      "position_moyenne": 3.71,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0856,
+        "gains": 0.2562,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5714,
+        "pref_distance": 0.5714,
+        "recuperation": 0.5
+      },
+      "score": 27.62,
+      "enrichi": true,
       "rang_predit": 7
     },
     {
@@ -474,7 +994,7 @@
       "vh": null,
       "gains_eur": 16160,
       "entraineur": "Mme Y.Vollmer",
-      "cote_pmu": 49.0,
+      "cote_pmu": 64.0,
       "non_partant": false,
       "musique_raw": "1p7p3p3p3p",
       "nb_courses_recentes": 5,
@@ -482,8 +1002,48 @@
       "nb_places_recentes": 4,
       "derniere_position": 1,
       "position_moyenne": 3.4,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0173,
+        "cote": 0.0131,
         "gains": 0.3271,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -491,75 +1051,9 @@
         "pref_distance": 0.8,
         "recuperation": 0.5
       },
-      "score": 27.73,
-      "enrichi": false,
+      "score": 27.5,
+      "enrichi": true,
       "rang_predit": 8
-    },
-    {
-      "numero": 10,
-      "nom": "Babadoo",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 3,
-      "poids": null,
-      "jockey": "A.Madamet",
-      "musique": "1p1p1p4p8p3p8p2p(25)9p",
-      "vh": null,
-      "gains_eur": 35075,
-      "entraineur": "M.Brasme (S)",
-      "cote_pmu": 14.0,
-      "non_partant": false,
-      "musique_raw": "1p1p1p4p8p3p8p2p(25)9p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 5,
-      "derniere_position": 1,
-      "position_moyenne": 4.11,
-      "sous_scores": {
-        "cote": 0.0605,
-        "gains": 0.71,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5556,
-        "pref_distance": 0.5556,
-        "recuperation": 0.5
-      },
-      "score": 27.35,
-      "enrichi": false,
-      "rang_predit": 9
-    },
-    {
-      "numero": 5,
-      "nom": "My Habitude",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 3,
-      "poids": null,
-      "jockey": "C.Collet-Vidal",
-      "musique": "7p1p1p5p1p3p9p0p7p0p",
-      "vh": null,
-      "gains_eur": 32136,
-      "entraineur": "Rob.Collet (S)",
-      "cote_pmu": 21.0,
-      "non_partant": false,
-      "musique_raw": "7p1p1p5p1p3p9p0p7p0p",
-      "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 6,
-      "derniere_position": 7,
-      "position_moyenne": 3.4,
-      "sous_scores": {
-        "cote": 0.0403,
-        "gains": 0.6506,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 26.77,
-      "enrichi": false,
-      "rang_predit": 10
     },
     {
       "numero": 6,
@@ -573,7 +1067,7 @@
       "vh": null,
       "gains_eur": 22406,
       "entraineur": "C.Fey (S)",
-      "cote_pmu": 20.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "8p1p5p3p2p",
       "nb_courses_recentes": 5,
@@ -581,8 +1075,48 @@
       "nb_places_recentes": 3,
       "derniere_position": 8,
       "position_moyenne": 3.8,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0423,
+        "cote": 0.0524,
         "gains": 0.4536,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -590,42 +1124,155 @@
         "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 26.29,
-      "enrichi": false,
-      "rang_predit": 11
+      "score": 26.84,
+      "enrichi": true,
+      "rang_predit": 9
     },
     {
-      "numero": 16,
-      "nom": "Mickael D'Oo",
+      "numero": 10,
+      "nom": "Babadoo",
       "artifice": null,
       "sexe": "HONGRES",
       "age": 3,
       "poids": null,
-      "jockey": "M.Velon",
-      "musique": "3p5p5p4p3p1p",
+      "jockey": "A.Madamet",
+      "musique": "1p1p1p4p8p3p8p2p(25)9p",
       "vh": null,
-      "gains_eur": 18898,
-      "entraineur": "Fr.Monfort (S)",
+      "gains_eur": 35075,
+      "entraineur": "M.Brasme (S)",
       "cote_pmu": 19.0,
       "non_partant": false,
-      "musique_raw": "3p5p5p4p3p1p",
-      "nb_courses_recentes": 6,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 3,
-      "derniere_position": 3,
-      "position_moyenne": 3.5,
+      "musique_raw": "1p1p1p4p8p3p8p2p(25)9p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 5,
+      "derniere_position": 1,
+      "position_moyenne": 4.11,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0446,
-        "gains": 0.3826,
+        "cote": 0.0441,
+        "gains": 0.71,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.5,
-        "pref_distance": 0.5,
+        "pref_terrain": 0.5556,
+        "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 24.6,
-      "enrichi": false,
-      "rang_predit": 12
+      "score": 26.45,
+      "enrichi": true,
+      "rang_predit": 10
+    },
+    {
+      "numero": 5,
+      "nom": "My Habitude",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 3,
+      "poids": null,
+      "jockey": "C.Collet-Vidal",
+      "musique": "7p1p1p5p1p3p9p0p7p0p",
+      "vh": null,
+      "gains_eur": 32136,
+      "entraineur": "Rob.Collet (S)",
+      "cote_pmu": 29.0,
+      "non_partant": false,
+      "musique_raw": "7p1p1p5p1p3p9p0p7p0p",
+      "nb_courses_recentes": 10,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 6,
+      "derniere_position": 7,
+      "position_moyenne": 3.4,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0289,
+        "gains": 0.6506,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
+        "recuperation": 0.5
+      },
+      "score": 26.14,
+      "enrichi": true,
+      "rang_predit": 11
     },
     {
       "numero": 14,
@@ -639,7 +1286,7 @@
       "vh": null,
       "gains_eur": 10084,
       "entraineur": "C.Ferland (S)",
-      "cote_pmu": 11.0,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "4p0p6p5p2p",
       "nb_courses_recentes": 5,
@@ -647,8 +1294,48 @@
       "nb_places_recentes": 2,
       "derniere_position": 4,
       "position_moyenne": 3.4,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.077,
+        "cote": 0.0838,
         "gains": 0.2041,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -656,42 +1343,42 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 24.25,
-      "enrichi": false,
-      "rang_predit": 13
+      "score": 24.62,
+      "enrichi": true,
+      "rang_predit": 12
     },
     {
-      "numero": 11,
-      "nom": "Entlebuch",
+      "numero": 16,
+      "nom": "Mickael D'Oo",
       "artifice": null,
-      "sexe": "MALES",
+      "sexe": "HONGRES",
       "age": 3,
       "poids": null,
-      "jockey": "A.Lemaitre",
-      "musique": "5p5p0p4p4p2p4p0p6p",
+      "jockey": "M.Velon",
+      "musique": "3p5p5p4p3p1p",
       "vh": null,
-      "gains_eur": 26567,
-      "entraineur": "Mme H.Sauer",
-      "cote_pmu": 12.0,
+      "gains_eur": 18898,
+      "entraineur": "Fr.Monfort (S)",
+      "cote_pmu": 23.0,
       "non_partant": false,
-      "musique_raw": "5p5p0p4p4p2p4p0p6p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 0,
+      "musique_raw": "3p5p5p4p3p1p",
+      "nb_courses_recentes": 6,
+      "nb_victoires_recentes": 1,
       "nb_places_recentes": 3,
-      "derniere_position": 5,
-      "position_moyenne": 3.33,
+      "derniere_position": 3,
+      "position_moyenne": 3.5,
       "sous_scores": {
-        "cote": 0.0706,
-        "gains": 0.5378,
+        "cote": 0.0365,
+        "gains": 0.3826,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.3333,
-        "pref_distance": 0.3333,
+        "pref_terrain": 0.5,
+        "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 23.83,
+      "score": 24.15,
       "enrichi": false,
-      "rang_predit": 14
+      "rang_predit": 13
     },
     {
       "numero": 1,
@@ -705,7 +1392,7 @@
       "vh": null,
       "gains_eur": 33489,
       "entraineur": "Fx.Weissmeier",
-      "cote_pmu": 34.0,
+      "cote_pmu": 43.0,
       "non_partant": false,
       "musique_raw": "5p4p8p7p2p(25)1p3p4p0p",
       "nb_courses_recentes": 9,
@@ -713,8 +1400,48 @@
       "nb_places_recentes": 4,
       "derniere_position": 5,
       "position_moyenne": 3.78,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
       "sous_scores": {
-        "cote": 0.0249,
+        "cote": 0.0195,
         "gains": 0.6779,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -722,12 +1449,85 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 23.51,
-      "enrichi": false,
+      "score": 23.22,
+      "enrichi": true,
+      "rang_predit": 14
+    },
+    {
+      "numero": 11,
+      "nom": "Entlebuch",
+      "artifice": null,
+      "sexe": "MALES",
+      "age": 3,
+      "poids": null,
+      "jockey": "A.Lemaitre",
+      "musique": "5p5p0p4p4p2p4p0p6p",
+      "vh": null,
+      "gains_eur": 26567,
+      "entraineur": "Mme H.Sauer",
+      "cote_pmu": 15.0,
+      "non_partant": false,
+      "musique_raw": "5p5p0p4p4p2p4p0p6p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 3,
+      "derniere_position": 5,
+      "position_moyenne": 3.33,
+      "fiche_enrichie": {
+        "numero": null,
+        "nom": null,
+        "carte_identite": {
+          "jockey": null,
+          "entraineur": null,
+          "proprietaire": null,
+          "eleveur": null,
+          "sexe": null,
+          "robe": null,
+          "naissance": null,
+          "discipline": null,
+          "pere": null,
+          "mere": null
+        },
+        "course_actuelle": {
+          "hippodrome": null,
+          "nb_partants": null,
+          "allocation_eur": null,
+          "distance_m": null,
+          "vh": null
+        },
+        "cote_live_fiche": null,
+        "stats_couples": {
+          "avec_jockey": null,
+          "avec_entraineur": null,
+          "sur_hippodrome": null
+        },
+        "performances_globales": {
+          "gains_eur": null,
+          "musique": null,
+          "carriere": null
+        },
+        "dernieres_courses": [],
+        "derives": {
+          "preference_terrain": null,
+          "preference_distance": null,
+          "jours_depuis_derniere_course": null
+        }
+      },
+      "sous_scores": {
+        "cote": 0.0559,
+        "gains": 0.5378,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.3333,
+        "pref_distance": 0.3333,
+        "recuperation": 0.5
+      },
+      "score": 23.02,
+      "enrichi": true,
       "rang_predit": 15
     }
   ],
-  "nb_enrichis": 0,
+  "nb_enrichis": 14,
   "nb_partants": 15,
   "cotes_dispo": 15
 }
