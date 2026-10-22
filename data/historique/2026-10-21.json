@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-21",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "LA CEPIERE",
+    "libelle": "GRAND PRIX DE LA VILLE ROSE"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 13
+    },
+    {
+      "rang": 2,
+      "numero": 12
+    },
+    {
+      "rang": 3,
+      "numero": 10
+    },
+    {
+      "rang": 4,
+      "numero": 4
+    },
+    {
+      "rang": 5,
+      "numero": 2
+    },
+    {
+      "rang": 6,
+      "numero": 7
+    },
+    {
+      "rang": 7,
+      "numero": 6
+    },
+    {
+      "rang": 8,
+      "numero": 3
+    },
+    {
+      "rang": 9,
+      "numero": 1
+    },
+    {
+      "rang": 10,
+      "numero": 5
+    },
+    {
+      "rang": 11,
+      "numero": 11
+    }
+  ],
+  "predictions": {
+    "top5": [
+      4,
+      12,
+      13,
+      10,
+      1,
+      5
+    ],
+    "date_prediction": "2026-10-21"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 3,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 4,
+    "favori_arrive_rang": 4
+  }
+}
