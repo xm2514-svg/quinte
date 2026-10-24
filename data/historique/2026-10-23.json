@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-23",
+  "course": {
+    "reunion": 1,
+    "course": 4,
+    "hippodrome": "VINCENNES",
+    "libelle": "PRIX ORIONIS"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 15
+    },
+    {
+      "rang": 2,
+      "numero": 12
+    },
+    {
+      "rang": 3,
+      "numero": 6
+    },
+    {
+      "rang": 4,
+      "numero": 14
+    },
+    {
+      "rang": 5,
+      "numero": 16
+    },
+    {
+      "rang": 6,
+      "numero": 11
+    },
+    {
+      "rang": 7,
+      "numero": 10
+    },
+    {
+      "rang": 8,
+      "numero": 13
+    },
+    {
+      "rang": 9,
+      "numero": 7
+    },
+    {
+      "rang": 10,
+      "numero": 2
+    },
+    {
+      "rang": 11,
+      "numero": 17
+    },
+    {
+      "rang": 12,
+      "numero": 4
+    },
+    {
+      "rang": 13,
+      "numero": 1
+    },
+    {
+      "rang": 14,
+      "numero": 3
+    },
+    {
+      "rang": 15,
+      "numero": 18
+    },
+    {
+      "rang": 16,
+      "numero": 9
+    },
+    {
+      "rang": 17,
+      "numero": 5
+    }
+  ],
+  "predictions": {
+    "top5": [
+      7,
+      15,
+      3,
+      10,
+      9,
+      11
+    ],
+    "date_prediction": "2026-10-23"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 1,
+    "favori_predit": 7,
+    "favori_arrive_rang": 9
+  }
+}
