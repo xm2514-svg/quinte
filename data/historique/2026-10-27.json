@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-27",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "DEAUVILLE",
+    "libelle": "PRIX D'UTAH BEACH"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 10
+    },
+    {
+      "rang": 2,
+      "numero": 6
+    },
+    {
+      "rang": 3,
+      "numero": 9
+    },
+    {
+      "rang": 4,
+      "numero": 15
+    },
+    {
+      "rang": 5,
+      "numero": 3
+    },
+    {
+      "rang": 6,
+      "numero": 1
+    },
+    {
+      "rang": 7,
+      "numero": 5
+    },
+    {
+      "rang": 8,
+      "numero": 7
+    },
+    {
+      "rang": 9,
+      "numero": 14
+    },
+    {
+      "rang": 10,
+      "numero": 13
+    },
+    {
+      "rang": 11,
+      "numero": 2
+    },
+    {
+      "rang": 12,
+      "numero": 12
+    },
+    {
+      "rang": 13,
+      "numero": 4
+    },
+    {
+      "rang": 14,
+      "numero": 11
+    },
+    {
+      "rang": 15,
+      "numero": 8
+    }
+  ],
+  "predictions": {
+    "top5": [
+      2,
+      14,
+      1,
+      5,
+      4,
+      12
+    ],
+    "date_prediction": "2026-10-27"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 0,
+    "nb_top5_pred_dans_top5_reel": 0,
+    "favori_predit": 2,
+    "favori_arrive_rang": 11
+  }
+}
