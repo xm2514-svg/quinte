@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-04",
+  "course": {
+    "reunion": 1,
+    "course": 2,
+    "hippodrome": "NANTES",
+    "libelle": "GRAND NATIONAL DU TROT"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 12
+    },
+    {
+      "rang": 2,
+      "numero": 8
+    },
+    {
+      "rang": 3,
+      "numero": 6
+    },
+    {
+      "rang": 4,
+      "numero": 3
+    },
+    {
+      "rang": 5,
+      "numero": 7
+    },
+    {
+      "rang": 6,
+      "numero": 11
+    },
+    {
+      "rang": 7,
+      "numero": 9
+    },
+    {
+      "rang": 8,
+      "numero": 5
+    },
+    {
+      "rang": 9,
+      "numero": 4
+    },
+    {
+      "rang": 10,
+      "numero": 2
+    }
+  ],
+  "predictions": {
+    "top5": [
+      12,
+      6,
+      8,
+      1,
+      7,
+      11
+    ],
+    "date_prediction": "2026-11-04"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 3,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 12,
+    "favori_arrive_rang": 1
+  }
+}
