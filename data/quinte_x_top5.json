@@ -65,35 +65,35 @@
       "rang_predit": 1
     },
     {
-      "numero": 15,
-      "nom": "Good To See You",
+      "numero": 5,
+      "nom": "A Beauregard",
       "artifice": null,
       "sexe": "HONGRES",
-      "age": 4,
+      "age": 5,
       "poids": null,
-      "jockey": "A.Crastus",
-      "musique": "2p1p0p4p1p3p3p2p5p4p",
+      "jockey": "D.Provost",
+      "musique": "2p0p1p7p7p0p6p0p6p",
       "vh": null,
-      "gains_eur": 27504,
-      "entraineur": "Mme A.Wattel",
-      "cote_pmu": 17.0,
+      "gains_eur": 103555,
+      "entraineur": "M.Cesandri (S)",
+      "cote_pmu": 10.0,
       "non_partant": false,
-      "musique_raw": "2p1p0p4p1p3p3p2p5p4p",
-      "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 2,
-      "nb_places_recentes": 7,
+      "musique_raw": "2p0p1p7p7p0p6p0p6p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
       "derniere_position": 2,
-      "position_moyenne": 2.5,
+      "position_moyenne": 3.22,
       "sous_scores": {
-        "cote": 0.0496,
-        "gains": 0.0917,
+        "cote": 0.0842,
+        "gains": 0.3454,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.7,
-        "pref_distance": 0.7,
+        "pref_terrain": 0.5556,
+        "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 27.2,
+      "score": 27.56,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -151,7 +151,7 @@
       "derniere_position": 0,
       "position_moyenne": 1.89,
       "sous_scores": {
-        "cote": 0.0527,
+        "cote": 0.0526,
         "gains": 0.4727,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -192,7 +192,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.29,
+      "score": 29.28,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -208,7 +208,7 @@
       "vh": null,
       "gains_eur": 65214,
       "entraineur": "D.Mele (S)",
-      "cote_pmu": 9.1,
+      "cote_pmu": 9.2,
       "non_partant": false,
       "musique_raw": "3p0p0p1p3p5p8p2p(25)5p",
       "nb_courses_recentes": 9,
@@ -217,7 +217,7 @@
       "derniere_position": 3,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0926,
+        "cote": 0.0915,
         "gains": 0.2175,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -225,7 +225,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.41,
+      "score": 29.35,
       "enrichi": false,
       "rang_predit": 3
     }
@@ -285,7 +285,7 @@
       "derniere_position": 0,
       "position_moyenne": 1.89,
       "sous_scores": {
-        "cote": 0.0527,
+        "cote": 0.0526,
         "gains": 0.4727,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -309,7 +309,7 @@
       "vh": null,
       "gains_eur": 65214,
       "entraineur": "D.Mele (S)",
-      "cote_pmu": 9.1,
+      "cote_pmu": 9.2,
       "non_partant": false,
       "musique_raw": "3p0p0p1p3p5p8p2p(25)5p",
       "nb_courses_recentes": 9,
@@ -318,7 +318,7 @@
       "derniere_position": 3,
       "position_moyenne": 3.0,
       "sous_scores": {
-        "cote": 0.0926,
+        "cote": 0.0915,
         "gains": 0.2175,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -326,7 +326,7 @@
         "pref_distance": 0.6667,
         "recuperation": 0.5
       },
-      "score": 29.41,
+      "score": 29.35,
       "enrichi": false,
       "rang_predit": 3
     },
@@ -359,7 +359,7 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 29.29,
+      "score": 29.28,
       "enrichi": false,
       "rang_predit": 4
     },
@@ -397,6 +397,39 @@
       "rang_predit": 5
     },
     {
+      "numero": 5,
+      "nom": "A Beauregard",
+      "artifice": null,
+      "sexe": "HONGRES",
+      "age": 5,
+      "poids": null,
+      "jockey": "D.Provost",
+      "musique": "2p0p1p7p7p0p6p0p6p",
+      "vh": null,
+      "gains_eur": 103555,
+      "entraineur": "M.Cesandri (S)",
+      "cote_pmu": 10.0,
+      "non_partant": false,
+      "musique_raw": "2p0p1p7p7p0p6p0p6p",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 5,
+      "derniere_position": 2,
+      "position_moyenne": 3.22,
+      "sous_scores": {
+        "cote": 0.0842,
+        "gains": 0.3454,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.5556,
+        "pref_distance": 0.5556,
+        "recuperation": 0.5
+      },
+      "score": 27.56,
+      "enrichi": false,
+      "rang_predit": 6
+    },
+    {
       "numero": 15,
       "nom": "Good To See You",
       "artifice": null,
@@ -417,7 +450,7 @@
       "derniere_position": 2,
       "position_moyenne": 2.5,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0495,
         "gains": 0.0917,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -426,39 +459,6 @@
         "recuperation": 0.5
       },
       "score": 27.2,
-      "enrichi": false,
-      "rang_predit": 6
-    },
-    {
-      "numero": 5,
-      "nom": "A Beauregard",
-      "artifice": null,
-      "sexe": "HONGRES",
-      "age": 5,
-      "poids": null,
-      "jockey": "D.Provost",
-      "musique": "2p0p1p7p7p0p6p0p6p",
-      "vh": null,
-      "gains_eur": 103555,
-      "entraineur": "M.Cesandri (S)",
-      "cote_pmu": 11.0,
-      "non_partant": false,
-      "musique_raw": "2p0p1p7p7p0p6p0p6p",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 5,
-      "derniere_position": 2,
-      "position_moyenne": 3.22,
-      "sous_scores": {
-        "cote": 0.0766,
-        "gains": 0.3454,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.5556,
-        "pref_distance": 0.5556,
-        "recuperation": 0.5
-      },
-      "score": 27.14,
       "enrichi": false,
       "rang_predit": 7
     },
@@ -474,7 +474,7 @@
       "vh": null,
       "gains_eur": 125853,
       "entraineur": "R.Avial Lopez",
-      "cote_pmu": 30.0,
+      "cote_pmu": 31.0,
       "non_partant": false,
       "musique_raw": "1p7p1p6p4p2p1p0p1p0p",
       "nb_courses_recentes": 10,
@@ -483,7 +483,7 @@
       "derniere_position": 1,
       "position_moyenne": 2.3,
       "sous_scores": {
-        "cote": 0.0281,
+        "cote": 0.0272,
         "gains": 0.4197,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -491,7 +491,7 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 27.0,
+      "score": 26.95,
       "enrichi": false,
       "rang_predit": 8
     },
@@ -507,7 +507,7 @@
       "vh": null,
       "gains_eur": 51724,
       "entraineur": "Mme E.Mader",
-      "cote_pmu": 15.0,
+      "cote_pmu": 16.0,
       "non_partant": false,
       "musique_raw": "2p4p3p3p2p2p4p4p4p",
       "nb_courses_recentes": 9,
@@ -516,7 +516,7 @@
       "derniere_position": 2,
       "position_moyenne": 3.11,
       "sous_scores": {
-        "cote": 0.0562,
+        "cote": 0.0526,
         "gains": 0.1725,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -524,7 +524,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 25.5,
+      "score": 25.3,
       "enrichi": false,
       "rang_predit": 9
     },
@@ -540,7 +540,7 @@
       "vh": null,
       "gains_eur": 35858,
       "entraineur": "D&P.Prod'Homme (S)",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "9p0p0p1p5p0p7p(25)0p8p",
       "nb_courses_recentes": 9,
@@ -549,7 +549,7 @@
       "derniere_position": 9,
       "position_moyenne": 3.33,
       "sous_scores": {
-        "cote": 0.0443,
+        "cote": 0.0421,
         "gains": 0.1196,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -557,7 +557,7 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 24.69,
+      "score": 24.56,
       "enrichi": false,
       "rang_predit": 10
     },
@@ -582,7 +582,7 @@
       "derniere_position": 0,
       "position_moyenne": 3.78,
       "sous_scores": {
-        "cote": 0.0496,
+        "cote": 0.0495,
         "gains": 0.3424,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -639,7 +639,7 @@
       "vh": null,
       "gains_eur": 85136,
       "entraineur": "P&J.Brandt (S)",
-      "cote_pmu": 8.8,
+      "cote_pmu": 8.7,
       "non_partant": false,
       "musique_raw": "6p5p1p5p7p0p7p6p(25)9p",
       "nb_courses_recentes": 9,
@@ -648,7 +648,7 @@
       "derniere_position": 6,
       "position_moyenne": 5.11,
       "sous_scores": {
-        "cote": 0.0957,
+        "cote": 0.0968,
         "gains": 0.2839,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -656,7 +656,7 @@
         "pref_distance": 0.2222,
         "recuperation": 0.5
       },
-      "score": 22.67,
+      "score": 22.73,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -705,7 +705,7 @@
       "vh": null,
       "gains_eur": 299839,
       "entraineur": "H.Ghabri",
-      "cote_pmu": 32.0,
+      "cote_pmu": 33.0,
       "non_partant": false,
       "musique_raw": "8p9p5p(25)5p1p8p9p(24)4p",
       "nb_courses_recentes": 8,
@@ -714,7 +714,7 @@
       "derniere_position": 8,
       "position_moyenne": 6.12,
       "sous_scores": {
-        "cote": 0.0263,
+        "cote": 0.0255,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -722,7 +722,7 @@
         "pref_distance": 0.125,
         "recuperation": 0.5
       },
-      "score": 19.45,
+      "score": 19.4,
       "enrichi": false,
       "rang_predit": 15
     }
