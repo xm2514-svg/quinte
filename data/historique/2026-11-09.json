@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-09",
+  "course": {
+    "reunion": 1,
+    "course": 2,
+    "hippodrome": "LE BOUSCAT",
+    "libelle": "GRAND PRIX DE L'HIPPODROME DU BOUSCAT"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 5
+    },
+    {
+      "rang": 2,
+      "numero": 6
+    },
+    {
+      "rang": 3,
+      "numero": 15
+    },
+    {
+      "rang": 4,
+      "numero": 13
+    },
+    {
+      "rang": 5,
+      "numero": 10
+    },
+    {
+      "rang": 6,
+      "numero": 12
+    },
+    {
+      "rang": 7,
+      "numero": 14
+    },
+    {
+      "rang": 8,
+      "numero": 7
+    },
+    {
+      "rang": 9,
+      "numero": 9
+    },
+    {
+      "rang": 10,
+      "numero": 2
+    },
+    {
+      "rang": 11,
+      "numero": 11
+    },
+    {
+      "rang": 12,
+      "numero": 8
+    },
+    {
+      "rang": 13,
+      "numero": 1
+    },
+    {
+      "rang": 14,
+      "numero": 4
+    }
+  ],
+  "predictions": {
+    "top5": [
+      6,
+      11,
+      10,
+      4,
+      5,
+      13
+    ],
+    "date_prediction": "2026-11-09"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 2,
+    "nb_top5_pred_dans_top5_reel": 4,
+    "favori_predit": 6,
+    "favori_arrive_rang": 2
+  }
+}
