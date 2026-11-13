@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-12",
+  "course": {
+    "reunion": 1,
+    "course": 1,
+    "hippodrome": "VINCENNES",
+    "libelle": "PRIX MARCEL LAURENT"
+  },
+  "arrivee": [
+    {
+      "rang": 1,
+      "numero": 2
+    },
+    {
+      "rang": 2,
+      "numero": 1
+    },
+    {
+      "rang": 3,
+      "numero": 13
+    },
+    {
+      "rang": 4,
+      "numero": 6
+    },
+    {
+      "rang": 5,
+      "numero": 12
+    },
+    {
+      "rang": 6,
+      "numero": 4
+    },
+    {
+      "rang": 7,
+      "numero": 8
+    },
+    {
+      "rang": 8,
+      "numero": 11
+    },
+    {
+      "rang": 9,
+      "numero": 7
+    },
+    {
+      "rang": 10,
+      "numero": 9
+    },
+    {
+      "rang": 11,
+      "numero": 14
+    },
+    {
+      "rang": 12,
+      "numero": 3
+    },
+    {
+      "rang": 13,
+      "numero": 15
+    },
+    {
+      "rang": 14,
+      "numero": 16
+    }
+  ],
+  "predictions": {
+    "top5": [
+      6,
+      2,
+      16,
+      8,
+      12,
+      9
+    ],
+    "date_prediction": "2026-11-12"
+  },
+  "metriques": {
+    "nb_top5_pred_dans_top3_reel": 1,
+    "nb_top5_pred_dans_top5_reel": 3,
+    "favori_predit": 6,
+    "favori_arrive_rang": 4
+  }
+}
