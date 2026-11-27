@@ -38,7 +38,7 @@
       "vh": null,
       "gains_eur": 132945,
       "entraineur": "W. Bigeon",
-      "cote_pmu": 9.4,
+      "cote_pmu": 8.2,
       "non_partant": false,
       "musique_raw": "Da3a0a9a3aDa1a4a0a6a",
       "nb_courses_recentes": 10,
@@ -47,7 +47,7 @@
       "derniere_position": 3,
       "position_moyenne": 3.25,
       "sous_scores": {
-        "cote": 0.0889,
+        "cote": 0.1027,
         "gains": 0.8084,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -55,42 +55,75 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.31,
+      "score": 29.07,
       "enrichi": false,
       "rang_predit": 4
     },
     {
-      "numero": 9,
-      "nom": "Jade De Navary",
+      "numero": 6,
+      "nom": "Kelly Gede",
       "artifice": null,
       "sexe": "FEMELLES",
-      "age": 7,
+      "age": 6,
       "poids": null,
-      "jockey": "A. Collette",
-      "musique": "0a0a0aDa8a8a2a2a0a5a",
+      "jockey": "D. Bonne",
+      "musique": "0aDm0a2a0a4a1aDa3a2a",
       "vh": null,
-      "gains_eur": 151670,
-      "entraineur": "P. Hachin",
-      "cote_pmu": 18.0,
+      "gains_eur": 141395,
+      "entraineur": "A. Pillon",
+      "cote_pmu": 41.0,
       "non_partant": false,
-      "musique_raw": "0a0a0aDa8a8a2a2a0a5a",
+      "musique_raw": "0aDm0a2a0a4a1aDa3a2a",
       "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 6,
+      "nb_victoires_recentes": 1,
+      "nb_places_recentes": 7,
       "derniere_position": 0,
-      "position_moyenne": 2.78,
+      "position_moyenne": 1.5,
       "sous_scores": {
-        "cote": 0.0464,
-        "gains": 0.9223,
+        "cote": 0.0205,
+        "gains": 0.8598,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
+        "pref_terrain": 0.7,
+        "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 27.92,
+      "score": 27.91,
       "enrichi": false,
       "rang_predit": 6
+    },
+    {
+      "numero": 5,
+      "nom": "Kaliakie Phedo",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 6,
+      "poids": null,
+      "jockey": "F. Lagadeuc",
+      "musique": "4a4a1aAa1a6a2a9a1aDa",
+      "vh": null,
+      "gains_eur": 140245,
+      "entraineur": "H. Touvais",
+      "cote_pmu": 5.9,
+      "non_partant": false,
+      "musique_raw": "4a4a1aAa1a6a2a9a1aDa",
+      "nb_courses_recentes": 10,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 4,
+      "derniere_position": 4,
+      "position_moyenne": 3.5,
+      "sous_scores": {
+        "cote": 0.1427,
+        "gains": 0.8528,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 29.81,
+      "enrichi": false,
+      "rang_predit": 2
     },
     {
       "numero": 11,
@@ -113,7 +146,7 @@
       "derniere_position": 0,
       "position_moyenne": 2.33,
       "sous_scores": {
-        "cote": 0.0889,
+        "cote": 0.0896,
         "gains": 0.9455,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -121,9 +154,9 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 29.61,
+      "score": 29.65,
       "enrichi": false,
-      "rang_predit": 2
+      "rang_predit": 3
     },
     {
       "numero": 1,
@@ -137,7 +170,7 @@
       "vh": null,
       "gains_eur": 119330,
       "entraineur": "R. Derieux",
-      "cote_pmu": 49.0,
+      "cote_pmu": 78.0,
       "non_partant": false,
       "musique_raw": "Da0a0a1a1a2a(25)9a3a1a",
       "nb_courses_recentes": 9,
@@ -145,48 +178,8 @@
       "nb_places_recentes": 7,
       "derniere_position": 0,
       "position_moyenne": 2.12,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": null,
-          "entraineur": null,
-          "proprietaire": null,
-          "eleveur": null,
-          "sexe": null,
-          "robe": null,
-          "naissance": null,
-          "discipline": null,
-          "pere": null,
-          "mere": null
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": null,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": null,
-          "musique": null,
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
       "sous_scores": {
-        "cote": 0.017,
+        "cote": 0.0108,
         "gains": 0.7257,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -194,40 +187,7 @@
         "pref_distance": 0.7778,
         "recuperation": 0.5
       },
-      "score": 28.56,
-      "enrichi": true,
-      "rang_predit": 3
-    },
-    {
-      "numero": 6,
-      "nom": "Kelly Gede",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 6,
-      "poids": null,
-      "jockey": "D. Bonne",
-      "musique": "0aDm0a2a0a4a1aDa3a2a",
-      "vh": null,
-      "gains_eur": 141395,
-      "entraineur": "A. Pillon",
-      "cote_pmu": 39.0,
-      "non_partant": false,
-      "musique_raw": "0aDm0a2a0a4a1aDa3a2a",
-      "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 1,
-      "nb_places_recentes": 7,
-      "derniere_position": 0,
-      "position_moyenne": 1.5,
-      "sous_scores": {
-        "cote": 0.0214,
-        "gains": 0.8598,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.7,
-        "pref_distance": 0.7,
-        "recuperation": 0.5
-      },
-      "score": 27.96,
+      "score": 28.22,
       "enrichi": false,
       "rang_predit": 5
     },
@@ -243,7 +203,7 @@
       "vh": null,
       "gains_eur": 148390,
       "entraineur": "J.M. Maillard",
-      "cote_pmu": 4.3,
+      "cote_pmu": 3.9,
       "non_partant": false,
       "musique_raw": "1a2a4a4a1a6a3a6a7a8a",
       "nb_courses_recentes": 10,
@@ -252,7 +212,7 @@
       "derniere_position": 1,
       "position_moyenne": 4.2,
       "sous_scores": {
-        "cote": 0.1943,
+        "cote": 0.2159,
         "gains": 0.9024,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -260,7 +220,7 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.79,
+      "score": 33.98,
       "enrichi": false,
       "rang_predit": 1
     }
@@ -278,7 +238,7 @@
       "vh": null,
       "gains_eur": 148390,
       "entraineur": "J.M. Maillard",
-      "cote_pmu": 4.3,
+      "cote_pmu": 3.9,
       "non_partant": false,
       "musique_raw": "1a2a4a4a1a6a3a6a7a8a",
       "nb_courses_recentes": 10,
@@ -287,7 +247,7 @@
       "derniere_position": 1,
       "position_moyenne": 4.2,
       "sous_scores": {
-        "cote": 0.1943,
+        "cote": 0.2159,
         "gains": 0.9024,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -295,9 +255,42 @@
         "pref_distance": 0.4,
         "recuperation": 0.5
       },
-      "score": 32.79,
+      "score": 33.98,
       "enrichi": false,
       "rang_predit": 1
+    },
+    {
+      "numero": 5,
+      "nom": "Kaliakie Phedo",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 6,
+      "poids": null,
+      "jockey": "F. Lagadeuc",
+      "musique": "4a4a1aAa1a6a2a9a1aDa",
+      "vh": null,
+      "gains_eur": 140245,
+      "entraineur": "H. Touvais",
+      "cote_pmu": 5.9,
+      "non_partant": false,
+      "musique_raw": "4a4a1aAa1a6a2a9a1aDa",
+      "nb_courses_recentes": 10,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 4,
+      "derniere_position": 4,
+      "position_moyenne": 3.5,
+      "sous_scores": {
+        "cote": 0.1427,
+        "gains": 0.8528,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 29.81,
+      "enrichi": false,
+      "rang_predit": 2
     },
     {
       "numero": 11,
@@ -320,7 +313,7 @@
       "derniere_position": 0,
       "position_moyenne": 2.33,
       "sous_scores": {
-        "cote": 0.0889,
+        "cote": 0.0896,
         "gains": 0.9455,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -328,81 +321,8 @@
         "pref_distance": 0.5556,
         "recuperation": 0.5
       },
-      "score": 29.61,
+      "score": 29.65,
       "enrichi": false,
-      "rang_predit": 2
-    },
-    {
-      "numero": 1,
-      "nom": "Jongleuse De Bry",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 7,
-      "poids": null,
-      "jockey": "M. Ionescu",
-      "musique": "Da0a0a1a1a2a(25)9a3a1a",
-      "vh": null,
-      "gains_eur": 119330,
-      "entraineur": "R. Derieux",
-      "cote_pmu": 49.0,
-      "non_partant": false,
-      "musique_raw": "Da0a0a1a1a2a(25)9a3a1a",
-      "nb_courses_recentes": 9,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 7,
-      "derniere_position": 0,
-      "position_moyenne": 2.12,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": null,
-          "entraineur": null,
-          "proprietaire": null,
-          "eleveur": null,
-          "sexe": null,
-          "robe": null,
-          "naissance": null,
-          "discipline": null,
-          "pere": null,
-          "mere": null
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": null,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": null,
-          "musique": null,
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
-      "sous_scores": {
-        "cote": 0.017,
-        "gains": 0.7257,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.7778,
-        "pref_distance": 0.7778,
-        "recuperation": 0.5
-      },
-      "score": 28.56,
-      "enrichi": true,
       "rang_predit": 3
     },
     {
@@ -417,7 +337,7 @@
       "vh": null,
       "gains_eur": 132945,
       "entraineur": "W. Bigeon",
-      "cote_pmu": 9.4,
+      "cote_pmu": 8.2,
       "non_partant": false,
       "musique_raw": "Da3a0a9a3aDa1a4a0a6a",
       "nb_courses_recentes": 10,
@@ -426,7 +346,7 @@
       "derniere_position": 3,
       "position_moyenne": 3.25,
       "sous_scores": {
-        "cote": 0.0889,
+        "cote": 0.1027,
         "gains": 0.8084,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -434,9 +354,42 @@
         "pref_distance": 0.5,
         "recuperation": 0.5
       },
-      "score": 28.31,
+      "score": 29.07,
       "enrichi": false,
       "rang_predit": 4
+    },
+    {
+      "numero": 1,
+      "nom": "Jongleuse De Bry",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 7,
+      "poids": null,
+      "jockey": "M. Ionescu",
+      "musique": "Da0a0a1a1a2a(25)9a3a1a",
+      "vh": null,
+      "gains_eur": 119330,
+      "entraineur": "R. Derieux",
+      "cote_pmu": 78.0,
+      "non_partant": false,
+      "musique_raw": "Da0a0a1a1a2a(25)9a3a1a",
+      "nb_courses_recentes": 9,
+      "nb_victoires_recentes": 3,
+      "nb_places_recentes": 7,
+      "derniere_position": 0,
+      "position_moyenne": 2.12,
+      "sous_scores": {
+        "cote": 0.0108,
+        "gains": 0.7257,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.7778,
+        "pref_distance": 0.7778,
+        "recuperation": 0.5
+      },
+      "score": 28.22,
+      "enrichi": false,
+      "rang_predit": 5
     },
     {
       "numero": 6,
@@ -450,7 +403,7 @@
       "vh": null,
       "gains_eur": 141395,
       "entraineur": "A. Pillon",
-      "cote_pmu": 39.0,
+      "cote_pmu": 41.0,
       "non_partant": false,
       "musique_raw": "0aDm0a2a0a4a1aDa3a2a",
       "nb_courses_recentes": 10,
@@ -459,7 +412,7 @@
       "derniere_position": 0,
       "position_moyenne": 1.5,
       "sous_scores": {
-        "cote": 0.0214,
+        "cote": 0.0205,
         "gains": 0.8598,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -467,40 +420,7 @@
         "pref_distance": 0.7,
         "recuperation": 0.5
       },
-      "score": 27.96,
-      "enrichi": false,
-      "rang_predit": 5
-    },
-    {
-      "numero": 9,
-      "nom": "Jade De Navary",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 7,
-      "poids": null,
-      "jockey": "A. Collette",
-      "musique": "0a0a0aDa8a8a2a2a0a5a",
-      "vh": null,
-      "gains_eur": 151670,
-      "entraineur": "P. Hachin",
-      "cote_pmu": 18.0,
-      "non_partant": false,
-      "musique_raw": "0a0a0aDa8a8a2a2a0a5a",
-      "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 0,
-      "nb_places_recentes": 6,
-      "derniere_position": 0,
-      "position_moyenne": 2.78,
-      "sous_scores": {
-        "cote": 0.0464,
-        "gains": 0.9223,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.6,
-        "pref_distance": 0.6,
-        "recuperation": 0.5
-      },
-      "score": 27.92,
+      "score": 27.91,
       "enrichi": false,
       "rang_predit": 6
     },
@@ -516,7 +436,7 @@
       "vh": null,
       "gains_eur": 155375,
       "entraineur": "E. Planchenault",
-      "cote_pmu": 10.0,
+      "cote_pmu": 11.0,
       "non_partant": false,
       "musique_raw": "1a6a5a7a5a3a1aDa(25)2a",
       "nb_courses_recentes": 9,
@@ -525,7 +445,7 @@
       "derniere_position": 1,
       "position_moyenne": 3.75,
       "sous_scores": {
-        "cote": 0.0835,
+        "cote": 0.0765,
         "gains": 0.9448,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -533,75 +453,42 @@
         "pref_distance": 0.4444,
         "recuperation": 0.5
       },
-      "score": 27.54,
+      "score": 27.16,
       "enrichi": false,
       "rang_predit": 7
     },
     {
-      "numero": 5,
-      "nom": "Kaliakie Phedo",
+      "numero": 9,
+      "nom": "Jade De Navary",
       "artifice": null,
       "sexe": "FEMELLES",
-      "age": 6,
+      "age": 7,
       "poids": null,
-      "jockey": "F. Lagadeuc",
-      "musique": "4a4a1aAa1a6a2a9a1aDa",
+      "jockey": "A. Collette",
+      "musique": "0a0a0aDa8a8a2a2a0a5a",
       "vh": null,
-      "gains_eur": 140245,
-      "entraineur": "H. Touvais",
-      "cote_pmu": 9.7,
-      "non_partant": false,
-      "musique_raw": "4a4a1aAa1a6a2a9a1aDa",
-      "nb_courses_recentes": 10,
-      "nb_victoires_recentes": 3,
-      "nb_places_recentes": 4,
-      "derniere_position": 4,
-      "position_moyenne": 3.5,
-      "sous_scores": {
-        "cote": 0.0861,
-        "gains": 0.8528,
-        "couple_je": 0.5,
-        "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
-        "recuperation": 0.5
-      },
-      "score": 26.7,
-      "enrichi": false,
-      "rang_predit": 8
-    },
-    {
-      "numero": 2,
-      "nom": "Kiss Me De Navary",
-      "artifice": null,
-      "sexe": "FEMELLES",
-      "age": 6,
-      "poids": null,
-      "jockey": "F. Nivard",
-      "musique": "3a0a3a8aDaDa2a4a7aDa",
-      "vh": null,
-      "gains_eur": 131255,
+      "gains_eur": 151670,
       "entraineur": "P. Hachin",
-      "cote_pmu": 15.0,
+      "cote_pmu": 50.0,
       "non_partant": false,
-      "musique_raw": "3a0a3a8aDaDa2a4a7aDa",
+      "musique_raw": "0a0a0aDa8a8a2a2a0a5a",
       "nb_courses_recentes": 10,
       "nb_victoires_recentes": 0,
-      "nb_places_recentes": 4,
-      "derniere_position": 3,
-      "position_moyenne": 3.86,
+      "nb_places_recentes": 6,
+      "derniere_position": 0,
+      "position_moyenne": 2.78,
       "sous_scores": {
-        "cote": 0.0557,
-        "gains": 0.7982,
+        "cote": 0.0168,
+        "gains": 0.9223,
         "couple_je": 0.5,
         "hippodrome": 0.5,
-        "pref_terrain": 0.4,
-        "pref_distance": 0.4,
+        "pref_terrain": 0.6,
+        "pref_distance": 0.6,
         "recuperation": 0.5
       },
-      "score": 24.86,
+      "score": 26.29,
       "enrichi": false,
-      "rang_predit": 9
+      "rang_predit": 8
     },
     {
       "numero": 7,
@@ -615,7 +502,7 @@
       "vh": null,
       "gains_eur": 144610,
       "entraineur": "L.Cl. Abrivard",
-      "cote_pmu": 11.0,
+      "cote_pmu": 13.0,
       "non_partant": false,
       "musique_raw": "Da6aDa3a4aDa0a3aDa7a",
       "nb_courses_recentes": 10,
@@ -624,7 +511,7 @@
       "derniere_position": 6,
       "position_moyenne": 3.83,
       "sous_scores": {
-        "cote": 0.0759,
+        "cote": 0.0648,
         "gains": 0.8794,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -632,9 +519,9 @@
         "pref_distance": 0.3,
         "recuperation": 0.5
       },
-      "score": 24.62,
+      "score": 24.0,
       "enrichi": false,
-      "rang_predit": 10
+      "rang_predit": 9
     },
     {
       "numero": 12,
@@ -648,7 +535,7 @@
       "vh": null,
       "gains_eur": 156075,
       "entraineur": "Cl. Thomain",
-      "cote_pmu": 12.0,
+      "cote_pmu": 14.0,
       "non_partant": false,
       "musique_raw": "5a7aDa1a5a2a4a7aDa1a",
       "nb_courses_recentes": 10,
@@ -657,7 +544,7 @@
       "derniere_position": 5,
       "position_moyenne": 4.0,
       "sous_scores": {
-        "cote": 0.0696,
+        "cote": 0.0601,
         "gains": 0.9491,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -665,9 +552,9 @@
         "pref_distance": 0.3,
         "recuperation": 0.5
       },
-      "score": 24.48,
+      "score": 23.95,
       "enrichi": false,
-      "rang_predit": 11
+      "rang_predit": 10
     },
     {
       "numero": 14,
@@ -681,7 +568,7 @@
       "vh": null,
       "gains_eur": 164445,
       "entraineur": "P.Y. Rochard",
-      "cote_pmu": 11.0,
+      "cote_pmu": 10.0,
       "non_partant": false,
       "musique_raw": "7a0a6a7a5a0a7a4a7a7a",
       "nb_courses_recentes": 10,
@@ -689,48 +576,8 @@
       "nb_places_recentes": 2,
       "derniere_position": 7,
       "position_moyenne": 5.0,
-      "fiche_enrichie": {
-        "numero": null,
-        "nom": null,
-        "carte_identite": {
-          "jockey": null,
-          "entraineur": null,
-          "proprietaire": null,
-          "eleveur": null,
-          "sexe": null,
-          "robe": null,
-          "naissance": null,
-          "discipline": null,
-          "pere": null,
-          "mere": null
-        },
-        "course_actuelle": {
-          "hippodrome": null,
-          "nb_partants": null,
-          "allocation_eur": null,
-          "distance_m": null,
-          "vh": null
-        },
-        "cote_live_fiche": null,
-        "stats_couples": {
-          "avec_jockey": null,
-          "avec_entraineur": null,
-          "sur_hippodrome": null
-        },
-        "performances_globales": {
-          "gains_eur": null,
-          "musique": null,
-          "carriere": null
-        },
-        "dernieres_courses": [],
-        "derives": {
-          "preference_terrain": null,
-          "preference_distance": null,
-          "jours_depuis_derniere_course": null
-        }
-      },
       "sous_scores": {
-        "cote": 0.0759,
+        "cote": 0.0842,
         "gains": 1.0,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -738,8 +585,41 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 23.38,
-      "enrichi": true,
+      "score": 23.83,
+      "enrichi": false,
+      "rang_predit": 11
+    },
+    {
+      "numero": 2,
+      "nom": "Kiss Me De Navary",
+      "artifice": null,
+      "sexe": "FEMELLES",
+      "age": 6,
+      "poids": null,
+      "jockey": "F. Nivard",
+      "musique": "3a0a3a8aDaDa2a4a7aDa",
+      "vh": null,
+      "gains_eur": 131255,
+      "entraineur": "P. Hachin",
+      "cote_pmu": 24.0,
+      "non_partant": false,
+      "musique_raw": "3a0a3a8aDaDa2a4a7aDa",
+      "nb_courses_recentes": 10,
+      "nb_victoires_recentes": 0,
+      "nb_places_recentes": 4,
+      "derniere_position": 3,
+      "position_moyenne": 3.86,
+      "sous_scores": {
+        "cote": 0.0351,
+        "gains": 0.7982,
+        "couple_je": 0.5,
+        "hippodrome": 0.5,
+        "pref_terrain": 0.4,
+        "pref_distance": 0.4,
+        "recuperation": 0.5
+      },
+      "score": 23.72,
+      "enrichi": false,
       "rang_predit": 12
     },
     {
@@ -754,7 +634,7 @@
       "vh": null,
       "gains_eur": 156935,
       "entraineur": "E. Szirmay",
-      "cote_pmu": 16.0,
+      "cote_pmu": 22.0,
       "non_partant": false,
       "musique_raw": "9a6a5a1a9a8a1aDa6a5a",
       "nb_courses_recentes": 10,
@@ -763,7 +643,7 @@
       "derniere_position": 9,
       "position_moyenne": 5.56,
       "sous_scores": {
-        "cote": 0.0522,
+        "cote": 0.0383,
         "gains": 0.9543,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -771,7 +651,7 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 21.93,
+      "score": 21.17,
       "enrichi": false,
       "rang_predit": 13
     },
@@ -787,7 +667,7 @@
       "vh": null,
       "gains_eur": 131995,
       "entraineur": "M. Dupuis",
-      "cote_pmu": 19.0,
+      "cote_pmu": 20.0,
       "non_partant": false,
       "musique_raw": "2a8a7a1a5aDa9a7aDaDm",
       "nb_courses_recentes": 10,
@@ -796,7 +676,7 @@
       "derniere_position": 2,
       "position_moyenne": 5.57,
       "sous_scores": {
-        "cote": 0.044,
+        "cote": 0.0421,
         "gains": 0.8027,
         "couple_je": 0.5,
         "hippodrome": 0.5,
@@ -804,12 +684,12 @@
         "pref_distance": 0.2,
         "recuperation": 0.5
       },
-      "score": 21.03,
+      "score": 20.92,
       "enrichi": false,
       "rang_predit": 14
     }
   ],
-  "nb_enrichis": 2,
+  "nb_enrichis": 0,
   "nb_partants": 14,
   "cotes_dispo": 14
 }
